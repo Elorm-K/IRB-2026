@@ -51,81 +51,19 @@ Governing document: `inputs/grant/FINAL NSF_CAREER_25_Nelson.pdf`. One row per p
 
 ## 3. Current institutional requirements
 
-**Fetched and verified 2026-07-28** from UMaine ORC primary sources. Quotes are exact.
+**Moved.** Institutional rules now live one file per institution under
+`institutions/`, because a study can involve more than one reviewing board and because this
+knowledge base is about *this program's* protocols while those files are about a *board's
+published requirements*.
 
-Sources: [Human Subjects](https://umaine.edu/research-compliance/human-subjects/) · [IRB Application Instructions](https://umaine.edu/research-compliance/resource/irb-application-instructions/) · [Forms, Instructions, Samples](https://umaine.edu/research-compliance/human-subjects/forms/) · [Informed Consent Checklist](https://umaine.edu/research-compliance/resource/informed-consent-checklist/) · [Sample Consent — Interview](https://umaine.edu/research-compliance/resource/sample-consent-interview-18-years-old/) · [Modification Request](https://umaine.edu/research-compliance/human-subjects/request-modification-previously-approved-study/) · [IRB Policy, Aug 2025](https://umaine.edu/research-compliance/wp-content/uploads/sites/445/2025/08/UMaine-IRB-Policy_August-2025.pdf) · [Exemption Categories](https://umaine.edu/research-compliance/human-subjects/exemption-categories/) · [Tips to Speed Up Approval](https://umaine.edu/research-compliance/human-subjects/tips-to-speed-up-institutional-review-board-irb-approval/)
+- UMaine: `institutions/umaine.md` (fetched and verified 2026-07-28, all quotes and sources
+  preserved from the version that lived here)
+- How to build one for another institution: `institution-research.md`
+- What consumes them: `compliance-check.md`, run as Phase 4 Pass 4
 
-### Submission mechanics (hard gates — non-compliance means the application is returned)
-
-- Two attachments to umric@maine.edu: the **cover page as a separate Word document**, and the narrative (items 1–9) **plus all appendices as ONE Word document**.
-- **"Submit as WORD DOCUMENT (not a PDF)."** Stated three times across the instructions.
-- **"Page number entire document."**
-- **"Please read and follow instructions; incomplete applications will be returned."**
-- Nine major headings required, in order: Funding, Summary, Personnel, Participant recruitment, Informed consent, Confidentiality, Risks to participants, Benefits, Compensation. Do not include the instruction text.
-- Title **must match the grant title** if funded.
-- **"Include the years of human subjects research experience for ALL personnel listed; if none, say 0 years."** A prose experience line without a number does not satisfy this.
-- Consent forms: **"THE SAMPLE FORMAT, WITH HEADINGS, MUST BE FOLLOWED OR THE APPLICATION WILL BE RETURNED."**
-- Consent forms **"should be written no higher than an 8th grade reading level."**
-
-### Consent form structure — the sample's actual heading order
-
-Title → unheaded intro paragraph ("You are invited to participate in a research project being conducted by…", purpose, age statement) → **What Will You Be Asked to Do?** → **Risks** → **Benefits** → **Compensation** → **Confidentiality** → **Voluntary** → **Contact Information** → **Consent Statement**.
-
-Note **Compensation precedes Confidentiality** in the UMaine sample. Prior YES Lab approved forms put Confidentiality first; the sample does not.
-
-Closing block in the sample is Printed Name / Signature / Date, with "Signature (signature not required for exempt studies)" — **not** a checkbox. **"The investigator should not sign the consent form – doing so gives the appearance of a contract."**
-
-### Concise summary — required for this program
-
-**"With the Revised Common Rule that went in effect in January 2019, studies with longer consent forms (more than 1 page) or federally funded studies a concise summary is required."**
-
-CAREER-funded protocols meet **both** triggers. Five required elements: a statement that the project is research and is voluntary; a summary of the research (purpose, overview of procedures); foreseeable risks or discomforts; expected benefits to participants if applicable; alternative procedures if applicable. It should include why someone **may not** want to participate (e.g. a large time commitment). A [Sample Concise Summary](https://umaine.edu/research-compliance/resource/sample-concise-summary/) template exists.
-
-### Confidentiality section — the board wants vendors NAMED here
-
-This **overrides** the general de-naming rule in `board-rules.md` §5 for Section 6 and for the consent forms' data-handling text. The instructions require:
-
-- **"If data collection will occur online, state the program that will be used (e.g., Qualtrics, Skype, etc.)"**
-- **"state whether IP addresses will be collected (preferable that they are not collected!)"**
-- **"If you are using Zoom to record, the recordings should be deleted off Zoom within 72 hours (or similar)"**
-- **"state whether a transcription service will be used or if named investigator(s) will transcribe"**
-- **"state whether the key is paper or electronic"**; if electronic, **"it must be encrypted"**
-- **"Recordings should generally be destroyed once transcription is complete, and you should state the month and year this will occur."**
-- **"Assurance must be provided that all identifiable data will be secured under conditions that limit their access to the investigator(s) only."**
-- Use dates (month/year) for destroying keys and data — **"Do not simply say 'upon completion'"**. If you say indefinitely you may destroy any time; **"but if you give an actual date, you must adhere to it!"**
-
-De-naming still applies to the narrative Methods/Summary body, where the vendor is incidental.
-
-### Review categories and timing
-
-- **"The IRB shall make the final decision on whether research is exempt from further review or meets the requirements for an expedited review."** Investigators cannot self-determine exemption.
-- Expedited: **"typically the initial review occurs in ten business days (this does not mean you will have approval in 10 days)"**.
-- Full board: **"If your study involves sensitive topics, protected populations, and/or more than minimal risk… the application is due by the first Friday of the month for inclusion on the agenda for that month."**
-- Continuing review at least annually unless the IRB determines otherwise.
-- **Exempt Category 1** covers research in **"established or commonly accepted educational settings"** involving **"normal educational practices"**, including **"research on the effectiveness of or the comparison among instructional techniques, curricula, or classroom management methods."**
-- **Exempt Category 2** covers survey/interview/observation research where, among other options, **(ii)** disclosure **"would not reasonably place the subjects at risk of… employability, educational advancement, or reputation"**, or **(iii)** identifiable data with a **limited IRB review**. A protocol that asserts professional-reputation risk from disclosure cannot rely on 2(ii) and must go to 2(iii) or higher.
-- Vulnerable/undue-influence populations the instructions require you to name and justify explicitly include **"students and employees of the University."** Both instructors and students in this program fall here.
-
-### Modifications — the rule that governs staging decisions
-
-**A modification that changes two or more of {study population, study procedures, study purpose} "becomes a new study"** and requires a new application, not a modification. Modification mechanics: edit **all** applicable sections of the approved application in a different font colour or track changes, submit as one Word document, and email umric@maine.edu referencing the approved title and number.
-
-**Consequence:** adding a student/classroom arm to an approved instructor-only protocol changes population **and** procedures — two criteria — so it cannot enter as a modification. Staging costs two full applications, not one plus an amendment.
-
-### Compensation
-
-- Gift cards: state the dollar value and the vendor.
-- State how compensation is handled if a participant withdraws.
-- Extra credit: the instructor **must** offer other ways to earn it, and **"if a study involves several classes with different instructors, all must agree."**
-- **Over $75 in value** triggers required tax-reporting language in the consent form (HR for UMaine employees, Purchasing for non-employees, Form 1099 at $600+ cumulative per calendar year). Cumulative payments across repeated interviews can cross this.
-
-### Templates to use rather than author
-
-Cover page, Informed Consent Checklist, sample consents (anonymous survey / confidential survey / focus group / interview), parental consent and assent samples, **Concise Summary**, **Site Approval Template**, sample recruitment templates, referral handout template.
-
-### Correction
-
-An automated page summary produced during this research asserted the policy says a single protocol may cover "multiple participant populations or study arms" given "coherent scientific objectives and unified ethical oversight." **That sentence does not appear in the UMaine policy** — verified against the extracted PDF text. Do not cite it. The correct basis for combining populations is that nothing in the rules forbids it and the instructions contemplate it ("consent form(s)", "The Methods section will vary in length depending on how many components are in your study", and a single Participant recruitment section that asks you to name every group represented).
+Refresh an institution file if it is more than a semester old or the institution announces a
+process change. UMaine has one such announcement outstanding — see `institutions/umaine.md`
+§13.
 
 ## 4. Board behavior log
 

@@ -1,8 +1,20 @@
 # Verification protocol (Phase 4)
 
-Three passes. Each produces findings; iterate on the draft until a pass returns nothing
+Four passes. Each produces findings; iterate on the draft until a pass returns nothing
 material. Then compile the findings into a short report and hand it over **with** the
 draft — its purpose is to tell the PI which parts they don't need to re-check.
+
+The passes check different things and none substitutes for another:
+
+| Pass | Checks the draft against | Lives in |
+|---|---|---|
+| 1 | the base document it was built from | here |
+| 2 | the governing document (grant, brief, proposal) | here |
+| 3 | itself | here |
+| 4 | the reviewing institution's published rules | `compliance-check.md` |
+
+Pass 4 is the one that was missing. Passes 1–3 assume institutional conformance comes from
+starting from an approved base, which holds only for content the base already contained.
 
 For document-vs-document work, prefer a tool that grounds answers in the documents
 themselves (NotebookLM-style) over plain chat, which drifts on long comparisons.
@@ -65,6 +77,32 @@ pre-registration, or the in-session brief captured in Phase 0. Additionally:
       by inference. An informal brief is thinner than a grant, so the temptation to fill
       gaps is higher and the cost of guessing is the same.
 
+### Output shape
+
+Do not deliver Pass 2 as prose. This structure came out of
+`irb2-instructor-collaboration/reports/IRB2_GapAnalysis_vs_CAREER_grant.md` and is the
+format that let the PI act on 30+ findings without re-reading the grant:
+
+1. **Documents compared**, by path and version, and **what could not be verified**, stated
+   up front rather than buried. A finding derived from an inaccessible source is labelled
+   as inferred, not asserted.
+2. **What's left out** — a table: item · where in the governing doc *and* where in the draft
+   (quote both) · issue · recommendation.
+3. **Missing research detail** — same table shape. Things that are in scope and present but
+   under-specified: burdens without durations, data types with no consent, populations with
+   no total N.
+4. **Too much detail** — same shape. Over-specification is a commitment you can violate, so
+   this section is not cosmetic.
+5. **Also check** — a short run of targeted questions this particular protocol raises
+   (is the defined term used consistently? is scope drawn where the title claims? is there
+   one consent form per distinct activity, and does consent come first?).
+6. **What was verified as *not* dropped** — and if there were no KEEP markers to check
+   against, say that explicitly instead of implying a clean check.
+7. **Top N to fix before submitting**, ranked, each with the specific locations to edit.
+
+Quote the governing document rather than summarizing it. A recommendation that quotes the
+grant clause it comes from survives disagreement; a paraphrase gets argued with.
+
 ## Pass 3 — Internal consistency
 
 Repeated facts must be identical everywhere they appear — protocol body, each consent
@@ -89,6 +127,31 @@ Also:
       commitments.
 - [ ] `[PI DECISION NEEDED]` markers are all still present and collected in the summary
       (none silently resolved by the AI).
+- [ ] Standalone attachment files (consent forms, recruitment texts) agree with the
+      protocol's own appendices. Generate them from the same source parts and verify
+      identical after normalization — do not hand-edit both. A standalone consent file once
+      sat two versions behind the appendix it duplicated, still carrying the old protocol
+      title and a live decision marker.
+
+## Pass 4 — Institutional compliance
+
+The full checklist is `compliance-check.md`. In brief: the **assembled package** — protocol,
+every appendix, every standalone file that will actually be attached — against
+`institutions/<slug>.md` for the board recorded in Phase 0.
+
+- [ ] The institution file exists and is less than a semester old. If not, build or refresh
+      it with `institution-research.md` **before** running the pass. Never check against
+      remembered requirements.
+- [ ] Sections A–I of `compliance-check.md` run, and any section skipped is named with a
+      reason.
+- [ ] Every `VIOLATION` carries an exact quote of the rule and a traceable URL. An
+      unsourceable finding is `UNVERIFIED`, not a violation.
+- [ ] Hard gates (§A, §B) separated from everything else — those are the ones that get an
+      application returned unread.
+- [ ] Nothing was edited. This pass reports; the PI decides.
+
+Where more than one board reviews the study, run the pass once per board against the
+documents that board will see.
 
 ## What not to check
 
@@ -111,7 +174,9 @@ Keep it to one page:
 ## Verification report — [protocol name], [date]
 
 Governing source: [grant / brief / proposal — file, version/date; or "none, brief attached"]
+Reviewing IRB(s): [institution(s); rules file + fetch date]
 Base protocol: [file, version/date, how confirmed; or "none — drafted fresh"]
+Package checked: [every file that will be attached, by name]
 Other inputs: [files]
 
 ### Alignment vs. base
@@ -128,6 +193,13 @@ Other inputs: [files]
 ### Consistency
 - Facts checked: [n]; discrepancies found and fixed: [n]
 - Remaining known discrepancies: [list, or none]
+
+### Compliance (vs. [institution], rules fetched [date])
+- Hard gates: [n] checked, [n] violations   ← any violation here blocks submission
+- Blocking findings: [list, each with the rule quoted]
+- Non-blocking findings: [list]
+- Unverified: [list — rule not found, or conformance not confirmable]
+- Nothing in this pass was edited; fixes await PI instruction
 
 ### PI decisions needed
 1. ...

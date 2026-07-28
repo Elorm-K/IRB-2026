@@ -21,6 +21,12 @@ Provenance tags: (GN 2026-07-27) = advisor meeting transcript, 2026-07-27.
 4. Compensation
 5. Keep / cut catalog
 6. Known board tendencies
+7. Calibration from the approved GenAI protocol
+
+**The institution's own published rules are not here.** They live in
+`institutions/<slug>.md` — for UMaine, `institutions/umaine.md`. This file is what the board
+has *done*; that file is what the institution has *written*, plus the conflicts between the
+two. Phase 4 Pass 4 (`compliance-check.md`) checks against that file, not this one.
 
 ---
 
@@ -73,7 +79,10 @@ Provenance tags: (GN 2026-07-27) = advisor meeting transcript, 2026-07-27.
 
 Must be plausible payment for the burden requested. Reference points:
 
-- 60-minute interview: **$10 is too low; ~$25 is the floor** (GN 2026-07-27).
+- 60-minute interview: **$10 is too low; ~$25 is the floor** (GN 2026-07-27). A floor, not a
+  norm — the board has approved $30 per interview plus a retention bonus for students. See
+  `institutions/umaine.md` §7 for the approved amounts, the worked-total pattern, and the
+  tax-reporting thresholds.
 - Delivered as gift cards.
 
 Compensation amounts are a PI decision — flag rather than set them, but flag loudly when
@@ -86,7 +95,11 @@ Concrete calls made on real drafts. Extend this list as more are made.
 ### Cut
 
 - Fixed durations that reality may vary ("10 weeks" → semester-aligned language).
-- Named vendors and tools (Google Drive, Zoom) → property descriptions.
+- Named vendors and tools (Google Drive, Zoom) → property descriptions. **Narrative
+  Summary/Methods body only.** The institution's instructions *require* vendors named in the
+  Confidentiality section and in consent-form data-handling text, and the board has approved
+  forms that name them — see `institutions/umaine.md` §6. De-naming there is a violation, not
+  a simplification.
 - Per-meeting agendas and step-by-step activity breakdowns → "complete an icebreaker,"
   then group self-direction.
 - Course, enrollment, and graduation language in out-of-class protocols.
@@ -129,45 +142,23 @@ Concrete calls made on real drafts. Extend this list as more are made.
 
 ## 7. Calibration from the approved GenAI protocol (added 2026-07-28)
 
-Source: `inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — "Learning with Generative AI in introductory college courses." Board-approved through **January 2026**, the most recent approved consent forms in the program. **This is now the highest-weight consent template**, ahead of the course protocol's Appendix P and ahead of IRB #1's drafts. All items below are *board-wide* unless marked.
+Source: `../inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — "Learning with Generative AI in introductory college courses." Board-approved through **January 2026**, the most recent approved consent forms in the program. **This is the highest-weight consent template**, ahead of the course protocol's Appendix P and ahead of IRB #1's drafts.
 
-### Approved consent-form heading order — differs from the public UMaine sample
+**The board-wide items from this calibration have moved to `institutions/umaine.md`**, where
+they sit next to the published UMaine rule each one conflicts with, so the conflict is
+visible rather than implied:
 
-Approved in-program order: title → Researchers → unheaded intro paragraph → **What Will You Be Asked to Do?** → **Risks** → **Benefits** → **Confidentiality** → **Compensation** → **Voluntary** → **Contact Information** → affirmation block.
+| Item | Now in |
+|---|---|
+| Approved consent heading order (Confidentiality before Compensation) vs. the public sample | `institutions/umaine.md` §4 |
+| Approved affirmation block — checkbox plus email, not Printed Name / Signature / Date | §4 |
+| Concise summary — required on paper, never yet used in this program | §5 |
+| Sample interview questions — topical description accepted in place of examples | §5 |
+| Vendors **are** named in approved Confidentiality sections | §6 |
+| Approved recording retention — 5 years, tied to the key file | §6 |
+| Approved interview compensation — $30 plus a retention bonus, with worked totals | §7 |
 
-The public [sample](https://umaine.edu/research-compliance/resource/sample-consent-interview-18-years-old/) puts **Compensation before Confidentiality**. The board has repeatedly approved the reverse. **Follow the approved order**; the sample's ordering is not enforced.
-
-### Approved affirmation block — checkbox, not signature
-
-> "Your choice below indicates that you have read the above information and agree to participate. You will receive a copy of this form."
-> ☐ I consent to being part of this study
-> _____ Email
-
-The public sample shows Printed Name / Signature / Date. The board approves the checkbox-plus-email form for electronic consent. Use the approved form.
-
-### Concise summary — required on paper, never yet used in this program
-
-**Zero** approved forms in the program contain one, including January 2026. But every prior protocol is unfunded (*"N/A (faculty startup funds)"*), and the [checklist](https://umaine.edu/research-compliance/resource/informed-consent-checklist/) trigger is *">1 page **or** federally funded."* A CAREER-funded protocol is the first to hit the funded trigger. **Include one** — cheap insurance — but do not tell the PI the application will be returned without it; there is no in-program evidence the board enforces it.
-
-### Vendors ARE named in approved Confidentiality sections
-
-Approved forms name Google Drive, Google Forms, Google Firebase, and Zoom, and describe encryption as a property alongside them. This confirms the instructions' requirement and **overrides `board-rules.md` §5's de-naming rule for Section 6 and for consent-form data-handling text**. De-name only in the narrative Summary/Methods body.
-
-### Approved recording retention — 5 years, tied to the key file
-
-> "The archived data will be retained indefinitely, except for the original audio recordings which will be deleted at the same time as when your email address is deleted from the key file 5 years after your participation in the course."
-
-The application instructions suggest destroying recordings once transcription is complete. The board has approved the 5-year form instead. **Use the approved 5-year language.**
-
-### Approved interview compensation is higher than the previously recorded floor
-
-> "For each interview, you will be compensated with a $30 Amazon gift card… If you participate in at least four interviews during the semester, you will receive a one-time bonus additional $40 Amazon gift card… if three interviews… $90 in total; if four interviews, $160."
-
-So $30/interview plus a retention bonus is approved for **students**. §4's "~$25 is the floor" stands as a floor, not a norm. Compensation sections in approved forms carry **worked totals** ("that would be $90 in total") — reproduce that pattern.
-
-### Sample interview questions are NOT in approved interview consents
-
-The checklist asks for *"examples of a couple of interview questions."* Approved forms instead give a topical description ("interviews about your learning and experience in the class, including related to generative AI"). Either satisfies the board; a topical description plus one or two examples covers both.
+What stays here is the program-specific finding:
 
 ### What this protocol does and does not cover **[program-specific]**
 

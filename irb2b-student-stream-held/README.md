@@ -1,44 +1,54 @@
-# IRB #2b — student stream, held on purpose
+# IRB #2b — student stream: SUPERSEDED, merged into IRB #2 v5 (2026-07-28)
 
-`IRB2_HELD_FOR_MODIFICATION_StudentStream_v4.docx` is **drafted, revised, and
-submission-ready — and deliberately not submitted.**
+**This folder is no longer active.** The student stream was merged back into IRB #2 as a
+single protocol. The held draft is archived at
+[../irb2-instructor-collaboration/archive/IRB2_StudentStream_HELD_v4_MERGED-INTO-v5_2026-07-28.docx](../irb2-instructor-collaboration/archive/IRB2_StudentStream_HELD_v4_MERGED-INTO-v5_2026-07-28.docx).
 
-## Why it's held
+The live submission set is
+[../irb2-instructor-collaboration/CURRENT/](../irb2-instructor-collaboration/CURRENT/) —
+`IRB2_Protocol_v5_MERGED_SUBMISSION.docx` plus `IRB2_CoverPage_v5.docx`.
 
-IRB #2 covers instructor-facing research (surveys, interviews, co-design workshops,
-consultations). This file holds everything student-facing that was cut out of it:
-reflection groups deployed in collaborating instructors' courses, comparison courses,
-student co-design and retrospectives, and external sites.
+## Why the split was reversed
 
-It was split off for cycle time. IRB #2 is blocking fall 2026 co-design workshops; adding
-the classroom-deployment arm makes the protocol large enough to slow approval for everyone.
-Two fast approvals beat one slow one. The independent audit reached the same split line
-independently.
+The split assumed the student stream could later be added by **modification**. Checking
+UMaine's actual rules showed it cannot. Per the
+[modification request instructions](https://umaine.edu/research-compliance/human-subjects/request-modification-previously-approved-study/),
+a modification that changes **two or more** of {study population, study procedures, study
+purpose} *"becomes a new study."* Adding the student arm changes population **and**
+procedures — two criteria — so it would have required a second full application, not an
+amendment.
 
-## When to submit it
+That removed the load-bearing reason for splitting. Staging would have cost two full
+applications instead of one, with no offsetting benefit:
 
-After **both**:
+- Nothing in UMaine's rules requires separate protocols per population. The application
+  instructions contemplate the opposite — *"consent form(s)"*, *"The Methods section will
+  vary in length depending on how many components are in your study"*, and a single
+  Participant recruitment section that asks you to name every group represented.
+- The board has already approved reflection groups in courses under the team's course
+  protocol, so the student arm is not novel to this reviewer.
+- Both arms involve populations the instructions flag as vulnerable to undue influence
+  (*"students and employees of the University"*), so combining does not obviously change
+  the review category.
 
-1. IRB #2 clears the board, and
-2. the first co-design cycle has actually fixed the classroom design — the grant's method
-   is for instructors to co-design the deployment, so committing to specifics now would
-   foreclose it.
+## What carried over
 
-Then this goes in as a modification to #2, or as a separate protocol. It is backlog item
-**2b**.
+Everything in the held draft is in v5, at the general level the co-design method requires:
+classroom use (§2 item 7), student consent (item 8), surveys (9), reflection materials
+(10), longitudinal follow-up (11), student and alumni interviews (12), student design input
+and group remedies (13), comparison courses (14), external sites (15), and data types
+1.5–1.10. Appendices C, D, E, K, L, M, N, O, and P are the student-facing materials.
 
-## Before submitting, resolve
+The open decisions this README used to list are all still carried in v5 as
+`{your input needed here}` markers — including the Dufour dual-role conflict, which was
+briefly dropped during the merge and restored. See the
+[v5 verification report](../irb2-instructor-collaboration/reports/IRB2_v5_VERIFICATION_REPORT.md).
 
-The file states at its top what it holds and why. Open decisions carried in it, per the
-[verification report](../irb2-instructor-collaboration/reports/IRB2_v4_VERIFICATION_REPORT.md):
+## If you want the split back
 
-- mid-semester course withdrawal handling
-- total expected student N
-- the four critical/ethical GenAI self-efficacy items
-- whether to include the wider Year-1 measure set
-- the adapted icebreaker question list
-- the Dufour dual-role conflict (§4 excludes team-taught courses, but the grant names his
-  seminar as a deployment site — three resolutions are laid out in the file)
-
-Edit it via [../irb2-instructor-collaboration/source/held_v4.md](../irb2-instructor-collaboration/source/held_v4.md),
-which is where it is generated from, not by editing the `.docx`.
+The staged approach is still defensible on cycle-time grounds alone — the instructor arm
+is smaller and the fall 2026 workshops are the thing on the critical path. Regenerate the
+narrow version from
+[../irb2-instructor-collaboration/source/p2/](../irb2-instructor-collaboration/source/p2/)
+by dropping `consentC.md`, `consentDE.md`, the student items from `narrative.md`, and
+student Appendices K–P. Just know it means two applications, not one plus a modification.

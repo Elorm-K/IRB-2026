@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:umaine.edu)"
+      "WebFetch(domain:umaine.edu)",
+      "Edit(/.claude/skills/irb-writing/**)"
     ]
   }
 }

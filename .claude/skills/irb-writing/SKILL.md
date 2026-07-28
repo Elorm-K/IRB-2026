@@ -135,25 +135,41 @@ Starting from the wrong base document silently discards approved language.
    Record the answer at the top of the working draft. Every later reference in this skill
    to "the governing document" means whatever was established here.
 
-2. **Ask which file is the base protocol.** Do not infer it from the most recent email —
+2. **Establish which IRB will review it.** Ask; do not infer from the PI's affiliation:
+
+   > Which IRB will review this protocol, and will any activity happen at another
+   > institution — a collaborating instructor's campus, a partner school, a recruited site?
+
+   Record the answer. This is provenance only, not research: the actual rule-gathering
+   happens at Phase 4 Pass 4, driven by `references/institution-research.md`, and only if
+   `references/institutions/<slug>.md` is missing or stale. Where a second site is
+   involved, note which arrangement it needs — reliance agreement, local review, or a
+   not-research determination — because the protocol may already promise one of them.
+3. **Ask which file is the base protocol.** Do not infer it from the most recent email —
    email threads and internal drafts diverge from the approved version. Ask the PI
    directly, and prefer asking over guessing: a 2-minute question beats a 4-hour rewrite.
    If there is no prior protocol to build from, say so explicitly in the handoff, because
    it means the draft has no approved-language backstop and needs closer PI review.
-3. **Ask what else would help.** Literally: "what sources of data or files would be
+4. **Ask what else would help.** Literally: "what sources of data or files would be
    helpful for this task?" Prior interview consent forms, approved modifications, related
    protocols in the same program, and the governing document are all commonly-forgotten
    inputs.
-4. **Locate the current consent forms.** In the master protocol document, consent forms
+5. **Locate the current consent forms.** In the master protocol document, consent forms
    accumulate chronologically at the bottom. To find the newest version of one, search
    the term (e.g. "interview") from the top of the document, then jump to the *last*
    match.
-5. **Snapshot the base.** Copy it, or commit it, before any edits — Phase 4 needs a
+6. **Snapshot the base.** Copy it, or commit it, before any edits — Phase 4 needs a
    before/after diff, and without one, silently dropped sections stay silent.
 
-Record all inputs used at the top of the working draft — governing document, base
-protocol, and supporting files, each with version or date — so the PI can see what the
-draft was built from without asking.
+If a file you need is visible but cannot be opened — `~/Downloads` is blocked on macOS —
+treat that as a blocker and ask for it to be moved into the project, rather than working
+around it. An unreadable approved protocol was the single largest quality loss on IRB #2:
+approved consent language existed and was paraphrased from the grant instead of copied
+(`references/ai-capability-log.md` §1).
+
+Record all inputs used at the top of the working draft — governing document, reviewing
+institution(s), base protocol, and supporting files, each with version or date — so the PI
+can see what the draft was built from without asking.
 
 ## Phase 1 — Mark up the base, then edit
 
@@ -180,7 +196,10 @@ other order produces a protocol that over-specifies and a consent form that
 under-specifies.
 
 Read `references/board-rules.md` for what this board requires in a consent form, what
-must stay out of it, and how many consent forms a study needs.
+must stay out of it, and how many consent forms a study needs. The required heading order
+and the institution's own consent rules are in `references/institutions/<slug>.md` §4–§5 —
+follow the order recorded there as approved practice where it differs from the published
+sample, because it does differ.
 
 Sanity-check compensation against time asked: it must be plausible payment for the
 burden. $10 for a 60-minute interview is not; ~$25 is the floor for that (Greg,
@@ -206,7 +225,7 @@ sections where approved language already exists; that is churn, not choice.
 
 ## Phase 4 — Verification (mandatory; produce the report)
 
-Three mechanical passes. Run them, iterate on what they surface, and **hand the report
+Four mechanical passes. Run them, iterate on what they surface, and **hand the report
 to the PI alongside the draft** — it tells them what not to re-check.
 
 1. **Alignment diff** against the base document: what is similar, what differs, and
@@ -219,15 +238,34 @@ to the PI alongside the draft** — it tells them what not to re-check.
 3. **Internal consistency**: every repeated fact — participation cycle counts, session
    lengths, participant numbers, compensation, retention periods — reads identically in
    the protocol, the consent forms, and the recruitment materials.
+4. **Institutional compliance**: the assembled package against the published rules of the
+   board that will review it. Passes 1–3 check the draft against its sources and against
+   itself; this one is the only pass that checks it against the institution, and it is
+   where most of the real findings on IRB #2 came from. Run it on **every file that will
+   actually be attached**, not just the protocol body — a standalone consent file drifted
+   two versions behind while the protocol's own appendix was correct.
 
-Full prompts and the checklist are in `references/review-protocol.md`. For detailed
-document-vs-document comparison, a document-grounded tool (NotebookLM-style) beats
-plain chat.
+   Rules come from `references/institutions/<slug>.md` for the institution recorded in
+   Phase 0. If that file is missing or more than a semester old, build or refresh it first
+   with `references/institution-research.md`. Never run this pass from memory of an
+   institution's requirements — an invented rule reaching the PI is worse than a missing
+   one, and it has already happened once.
+
+   **This pass flags; it does not fix.** Findings go to the PI with a recommended fix and a
+   quote of the rule; edits happen afterward on their instruction.
+
+Full prompts and the checklists are in `references/review-protocol.md`, with Pass 4's own
+checklist in `references/compliance-check.md`. For detailed document-vs-document
+comparison, a document-grounded tool (NotebookLM-style) beats plain chat.
 
 ## Phase 5 — Handoff
 
-Deliver: the draft `.docx` files, the verification report, a list of every
-`[PI DECISION NEEDED]` item, and a one-line note on what the draft assumes.
+Deliver: the draft `.docx` files, the verification report including its compliance block,
+a list of every `[PI DECISION NEEDED]` item, and a one-line note on what the draft assumes.
+
+Say plainly which Pass-4 findings are **blocking** (a hard gate that gets the application
+returned) and which are not. Nothing from Pass 4 has been fixed — the PI decides, then the
+fixes get applied.
 
 For anything as large as a full protocol, **create a Linear task and assign it to the
 PI ahead of the review meeting** — reviewing cold during a meeting is slower for
@@ -271,13 +309,16 @@ Maintain `references/irb-knowledge-base.md`:
    Phase-4 coverage check. Keep one table per grant or project rather than merging them,
    so coverage checks stay scoped to the right authority. The CAREER grant table is the
    one that exists today; add others as projects arrive.
-3. **Current institutional requirements** — fetch the University of Maine Office of
-   Research Compliance submission requirements, forms, review categories, and CITI
-   prerequisites fresh rather than from memory.
-4. **Board behavior log** — what this board has accepted, questioned, or required
+3. **Board behavior log** — what this board has accepted, questioned, or required
    changed, accumulated across submissions. Weight this above generic internet guidance
    on IRB writing; exemplars from this board beat best-practice advice when they
-   conflict.
+   conflict. Lives in `references/board-rules.md`.
+
+Institutional rules are **not** in the knowledge base. They live one file per institution
+at `references/institutions/<slug>.md`, because a study can involve more than one board and
+because the knowledge base is about this program's protocols while those files are about a
+board's published requirements. Build them with `references/institution-research.md`;
+refresh if older than a semester or on an announced process change.
 
 ## Human judgment checkpoints (do not delegate)
 
@@ -296,8 +337,19 @@ into future projects.
 ## Self-revision
 
 After each submission and each board response, log what the board accepted, questioned,
-or required changed into the board-behavior log, and revise this file. Log tasks the AI
-handled badly in `ai-capability-log`.
+or required changed, and revise this file. Log tasks the AI handled badly in
+`references/ai-capability-log.md`.
+
+Three destinations, and routing matters — a rule filed in the wrong place is a rule the
+next protocol won't check:
+
+- **Application returned for a mechanics reason** → `references/institutions/<slug>.md` §2.
+  It was a hard gate and the file was missing it.
+- **Board required a substantive change** → `references/board-rules.md`.
+- **Board accepted something the published rules appear to forbid** → the conflict entry in
+  the institution file, recorded as approved practice with the approval as evidence. These
+  are the most valuable entries in the whole skill, because generic guidance cannot supply
+  them.
 
 A stronger version of this loop, worth building: after a working session, take the
 retrospective plus the interaction history, re-run the original task using the revised

@@ -14,7 +14,8 @@ in draft costs a semester of data. Everything here is organized around that.
 |---|---|
 | Know what still needs writing and what it's blocking | [.claude/skills/irb-writing/references/irb-backlog.md](.claude/skills/irb-writing/references/irb-backlog.md) — the single source of truth for status |
 | Understand *how* the lab writes IRBs (the workflow, the board's rules) | [.claude/skills/irb-writing/SKILL.md](.claude/skills/irb-writing/SKILL.md) |
-| Review the draft that's furthest along | [irb2-instructor-collaboration/](irb2-instructor-collaboration/) — start with its verification report |
+| Review the draft that's furthest along | [irb2-instructor-collaboration/](irb2-instructor-collaboration/) — start with its v5 verification report |
+| Check a draft against the reviewing board's own published rules | [.claude/skills/irb-writing/references/compliance-check.md](.claude/skills/irb-writing/references/compliance-check.md), with rules per institution in [references/institutions/](.claude/skills/irb-writing/references/institutions/) |
 | See what the board has already approved, and copy from it | [inputs/approved-protocols/](inputs/approved-protocols/) |
 | Know what this study committed to doing | [inputs/grant/](inputs/grant/) |
 
@@ -32,24 +33,24 @@ irb1-reflection-groups/          IRB #1 — reflection groups outside of any cou
   archive/                         Superseded versions
   IRB1_SUMMARY.md                  12 open PI decisions — blocks submission
 
-irb2-instructor-collaboration/   IRB #2 — instructor co-design workshops, surveys, interviews
-  CURRENT/                         Live v4 drafts (the .docx you'd submit)
-  source/                          Markdown the .docx are generated from — EDIT HERE
-  reports/                         Verification, markup, gap analysis, drafting prompt
-  archive/                         Superseded versions
+irb2-instructor-collaboration/   IRB #2 — instructors AND students in collaborating courses
+  CURRENT/                         Live v5 merged submission + cover page
+  source/p2/                       Markdown v5 is generated from — EDIT HERE
+  reports/                         Verification reports, markup, gap analysis, drafting prompt
+  archive/                         Superseded versions, incl. all of v4
 
-irb2b-student-stream-held/       IRB #2's student/classroom half. Deliberately NOT submitted yet.
+irb2b-student-stream-held/       Closed. Its README explains why the split was reversed.
 course-protocol-mod/             Data-linkage modification to the approved course protocol
-.claude/skills/irb-writing/      The workflow, board rules, backlog, and knowledge base
+.claude/skills/irb-writing/      The workflow, board rules, backlog, knowledge base,
+                                 compliance pass, and per-institution rule files
 ```
 
 Two rules that aren't obvious from the tree:
 
-- **For IRB #2, edit `source/*.md`, not the `.docx`.** The consent-form and recruitment
-  `.docx` are generated from the same source parts as the protocol appendices, and were
-  verified byte-identical. Editing a `.docx` directly reintroduces the drift that made the
-  v1 standalone consent file stale (it still carried the old protocol title and a live
-  decision marker).
+- **For IRB #2, edit `source/p2/*.md`, not the `.docx`.** The submission `.docx` is generated
+  from those parts. Editing a `.docx` directly reintroduces the drift that made the v1
+  standalone consent file stale — it still carried the old protocol title and a live decision
+  marker. (`source/*.md` at the top level are v4's parts, kept for lineage.)
 - **`archive/` is superseded work, kept for lineage.** Never submit from it. Each archive
   folder has a README explaining what superseded what.
 
@@ -58,25 +59,28 @@ Two rules that aren't obvious from the tree:
 | Protocol | State | Blocked on |
 |---|---|---|
 | **#1** Reflection groups outside classes | Drafted, not submitted | 12 PI decisions in [IRB1_SUMMARY.md](irb1-reflection-groups/IRB1_SUMMARY.md); plus **which of three candidate files is live** (see below) |
-| **#2** Instructor collaboration | v4 drafted, staged narrow to instructor-facing research only | PI review. 4 inputs listed at the end of the [verification report](irb2-instructor-collaboration/reports/IRB2_v4_VERIFICATION_REPORT.md) |
-| **#2b** Student stream | Drafted, submission-ready, **held** | Submit after #2 clears and the first co-design cycle fixes the design |
+| **#2** Instructor collaboration | **v5 drafted — merged, single protocol** covering both instructors and students in collaborating courses | PI review. 12 decisions listed in the [v5 verification report](irb2-instructor-collaboration/reports/IRB2_v5_VERIFICATION_REPORT.md), plus the human-subjects start date on the cover page |
+| **#2b** Student stream | **Closed** — merged back into #2 | — |
 | **Course-protocol mod** (data linkage) | Drafted, not submitted | — |
-| **#3–#6** | Not drafted | See the backlog |
+| **#3–#6, #8** | Not drafted | See the backlog. **#8** (video-assisted GenAI reflection assignment) is the largest confirmed hole |
 
 ## Two open items worth knowing about immediately
 
-**1. Approved AI consent language became available and hasn't been used yet.**
-`inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` was unreadable when
-IRB #2 v4 was written (it sat in `~/Downloads`, which tools can't access), so v4's
-generative-AI wording was *derived from the grant rather than copied from the approved
-form* — the verification report calls this "the largest unverified item in the draft."
-That file is now in the repo. It is the AI protocol (298 mentions of generative AI) and
-carries three board-approved consent forms as of its Jan-2026 mod: Appendix **P**
-(participation without interviews), **Q** (bi-weekly interview), **R** (follow-up
-interview). Replacing v4's derived AI passages with this approved language is the highest-value
-revision available. Separately, whether that protocol's *scope* reaches the grant's
-Task 1/2 work is still unread, and the grant leans on it heavily — see the backlog's
-"Verify, do not assume".
+**1. The grant's assumption that existing approvals cover Task 2 does not hold.**
+`inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` ("Learning with
+Generative AI in introductory college courses") was unreadable while IRB #2 v4 was written
+and has since been read in full. Two results, opposite in sign:
+
+- *Good:* its January 2026 consent forms are the program's newest board-approved templates,
+  and IRB #2 v5's consent forms are now rebuilt from them rather than derived from the grant.
+  That closed what the v4 report called the largest unverified item in the draft.
+- *Bad:* it does **not** cover the video-assisted GenAI reflection assignment — zero
+  occurrences of "replay" or "anonymiz", and screen recordings appear only *during
+  interviews*, not as an assignment. The grant asserts at §3, p.6 that *"all preliminary work
+  already has IRB approval … it also already covers the proposed work in Task 1 and 2."*
+  For that assignment it doesn't. It's now backlog item **8**, it is the largest remaining
+  hole, and the grant deploys it in a collaborator's courses that the team's own course
+  protocol does not reach.
 
 **2. Three files claim to be the final IRB #1 protocol.**
 They're in [irb1-reflection-groups/CURRENT/protocol-candidates/](irb1-reflection-groups/CURRENT/protocol-candidates/)
