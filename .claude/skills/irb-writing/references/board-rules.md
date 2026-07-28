@@ -124,3 +124,53 @@ Concrete calls made on real drafts. Extend this list as more are made.
   rewritten. Cheap to satisfy; not worth pre-empting.
 - May object to detail that doesn't affect approvability. That is an argument for cutting
   such detail up front, not for justifying it at length.
+
+---
+
+## 7. Calibration from the approved GenAI protocol (added 2026-07-28)
+
+Source: `inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — "Learning with Generative AI in introductory college courses." Board-approved through **January 2026**, the most recent approved consent forms in the program. **This is now the highest-weight consent template**, ahead of the course protocol's Appendix P and ahead of IRB #1's drafts. All items below are *board-wide* unless marked.
+
+### Approved consent-form heading order — differs from the public UMaine sample
+
+Approved in-program order: title → Researchers → unheaded intro paragraph → **What Will You Be Asked to Do?** → **Risks** → **Benefits** → **Confidentiality** → **Compensation** → **Voluntary** → **Contact Information** → affirmation block.
+
+The public [sample](https://umaine.edu/research-compliance/resource/sample-consent-interview-18-years-old/) puts **Compensation before Confidentiality**. The board has repeatedly approved the reverse. **Follow the approved order**; the sample's ordering is not enforced.
+
+### Approved affirmation block — checkbox, not signature
+
+> "Your choice below indicates that you have read the above information and agree to participate. You will receive a copy of this form."
+> ☐ I consent to being part of this study
+> _____ Email
+
+The public sample shows Printed Name / Signature / Date. The board approves the checkbox-plus-email form for electronic consent. Use the approved form.
+
+### Concise summary — required on paper, never yet used in this program
+
+**Zero** approved forms in the program contain one, including January 2026. But every prior protocol is unfunded (*"N/A (faculty startup funds)"*), and the [checklist](https://umaine.edu/research-compliance/resource/informed-consent-checklist/) trigger is *">1 page **or** federally funded."* A CAREER-funded protocol is the first to hit the funded trigger. **Include one** — cheap insurance — but do not tell the PI the application will be returned without it; there is no in-program evidence the board enforces it.
+
+### Vendors ARE named in approved Confidentiality sections
+
+Approved forms name Google Drive, Google Forms, Google Firebase, and Zoom, and describe encryption as a property alongside them. This confirms the instructions' requirement and **overrides `board-rules.md` §5's de-naming rule for Section 6 and for consent-form data-handling text**. De-name only in the narrative Summary/Methods body.
+
+### Approved recording retention — 5 years, tied to the key file
+
+> "The archived data will be retained indefinitely, except for the original audio recordings which will be deleted at the same time as when your email address is deleted from the key file 5 years after your participation in the course."
+
+The application instructions suggest destroying recordings once transcription is complete. The board has approved the 5-year form instead. **Use the approved 5-year language.**
+
+### Approved interview compensation is higher than the previously recorded floor
+
+> "For each interview, you will be compensated with a $30 Amazon gift card… If you participate in at least four interviews during the semester, you will receive a one-time bonus additional $40 Amazon gift card… if three interviews… $90 in total; if four interviews, $160."
+
+So $30/interview plus a retention bonus is approved for **students**. §4's "~$25 is the floor" stands as a floor, not a norm. Compensation sections in approved forms carry **worked totals** ("that would be $90 in total") — reproduce that pattern.
+
+### Sample interview questions are NOT in approved interview consents
+
+The checklist asks for *"examples of a couple of interview questions."* Approved forms instead give a topical description ("interviews about your learning and experience in the class, including related to generative AI"). Either satisfies the board; a topical description plus one or two examples covers both.
+
+### What this protocol does and does not cover **[program-specific]**
+
+It covers generative-AI-integrated courses, GenAI tool usage logs, weekly reflections, surveys, and recurring qualitative interviews — including *"screen recordings (which will not include your face)"* taken **during interviews**.
+
+It does **not** cover the grant's Task 2 video-assisted comparative reflection **assignment**: zero occurrences of "replay" or "anonymiz", and no screen-recording-as-assignment procedure. Combined with the course protocol and IRB #1, **no protocol covers grant §3.2's video-reflection assignment, the budgeted anonymization platform, or GenAI IDE log data.** The grant's claim at §3, p.6 that existing approvals "already cover the proposed work in Task 1 and 2" does not hold for the assignment itself.

@@ -1,11 +1,17 @@
 # Gap analysis — IRB #2 (Instructor Collaboration, v3_aligned) vs. NSF CAREER scope of work
 
 **Documents compared**
-- IRB under review: `IRB drafts 2026-07-23/IRB2_Protocol_InstructorCollaboration_v3_aligned.docx`
-- Grant: `grant/FINAL NSF_CAREER_25_Nelson.pdf` (Award 2544192)
-- House-style anchors: `IRB1_Protocol_ReflectionGroups_OutsideClasses_FINAL_structured.docx`; `reference-irbs/2024_08_09 Nelson_MOD_2_Jan_2026_FINAL.pdf` (approved course protocol + Jan-2026 mod); `IRB drafts 2026-07-23/CourseProtocol_AppendixA_DataLinkage_MARKED.docx`
+- IRB under review: `irb2-instructor-collaboration/archive/IRB2_Protocol_v3_aligned_2026-07-25.docx`
+- Grant: `inputs/grant/FINAL NSF_CAREER_25_Nelson.pdf` (Award 2544192)
+- House-style anchors: `irb1-reflection-groups/CURRENT/protocol-candidates/IRB1_Protocol_ReflectionGroups_OutsideClasses_FINAL_structured.docx`; `inputs/approved-protocols/2024_08_09 Nelson_MOD_2_Jan_2026_FINAL.pdf` (approved course protocol + Jan-2026 mod); `course-protocol-mod/CourseProtocol_AppendixA_DataLinkage_MARKED.docx`
 
 **Could not verify (stated up front)**
+
+> **[Update 2026-07-28 — items 1 and 2 are now resolved; item 3 is now answerable.]**
+> 1. The AI protocol is in the repo at `inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx`. It is the generative-AI protocol, with approved consent Appendices P/Q/R MOD Jan/26. Findings below that say "inferred, not copied" can now be checked against it.
+> 2. The byte-size discrepancy is explained: the 673,241-byte Downloads copy was hardlinked into the project root as `FINAL IRB1_…_structured.docx`; it differs from the 672,640-byte `IRB1_…_FINAL_structured.docx` **only** by two uncited references (Aron et al. 1997, Flanagan 1954). Both are now in `irb1-reflection-groups/CURRENT/protocol-candidates/`. No wording differs.
+> 3. Still requires a read of that protocol's §2 and population section against grant §3.2.3, but is no longer blocked.
+
 1. `/Users/cyril/Downloads/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — **not readable** (macOS blocks tool access to `~/Downloads`). This is a *different* protocol from the local `2024_08_09 Nelson_MOD_2_Jan_2026_FINAL.pdf` (different protocol number). Neither local reference PDF contains **any** mention of generative AI, video/screen-replay reflection, or an interview consent form — I grepped both. So every finding below about "the approved AI/interview consent" is inferred from the grant plus IRB #1's interview consent (Appendix G), **not** from the document you pointed at. Re-run this check with that file accessible.
 2. `/Users/cyril/Downloads/FINAL IRB1_..._structured.docx` — also unreadable. I used the project-root copy of the same filename (672,640 bytes vs. 673,241 in Downloads — **not byte-identical**, so minor wording may differ).
 3. The grant asserts (§3, p.6): *"All preliminary work already has IRB approval, which was written broadly such that it also already covers the proposed work in Task 1 and 2."* I cannot confirm what that approval covers, so I flag Task 2 items as "not in IRB #2" rather than "not covered anywhere."
@@ -166,7 +172,7 @@ IRB #2 reads as **reflection-groups-only** everywhere except the title. Specific
 **Nothing marked "keep" was dropped or reworded — but I could not find any keep/done markers to check against.** What I verified:
 
 - `IRB2_Protocol_InstructorCollaboration_v3_aligned.docx` contains **no Word comments** (no `word/comments.xml`). The only comments part in the IRB #2 family is in v1, and it is empty.
-- No "keep as-is" / "done" / "no change" instructions appear in any of the four `spec/Advisor Meetings transcript_2026-07-22*.txt` files (grepped).
+- No "keep as-is" / "done" / "no change" instructions appear in any of the four `inputs/meetings/Advisor Meetings transcript_2026-07-22*.txt` files (grepped).
 - Diffing v1 → v2 → v3: **all 36 changed lines are replacements or refinements, none are content deletions.** The two sections `IRB2_SUMMARY.md` records as deliberately restored from the approved protocol are both present in v3: the §6 retention recap (*"In summary, the following data from participants who take part in the research will be retained indefinitely in de-identified form: … (1.1) … (1.8)"*) and the right-to-withdraw paragraph (*"Participants' privacy and right to withdraw from the study will be respected, so we will delete any of their data upon request as long as the request is within 5 years…"*). Appendix lettering is A–L with no gaps.
 - One intentional change worth confirming: v1's §9 opened *"No payments **or extra credit** are made…"*; v3 reads *"No payments are made…"* and adds the survey-completion-credit provision. Consistent, but it does move away from the approved protocol's *"No payments or extra credit for participation will be made"* — worth a sentence to the board.
 

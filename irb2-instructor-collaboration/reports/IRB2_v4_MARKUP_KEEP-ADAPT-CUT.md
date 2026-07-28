@@ -1,8 +1,8 @@
 # Phase 1 markup — IRB #2 v4
 
-Base: `IRB drafts 2026-07-23/IRB2_Protocol_InstructorCollaboration_v3_aligned.docx` (snapshot: `IRB drafts 2026-07-28/_BASE_SNAPSHOT_v3_aligned.docx`)
+Base: `irb2-instructor-collaboration/archive/IRB2_Protocol_v3_aligned_2026-07-25.docx` (snapshot: `irb2-instructor-collaboration/archive/IRB2_Protocol_v3_aligned_BASE_SNAPSHOT.docx`)
 Overlay: live Google Doc `1RtTxaxVy70cO8ss9HY1C8d_iYZ29XFA2gOveEET16a0` (a fork of **v2** with later hand edits + 3 open comments)
-Governing document: `grant/FINAL NSF_CAREER_25_Nelson.pdf` (NSF Award 2544192)
+Governing document: `inputs/grant/FINAL NSF_CAREER_25_Nelson.pdf` (NSF Award 2544192)
 
 Tags: **KEEP** = carries over unchanged · **ADAPT** = approved structure, new specifics · **CUT** = fails the approvability test or belongs to a scope this protocol lacks · **DEFER** = content comes from another file
 

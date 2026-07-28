@@ -23,12 +23,12 @@ When two sources conflict, the higher one wins. State in the changelog whenever 
 
 1. **The Google Doc comments** (three open threads, transcribed verbatim in §C below) — these are the PI's and Cyril's most recent explicit instructions.
 2. **The live Google Doc hand edits** — `https://docs.google.com/document/d/1RtTxaxVy70cO8ss9HY1C8d_iYZ29XFA2gOveEET16a0/edit`. Read it with the Google Drive tool using `includeComments: true`. **This doc is a fork of v2, not a descendant of v3** — see §B for the exact merge rule. Do not blindly diff-and-overwrite.
-3. **The grant — the authority on scope.** `grant/FINAL NSF_CAREER_25_Nelson.pdf`. Per the 2026-07-22 advisor meeting: *"So just basically everything that's in the grant already. You don't have to figure it out. It's already all planned. Just doing that."* **Every activity, population, measure, and timeline in v4 must be traceable to a grant section, and the changelog must cite it** (e.g. "grant §3.1.4, p.8"). If you cannot find grant support for something already in the draft, flag it rather than silently keeping it.
-4. **v3_aligned** — `IRB drafts 2026-07-23/IRB2_Protocol_InstructorCollaboration_v3_aligned.docx`. The richest base text. Start here.
-5. **IRB #1** — `IRB1_Protocol_ReflectionGroups_OutsideClasses_FINAL_structured.docx` (project root). Source for generic wording to port across; see §D.
-6. **The approved course protocol + mods** — `reference-irbs/2024_08_09 Nelson_MOD_2_Jan_2026_FINAL.pdf` (see Appendix P for the board-accepted consent skeleton) and `IRB drafts 2026-07-23/CourseProtocol_AppendixA_DataLinkage_MARKED.docx` (board-facing data-linkage language). **House style and consent-form format come from these. Do not invent a new consent format.**
-7. **The gap analysis** — `IRB drafts 2026-07-23/IRB2_GapAnalysis_vs_CAREER_grant.md`. Findings to fix, not instructions to follow literally; the sources above override it.
-8. **Advisor meeting transcripts** — `spec/Advisor Meetings transcript_2026-07-22*.txt`. The IRB-relevant content is extracted in §E; the four files are near-duplicate recordings of one meeting, so §E is sufficient and you need not re-read them.
+3. **The grant — the authority on scope.** `inputs/grant/FINAL NSF_CAREER_25_Nelson.pdf`. Per the 2026-07-22 advisor meeting: *"So just basically everything that's in the grant already. You don't have to figure it out. It's already all planned. Just doing that."* **Every activity, population, measure, and timeline in v4 must be traceable to a grant section, and the changelog must cite it** (e.g. "grant §3.1.4, p.8"). If you cannot find grant support for something already in the draft, flag it rather than silently keeping it.
+4. **v3_aligned** — `irb2-instructor-collaboration/archive/IRB2_Protocol_v3_aligned_2026-07-25.docx`. The richest base text. Start here.
+5. **IRB #1** — `irb1-reflection-groups/CURRENT/protocol-candidates/IRB1_Protocol_ReflectionGroups_OutsideClasses_FINAL_structured.docx` (project root). Source for generic wording to port across; see §D.
+6. **The approved course protocol + mods** — `inputs/approved-protocols/2024_08_09 Nelson_MOD_2_Jan_2026_FINAL.pdf` (see Appendix P for the board-accepted consent skeleton) and `course-protocol-mod/CourseProtocol_AppendixA_DataLinkage_MARKED.docx` (board-facing data-linkage language). **House style and consent-form format come from these. Do not invent a new consent format.**
+7. **The gap analysis** — `irb2-instructor-collaboration/reports/IRB2_GapAnalysis_vs_CAREER_grant.md`. Findings to fix, not instructions to follow literally; the sources above override it.
+8. **Advisor meeting transcripts** — `inputs/meetings/Advisor Meetings transcript_2026-07-22*.txt`. The IRB-relevant content is extracted in §E; the four files are near-duplicate recordings of one meeting, so §E is sufficient and you need not re-read them.
 
 ---
 
@@ -172,6 +172,8 @@ Use these; they are already extracted, so you need not re-read the transcripts.
 ## F. THE GENERATIVE-AI WORK — BUILD OUT FROM THE TEAM'S OWN HOOK
 
 The Google Doc already opens the door (edit B1: *"a) reflection-group designs, and/or b) generative AI integration"*). The title has always said *"…Including Critical and Reflective Use of Generative AI…"* while the body has been reflection-groups-only. Close that gap.
+
+> **[Update 2026-07-28, after this prompt was run]** This constraint no longer applies. The file is now in the repo at `inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` and opens fine. If you re-run this prompt, **delete the two bullets below and copy the approved language instead**: Appendices P, Q, and R MOD Jan/26 of that protocol are the board-approved AI consent forms (participation-without-interviews, bi-weekly interview, follow-up interview).
 
 **Read this constraint first.** The user's note says the AI consent language can be inferred from "the IRB on AI." That document — `/Users/cyril/Downloads/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — **could not be opened** (macOS blocks tool access to `~/Downloads`; it is also a different protocol number from the two local reference PDFs, and neither local PDF mentions generative AI, video reflection, or interviews at all). So:
 
