@@ -1,0 +1,792 @@
+[Cyril Agbewali] 10:30:25
+Yeah, yeah.
+
+[Dr. Greg Nelson] 10:41:34
+That's real.
+
+[Dr. Greg Nelson] 10:41:37
+How are you, Cyril?
+
+[Cyril Agbewali] 10:41:40
+I'm doing okay, how are you doing, Greg?
+
+[Dr. Greg Nelson] 10:41:43
+Good, my niece was just born today.
+
+[Cyril Agbewali] 10:41:46
+Oh!
+
+[Cyril Agbewali] 10:41:47
+Congratulations.
+
+[Dr. Greg Nelson] 10:41:47
+Hear that?
+
+[Dr. Greg Nelson] 10:41:48
+Thank you.
+
+[Cyril Agbewali] 10:41:50
+Here we go.
+
+[Dr. Greg Nelson] 10:41:51
+That was a little unexpected, but…
+
+[Dr. Greg Nelson] 10:41:53
+There we go.
+
+[Dr. Greg Nelson] 10:41:55
+I mean, not that unexpected, not like…
+
+[Dr. Greg Nelson] 10:41:59
+Out of nowhere.
+
+[Dr. Greg Nelson] 10:42:00
+Go ahead.
+
+[Dr. Greg Nelson] 10:42:02
+That happens to some people in the US.
+
+[Cyril Agbewali] 10:42:04
+Oh.
+
+[Dr. Greg Nelson] 10:42:06
+I've heard of it before, like, someone is just like…
+
+[Dr. Greg Nelson] 10:42:09
+I was, like, on the larger side, and they just don't even know. And one day, they sit down, and *****
+
+[Cyril Agbewali] 10:42:13
+Oh, yeah.
+
+[Cyril Agbewali] 10:42:17
+So I think… hmm.
+
+[Dr. Greg Nelson] 10:42:17
+Isn't that nuts?
+
+[Cyril Agbewali] 10:42:20
+At least expected a human being to come out of here and *****
+
+[Dr. Greg Nelson] 10:42:22
+I know. I'm like, how is it possible?
+
+[Cyril Agbewali] 10:42:27
+Oh, goodness.
+
+[Dr. Greg Nelson] 10:42:29
+Oh. Oh, yeah.
+
+[Dr. Greg Nelson] 10:42:33
+So cool. So, how are things going?
+
+[Cyril Agbewali] 10:42:36
+Um, so far so good. It was just the flu that came to mess things up, but I'm much better now.
+
+[Cyril Agbewali] 10:42:42
+Cool. Yeah.
+
+[Cyril Agbewali] 10:42:45
+It's just been…
+
+[Cyril Agbewali] 10:42:48
+Yeah, and this…
+
+[Dr. Greg Nelson] 10:42:50
+So I'm about a half hour now, so let's maybe, um…
+
+[Dr. Greg Nelson] 10:42:55
+Go over, um…
+
+[Dr. Greg Nelson] 10:42:59
+Maybe let's start with like, what are the lessons you feel like you've learned?
+
+[Dr. Greg Nelson] 10:43:04
+Throughout the summer so far?
+
+[Dr. Greg Nelson] 10:43:06
+And then, uh…
+
+[Dr. Greg Nelson] 10:43:08
+About what's going well, what could be improved?
+
+[Dr. Greg Nelson] 10:43:10
+And then let's make a plan to.
+
+[Dr. Greg Nelson] 10:43:13
+Move forward for the remaining six weeks of the semester.
+
+[Cyril Agbewali] 10:43:17
+Okay, so, um, with the…
+
+[Cyril Agbewali] 10:43:22
+With the summer so far.
+
+[Cyril Agbewali] 10:43:34
+Yeah, so with the summer so far, I think that it's been, for me, it's not been like that.
+
+[Cyril Agbewali] 10:43:39
+peak, um…
+
+[Cyril Agbewali] 10:43:40
+For me, I've just been trying to put in the work as much. We've been looking at papers we can put together.
+
+[Cyril Agbewali] 10:43:48
+Most good way would submit that one paper. I think you'll have 2 pending.
+
+[Dr. Greg Nelson] 10:43:49
+Mm-hmm.
+
+[Cyril Agbewali] 10:43:55
+And then just to.
+
+[Cyril Agbewali] 10:43:58
+How should I say? Repurpose them for.
+
+[Cyril Agbewali] 10:44:02
+For tools. Then.
+
+[Dr. Greg Nelson] 10:44:03
+Uh-huh.
+
+[Cyril Agbewali] 10:44:06
+Concerning… one thing I said I wanted to do, try out this summer, was to try and…
+
+[Cyril Agbewali] 10:44:12
+Build, at least, um…
+
+[Cyril Agbewali] 10:44:14
+Been attempting that since, I think…
+
+[Cyril Agbewali] 10:44:17
+mid June.
+
+[Dr. Greg Nelson] 10:44:18
+Mm-hmm.
+
+[Cyril Agbewali] 10:44:20
+And it's gone through some stuff. And then.
+
+[Cyril Agbewali] 10:44:24
+I will not say I'm done. I've attempted to try it, and then I'm gonna test it locally this week to see what I've done wrong and all that before I push it to the.
+
+[Cyril Agbewali] 10:44:34
+branch and then you can test and give me feedback.
+
+[Dr. Greg Nelson] 10:44:37
+Mm-hmm.
+
+[Cyril Agbewali] 10:44:40
+So, um…
+
+[Cyril Agbewali] 10:44:41
+That's been it. So what what I think I could improve.
+
+[Cyril Agbewali] 10:44:46
+Um, it's…
+
+[Cyril Agbewali] 10:44:48
+Churning out work a bit faster.
+
+[Dr. Greg Nelson] 10:44:51
+Huh?
+
+[Cyril Agbewali] 10:44:51
+And…
+
+[Cyril Agbewali] 10:44:54
+Also, like going back to work, I have left hanging for some time. So one of that is example, the IRB. After our first discussion on the IRB, I used AI to put a draft together.
+
+[Cyril Agbewali] 10:45:06
+Then, once in a while, I come back to it, make petty-petty changes to some of the wordings and what I think we should put in there.
+
+[Cyril Agbewali] 10:45:11
+And, um, I feel like I should just sit down and then allocate, like, a few hours and just edit, edit, edit, edit, and wrap that up.
+
+[Cyril Agbewali] 10:45:21
+Yah.
+
+[Cyril Agbewali] 10:45:22
+Same for, um… I think the same I should think I should do for…
+
+[Cyril Agbewali] 10:45:26
+even the papers put in what I think should be in there for tools, because from the few papers I've read that look like what you're putting together for tools.
+
+[Cyril Agbewali] 10:45:34
+They're longer, have more sections, which I feel we can put in.
+
+[Cyril Agbewali] 10:45:38
+They're longer, they have more sections, which I think we can put in because we have the data and some information about that.
+
+[Dr. Greg Nelson] 10:45:39
+Yeah.
+
+[Dr. Greg Nelson] 10:45:45
+Mm-hmm.
+
+[Cyril Agbewali] 10:45:47
+So, um, that's one thing I think I could improve, and…
+
+[Cyril Agbewali] 10:45:58
+Also, going out there, a lot, like, out there, when I say out there, I mean to people, a lot more.
+
+[Cyril Agbewali] 10:46:04
+Um, I tried this, this summer. It's, it's now a little bit unfolding. Um, so I said I joined a reading group.
+
+[Cyril Agbewali] 10:46:13
+of Csl. Phd. Student last week, and so.
+
+[Dr. Greg Nelson] 10:46:16
+Well, great.
+
+[Cyril Agbewali] 10:46:18
+Yeah, that's like one cool thing.
+
+[Dr. Greg Nelson] 10:46:21
+You should be very proud of that.
+
+[Cyril Agbewali] 10:46:23
+Yeah, I was… last week when I joined, I was like, okay, now this is first step. It was… it was the first step, so it was good, so…
+
+[Cyril Agbewali] 10:46:31
+Yeah, so that's… to me, it's two things, two things getting to me to put in the space, and also…
+
+[Cyril Agbewali] 10:46:36
+people that talk about readings, I know that's also encouraged me to read more. Um, so for that, that's something that I'm looking forward to. And, um…
+
+[Dr. Greg Nelson] 10:46:41
+Hmm?
+
+[Cyril Agbewali] 10:46:48
+And the improvement for going out there is, like, going out there more and selling.
+
+[Cyril Agbewali] 10:46:53
+Those emails and those messages, um, more.
+
+[Cyril Agbewali] 10:46:56
+So I think I could improve that. I feel like I have, like, a few weeks to do that before semester starts, so that I can be in people's…
+
+[Cyril Agbewali] 10:47:04
+mind all that before they get busy.
+
+[Dr. Greg Nelson] 10:47:06
+Mm-hmm.
+
+[Cyril Agbewali] 10:47:07
+Still.
+
+[Cyril Agbewali] 10:47:08
+That's something I…
+
+[Dr. Greg Nelson] 10:47:09
+Okay.
+
+[Cyril Agbewali] 10:47:10
+I think, could improve this right before the for the summer ends. Yeah.
+
+[Dr. Greg Nelson] 10:47:16
+Mm-hmm, yes.
+
+[Cyril Agbewali] 10:47:19
+Yeah. Okay.
+
+[Cyril Agbewali] 10:47:21
+And so far…
+
+[Cyril Agbewali] 10:47:26
+Yeah, okay.
+
+[Cyril Agbewali] 10:47:29
+That's that's that's really.
+
+[Cyril Agbewali] 10:47:35
+Yep.
+
+[Cyril Agbewali] 10:47:38
+So far, that's what's off the top of my mind, I can… I can see now.
+
+[Dr. Greg Nelson] 10:47:42
+Yeah. So I think those are all really good things. I mean, I think in many ways you're doing a very good job.
+
+[Dr. Greg Nelson] 10:47:49
+Um, I think, uh…
+
+[Dr. Greg Nelson] 10:47:51
+It is a…
+
+[Dr. Greg Nelson] 10:48:01
+It was a strange time to be a grad student. It is also…
+
+[Dr. Greg Nelson] 10:48:05
+You have a lot of personal things going on, many of which are very good things, important things to have in your life.
+
+[Dr. Greg Nelson] 10:48:11
+So I hope you've had a chance to reconnect with your family.
+
+[Dr. Greg Nelson] 10:48:15
+Excuse me. Having a chance to reconnect with your family and have some time to take some break over the summer, too. Has that happened?
+
+[Cyril Agbewali] 10:48:15
+Sorry.
+
+[Cyril Agbewali] 10:48:23
+Yeah, yeah, yeah, that's, that's, that's really happened, and um, I think it ends next Wednesday as well, the next Wednesday that we're done with the break, so I'm actually glad about that, so that was, that was a good…
+
+[Dr. Greg Nelson] 10:48:30
+Mm-hmm, yeah.
+
+[Cyril Agbewali] 10:48:35
+a good time to spend with them. Yeah.
+
+[Dr. Greg Nelson] 10:48:36
+That's very good, yeah.
+
+[Dr. Greg Nelson] 10:48:38
+So I think the — go ahead, Ben.
+
+[Cyril Agbewali] 10:48:38
+I'm actually.
+
+[Cyril Agbewali] 10:48:40
+Yeah, I'm like, I'm actually glad it happened, and they came over the summer so that it helped to.
+
+[Cyril Agbewali] 10:48:45
+how to structure my things before we go into the semester. I'm actually glad it happened now, so that… and also helping me know how to allocate time, when to put things in place.
+
+[Cyril Agbewali] 10:48:55
+and how to get them prepared for the semester coming so that when I'm working.
+
+[Cyril Agbewali] 10:49:00
+and I go back home, or when I'm working from home, they know we don't do this, we don't come into the room, we don't do this when I'm… and when I'm working and.
+
+[Dr. Greg Nelson] 10:49:07
+Mmhm.
+
+[Cyril Agbewali] 10:49:08
+Yeah, yeah.
+
+[Dr. Greg Nelson] 10:49:09
+Yeah, that's good.
+
+[Dr. Greg Nelson] 10:49:11
+You know.
+
+[Dr. Greg Nelson] 10:49:11
+So I think the things you mentioned are all good things.
+
+[Dr. Greg Nelson] 10:49:15
+I think that the…
+
+[Dr. Greg Nelson] 10:49:19
+You should make a task to go back to some of the other meetings and notes we've had from those meetings about things that we can improve and then just make like a short list of like.
+
+[Dr. Greg Nelson] 10:49:28
+Maybe five things that you can say are like the priority things for you to think about trying to improve over time, then you can focus on those.
+
+[Dr. Greg Nelson] 10:49:36
+I think that the I think you're right to be thinking about.
+
+[Dr. Greg Nelson] 10:49:42
+converting some of the papers into.
+
+[Dr. Greg Nelson] 10:49:44
+like a toast paper or other things like that is good. Um…
+
+[Dr. Greg Nelson] 10:49:48
+I think the.
+
+[Dr. Greg Nelson] 10:49:55
+I think the main work that we're in a bit of a catch 22 where.
+
+[Dr. Greg Nelson] 10:50:00
+I'm incentivized to publish a bunch of things.
+
+[Dr. Greg Nelson] 10:50:04
+Um, whereas I we usually in the lab are trying to kind of do whatever the next thing is.
+
+[Dr. Greg Nelson] 10:50:09
+Um, I think that it is really a super critical time for the reflection group stuff.
+
+[Dr. Greg Nelson] 10:50:15
+I think we need to, like you said, like, just get the IRB done as soon as possible.
+
+[Dr. Greg Nelson] 10:50:20
+Because we can't do that We need to do co-design with the instructors.
+
+[Cyril Agbewali] 10:50:24
+Yeah.
+
+[Dr. Greg Nelson] 10:50:24
+and we should target having like 10 faculty members to work with.
+
+[Dr. Greg Nelson] 10:50:29
+like implementing reflection groups in their classes in the fall.
+
+[Dr. Greg Nelson] 10:50:33
+I would say if we don't…
+
+[Dr. Greg Nelson] 10:50:35
+To do that, we'll need to recruit at least 25 people.
+
+[Dr. Greg Nelson] 10:50:39
+And to recruit 25 people, we're going to send out messages to several hundred people. So we can send out messages to the CCSE mailing list, other things like this.
+
+[Cyril Agbewali] 10:50:44
+Yeah.
+
+[Dr. Greg Nelson] 10:50:50
+I think that reflection groups are the most important research that I've ever done that you've ever done.
+
+[Dr. Greg Nelson] 10:50:56
+We have to crank like recruiting.
+
+[Dr. Greg Nelson] 10:50:59
+Up to 20, where 10 is the usual maximum.
+
+[Dr. Greg Nelson] 10:51:03
+Otherwise, reflection groups will have no impact, and they will have no difference in the coming challenges that our species is going to face with AI.
+
+[Dr. Greg Nelson] 10:51:13
+So.
+
+[Dr. Greg Nelson] 10:51:14
+We're gonna do it, or it's not gonna happen.
+
+[Dr. Greg Nelson] 10:51:18
+And so I think that as long as you focus on that.
+
+[Dr. Greg Nelson] 10:51:21
+And you push it. And in doing that, the challenges that you've identified, I think you'll be able to.
+
+[Dr. Greg Nelson] 10:51:27
+I think you've already learned how to get over the hump of reaching out to people, doing uncomfortable things. I think you've made a lot of progress in doing that.
+
+[Dr. Greg Nelson] 10:51:35
+Now you get to use all that progress. Your big muscles are ready to pick up the weights and push them over. Yeah. So this is time, Cyril. I believe in you.
+
+[Dr. Greg Nelson] 10:51:47
+So I think that's coming. It's going to be really exciting.
+
+[Dr. Greg Nelson] 10:51:49
+I started doing it.
+
+[Dr. Greg Nelson] 10:51:51
+you know, add a Tixie, et cetera, but we'll just have to craft some messages. Um, or you can, and then I can review them. Um…
+
+[Dr. Greg Nelson] 10:51:59
+So yeah, so I would focus on that, do that IRB thing, it's blocking everything else.
+
+[Dr. Greg Nelson] 10:52:05
+And then also do the IRB for the doing reflection groups outside of classes.
+
+[Cyril Agbewali] 10:52:10
+Okay, so…
+
+[Dr. Greg Nelson] 10:52:10
+So we just need to submit those separately.
+
+[Cyril Agbewali] 10:52:13
+Alright, perfect. I wanted… I was about to ask about that, to clarify that, because the one I was just editing…
+
+[Dr. Greg Nelson] 10:52:17
+There'll be, yeah, the easiest thing is there should be a line of IRB for work.
+
+[Cyril Agbewali] 10:52:19
+No, I don't think so.
+
+[Dr. Greg Nelson] 10:52:22
+That's not involved in classes at all.
+
+[Cyril Agbewali] 10:52:25
+Yeah. Okay.
+
+[Dr. Greg Nelson] 10:52:25
+Then there should be an IRB that is, like, the, um…
+
+[Dr. Greg Nelson] 10:52:31
+working with instructors and or people at other institutions to do IRBs, to do IRBs, but to do work.
+
+[Dr. Greg Nelson] 10:52:38
+in their classes.
+
+[Dr. Greg Nelson] 10:52:40
+Uh, including first design workshops, which is…
+
+[Dr. Greg Nelson] 10:52:43
+in the research, like to do a design workshop with instructors, is research.
+
+[Cyril Agbewali] 10:52:46
+Mm-hmm.
+
+[Dr. Greg Nelson] 10:52:48
+So that needs to be included in the IRB.
+
+[Dr. Greg Nelson] 10:52:51
+So just basically everything that's in the grant already. You don't have to figure it out. It's already all planned. Just doing that.
+
+[Cyril Agbewali] 10:52:54
+Yeah, okay.
+
+[Dr. Greg Nelson] 10:52:57
+And then once we get those IRBs submitted, we need to gear up.
+
+[Dr. Greg Nelson] 10:53:02
+Send out like the longitudinal surveys to everybody.
+
+[Dr. Greg Nelson] 10:53:05
+That has done the reflection groups and comparison groups so far.
+
+[Dr. Greg Nelson] 10:53:10
+And I think that's already in our…
+
+[Dr. Greg Nelson] 10:53:12
+within class reflection groups stuff. I mean, we made a mistake.
+
+[Dr. Greg Nelson] 10:53:18
+And thinking that those things weren't approved before, but they are, so we can just send them out.
+
+[Dr. Greg Nelson] 10:53:22
+So that's what I would say you should focus on. I also think you should just really aggressively use AI to do stuff.
+
+[Dr. Greg Nelson] 10:53:30
+I'm using AI more. Fable is a really good model.
+
+[Dr. Greg Nelson] 10:53:34
+Especially for things like getting IRBs and other stuff done, I would just do that.
+
+[Dr. Greg Nelson] 10:53:39
+You can figure out how to do it. I need to give some talks about it.
+
+[Dr. Greg Nelson] 10:53:45
+yeah, it's just a… it's just a new thing for us to get adjusted to, and to figure out, and to think a little bit about, too. I'm gonna go to the bathroom and be right back, so you can think about what else you'd like.
+
+[Dr. Greg Nelson] 10:53:54
+With me about, um, for the next, uh…
+
+[Cyril Agbewali] 10:54:00
+Alright, okay.
+
+[Dr. Greg Nelson] 10:54:00
+What, 17 minutes? Yeah.
+
+[Dr. Greg Nelson] 10:59:01
+I'm back.
+
+[Cyril Agbewali] 10:59:04
+Alrighty. Um…
+
+[Cyril Agbewali] 10:59:07
+A headache.
+
+[Cyril Agbewali] 10:59:08
+Quick question about something that we spoke about some time back. I remember that.
+
+[Cyril Agbewali] 10:59:12
+Um, I mentioned to you that.
+
+[Cyril Agbewali] 10:59:15
+You mentioned that.
+
+[Cyril Agbewali] 10:59:16
+you will share something with me on how you're able to use AI to write paper drafts and all that. So I just wanted to remind you so that in case you have it done somewhere, you can share with me.
+
+[Cyril Agbewali] 10:59:25
+Because I want to…
+
+[Dr. Greg Nelson] 10:59:26
+Yeah, so, um, the…
+
+[Dr. Greg Nelson] 10:59:31
+There is a…
+
+[Dr. Greg Nelson] 10:59:35
+Did I not share with you the SIGCSE…
+
+[Dr. Greg Nelson] 10:59:39
+GitHub repository for the, um…
+
+[Cyril Agbewali] 10:59:41
+Oh, yes, I do have that one, so…
+
+[Dr. Greg Nelson] 10:59:43
+The Collaborate paper?
+
+[Cyril Agbewali] 10:59:44
+Yes, I do have it. I'm on that.
+
+[Dr. Greg Nelson] 10:59:46
+Yeah, so that's all that's all in there. That's all in there. So the skills that I used for that are in there.
+
+[Cyril Agbewali] 10:59:47
+Okay.
+
+[Dr. Greg Nelson] 10:59:53
+Um, if you want, as an exercise, I would do the IRB things first. So I think the first thing you should…
+
+[Dr. Greg Nelson] 10:59:59
+So I think this is a great question, fantastic question, Cyril, and it's really good for you to ask it.
+
+[Dr. Greg Nelson] 11:00:05
+So I'd say, like, you know, after doing some of this Irb things.
+
+[Dr. Greg Nelson] 11:00:09
+You can think of your time as.
+
+[Dr. Greg Nelson] 11:00:11
+time that you're using to just do things that you know need to be done.
+
+[Dr. Greg Nelson] 11:00:15
+Then there's time for you to…
+
+[Dr. Greg Nelson] 11:00:18
+kind of improve how you're doing things.
+
+[Dr. Greg Nelson] 11:00:20
+And then there's some time that you use for improving your ability to improve.
+
+[Dr. Greg Nelson] 11:00:24
+So, I would prioritize, you know, first the, like, absolute things that you need to do.
+
+[Dr. Greg Nelson] 11:00:29
+that are kind of blocking the critical paths of projects, which are things like IRBs, recruiting.
+
+[Dr. Greg Nelson] 11:00:36
+Um, connecting with people, you know, obtaining resources, things like that.
+
+[Dr. Greg Nelson] 11:00:40
+Doing or writing the papers, you know, things like that.
+
+[Dr. Greg Nelson] 11:00:44
+Um, improving things, I would say, are things like, uh…
+
+[Dr. Greg Nelson] 11:00:48
+You know, you read an article about how to do.
+
+[Dr. Greg Nelson] 11:00:51
+X thing like writing a research paper, or how to write a research paper better, or other things like that.
+
+[Dr. Greg Nelson] 11:00:56
+And then improving your ability to improve are things like.
+
+[Dr. Greg Nelson] 11:01:01
+You know, inviting a bunch of other PhD students.
+
+[Dr. Greg Nelson] 11:01:05
+to do a reflection group with you about being a PhD student, for example.
+
+[Dr. Greg Nelson] 11:01:09
+or doing the reflection groups in the lab, which we will.
+
+[Dr. Greg Nelson] 11:01:14
+Oh, you should set a improvement goal for the week.
+
+[Dr. Greg Nelson] 11:01:17
+One for your, you know, one can be for your research, one can be for, and then a second one can be also related to research or anything you want.
+
+[Dr. Greg Nelson] 11:01:26
+for your life in general, whatever you think would most help you the most.
+
+[Dr. Greg Nelson] 11:01:32
+It could be more personal. It could be.
+
+[Dr. Greg Nelson] 11:01:34
+some blend of the two, whatever it is. So I would set some of those goals, and we have a thread.
+
+[Dr. Greg Nelson] 11:01:39
+from the lab meeting on Monday where you can add those.
+
+[Dr. Greg Nelson] 11:01:44
+Then, um…
+
+[Dr. Greg Nelson] 11:01:46
+Let's see what else.
+
+[Dr. Greg Nelson] 11:01:50
+So yeah, so I would kind of prioritize the immediate absolute things you need to do.
+
+[Cyril Agbewali] 11:01:54
+Yep.
+
+[Dr. Greg Nelson] 11:01:56
+Then improving your ability to improve.
+
+[Dr. Greg Nelson] 11:01:57
+After that.
+
+[Dr. Greg Nelson] 11:02:00
+Then maybe when you're doing a task, you could learn a little bit about it to do it better.
+
+[Dr. Greg Nelson] 11:02:06
+I think that your question of like, you know, how can I use AI to help write papers, et cetera, can be good.
+
+[Dr. Greg Nelson] 11:02:13
+I did look through the —.
+
+[Dr. Greg Nelson] 11:02:16
+I'll also say, I mean, we used AI to help draft the, um…
+
+[Dr. Greg Nelson] 11:02:21
+The reflection group's paper for FIE, but I mean…
+
+[Dr. Greg Nelson] 11:02:24
+the final version of that paper, I ran it through Pangram, and.
+
+[Dr. Greg Nelson] 11:02:27
+Pangram was like, this is all human written.
+
+[Dr. Greg Nelson] 11:02:30
+So…
+
+[Cyril Agbewali] 11:02:30
+When I saw it, I was like, wow.
+
+[Dr. Greg Nelson] 11:02:32
+Yeah. So I was a little surprised by that, but I mean, I think when we edit things through, it's just…
+
+[Dr. Greg Nelson] 11:02:38
+You know, like it kind of gets washed out. And you made enough different changes to things, you know, like you wrote that introduction.
+
+[Dr. Greg Nelson] 11:02:46
+He tweaked it a little bit.
+
+[Dr. Greg Nelson] 11:02:48
+But I mean, I think it was helpful. I mean, it was super helpful to write that paper. We wrote that paper very quickly.
+
+[Dr. Greg Nelson] 11:02:57
+And, you know, like, I think it was an example of.
+
+[Dr. Greg Nelson] 11:03:01
+It was a good example of how to use AI to write a paper. Like if we have a paper that's.
+
+[Dr. Greg Nelson] 11:03:07
+Methodologically, if we can find a paper that's methodologically similar to the paper we want to write.
+
+[Dr. Greg Nelson] 11:03:13
+then it's pretty easy to use. You already know how to use, because you already did it. You already used AI to.
+
+[Dr. Greg Nelson] 11:03:18
+help kind of like outline a paper and then tweak it and then go through it. Does that make sense.
+
+[Cyril Agbewali] 11:03:22
+Yeah, yeah.
+
+[Dr. Greg Nelson] 11:03:24
+Yeah.
+
+[Cyril Agbewali] 11:03:25
+I get that.
+
+[Dr. Greg Nelson] 11:03:26
+So yeah, so does that answer your question for?
+
+[Dr. Greg Nelson] 11:03:30
+the resources around writing papers. I'm also going to look into that a little bit.
+
+[Dr. Greg Nelson] 11:03:34
+The thing that's on my on my list to try is.
+
+[Dr. Greg Nelson] 11:03:41
+Just, uh…
+
+[Dr. Greg Nelson] 11:03:47
+Either trying to find like research agents that people have been
+

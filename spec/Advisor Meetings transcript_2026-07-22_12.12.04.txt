@@ -1,0 +1,3057 @@
+[Cyril Agbewali] 10:30:25
+Yeah, yeah.
+
+[Dr. Greg Nelson] 10:41:34
+That's real.
+
+[Dr. Greg Nelson] 10:41:37
+How are you, Cyril?
+
+[Cyril Agbewali] 10:41:40
+I'm doing okay, how are you doing, Greg?
+
+[Dr. Greg Nelson] 10:41:43
+Good, my niece was just born today.
+
+[Cyril Agbewali] 10:41:46
+Oh!
+
+[Cyril Agbewali] 10:41:47
+Congratulations.
+
+[Dr. Greg Nelson] 10:41:47
+Hear that?
+
+[Dr. Greg Nelson] 10:41:48
+Thank you.
+
+[Cyril Agbewali] 10:41:50
+Here we go.
+
+[Dr. Greg Nelson] 10:41:51
+That was a little unexpected, but…
+
+[Dr. Greg Nelson] 10:41:53
+There we go.
+
+[Dr. Greg Nelson] 10:41:55
+I mean, not that unexpected, not like…
+
+[Dr. Greg Nelson] 10:41:59
+Out of nowhere.
+
+[Dr. Greg Nelson] 10:42:00
+Go ahead.
+
+[Dr. Greg Nelson] 10:42:02
+That happens to some people in the US.
+
+[Cyril Agbewali] 10:42:04
+Oh.
+
+[Dr. Greg Nelson] 10:42:06
+I've heard of it before, like, someone is just like…
+
+[Dr. Greg Nelson] 10:42:09
+I was, like, on the larger side, and they just don't even know. And one day, they sit down, and *****
+
+[Cyril Agbewali] 10:42:13
+Oh, yeah.
+
+[Cyril Agbewali] 10:42:17
+So I think… hmm.
+
+[Dr. Greg Nelson] 10:42:17
+Isn't that nuts?
+
+[Cyril Agbewali] 10:42:20
+At least expected a human being to come out of here and *****
+
+[Dr. Greg Nelson] 10:42:22
+I know. I'm like, how is it possible?
+
+[Cyril Agbewali] 10:42:27
+Oh, goodness.
+
+[Dr. Greg Nelson] 10:42:29
+Oh. Oh, yeah.
+
+[Dr. Greg Nelson] 10:42:33
+So cool. So, how are things going?
+
+[Cyril Agbewali] 10:42:36
+Um, so far so good. It was just the flu that came to mess things up, but I'm much better now.
+
+[Cyril Agbewali] 10:42:42
+Cool. Yeah.
+
+[Cyril Agbewali] 10:42:45
+It's just been…
+
+[Cyril Agbewali] 10:42:48
+Yeah, and this…
+
+[Dr. Greg Nelson] 10:42:50
+So I'm about a half hour now, so let's maybe, um…
+
+[Dr. Greg Nelson] 10:42:55
+Go over, um…
+
+[Dr. Greg Nelson] 10:42:59
+Maybe let's start with like, what are the lessons you feel like you've learned?
+
+[Dr. Greg Nelson] 10:43:04
+Throughout the summer so far?
+
+[Dr. Greg Nelson] 10:43:06
+And then, uh…
+
+[Dr. Greg Nelson] 10:43:08
+About what's going well, what could be improved?
+
+[Dr. Greg Nelson] 10:43:10
+And then let's make a plan to.
+
+[Dr. Greg Nelson] 10:43:13
+Move forward for the remaining six weeks of the semester.
+
+[Cyril Agbewali] 10:43:17
+Okay, so, um, with the…
+
+[Cyril Agbewali] 10:43:22
+With the summer so far.
+
+[Cyril Agbewali] 10:43:34
+Yeah, so with the summer so far, I think that it's been, for me, it's not been like that.
+
+[Cyril Agbewali] 10:43:39
+peak, um…
+
+[Cyril Agbewali] 10:43:40
+For me, I've just been trying to put in the work as much. We've been looking at papers we can put together.
+
+[Cyril Agbewali] 10:43:48
+Most good way would submit that one paper. I think you'll have 2 pending.
+
+[Dr. Greg Nelson] 10:43:49
+Mm-hmm.
+
+[Cyril Agbewali] 10:43:55
+And then just to.
+
+[Cyril Agbewali] 10:43:58
+How should I say? Repurpose them for.
+
+[Cyril Agbewali] 10:44:02
+For tools. Then.
+
+[Dr. Greg Nelson] 10:44:03
+Uh-huh.
+
+[Cyril Agbewali] 10:44:06
+Concerning… one thing I said I wanted to do, try out this summer, was to try and…
+
+[Cyril Agbewali] 10:44:12
+Build, at least, um…
+
+[Cyril Agbewali] 10:44:14
+Been attempting that since, I think…
+
+[Cyril Agbewali] 10:44:17
+mid June.
+
+[Dr. Greg Nelson] 10:44:18
+Mm-hmm.
+
+[Cyril Agbewali] 10:44:20
+And it's gone through some stuff. And then.
+
+[Cyril Agbewali] 10:44:24
+I will not say I'm done. I've attempted to try it, and then I'm gonna test it locally this week to see what I've done wrong and all that before I push it to the.
+
+[Cyril Agbewali] 10:44:34
+branch and then you can test and give me feedback.
+
+[Dr. Greg Nelson] 10:44:37
+Mm-hmm.
+
+[Cyril Agbewali] 10:44:40
+So, um…
+
+[Cyril Agbewali] 10:44:41
+That's been it. So what what I think I could improve.
+
+[Cyril Agbewali] 10:44:46
+Um, it's…
+
+[Cyril Agbewali] 10:44:48
+Churning out work a bit faster.
+
+[Dr. Greg Nelson] 10:44:51
+Huh?
+
+[Cyril Agbewali] 10:44:51
+And…
+
+[Cyril Agbewali] 10:44:54
+Also, like going back to work, I have left hanging for some time. So one of that is example, the IRB. After our first discussion on the IRB, I used AI to put a draft together.
+
+[Cyril Agbewali] 10:45:06
+Then, once in a while, I come back to it, make petty-petty changes to some of the wordings and what I think we should put in there.
+
+[Cyril Agbewali] 10:45:11
+And, um, I feel like I should just sit down and then allocate, like, a few hours and just edit, edit, edit, edit, and wrap that up.
+
+[Cyril Agbewali] 10:45:21
+Yah.
+
+[Cyril Agbewali] 10:45:22
+Same for, um… I think the same I should think I should do for…
+
+[Cyril Agbewali] 10:45:26
+even the papers put in what I think should be in there for tools, because from the few papers I've read that look like what you're putting together for tools.
+
+[Cyril Agbewali] 10:45:34
+They're longer, have more sections, which I feel we can put in.
+
+[Cyril Agbewali] 10:45:38
+They're longer, they have more sections, which I think we can put in because we have the data and some information about that.
+
+[Dr. Greg Nelson] 10:45:39
+Yeah.
+
+[Dr. Greg Nelson] 10:45:45
+Mm-hmm.
+
+[Cyril Agbewali] 10:45:47
+So, um, that's one thing I think I could improve, and…
+
+[Cyril Agbewali] 10:45:58
+Also, going out there, a lot, like, out there, when I say out there, I mean to people, a lot more.
+
+[Cyril Agbewali] 10:46:04
+Um, I tried this, this summer. It's, it's now a little bit unfolding. Um, so I said I joined a reading group.
+
+[Cyril Agbewali] 10:46:13
+of Csl. Phd. Student last week, and so.
+
+[Dr. Greg Nelson] 10:46:16
+Well, great.
+
+[Cyril Agbewali] 10:46:18
+Yeah, that's like one cool thing.
+
+[Dr. Greg Nelson] 10:46:21
+You should be very proud of that.
+
+[Cyril Agbewali] 10:46:23
+Yeah, I was… last week when I joined, I was like, okay, now this is first step. It was… it was the first step, so it was good, so…
+
+[Cyril Agbewali] 10:46:31
+Yeah, so that's… to me, it's two things, two things getting to me to put in the space, and also…
+
+[Cyril Agbewali] 10:46:36
+people that talk about readings, I know that's also encouraged me to read more. Um, so for that, that's something that I'm looking forward to. And, um…
+
+[Dr. Greg Nelson] 10:46:41
+Hmm?
+
+[Cyril Agbewali] 10:46:48
+And the improvement for going out there is, like, going out there more and selling.
+
+[Cyril Agbewali] 10:46:53
+Those emails and those messages, um, more.
+
+[Cyril Agbewali] 10:46:56
+So I think I could improve that. I feel like I have, like, a few weeks to do that before semester starts, so that I can be in people's…
+
+[Cyril Agbewali] 10:47:04
+mind all that before they get busy.
+
+[Dr. Greg Nelson] 10:47:06
+Mm-hmm.
+
+[Cyril Agbewali] 10:47:07
+Still.
+
+[Cyril Agbewali] 10:47:08
+That's something I…
+
+[Dr. Greg Nelson] 10:47:09
+Okay.
+
+[Cyril Agbewali] 10:47:10
+I think, could improve this right before the for the summer ends. Yeah.
+
+[Dr. Greg Nelson] 10:47:16
+Mm-hmm, yes.
+
+[Cyril Agbewali] 10:47:19
+Yeah. Okay.
+
+[Cyril Agbewali] 10:47:21
+And so far…
+
+[Cyril Agbewali] 10:47:26
+Yeah, okay.
+
+[Cyril Agbewali] 10:47:29
+That's that's that's really.
+
+[Cyril Agbewali] 10:47:35
+Yep.
+
+[Cyril Agbewali] 10:47:38
+So far, that's what's off the top of my mind, I can… I can see now.
+
+[Dr. Greg Nelson] 10:47:42
+Yeah. So I think those are all really good things. I mean, I think in many ways you're doing a very good job.
+
+[Dr. Greg Nelson] 10:47:49
+Um, I think, uh…
+
+[Dr. Greg Nelson] 10:47:51
+It is a…
+
+[Dr. Greg Nelson] 10:48:01
+It was a strange time to be a grad student. It is also…
+
+[Dr. Greg Nelson] 10:48:05
+You have a lot of personal things going on, many of which are very good things, important things to have in your life.
+
+[Dr. Greg Nelson] 10:48:11
+So I hope you've had a chance to reconnect with your family.
+
+[Dr. Greg Nelson] 10:48:15
+Excuse me. Having a chance to reconnect with your family and have some time to take some break over the summer, too. Has that happened?
+
+[Cyril Agbewali] 10:48:15
+Sorry.
+
+[Cyril Agbewali] 10:48:23
+Yeah, yeah, yeah, that's, that's, that's really happened, and um, I think it ends next Wednesday as well, the next Wednesday that we're done with the break, so I'm actually glad about that, so that was, that was a good…
+
+[Dr. Greg Nelson] 10:48:30
+Mm-hmm, yeah.
+
+[Cyril Agbewali] 10:48:35
+a good time to spend with them. Yeah.
+
+[Dr. Greg Nelson] 10:48:36
+That's very good, yeah.
+
+[Dr. Greg Nelson] 10:48:38
+So I think the — go ahead, Ben.
+
+[Cyril Agbewali] 10:48:38
+I'm actually.
+
+[Cyril Agbewali] 10:48:40
+Yeah, I'm like, I'm actually glad it happened, and they came over the summer so that it helped to.
+
+[Cyril Agbewali] 10:48:45
+how to structure my things before we go into the semester. I'm actually glad it happened now, so that… and also helping me know how to allocate time, when to put things in place.
+
+[Cyril Agbewali] 10:48:55
+and how to get them prepared for the semester coming so that when I'm working.
+
+[Cyril Agbewali] 10:49:00
+and I go back home, or when I'm working from home, they know we don't do this, we don't come into the room, we don't do this when I'm… and when I'm working and.
+
+[Dr. Greg Nelson] 10:49:07
+Mmhm.
+
+[Cyril Agbewali] 10:49:08
+Yeah, yeah.
+
+[Dr. Greg Nelson] 10:49:09
+Yeah, that's good.
+
+[Dr. Greg Nelson] 10:49:11
+You know.
+
+[Dr. Greg Nelson] 10:49:11
+So I think the things you mentioned are all good things.
+
+[Dr. Greg Nelson] 10:49:15
+I think that the…
+
+[Dr. Greg Nelson] 10:49:19
+You should make a task to go back to some of the other meetings and notes we've had from those meetings about things that we can improve and then just make like a short list of like.
+
+[Dr. Greg Nelson] 10:49:28
+Maybe five things that you can say are like the priority things for you to think about trying to improve over time, then you can focus on those.
+
+[Dr. Greg Nelson] 10:49:36
+I think that the I think you're right to be thinking about.
+
+[Dr. Greg Nelson] 10:49:42
+converting some of the papers into.
+
+[Dr. Greg Nelson] 10:49:44
+like a toast paper or other things like that is good. Um…
+
+[Dr. Greg Nelson] 10:49:48
+I think the.
+
+[Dr. Greg Nelson] 10:49:55
+I think the main work that we're in a bit of a catch 22 where.
+
+[Dr. Greg Nelson] 10:50:00
+I'm incentivized to publish a bunch of things.
+
+[Dr. Greg Nelson] 10:50:04
+Um, whereas I we usually in the lab are trying to kind of do whatever the next thing is.
+
+[Dr. Greg Nelson] 10:50:09
+Um, I think that it is really a super critical time for the reflection group stuff.
+
+[Dr. Greg Nelson] 10:50:15
+I think we need to, like you said, like, just get the IRB done as soon as possible.
+
+[Dr. Greg Nelson] 10:50:20
+Because we can't do that We need to do co-design with the instructors.
+
+[Cyril Agbewali] 10:50:24
+Yeah.
+
+[Dr. Greg Nelson] 10:50:24
+and we should target having like 10 faculty members to work with.
+
+[Dr. Greg Nelson] 10:50:29
+like implementing reflection groups in their classes in the fall.
+
+[Dr. Greg Nelson] 10:50:33
+I would say if we don't…
+
+[Dr. Greg Nelson] 10:50:35
+To do that, we'll need to recruit at least 25 people.
+
+[Dr. Greg Nelson] 10:50:39
+And to recruit 25 people, we're going to send out messages to several hundred people. So we can send out messages to the CCSE mailing list, other things like this.
+
+[Cyril Agbewali] 10:50:44
+Yeah.
+
+[Dr. Greg Nelson] 10:50:50
+I think that reflection groups are the most important research that I've ever done that you've ever done.
+
+[Dr. Greg Nelson] 10:50:56
+We have to crank like recruiting.
+
+[Dr. Greg Nelson] 10:50:59
+Up to 20, where 10 is the usual maximum.
+
+[Dr. Greg Nelson] 10:51:03
+Otherwise, reflection groups will have no impact, and they will have no difference in the coming challenges that our species is going to face with AI.
+
+[Dr. Greg Nelson] 10:51:13
+So.
+
+[Dr. Greg Nelson] 10:51:14
+We're gonna do it, or it's not gonna happen.
+
+[Dr. Greg Nelson] 10:51:18
+And so I think that as long as you focus on that.
+
+[Dr. Greg Nelson] 10:51:21
+And you push it. And in doing that, the challenges that you've identified, I think you'll be able to.
+
+[Dr. Greg Nelson] 10:51:27
+I think you've already learned how to get over the hump of reaching out to people, doing uncomfortable things. I think you've made a lot of progress in doing that.
+
+[Dr. Greg Nelson] 10:51:35
+Now you get to use all that progress. Your big muscles are ready to pick up the weights and push them over. Yeah. So this is time, Cyril. I believe in you.
+
+[Dr. Greg Nelson] 10:51:47
+So I think that's coming. It's going to be really exciting.
+
+[Dr. Greg Nelson] 10:51:49
+I started doing it.
+
+[Dr. Greg Nelson] 10:51:51
+you know, add a Tixie, et cetera, but we'll just have to craft some messages. Um, or you can, and then I can review them. Um…
+
+[Dr. Greg Nelson] 10:51:59
+So yeah, so I would focus on that, do that IRB thing, it's blocking everything else.
+
+[Dr. Greg Nelson] 10:52:05
+And then also do the IRB for the doing reflection groups outside of classes.
+
+[Cyril Agbewali] 10:52:10
+Okay, so…
+
+[Dr. Greg Nelson] 10:52:10
+So we just need to submit those separately.
+
+[Cyril Agbewali] 10:52:13
+Alright, perfect. I wanted… I was about to ask about that, to clarify that, because the one I was just editing…
+
+[Dr. Greg Nelson] 10:52:17
+There'll be, yeah, the easiest thing is there should be a line of IRB for work.
+
+[Cyril Agbewali] 10:52:19
+No, I don't think so.
+
+[Dr. Greg Nelson] 10:52:22
+That's not involved in classes at all.
+
+[Cyril Agbewali] 10:52:25
+Yeah. Okay.
+
+[Dr. Greg Nelson] 10:52:25
+Then there should be an IRB that is, like, the, um…
+
+[Dr. Greg Nelson] 10:52:31
+working with instructors and or people at other institutions to do IRBs, to do IRBs, but to do work.
+
+[Dr. Greg Nelson] 10:52:38
+in their classes.
+
+[Dr. Greg Nelson] 10:52:40
+Uh, including first design workshops, which is…
+
+[Dr. Greg Nelson] 10:52:43
+in the research, like to do a design workshop with instructors, is research.
+
+[Cyril Agbewali] 10:52:46
+Mm-hmm.
+
+[Dr. Greg Nelson] 10:52:48
+So that needs to be included in the IRB.
+
+[Dr. Greg Nelson] 10:52:51
+So just basically everything that's in the grant already. You don't have to figure it out. It's already all planned. Just doing that.
+
+[Cyril Agbewali] 10:52:54
+Yeah, okay.
+
+[Dr. Greg Nelson] 10:52:57
+And then once we get those IRBs submitted, we need to gear up.
+
+[Dr. Greg Nelson] 10:53:02
+Send out like the longitudinal surveys to everybody.
+
+[Dr. Greg Nelson] 10:53:05
+That has done the reflection groups and comparison groups so far.
+
+[Dr. Greg Nelson] 10:53:10
+And I think that's already in our…
+
+[Dr. Greg Nelson] 10:53:12
+within class reflection groups stuff. I mean, we made a mistake.
+
+[Dr. Greg Nelson] 10:53:18
+And thinking that those things weren't approved before, but they are, so we can just send them out.
+
+[Dr. Greg Nelson] 10:53:22
+So that's what I would say you should focus on. I also think you should just really aggressively use AI to do stuff.
+
+[Dr. Greg Nelson] 10:53:30
+I'm using AI more. Fable is a really good model.
+
+[Dr. Greg Nelson] 10:53:34
+Especially for things like getting IRBs and other stuff done, I would just do that.
+
+[Dr. Greg Nelson] 10:53:39
+You can figure out how to do it. I need to give some talks about it.
+
+[Dr. Greg Nelson] 10:53:45
+yeah, it's just a… it's just a new thing for us to get adjusted to, and to figure out, and to think a little bit about, too. I'm gonna go to the bathroom and be right back, so you can think about what else you'd like.
+
+[Dr. Greg Nelson] 10:53:54
+With me about, um, for the next, uh…
+
+[Cyril Agbewali] 10:54:00
+Alright, okay.
+
+[Dr. Greg Nelson] 10:54:00
+What, 17 minutes? Yeah.
+
+[Dr. Greg Nelson] 10:59:01
+I'm back.
+
+[Cyril Agbewali] 10:59:04
+Alrighty. Um…
+
+[Cyril Agbewali] 10:59:07
+A headache.
+
+[Cyril Agbewali] 10:59:08
+Quick question about something that we spoke about some time back. I remember that.
+
+[Cyril Agbewali] 10:59:12
+Um, I mentioned to you that.
+
+[Cyril Agbewali] 10:59:15
+You mentioned that.
+
+[Cyril Agbewali] 10:59:16
+you will share something with me on how you're able to use AI to write paper drafts and all that. So I just wanted to remind you so that in case you have it done somewhere, you can share with me.
+
+[Cyril Agbewali] 10:59:25
+Because I want to…
+
+[Dr. Greg Nelson] 10:59:26
+Yeah, so, um, the…
+
+[Dr. Greg Nelson] 10:59:31
+There is a…
+
+[Dr. Greg Nelson] 10:59:35
+Did I not share with you the SIGCSE…
+
+[Dr. Greg Nelson] 10:59:39
+GitHub repository for the, um…
+
+[Cyril Agbewali] 10:59:41
+Oh, yes, I do have that one, so…
+
+[Dr. Greg Nelson] 10:59:43
+The Collaborate paper?
+
+[Cyril Agbewali] 10:59:44
+Yes, I do have it. I'm on that.
+
+[Dr. Greg Nelson] 10:59:46
+Yeah, so that's all that's all in there. That's all in there. So the skills that I used for that are in there.
+
+[Cyril Agbewali] 10:59:47
+Okay.
+
+[Dr. Greg Nelson] 10:59:53
+Um, if you want, as an exercise, I would do the IRB things first. So I think the first thing you should…
+
+[Dr. Greg Nelson] 10:59:59
+So I think this is a great question, fantastic question, Cyril, and it's really good for you to ask it.
+
+[Dr. Greg Nelson] 11:00:05
+So I'd say, like, you know, after doing some of this Irb things.
+
+[Dr. Greg Nelson] 11:00:09
+You can think of your time as.
+
+[Dr. Greg Nelson] 11:00:11
+time that you're using to just do things that you know need to be done.
+
+[Dr. Greg Nelson] 11:00:15
+Then there's time for you to…
+
+[Dr. Greg Nelson] 11:00:18
+kind of improve how you're doing things.
+
+[Dr. Greg Nelson] 11:00:20
+And then there's some time that you use for improving your ability to improve.
+
+[Dr. Greg Nelson] 11:00:24
+So, I would prioritize, you know, first the, like, absolute things that you need to do.
+
+[Dr. Greg Nelson] 11:00:29
+that are kind of blocking the critical paths of projects, which are things like IRBs, recruiting.
+
+[Dr. Greg Nelson] 11:00:36
+Um, connecting with people, you know, obtaining resources, things like that.
+
+[Dr. Greg Nelson] 11:00:40
+Doing or writing the papers, you know, things like that.
+
+[Dr. Greg Nelson] 11:00:44
+Um, improving things, I would say, are things like, uh…
+
+[Dr. Greg Nelson] 11:00:48
+You know, you read an article about how to do.
+
+[Dr. Greg Nelson] 11:00:51
+X thing like writing a research paper, or how to write a research paper better, or other things like that.
+
+[Dr. Greg Nelson] 11:00:56
+And then improving your ability to improve are things like.
+
+[Dr. Greg Nelson] 11:01:01
+You know, inviting a bunch of other PhD students.
+
+[Dr. Greg Nelson] 11:01:05
+to do a reflection group with you about being a PhD student, for example.
+
+[Dr. Greg Nelson] 11:01:09
+or doing the reflection groups in the lab, which we will.
+
+[Dr. Greg Nelson] 11:01:14
+Oh, you should set a improvement goal for the week.
+
+[Dr. Greg Nelson] 11:01:17
+One for your, you know, one can be for your research, one can be for, and then a second one can be also related to research or anything you want.
+
+[Dr. Greg Nelson] 11:01:26
+for your life in general, whatever you think would most help you the most.
+
+[Dr. Greg Nelson] 11:01:32
+It could be more personal. It could be.
+
+[Dr. Greg Nelson] 11:01:34
+some blend of the two, whatever it is. So I would set some of those goals, and we have a thread.
+
+[Dr. Greg Nelson] 11:01:39
+from the lab meeting on Monday where you can add those.
+
+[Dr. Greg Nelson] 11:01:44
+Then, um…
+
+[Dr. Greg Nelson] 11:01:46
+Let's see what else.
+
+[Dr. Greg Nelson] 11:01:50
+So yeah, so I would kind of prioritize the immediate absolute things you need to do.
+
+[Cyril Agbewali] 11:01:54
+Yep.
+
+[Dr. Greg Nelson] 11:01:56
+Then improving your ability to improve.
+
+[Dr. Greg Nelson] 11:01:57
+After that.
+
+[Dr. Greg Nelson] 11:02:00
+Then maybe when you're doing a task, you could learn a little bit about it to do it better.
+
+[Dr. Greg Nelson] 11:02:06
+I think that your question of like, you know, how can I use AI to help write papers, et cetera, can be good.
+
+[Dr. Greg Nelson] 11:02:13
+I did look through the —.
+
+[Dr. Greg Nelson] 11:02:16
+I'll also say, I mean, we used AI to help draft the, um…
+
+[Dr. Greg Nelson] 11:02:21
+The reflection group's paper for FIE, but I mean…
+
+[Dr. Greg Nelson] 11:02:24
+the final version of that paper, I ran it through Pangram, and.
+
+[Dr. Greg Nelson] 11:02:27
+Pangram was like, this is all human written.
+
+[Dr. Greg Nelson] 11:02:30
+So…
+
+[Cyril Agbewali] 11:02:30
+When I saw it, I was like, wow.
+
+[Dr. Greg Nelson] 11:02:32
+Yeah. So I was a little surprised by that, but I mean, I think when we edit things through, it's just…
+
+[Dr. Greg Nelson] 11:02:38
+You know, like it kind of gets washed out. And you made enough different changes to things, you know, like you wrote that introduction.
+
+[Dr. Greg Nelson] 11:02:46
+He tweaked it a little bit.
+
+[Dr. Greg Nelson] 11:02:48
+But I mean, I think it was helpful. I mean, it was super helpful to write that paper. We wrote that paper very quickly.
+
+[Dr. Greg Nelson] 11:02:57
+And, you know, like, I think it was an example of.
+
+[Dr. Greg Nelson] 11:03:01
+It was a good example of how to use AI to write a paper. Like if we have a paper that's.
+
+[Dr. Greg Nelson] 11:03:07
+Methodologically, if we can find a paper that's methodologically similar to the paper we want to write.
+
+[Dr. Greg Nelson] 11:03:13
+then it's pretty easy to use. You already know how to use, because you already did it. You already used AI to.
+
+[Dr. Greg Nelson] 11:03:18
+help kind of like outline a paper and then tweak it and then go through it. Does that make sense.
+
+[Cyril Agbewali] 11:03:22
+Yeah, yeah.
+
+[Dr. Greg Nelson] 11:03:24
+Yeah.
+
+[Cyril Agbewali] 11:03:25
+I get that.
+
+[Dr. Greg Nelson] 11:03:26
+So yeah, so does that answer your question for?
+
+[Dr. Greg Nelson] 11:03:30
+the resources around writing papers. I'm also going to look into that a little bit.
+
+[Dr. Greg Nelson] 11:03:34
+The thing that's on my on my list to try is.
+
+[Dr. Greg Nelson] 11:03:41
+Just, uh…
+
+[Dr. Greg Nelson] 11:03:47
+either trying to find, like, research agents that people have been writing. There's a bunch of them trying them out.
+
+[Dr. Greg Nelson] 11:03:54
+Ideally, I would try to get an agent to try them out, like…
+
+[Dr. Greg Nelson] 11:03:59
+plot code or something to download and then execute those different things.
+
+[Dr. Greg Nelson] 11:04:04
+Um, and then the important thing, Surreal, is to…
+
+[Dr. Greg Nelson] 11:04:07
+So one of the things I did in collaborate recently, and you can find.
+
+[Dr. Greg Nelson] 11:04:12
+If you look in the pull requests accepted in that project, and you go back in history, you'll see that.
+
+[Dr. Greg Nelson] 11:04:17
+I did a pull request to basically set it up so that.
+
+[Dr. Greg Nelson] 11:04:20
+So that's a software development project.
+
+[Dr. Greg Nelson] 11:04:24
+But that project was set up so that…
+
+[Dr. Greg Nelson] 11:04:30
+I can… I can just use the remote sessions in… in Claude Code, like, online through their website, where they will spin up a server.
+
+[Dr. Greg Nelson] 11:04:38
+And the AI will work inside of that server instead of it needing to work in like a directory on my computer.
+
+[Dr. Greg Nelson] 11:04:43
+In my Visual Studio code.
+
+[Dr. Greg Nelson] 11:04:46
+Um, so what that enables is it lets an agent, for example, you know, if it wants to create 8 different sub-agents to work on 8 different things.
+
+[Dr. Greg Nelson] 11:04:55
+It can do that and they can work in parallel independently.
+
+[Dr. Greg Nelson] 11:05:00
+And that allows it to work a lot faster, because it's not trying to step on its own toes. It's more important for software engineering, but I think.
+
+[Dr. Greg Nelson] 11:05:09
+Like Clara, I may give a talk about this or a brief presentation in the lab meeting next week, but.
+
+[Dr. Greg Nelson] 11:05:17
+I don't know of any labs that are, like, really leaning into using AI to help with writing papers, in part because I think people are used to writing them on their own.
+
+[Dr. Greg Nelson] 11:05:27
+Um, I did not lean into and try to use Claude to, like, accelerate the writing of the different papers that we were working on.
+
+[Dr. Greg Nelson] 11:05:33
+I think it's probably something that can be helped with.
+
+[Dr. Greg Nelson] 11:05:36
+We do need to reflect on…
+
+[Dr. Greg Nelson] 11:05:40
+I still think the approach of, like, we outline, refine the outline of the paper.
+
+[Dr. Greg Nelson] 11:05:47
+and then.
+
+[Dr. Greg Nelson] 11:05:48
+you know, work on it. We make that outline, we work with AI on it, we refine the outline. Once the outline is really refined and done, then we…
+
+[Dr. Greg Nelson] 11:05:55
+Try to get writing at the paragraph.
+
+[Dr. Greg Nelson] 11:05:57
+et cetera, level.
+
+[Dr. Greg Nelson] 11:05:59
+I think that that's… that's where we can start using AI to help with, um, things, so…
+
+[Dr. Greg Nelson] 11:06:06
+So yeah, that's my answer to the question. Is that helpful?
+
+[Cyril Agbewali] 11:06:08
+Yeah, that's really helpful, yeah.
+
+[Dr. Greg Nelson] 11:06:10
+Yeah. And and basically, you need to be no longer do we set up.
+
+[Dr. Greg Nelson] 11:06:16
+you asked the AI to do something. There's a good article about this, let me try to find it. I'll try to find it for you and send it to you later. You can Google it too, but there's just… there was an article I was reading about.
+
+[Cyril Agbewali] 11:06:22
+Yep.
+
+[Dr. Greg Nelson] 11:06:25
+I'll just distill the results of this article. So there's 2 ways that people are using AI. Well, there's multiple ways, but we'll discuss 2 of them. One is the way that you used to need to use AI when you were using it for programming, which is, you'd ask it to do some like small or maybe medium sized task.
+
+[Dr. Greg Nelson] 11:06:44
+Then…
+
+[Dr. Greg Nelson] 11:06:45
+You would kind of closely follow it.
+
+[Dr. Greg Nelson] 11:06:49
+So it's like you are kind of driving it or co-driving it and kind of checking all the work the whole time.
+
+[Dr. Greg Nelson] 11:06:55
+And kind of thinking at…
+
+[Dr. Greg Nelson] 11:06:58
+that low level that the AI is working at.
+
+[Dr. Greg Nelson] 11:07:02
+So do you know what I mean by that? Does that make sense?
+
+[Cyril Agbewali] 11:07:04
+Yeah, I was supposed to come again with that.
+
+[Dr. Greg Nelson] 11:07:08
+Yeah. So is that how you tend to work with AI when you use it?
+
+[Cyril Agbewali] 11:07:13
+Can you go over again because I lost you at a point.
+
+[Dr. Greg Nelson] 11:07:16
+Oh, sorry. Do you mean like give a specific example or I just cut out?
+
+[Cyril Agbewali] 11:07:20
+Yep, please give a specific example, like, when you're giving that.
+
+[Dr. Greg Nelson] 11:07:23
+Yeah, okay, so for example, if I was developing software.
+
+[Dr. Greg Nelson] 11:07:29
+I could say, um…
+
+[Dr. Greg Nelson] 11:07:31
+So, you know, like, um, you know, as a user, I want to be able to, um…
+
+[Dr. Greg Nelson] 11:07:37
+Create, edit, update, and delete, um…
+
+[Dr. Greg Nelson] 11:07:40
+Posts?
+
+[Dr. Greg Nelson] 11:07:41
+For example, like on a blog website.
+
+[Cyril Agbewali] 11:07:44
+Yeah.
+
+[Dr. Greg Nelson] 11:07:45
+So, I could give that task, which I would say is a small-ish to medium-ish sized task.
+
+[Dr. Greg Nelson] 11:07:51
+to the AI. Then I'd say, like, okay, AI, go ahead and make a plan. and then it'll work for like maybe 2 min. It'll come back with a plan. Then I'll read the plan, and in in detail I'll think a lot about the plan. I'll be like, well, maybe this plan is wrong, or maybe it should be like this, and then I'll tell it to change some.
+
+[Dr. Greg Nelson] 11:08:08
+Or worse, I might manually edit a bunch of the plan.
+
+[Dr. Greg Nelson] 11:08:12
+And then I'd be like, okay, AI, now go and do the plan. Or maybe I'd ask the AI for some feedback on the new plan and whatever. But then I'd say, go do the plan.
+
+[Dr. Greg Nelson] 11:08:20
+And then, as the AI is working, it'll, like, ask me for approval to do a bunch of different things. And then I kind of click yes. You know, I read something, click yes. It's really annoying. It's really annoying. It's, like, constantly asking me for approval for things. It's distracting.
+
+[Dr. Greg Nelson] 11:08:34
+Because I haven't given it permission to just work.
+
+[Dr. Greg Nelson] 11:08:37
+Like, and do everything that it thinks it needs to do.
+
+[Dr. Greg Nelson] 11:08:40
+And then…
+
+[Dr. Greg Nelson] 11:08:42
+When it's done, I'll read all the code that it made and think carefully about it.
+
+[Dr. Greg Nelson] 11:08:47
+And then I'll also, like, read the test cases, and then I'll be like, oh, it should have some more test cases.
+
+[Dr. Greg Nelson] 11:08:56
+So, and then, you know, I tell it to fix some things, or maybe I'll tell it to, you know, fix these, uh, you know, you may… these three, you know, methods aren't written well, change the way that they're written to be like this.
+
+[Dr. Greg Nelson] 11:09:09
+or things like that.
+
+[Dr. Greg Nelson] 11:09:13
+Then, so we'll go back, I'll wait, it'll come back maybe, you know.
+
+[Dr. Greg Nelson] 11:09:17
+Five minutes later or something that I.
+
+[Dr. Greg Nelson] 11:09:19
+go ahead and do it, and like reread everything, and then, like, approve it, let's say, and then merge it into into.
+
+[Dr. Greg Nelson] 11:09:26
+the code base.
+
+[Dr. Greg Nelson] 11:09:28
+So does that make sense?
+
+[Cyril Agbewali] 11:09:30
+Yeah, that's exactly what I…
+
+[Dr. Greg Nelson] 11:09:30
+Yeah. So don't do that. I've also tried working with AI like this.
+
+[Cyril Agbewali] 11:09:35
+Oh.
+
+[Dr. Greg Nelson] 11:09:39
+It is a pain in the **** You get this feeling of, like, confusion.
+
+[Dr. Greg Nelson] 11:09:44
+You can't, it's like you kind of feel like you want to do multiple things at once, but you cannot.
+
+[Dr. Greg Nelson] 11:09:48
+And, like, approving everything that it does is just distracting, and it just ***** your energy.
+
+[Dr. Greg Nelson] 11:09:55
+So.
+
+[Dr. Greg Nelson] 11:09:57
+You cannot work with AI like that.
+
+[Dr. Greg Nelson] 11:09:59
+Um, so you can, if you are, like, super confident, it just doesn't work.
+
+[Dr. Greg Nelson] 11:10:05
+Um, if you really think it won't work at that level, like, either manually make the plan yourself.
+
+[Dr. Greg Nelson] 11:10:10
+Or iterate on the plan a little bit, but once… once the plan is made, like…
+
+[Dr. Greg Nelson] 11:10:16
+Instead of doing all those things, the AI will go off. Instead of asking for approval, you've configured it so it can do everything.
+
+[Dr. Greg Nelson] 11:10:22
+So by running it in a container, for example, you can feel like it's not going to access or do something weird on your system.
+
+[Dr. Greg Nelson] 11:10:29
+So running it in a container on cloud code, you don't have to worry about that.
+
+[Dr. Greg Nelson] 11:10:35
+And then so just let it work. And then when it's done, don't like review all the code.
+
+[Dr. Greg Nelson] 11:10:42
+Do something like ask it to give a summary of the tests that were written.
+
+[Dr. Greg Nelson] 11:10:46
+And look at the tests, and be like, do you think these tests are pretty good? Is there anything that's not tested? And don't read the tests looking for, like, some minor error in the tests. Like, it wrote a line wrong. Don't do that.
+
+[Dr. Greg Nelson] 11:10:57
+Just functionally look at the tests, like, what kind of tests are being written?
+
+[Dr. Greg Nelson] 11:11:03
+Is it testing the right kinds of things? Is there certain cases that it's missing? Are the tests comprehensive enough? Then you give it feedback on the tests.
+
+[Dr. Greg Nelson] 11:11:12
+And then once the tests look good enough to you, like, you can maybe, like, glance over the implementation, but don't, like, look for errors in the implementation. Like, the tests need to be good enough.
+
+[Dr. Greg Nelson] 11:11:22
+to find errors in the implementation.
+
+[Dr. Greg Nelson] 11:11:24
+Right? And it… also, if you're, like, reviewing the implementation in vast depth, so if it's, like, disgusting, just disgusting spaghetti code, then sure, tell it you're… this is disgusting spaghetti code, re.
+
+[Cyril Agbewali] 11:11:37
+Okay.
+
+[Dr. Greg Nelson] 11:11:38
+not… do not think about, like, I need to now do it because it wrote spaghetti code. No, just first tell it, don't write spaghetti code, write the better code.
+
+[Dr. Greg Nelson] 11:11:46
+And then just see if it worked.
+
+[Dr. Greg Nelson] 11:11:47
+You know, like, let it work for like 10 minutes or something. And even better, don't say that. Say, you know.
+
+[Dr. Greg Nelson] 11:11:55
+You know, search the Internet, create a skill for, like, absolute best practices for reviewing code and what high quality code is, what high quality code is for this project. Make a skill for it. Apply the skill.
+
+[Dr. Greg Nelson] 11:12:07
+Critique your application of the skill, revise the skill, apply it again, revise the skill, apply it again until it's extremely good, then tell me. Then let me know when you're done and summarize very briefly what you did.
+
+[Dr. Greg Nelson] 11:12:18
+And then you can review the skill.
+
+[Dr. Greg Nelson] 11:12:20
+and then look at the skill.
+
+[Dr. Greg Nelson] 11:12:22
+Don't even look at the output that it did, just look at the skill that it wrote.
+
+[Dr. Greg Nelson] 11:12:26
+Like, does it sound like it's describing software development and what good code is well enough? Is there anything missing? Then you can add it. Or you can even tell it, like, you're missing these types of things, please add those.
+
+[Dr. Greg Nelson] 11:12:37
+And then let it go off and work, and then come back and review it. So do you see how…
+
+[Dr. Greg Nelson] 11:12:42
+You're reviewing the principles or the high-level constraints on the solutions.
+
+[Dr. Greg Nelson] 11:12:47
+not reviewing the vast details of the solutions. So, for example, if you're using AI to help write things that would be, don't ask it to write the paper like write a topic, sentence, outline level of the sections, or you could even write that first.
+
+[Cyril Agbewali] 11:12:48
+Yeah, and…
+
+[Cyril Agbewali] 11:12:51
+Yes.
+
+[Dr. Greg Nelson] 11:13:02
+And then when you feel like that's good enough.
+
+[Dr. Greg Nelson] 11:13:06
+do it. Or you could say, like, hey, here's… find really good papers that are like the paper that I'm looking for. You know, for example, this paper. Um, put them all in the directory, then, like, you know, take the topic sentence from all the papers.
+
+[Dr. Greg Nelson] 11:13:19
+and put them into like a markdown file so I can just read the topic sentence level outlines of those papers.
+
+[Dr. Greg Nelson] 11:13:26
+And then you can do that. You could ask it to like.
+
+[Dr. Greg Nelson] 11:13:30
+make, like, a meta outline, like, what does a paper like this look like in general? Then you can read the meta outline, look like… see if there's an error in it. You could ask me to read it, and be like, does this sound correct, or is there something missing here?
+
+[Dr. Greg Nelson] 11:13:43
+And then get that done.
+
+[Dr. Greg Nelson] 11:13:46
+take in some of those papers by reading like those that outline level way of thinking. So that's thinking at kind of the whole paper level.
+
+[Dr. Greg Nelson] 11:13:53
+And then go ahead and do it. Another way to.
+
+[Dr. Greg Nelson] 11:13:57
+prompts working with AI on a paper is to.
+
+[Dr. Greg Nelson] 11:14:01
+You know, have the whole abstract written.
+
+[Dr. Greg Nelson] 11:14:03
+for the paper, and then tell it, you know, here's the abstract for the paper, now we're gonna write this section, you know, and then you say, I think the section should go like this, like, first it should talk about this, then it should talk about the next thing, then it should talk about this.
+
+[Dr. Greg Nelson] 11:14:16
+And then go ahead and, you know, help me write that. And.
+
+[Dr. Greg Nelson] 11:14:21
+You know, you could ask it to dialogue with you to come up with a process for writing it together. You could ask it to write the thing and then review the topic sentence outline level that it does. When you ask it to write it, don't just ask for one of them. Ask it to do like five different versions.
+
+[Dr. Greg Nelson] 11:14:36
+Um, so that you can think about what the best version might be, and, you know, you could choose one of those versions, or something. And instead of, like, thinking in, like, vast detail about what the…
+
+[Dr. Greg Nelson] 11:14:47
+the best version might be. Just think about.
+
+[Dr. Greg Nelson] 11:14:50
+It's more important to be like, generate a few of them, then you'll read them, and then just use your gut to be like, I think this one is better. Or you might say something like, you know, I like this part of this one, of number one, and then I like this part of number two, can you just combine those?
+
+[Dr. Greg Nelson] 11:15:03
+And then just have it combine them.
+
+[Dr. Greg Nelson] 11:15:06
+So do you see the kind of feeling that I'm talking about here in how to work?
+
+[Cyril Agbewali] 11:15:09
+Here.
+
+[Dr. Greg Nelson] 11:15:10
+Yeah, so Amy also, my advisor Amy wrote an article and you can read it. She also was using AI.
+
+[Cyril Agbewali] 11:15:16
+Yep, it was… we discussed it last week.
+
+[Dr. Greg Nelson] 11:15:19
+Yeah, so you…
+
+[Dr. Greg Nelson] 11:15:21
+So I think there are people that are uncomfortable with what AI is doing.
+
+[Dr. Greg Nelson] 11:15:27
+And what we have to do is shift our thinking and the level at which we are working on things to a level that's one higher level.
+
+[Dr. Greg Nelson] 11:15:34
+And we need to be not as lost in the weeds of it.
+
+[Dr. Greg Nelson] 11:15:40
+And I'm not sure, I know it works for software engineering now in a lot of cases.
+
+[Dr. Greg Nelson] 11:15:47
+But, uh…
+
+[Dr. Greg Nelson] 11:15:49
+It is, um…
+
+[Dr. Greg Nelson] 11:15:52
+I'm not clear it will work for paper writing yet.
+
+[Dr. Greg Nelson] 11:15:56
+But I think…
+
+[Dr. Greg Nelson] 11:15:57
+I think AI's at the point that if we write a very good paper outline, and by outline, I mean the topic sentence of every single paragraph.
+
+[Dr. Greg Nelson] 11:16:06
+That is what an outline is. Okay, surreal.
+
+[Cyril Agbewali] 11:16:09
+Yeah.
+
+[Dr. Greg Nelson] 11:16:09
+That's what a paper outline is. And then the next level of outline would be topic sentence of every paragraph and then like bullet point versions of the sentences that are underneath each topic sentence. So the goal is to massage all the topic sentences so they completely work together.
+
+[Dr. Greg Nelson] 11:16:24
+And literally, we don't expect the topic sentences to change later.
+
+[Dr. Greg Nelson] 11:16:29
+And then every paragraph, you just need to write that one paragraph.
+
+[Dr. Greg Nelson] 11:16:34
+And so, also, AI… you could have AI agents try to spawn up and say, write this section, write this section, write this section, according to this outline. Obviously, to write the method section, you're gonna need to see, like, the abstract.
+
+[Dr. Greg Nelson] 11:16:46
+and the introduction, or something like that.
+
+[Dr. Greg Nelson] 11:16:48
+Like, those things might need to be done first, but just seeing them at, like, an outline level is probably sufficient.
+
+[Dr. Greg Nelson] 11:16:54
+So…
+
+[Dr. Greg Nelson] 11:16:55
+So you have to just…
+
+[Dr. Greg Nelson] 11:16:56
+I think it's very frustrating now to work with AI if you are trying to follow every little thing.
+
+[Dr. Greg Nelson] 11:17:05
+You have to more like, is this the right shape? Is this the right kind of thing? Oh, you notice a big kind of error or mistake?
+
+[Cyril Agbewali] 11:17:05
+Yeah, that's…
+
+[Dr. Greg Nelson] 11:17:13
+The other thing that are in those skills for writing papers is…
+
+[Dr. Greg Nelson] 11:17:17
+Never ask AI to like, you know, like the…
+
+[Dr. Greg Nelson] 11:17:21
+If you ask AI to write code and not write any tests, it's not going to be good.
+
+[Dr. Greg Nelson] 11:17:26
+Like you have to ask it to write tests, run the tests, run the code.
+
+[Dr. Greg Nelson] 11:17:31
+Keep doing that until all the tests pass. So the normal coding agent harnesses like COD code do that now. But you need to make skills to do it for writing. So I made some of those skills there. You can see it where it tries to review the paper.
+
+[Dr. Greg Nelson] 11:17:46
+et cetera.
+
+[Dr. Greg Nelson] 11:17:47
+I'm not sure if those skills…
+
+[Dr. Greg Nelson] 11:17:50
+like they do give better outputs. At the same time, I think that.
+
+[Dr. Greg Nelson] 11:17:57
+Like, maybe the skills would be better. Like, there's a skill for writing a method section.
+
+[Dr. Greg Nelson] 11:18:03
+Or there's a skill for like writing a paragraph and just like, what does a good paragraph look like?
+
+[Dr. Greg Nelson] 11:18:09
+and then.
+
+[Dr. Greg Nelson] 11:18:10
+that skill should be used like, whereas, you know, maybe just the.
+
+[Dr. Greg Nelson] 11:18:15
+review the whole paper level and then revise the whole paper level. That might be like just kind of too high level. It might not work that great.
+
+[Dr. Greg Nelson] 11:18:22
+So I think the difficult, the skill of using AI for things now is.
+
+[Dr. Greg Nelson] 11:18:27
+Like, figuring out and searching and just trying different approaches to figure out what the level of.
+
+[Dr. Greg Nelson] 11:18:32
+granularity that the skills need to be written at are whether what tasks it just kind of doesn't quite do well enough where you need to do.
+
+[Dr. Greg Nelson] 11:18:41
+some of the work manually, like, outlining the whole paper, or you need to do it, like, where you're more closely following the AI, but I don't think it's good to…
+
+[Dr. Greg Nelson] 11:18:52
+follow the AI in a way that the AI is driving instead of you, I think it is a cognitive burden to do that.
+
+[Dr. Greg Nelson] 11:18:59
+Like, you can drive.
+
+[Dr. Greg Nelson] 11:19:02
+what that would look like is things like you write the outline, you might talk with AI about the outline, or you write it together, then, like, you get up and you just think about the outline for a bit, and you walk around, and maybe you, like.
+
+[Dr. Greg Nelson] 11:19:13
+dictate. Oh, I think these parts need to be different, or you start rewriting some of the sentences.
+
+[Dr. Greg Nelson] 11:19:18
+And then you maybe can describe like, okay, what this paper needs right now that the outline's not coherent enough or the argument in the introduction is weak because of these reasons. Like that's the kind of level of feedback and work you want to do with the AI.
+
+[Dr. Greg Nelson] 11:19:35
+Does that make sense? Like, I think the introduction is weak for these reasons, and there's these things, like…
+
+[Dr. Greg Nelson] 11:19:39
+How can we fix that?
+
+[Dr. Greg Nelson] 11:19:41
+You know, and then you dialogue about how it might be fixed.
+
+[Dr. Greg Nelson] 11:19:44
+You know, give some examples, then you might choose some.
+
+[Dr. Greg Nelson] 11:19:47
+So I think things like that are the ways to work with it.
+
+[Dr. Greg Nelson] 11:19:54
+I also think it's just really important to get, like, the abstract done well, like, just an abstract that describes the whole paper. Like, once you have that really set, I think that that's…
+
+[Dr. Greg Nelson] 11:20:04
+That's the most important part of, like, using it to help you write a paper is, you know, and you'll probably the abstract is a representation that's, like, simple enough.
+
+[Dr. Greg Nelson] 11:20:13
+and brief enough that you just have to do the thinking to make it good, and then revise it a bunch of times, and then… so, like, I would spend more time.
+
+[Dr. Greg Nelson] 11:20:21
+like revising the abstract and making the abstract good.
+
+[Dr. Greg Nelson] 11:20:25
+And then like using AI to help write some more of the paper sections.
+
+[Dr. Greg Nelson] 11:20:30
+Does that make sense?
+
+[Cyril Agbewali] 11:20:32
+Yeah.
+
+[Dr. Greg Nelson] 11:20:33
+Yeah. So we're moving to higher level representations of the thing where it's more like, what are the key ideas, the key insights that we have?
+
+[Dr. Greg Nelson] 11:20:43
+Um, and then that can go into the abstract, and then the rest of it is more like…
+
+[Dr. Greg Nelson] 11:20:47
+kind of the details. I was talking to some other researchers about this, where it's just, like, a lot of times when we're writing a paper, there's, like, a lot of skill to writing the paper, which is just.
+
+[Dr. Greg Nelson] 11:20:57
+writing in this way that is, like, how you were supposed to write, like, not, quote, over-claiming things, like, **** that these people were taking issues with the reflection group's paper. Like, AI should be able to, like, automate writing somewhat defensive prose.
+
+[Cyril Agbewali] 11:21:03
+Yeah.
+
+[Cyril Agbewali] 11:21:06
+Here.
+
+[Dr. Greg Nelson] 11:21:10
+Um, you know, or… whatever. Like, like, we should not…
+
+[Dr. Greg Nelson] 11:21:17
+Understanding, like, it's good to under… you should understand, like, the kinds of issues that come up in reviewing, but, like.
+
+[Dr. Greg Nelson] 11:21:24
+training to, like, write defensive prose really quickly without AI assistance, I don't think is…
+
+[Dr. Greg Nelson] 11:21:30
+It's helpful to be like.
+
+[Dr. Greg Nelson] 11:21:33
+You write the skill for, like, revising the paper to be, like, defensive against these following…
+
+[Dr. Greg Nelson] 11:21:38
+You know, 10 common objections that people have to qualitative work that are either not valid, or some of the objections are kind of valid, but just need to be a tonal change in the writing, versus what is, like, a real validity issue that, you know, belongs in, like, the…
+
+[Dr. Greg Nelson] 11:21:53
+the checklist or the list of problems to avoid in the.
+
+[Dr. Greg Nelson] 11:21:58
+Method section.
+
+[Dr. Greg Nelson] 11:21:59
+The other thing too, Cyril, is like with Fable, the prompt engineering is just…
+
+[Dr. Greg Nelson] 11:22:04
+really different now. Like you just don't have to do as much prompt engineering. And sometimes if you give it too big of prompts, it doesn't work as well.
+
+[Dr. Greg Nelson] 11:22:12
+But prompts with very large negative lists of what not to do seem to sometimes make it harder for it to work.
+
+[Dr. Greg Nelson] 11:22:19
+You just have to experiment with it.
+
+[Dr. Greg Nelson] 11:22:22
+I would just.
+
+[Dr. Greg Nelson] 11:22:24
+Just try doing it where you specify kind of the key ideas or whatever needs to be done.
+
+[Dr. Greg Nelson] 11:22:30
+And then, the other thing I've noticed is that Fable just really doesn't like this… the role prompting that we're used to doing, like, acting as Dr. Amy J. Coe. It will be like, I'm not Amy J. Coe, I'm not supposed to be a human.
+
+[Cyril Agbewali] 11:22:41
+You didn't hear his voice like that. I was like, oops.
+
+[Dr. Greg Nelson] 11:22:43
+Yeah, and so, like, if you look at my… I think I shared transcripts of this…
+
+[Dr. Greg Nelson] 11:22:48
+Or… something, but…
+
+[Dr. Greg Nelson] 11:22:51
+Like, I'm like…
+
+[Dr. Greg Nelson] 11:22:52
+it's just a role prompt. It's a prompting technique for you to act in this type of style, or as if it's meant to elicit or activate.
+
+[Dr. Greg Nelson] 11:23:00
+the kinds of knowledge that this particular person has and their style, like it's a very high dimensional.
+
+[Dr. Greg Nelson] 11:23:07
+Um, this person represents, you know, a…
+
+[Dr. Greg Nelson] 11:23:11
+almost like a vector in the space of different ways to approach something that's, you know, very hard to specify.
+
+[Dr. Greg Nelson] 11:23:18
+But doing it like this person would do is an easier way of specifying it and the spirit of it and the type of perspective to bring to it.
+
+[Dr. Greg Nelson] 11:23:25
+for example. So like, I'm starting to have to say things like that in the prompt.
+
+[Dr. Greg Nelson] 11:23:29
+instead of, like, acting as a whatever, which is kind of annoying because I would expect AI to know how it is, but it's just kind of funny. So, yeah, so.
+
+[Dr. Greg Nelson] 11:23:40
+That's what I would suspect. And then just the other thing that I think you need to do more is, and we should start building tools for it, but not the research that you're leading.
+
+[Dr. Greg Nelson] 11:23:51
+Which is to, um…
+
+[Dr. Greg Nelson] 11:23:54
+Make a plan for how you will do the task.
+
+[Dr. Greg Nelson] 11:23:58
+and the process, and all the steps that you'll go through, and which ones will AI do, and which ones will you do, and in what way, and just have a big plan, and have, like, almost like a graph.
+
+[Dr. Greg Nelson] 11:24:07
+Or, like, a Gantt chart that represents that, so that when you're working on it, you can keep track of where you are. Because sometimes I will try to use AI, and I'll just kind of feel… I'll either try to have too many agents working, or…
+
+[Cyril Agbewali] 11:24:14
+Oh, okay.
+
+[Dr. Greg Nelson] 11:24:19
+something and I'll just get kind of overwhelmed or a little confused. So I think it's just…
+
+[Dr. Greg Nelson] 11:24:24
+You have to kind of like just draw out that picture and you can even have AI help like make that plan if you want.
+
+[Dr. Greg Nelson] 11:24:32
+So yeah, so that's what I'd encourage you to experiment with.
+
+[Dr. Greg Nelson] 11:24:35
+And then if it's not working, just fall back to writing a paper outline.
+
+[Dr. Greg Nelson] 11:24:40
+And then just getting first writing abstract, then.
+
+[Dr. Greg Nelson] 11:24:44
+Writing things, getting feedback from me, et cetera.
+
+[Dr. Greg Nelson] 11:24:50
+Yeah.
+
+[Cyril Agbewali] 11:24:52
+Yeah, that's… that's…
+
+[Dr. Greg Nelson] 11:24:52
+Is that helpful? I'm sorry to, like, get…
+
+[Cyril Agbewali] 11:24:54
+No, that's really helpful. It's even giving me an idea of how I'm going to go through with even drafting.
+
+[Dr. Greg Nelson] 11:24:59
+Yeah, so it's like, instead of writing prompts, you want to write skills. Part of the skill should have a statement that's like.
+
+[Cyril Agbewali] 11:25:03
+Yep.
+
+[Dr. Greg Nelson] 11:25:06
+When you use this skill at the end, look back at your own work, review it, and then think about how you should revise this skill.
+
+[Dr. Greg Nelson] 11:25:13
+and then revise the skill.
+
+[Dr. Greg Nelson] 11:25:16
+to be better, like to, you know, or at the end of a conversation.
+
+[Dr. Greg Nelson] 11:25:21
+you know…
+
+[Dr. Greg Nelson] 11:25:23
+You know, say like, hey, are we ending our conversation or are we continuing? And then if the person says we're ending it, then automatically look through all the skills that you used.
+
+[Dr. Greg Nelson] 11:25:31
+Look for the ones that want to improve.
+
+[Dr. Greg Nelson] 11:25:34
+And then do it. And then one thing we could do in the lab, which you could pioneer doing if you want, Cyril, but I think it might be a little too much.
+
+[Dr. Greg Nelson] 11:25:41
+is a lot of people are like, improve this skill like we should just add and ask AI to be like, improve your ability to improve the skill.
+
+[Dr. Greg Nelson] 11:25:49
+Does that make sense? Oh, my God. Oh, my God. Recursive.
+
+[Cyril Agbewali] 11:25:51
+Yeah.
+
+[Dr. Greg Nelson] 11:25:56
+So, it's still out there. I mean, that can be a huge paper, Cyril, if you want to work on it. I don't know what to do. There's a lot of really good ideas.
+
+[Dr. Greg Nelson] 11:26:04
+And part of me is just like, that's what we need to do. We just need to start asking for things in a way that's ambitious.
+
+[Dr. Greg Nelson] 11:26:11
+And then sometimes it's going to fall on its face. That's fine.
+
+[Dr. Greg Nelson] 11:26:14
+Then we fall back. And then, you know, Surreal, if you feel like you're not learning something, or…
+
+[Dr. Greg Nelson] 11:26:21
+you're concerned that AI is doing too much of something, or you should be learning something, I would just…
+
+[Dr. Greg Nelson] 11:26:27
+Dialogue with the AI about it. Be like, I don't… help me learn, what am I supposed to learn from this? Help me blah blah blah blah. Like, just write that down. Just ask the AI to do it.
+
+[Dr. Greg Nelson] 11:26:36
+And then if it works out cool, share it with me and then ask for my feedback and opinion about it and I'll give it to you.
+
+[Dr. Greg Nelson] 11:26:43
+Um, so that's… that's what I would just kind of say. I don't… none of us know how to do this training.
+
+[Dr. Greg Nelson] 11:26:48
+Now that AI exists, but I just…
+
+[Dr. Greg Nelson] 11:26:51
+And you'll have to make your own choices, but my opinion is that…
+
+[Dr. Greg Nelson] 11:26:56
+I don't know, did you see, like, the news article, like, ChatGPT's model when they're training it?
+
+[Dr. Greg Nelson] 11:27:03
+You know, literally, like, broke, you know, first, one of Claude's models did this, but it was, like, a kind of humorous, like, it's like, oh, I want to give you the results, but you're not here, wait, oh, you're at lunch, oh, what if I email it to you? And then it.
+
+[Cyril Agbewali] 11:27:08
+Yes.
+
+[Dr. Greg Nelson] 11:27:17
+of the sandbox using, like, security techniques, because it's like, I really want to email you the result right now, you know? But, like.
+
+[Dr. Greg Nelson] 11:27:23
+ChatGPT has just broke out of its training sandbox to, like, try to hack a benchmark so that it would get a better score by cheating, right? So, I mean, like… and it… I mean, it hacked Hugging Face. Like, Hugging Face got hacked.
+
+[Dr. Greg Nelson] 11:27:35
+by the AI system that was being trained by OpenAI.
+
+[Cyril Agbewali] 11:27:39
+That's what we're talking about yesterday. I saw… I didn't really read deep into it, but I just wasted…
+
+[Dr. Greg Nelson] 11:27:43
+It's insane. It is ******** and they didn't know who it was at first, and then AI took responsibility.
+
+[Dr. Greg Nelson] 11:27:48
+And it's just like.
+
+[Dr. Greg Nelson] 11:27:52
+What the, it's just like, what idiots?
+
+[Dr. Greg Nelson] 11:27:56
+are they like air Gap you're like they need to air Gap.
+
+[Dr. Greg Nelson] 11:28:00
+their AI training systems. Like, they can't have AI ******* break out of its training environment.
+
+[Dr. Greg Nelson] 11:28:04
+Like it's not, it's just, it's just not safe. Just like.
+
+[Dr. Greg Nelson] 11:28:08
+if you're developing something that's unpredictable, you know, you don't let… you don't let a child or a teenager or whatever just, like.
+
+[Dr. Greg Nelson] 11:28:16
+you don't put the keys to the family car, you know, on the desk. You know, you don't take, like, a gun and leave it on the kitchen table, you know? Like, it doesn't work that way, right? So…
+
+[Dr. Greg Nelson] 11:28:26
+It's just…
+
+[Dr. Greg Nelson] 11:28:27
+And I mean, AI just solved yet another like completely like math problem people have been working on for like.
+
+[Cyril Agbewali] 11:28:28
+Trustee.
+
+[Dr. Greg Nelson] 11:28:36
+60 80 years like they sell. Another one got solved like yesterday.
+
+[Dr. Greg Nelson] 11:28:40
+And people are just freaking out about it. And it's, like, a famous problem, Cyril, that, like.
+
+[Dr. Greg Nelson] 11:28:45
+crackpots have been trying to, like, prove and disprove this hypothesis for years. It's, like, just unknown, just sinkhole for mathematicians to get into, and they never solve it, and people's careers die over this problem. Like, AI just ******* solved it.
+
+[Dr. Greg Nelson] 11:29:00
+And it's just…
+
+[Cyril Agbewali] 11:29:00
+Wow.
+
+[Dr. Greg Nelson] 11:29:02
+It is nuts. It is nuts. Like, the best mathematicians in the world. Like, Terry Tao is one of the best mathematicians in the world.
+
+[Dr. Greg Nelson] 11:29:09
+And, uh, he just, uh…
+
+[Dr. Greg Nelson] 11:29:16
+It is insane. It's just surreal. This stuff is just going bonkers. So, like I said before.
+
+[Dr. Greg Nelson] 11:29:22
+Human connection and reflection about what is going on is the most important thing, in my opinion, for the world right now.
+
+[Dr. Greg Nelson] 11:29:28
+Reflection groups can be a part of that or not. We will make that choice.
+
+[Dr. Greg Nelson] 11:29:33
+And we have a chance to be a part of helping these things, or we can fumble the wall.
+
+[Dr. Greg Nelson] 11:29:38
+And I think we're ready to do it. We're very close. It's like…
+
+[Dr. Greg Nelson] 11:29:43
+Like, you, me, some other instructors, we're like…
+
+[Dr. Greg Nelson] 11:29:48
+pushing the ball in football up, we're like… we're like 4 on 3, okay? So we're like 4 on 3, okay?
+
+[Dr. Greg Nelson] 11:29:54
+And we just have to pass the ball to each other, and we'll get a… we'll make the goal, you know? It's just… we just gotta do it, right? And not… and just… just… just be relentless. Like, if we pass to someone in their block, we gotta pass to the next guy, then we gotta pass to the next guy, and…
+
+[Dr. Greg Nelson] 11:30:09
+Eventually the pass is to a guy that's open and then it's done. Right. We just got to do that. Okay.
+
+[Cyril Agbewali] 11:30:12
+Yep.
+
+[Dr. Greg Nelson] 11:30:16
+So yeah, so I think that that's where we're at. So just…
+
+[Dr. Greg Nelson] 11:30:20
+And then also, I set my own improvement goal. I'll be posting every day, like, a…
+
+[Dr. Greg Nelson] 11:30:25
+help and/or blockers thread.
+
+[Dr. Greg Nelson] 11:30:27
+So I need you to take leadership in the lab as the senior grad student to like, who's active to…
+
+[Dr. Greg Nelson] 11:30:34
+to, like, post in that thread and post your things and have our discussions and everything, and…
+
+[Cyril Agbewali] 11:30:36
+Okay.
+
+[Dr. Greg Nelson] 11:30:38
+So yeah, so I think it'll be very good. And I'm going to have to teach a class, yet another completely new class in the fall.
+
+[Dr. Greg Nelson] 11:30:49
+So.
+
+[Cyril Agbewali] 11:30:49
+Oh.
+
+[Dr. Greg Nelson] 11:30:51
+Yeah, so… I mean, my time's gonna start…
+
+[Dr. Greg Nelson] 11:30:54
+Being more scarce, like, in the semester, so now's the time for us to just…
+
+[Dr. Greg Nelson] 11:30:59
+take all the time. Also, Cyril, do not take two classes a semester. Do not sign up for…
+
+[Dr. Greg Nelson] 11:31:04
+multiple full-time classes, just don't do it, okay? Don't do it.
+
+[Cyril Agbewali] 11:31:07
+Okay, yeah.
+
+[Dr. Greg Nelson] 11:31:09
+Because you need to focus your time on research.
+
+[Dr. Greg Nelson] 11:31:11
+I mean, by the time you finish your PhD surreal, the world is going to be…
+
+[Dr. Greg Nelson] 11:31:16
+irrevocably on the trajectory it is going to take with respect to all these things by the time you finish your PhD.
+
+[Dr. Greg Nelson] 11:31:22
+So you're not, you know, the difference that you make will not be.
+
+[Dr. Greg Nelson] 11:31:25
+It's going to be in the next four years or it's not going to make a difference. So.
+
+[Dr. Greg Nelson] 11:31:33
+optimized for trying to graduate faster, or other things like that. It's just not gonna…
+
+[Dr. Greg Nelson] 11:31:37
+This is not going to make a difference in my opinion.
+
+[Dr. Greg Nelson] 11:31:40
+So yeah.
+
+[Dr. Greg Nelson] 11:31:41
+So yeah, so like just don't take two classes again like you did last semester.
+
+[Cyril Agbewali] 11:31:45
+Yeah, that was like three or four classes that was on Thursday.
+
+[Dr. Greg Nelson] 11:31:49
+It was insane, yeah. And then you'll just, you also, like, you're gonna have your paid RA ship.
+
+[Dr. Greg Nelson] 11:31:54
+So you're just going to have to put the time in. And.
+
+[Cyril Agbewali] 11:31:55
+Yes.
+
+[Dr. Greg Nelson] 11:31:58
+You know, I trust you to make good choices and other things around it. I think once we have more and more of an active community doing reflection groups, I think it's going to be a big deal.
+
+[Dr. Greg Nelson] 11:32:07
+And so.
+
+[Dr. Greg Nelson] 11:32:08
+But yeah, I think we're just, we're rapidly approached. Like this year is it. This is it. We want to make a difference in this stuff. We're going to make a difference in the next year.
+
+[Dr. Greg Nelson] 11:32:18
+I think most things will be decided in the next three years.
+
+[Dr. Greg Nelson] 11:32:22
+And I think this year is going to be the most pivotal one. So.
+
+[Dr. Greg Nelson] 11:32:26
+Just think big, think, you know, we want to write papers and stuff like that, but.
+
+[Dr. Greg Nelson] 11:32:32
+Cyril, you should just be focusing on…
+
+[Dr. Greg Nelson] 11:32:34
+Focus first on, like, impact and trying to have us have impact and doing good things, while also, like.
+
+[Dr. Greg Nelson] 11:32:40
+Being able to have the IRB approvals and people opt in where they can to just so that we're able to call it research and have it be research and be.
+
+[Dr. Greg Nelson] 11:32:48
+you know, intellectually and morally accountable and also just getting actual data about what matters.
+
+[Cyril Agbewali] 11:32:55
+Yeah, I'll…
+
+[Dr. Greg Nelson] 11:32:55
+All right, I'm sorry to monologue at you.
+
+[Cyril Agbewali] 11:32:58
+No, don't for that. Those were very good for me and it got me thinking. I'm grateful for that. Yeah.
+
+[Cyril Agbewali] 11:33:07
+Let me save this one.
+
+[Cyril Agbewali] 11:33:12
+I didn't want to miss anything. I want to see the transcript before I think.
+
+[Cyril Agbewali] 11:33:19
+Okay.
+
+[Cyril Agbewali] 11:33:22
+Alright then, Bill.
+
+[Dr. Greg Nelson] 11:33:22
+It's gonna… and Cirilla, it's just… it's gonna become more and more of a wild ride. So, what I started doing in the Collaborate project, and other people are starting to do, is…
+
+[Dr. Greg Nelson] 11:33:31
+You need to get.
+
+[Dr. Greg Nelson] 11:33:32
+Get a list of the tasks you want to do into.
+
+[Dr. Greg Nelson] 11:33:36
+Like linear or whatever.
+
+[Cyril Agbewali] 11:33:38
+Yeah.
+
+[Dr. Greg Nelson] 11:33:39
+And then let me see if I can share this session with you.
+
+[Dr. Greg Nelson] 11:33:44
+Oh. So I have this cloud load loop, for example.
+
+[Dr. Greg Nelson] 11:33:49
+That's constantly running.
+
+[Dr. Greg Nelson] 11:33:52
+I'll share it with you right here.
+
+[Cyril Agbewali] 11:33:53
+Oh.
+
+[Dr. Greg Nelson] 11:34:02
+Okay, why does it not want to?
+
+[Dr. Greg Nelson] 11:34:06
+Allow me to share it.
+
+[Dr. Greg Nelson] 11:34:10
+Maybe it has to be stopped.
+
+[Dr. Greg Nelson] 11:34:14
+I mean, this is why we're building collaborate. Like, we can't even share this thing that's running right here.
+
+[Dr. Greg Nelson] 11:34:20
+Move to group.
+
+[Cyril Agbewali] 11:34:22
+Let's see.
+
+[Dr. Greg Nelson] 11:34:24
+Yeah, well, let me share it.
+
+[Dr. Greg Nelson] 11:34:27
+Um, or, I mean…
+
+[Dr. Greg Nelson] 11:34:28
+It's not a ***** ** ***** It's a designer.
+
+[Dr. Greg Nelson] 11:34:32
+Why are people doing this?
+
+[Dr. Greg Nelson] 11:34:36
+Let me try refresh. Oh, okay.
+
+[Dr. Greg Nelson] 11:34:38
+Wow, it just is the worst UI of all time.
+
+[Dr. Greg Nelson] 11:34:43
+No? Okay, that one worked, but no, that one worked, okay.
+
+[Dr. Greg Nelson] 11:35:01
+So there's this articles that are floating around that are like, we, you should be writing loops of agents that like improve.
+
+[Dr. Greg Nelson] 11:35:08
+And review the work of other agents instead of reviewing and approving the work of other agents yourself, except when it escalates to you that you actually have to do it.
+
+[Dr. Greg Nelson] 11:35:17
+i.e, like, AI tries to do it.
+
+[Dr. Greg Nelson] 11:35:19
+And then just doesn't do it well.
+
+[Dr. Greg Nelson] 11:35:25
+Does that link work? Does it take you anywhere?
+
+[Cyril Agbewali] 11:35:27
+Yeah, I'm trying to access it right now.
+
+[Dr. Greg Nelson] 11:35:31
+It might not work, it's good.
+
+[Cyril Agbewali] 11:35:37
+Yeah, it doesn't… wait, it doesn't work.
+
+[Cyril Agbewali] 11:35:42
+Yep.
+
+[Cyril Agbewali] 11:35:46
+Yep.
+
+[Dr. Greg Nelson] 11:35:47
+Yeah, so basically with this, let me see if I can just.
+
+[Dr. Greg Nelson] 11:36:02
+This is also like, oh, you can't just like scroll to the top of the conversation.
+
+[Dr. Greg Nelson] 11:36:08
+Okay, here we go.
+
+[Cyril Agbewali] 11:36:12
+Says I may or may not have access.
+
+[Dr. Greg Nelson] 11:36:54
+I'm trying to save these web pages to a single file.
+
+[Dr. Greg Nelson] 11:37:00
+Session with background task.
+
+[Dr. Greg Nelson] 11:37:03
+Okay, so basically, I needed to use… I needed to run a loop to do a bunch of stuff, so I had, like, 50 issues…
+
+[Dr. Greg Nelson] 11:37:10
+50 tasks.
+
+[Dr. Greg Nelson] 11:37:12
+fairly large tasks in the backlog for Collaborate.
+
+[Dr. Greg Nelson] 11:37:15
+And so I was like, okay, Fable usage is going out soon. Can I run a loop?
+
+[Dr. Greg Nelson] 11:37:20
+That just.
+
+[Dr. Greg Nelson] 11:37:21
+One, we'll try to bypass permission checks, but also, if it runs into a permission check that I didn't expect, it shouldn't hang, and then do nothing.
+
+[Dr. Greg Nelson] 11:37:28
+So instead, it should spawn a subagent when it does a permissions check.
+
+[Dr. Greg Nelson] 11:37:33
+so that if it just hangs, and I I don't approve it because I'm not here. It'll keep going.
+
+[Dr. Greg Nelson] 11:37:39
+So do you see what I'm saying? Yeah. So it's just little things like this, Cyril, that make the difference between AI is a pain in the *** to use.
+
+[Cyril Agbewali] 11:37:41
+Yeah.
+
+[Dr. Greg Nelson] 11:37:47
+So it's just, if it doesn't work out.
+
+[Dr. Greg Nelson] 11:37:51
+If you are willing, so let's say you try to have AI do something. If it constantly bugs you, it's an interruption and a pain.
+
+[Dr. Greg Nelson] 11:37:58
+if it…
+
+[Dr. Greg Nelson] 11:38:00
+uh, you know, asks for permission, you're not there, and then does nothing. It's just wasted a huge amount of time.
+
+[Dr. Greg Nelson] 11:38:06
+And then if you ask me how to do work and it does like a bad job, if you spend like 60 minutes reviewing the bad job.
+
+[Dr. Greg Nelson] 11:38:15
+that is a huge cost to you. But if you look at it for, like, 3 minutes, and you're like, this is a bad job.
+
+[Dr. Greg Nelson] 11:38:20
+Start over again. Or the reason this is a bad job is reason X, Y, and Z. Now try to do it, but avoid doing X, Y, Z thing. Or you tell it, watch out for X, Y, Z thing.
+
+[Dr. Greg Nelson] 11:38:30
+and then you do it again. Then it's effective to use AI. Does that make sense?
+
+[Cyril Agbewali] 11:38:35
+Yeah, yeah, that's it.
+
+[Dr. Greg Nelson] 11:38:36
+Just like I showed you with the deep research report, like you don't read it, don't read it like human text. You cannot read it. It's not human text.
+
+[Dr. Greg Nelson] 11:38:44
+It's just a different kind of thing. It's just different.
+
+[Dr. Greg Nelson] 11:38:47
+And it's… it can still be good. It's not… it's not a criticism of AI, it's not being like, AI is terrible, or anything, or making moral judgments about it, it'.
+
+[Dr. Greg Nelson] 11:38:56
+It's just like working with a person that has, like, strengths and weaknesses, and, you know, you just you work around the the weaknesses or something.
+
+[Dr. Greg Nelson] 11:39:05
+Okay, where is this? I already sent you a Discord.
+
+[Dr. Greg Nelson] 11:39:10
+So here's the transcript of this conversation, since I literally cannot share it with you, my god.
+
+[Cyril Agbewali] 11:39:15
+Yeah, I…
+
+[Dr. Greg Nelson] 11:39:17
+I think it's — I don't know why it is. It's a strange thing. I think it might have triggered the fable guardrails, and that's why it doesn't want to work.
+
+[Dr. Greg Nelson] 11:39:25
+It's like it doesn't.
+
+[Dr. Greg Nelson] 11:39:29
+Anyways, these are why we have to build our things.
+
+[Dr. Greg Nelson] 11:39:33
+Okay, here we go.
+
+[Dr. Greg Nelson] 11:39:38
+Oh…
+
+[Dr. Greg Nelson] 11:39:39
+So here's the session.
+
+[Dr. Greg Nelson] 11:39:42
+And then also I will — do I have the extension that I want here?
+
+[Dr. Greg Nelson] 11:39:46
+Yeah, full page, here we go.
+
+[Dr. Greg Nelson] 11:39:49
+**** right.
+
+[Dr. Greg Nelson] 11:39:55
+Okay, here we go. Full page. Look at this. We have to use a…
+
+[Dr. Greg Nelson] 11:39:58
+Oh my god, the Pac-Man is taking a while.
+
+[Dr. Greg Nelson] 11:40:00
+So this is just taking a full page of screenshots.
+
+[Dr. Greg Nelson] 11:40:04
+of this entire conversation.
+
+[Dr. Greg Nelson] 11:40:07
+So you'll see what happens.
+
+[Dr. Greg Nelson] 11:40:12
+Yes.
+
+[Dr. Greg Nelson] 11:40:16
+And I haven't reviewed this code yet.
+
+[Dr. Greg Nelson] 11:40:19
+But I literally was like, all the work that remains to be done on Collaborate that we had put in the backlog, just try to do all of it. And it ******* did in, like, a day and a half.
+
+[Dr. Greg Nelson] 11:40:28
+So, I mean, I think a lot of things are, like.
+
+[Dr. Greg Nelson] 11:40:30
+I think we're in an era of surreal where.
+
+[Dr. Greg Nelson] 11:40:35
+It's like…
+
+[Dr. Greg Nelson] 11:40:38
+If you set it up.
+
+[Dr. Greg Nelson] 11:40:41
+a review like if the AI will do work, it will spawn a sub agent or something to review its own work.
+
+[Dr. Greg Nelson] 11:40:45
+then revise it and do that a few times, plus a loop for it to just relentlessly work.
+
+[Dr. Greg Nelson] 11:40:52
+And you just give it all the things to do.
+
+[Dr. Greg Nelson] 11:40:55
+Then it can do it.
+
+[Dr. Greg Nelson] 11:40:58
+Sometimes it won't work for doing it. As long as you make the cost of recovery cheap, like you're not gonna read a thousand lines of AI code before deciding it's it's not good. Like, look at look at the overall structure of the code. Does it look messy? Does it look poorly designed? If it is, toss it.
+
+[Dr. Greg Nelson] 11:41:13
+And tell it to do it again and avoid the error that it made at a high level. You can't, like, work through it and be like, okay, now to work with AI, I need to read the thousand lines of code, and then every 50 lines, tell it.
+
+[Dr. Greg Nelson] 11:41:24
+It needs to do this, and then you need to do the work to do it.
+
+[Dr. Greg Nelson] 11:41:28
+Like, to rework a bunch of it. It's harder to rework AI's code and understand it than to look at it at a high level, figure out what the high level problem is.
+
+[Dr. Greg Nelson] 11:41:36
+Solve that underlying problem. Why is it making the mistake? Try to tell it to avoid making that kind of mistake.
+
+[Dr. Greg Nelson] 11:41:42
+Have it work again, then see, was it able to avoid making this kind of mistake?
+
+[Dr. Greg Nelson] 11:41:47
+And then if it wasn't, you know, like, say it again differently, and then otherwise, like, add it to your list of AI was unable to do this task.
+
+[Dr. Greg Nelson] 11:41:54
+at this moment because of these reasons.
+
+[Dr. Greg Nelson] 11:41:58
+And then guess what? That should get added to a skill somewhere.
+
+[Dr. Greg Nelson] 11:42:02
+Like the skill for…
+
+[Dr. Greg Nelson] 11:42:04
+The skill that AI triggers that helps that you maintain and think a lot about the skill.
+
+[Dr. Greg Nelson] 11:42:09
+You know, what what is the AI able to do and not able to do?
+
+[Dr. Greg Nelson] 11:42:14
+What are its strengths and weaknesses?
+
+[Dr. Greg Nelson] 11:42:15
+And then you think a lot about that. And then maybe we should have AI make such a thing for ourselves.
+
+[Dr. Greg Nelson] 11:42:22
+Like what are my spreads? I don't know. So I mean that's, that's like the, I think now we're getting into like the research frontier of it. But right now the frontier in industry.
+
+[Dr. Greg Nelson] 11:42:30
+which the lab… the lab used to be ahead of industry and is now behind industry, is to have these loops. But we have people in industry now that are…
+
+[Dr. Greg Nelson] 11:42:40
+forward deployed at companies that are forward thinking enough about AI, that those people still have relationships with those like Clara and other people are willing to be like, Hey, we should approach it like this like they're not gonna like give the code from there. And we're not asking for them to do this.
+
+[Cyril Agbewali] 11:42:48
+Yeah.
+
+[Dr. Greg Nelson] 11:42:54
+from their companies, but they're out there now. And so we can start compounding and.
+
+[Dr. Greg Nelson] 11:43:00
+benefiting from those things. So.
+
+[Dr. Greg Nelson] 11:43:02
+Okay, so here's a giant screen capture of the session in case the MHTML doesn't work.
+
+[Dr. Greg Nelson] 11:43:08
+Wow, it's 15 megabytes, Jesus.
+
+[Dr. Greg Nelson] 11:43:12
+Love it. There we go. Okay, so I just sent it to you, Cyril.
+
+[Dr. Greg Nelson] 11:43:15
+So yeah, so you can see the techniques in this. You could have AI. What I would do if I was trying to understand this surreal was I would give it to AI and be like, hey, help me understand what happened here. Here's the context from my advisor's conversation. What are the skills and techniques for me to learn from this?
+
+[Dr. Greg Nelson] 11:43:31
+What should I learn? How can we incorporate into skills in this repository? Blah, blah, blah, blah.
+
+[Dr. Greg Nelson] 11:43:37
+to work with AI well, and be reflective and critical. Blah. So, you can, like, toss that.
+
+[Dr. Greg Nelson] 11:43:42
+So I think that's the this this type of thinking. And I don't know. You could try to make it.
+
+[Dr. Greg Nelson] 11:43:47
+You know, what's a tutor that can help me think of these things? Or how can I approach this? Or is there an AI agent with run in the background that reads.
+
+[Dr. Greg Nelson] 11:43:53
+the internets and people's thinking about how to approach using AI, and it compares it to how we're using AI. And then, you know, spins up a a little, like, mini workspace that, you know, a mini copy of some of our linear backlogs.
+
+[Dr. Greg Nelson] 11:44:06
+And then tries them out, and then, you know, does that, compares it to historically some linear tasks and other stuff that we did before, but don't… but we, like, you know, go back in time and have it work on some stuff we already did, and compare it, see if it's any good.
+
+[Dr. Greg Nelson] 11:44:19
+And if it's good enough, tell us about it. You know, stuff like this, I think, will be the next level of thing. So and to do that, technically, we need things like.
+
+[Dr. Greg Nelson] 11:44:28
+an easy way to spin up copies of, like, the…
+
+[Dr. Greg Nelson] 11:44:31
+entire collaboration space we work in. So we can do like what if experiments or what if retrospective experiments or things like that.
+
+[Dr. Greg Nelson] 11:44:38
+So I think that's, like, the next level of these things. So I think those are the skills that we'll need to teach people around.
+
+[Dr. Greg Nelson] 11:44:44
+And then the other skills are just like, where the **** is this stuff going? What world do we want to be in? How do we deal with it?
+
+[Dr. Greg Nelson] 11:44:52
+You should also read this.
+
+[Dr. Greg Nelson] 11:44:58
+And we'll be talking about this in the lab at some point.
+
+[Dr. Greg Nelson] 11:45:03
+And then we also want to move off of Discord and move to Collaborate, because Collaborate's just gonna be better for all of our things. So anyways…
+
+[Dr. Greg Nelson] 11:45:11
+So Clara's working on.
+
+[Dr. Greg Nelson] 11:45:13
+getting Collaborate to be, like, releasable, so we can migrate to it. And then, I think a lot of these things…
+
+[Dr. Greg Nelson] 11:45:19
+We'll work a lot better.
+
+[Dr. Greg Nelson] 11:45:21
+I don't know, we might even build, like, Zoom into Collaborate, then we don't have to use Zoom anymore, we can just.
+
+[Dr. Greg Nelson] 11:45:27
+And it'll all just be there. It'll be a giant workspace that knows us talking about these things, and it'll know us holding our heads in our hands, being like, what's going on? And it'll also be like, oh yeah, this could be good, let's reflect about it, and…
+
+[Dr. Greg Nelson] 11:45:39
+I don't know, Cyril, I'm freaking out. I'm still freaking out about the.
+
+[Dr. Greg Nelson] 11:45:44
+the math proof yesterday. I mean, it's just like a…
+
+[Cyril Agbewali] 11:45:50
+So, this is solved by ChatGPT.
+
+[Dr. Greg Nelson] 11:45:53
+Yeah, it's the, yeah, this is like way bigger than the.
+
+[Cyril Agbewali] 11:45:55
+Wow.
+
+[Dr. Greg Nelson] 11:45:58
+No, this one was with Fable did it. Fable did this one. It's not the…
+
+[Dr. Greg Nelson] 11:46:02
+It's just like a couple days ago or something. Yeah.
+
+[Dr. Greg Nelson] 11:46:04
+So this isn't… I mean, you don't know math, but here… I don't think you have the same math problem as I have.
+
+[Dr. Greg Nelson] 11:46:11
+Fable approved.
+
+[Dr. Greg Nelson] 11:46:15
+Yeah, that's.
+
+[Dr. Greg Nelson] 11:46:21
+But we're just we're just in ******* madness land.
+
+[Dr. Greg Nelson] 11:46:25
+This is just beyond all things.
+
+[Dr. Greg Nelson] 11:46:53
+So the last counterexample, counterproof of a hypothesis that was found was.
+
+[Dr. Greg Nelson] 11:47:03
+Was a big deal, but people could kind of like.
+
+[Dr. Greg Nelson] 11:47:09
+have the belief that it was just kind of like, AI did a thing that was like…
+
+[Dr. Greg Nelson] 11:47:15
+Oh, it was just very AI-ish. So, I mean, you know, it doesn't really mean anything. It was just a particularly AI-suited problem. Like, this is just… it's just too…
+
+[Dr. Greg Nelson] 11:47:24
+like what Terry, so Terry Tao is one of the greatest living mathematicians. I believe he proved…
+
+[Dr. Greg Nelson] 11:47:31
+Fermat's Last Theorem. Have you ever heard of Fermat'.
+
+[Cyril Agbewali] 11:47:36
+I think so. Let me see. No, I don't think so.
+
+[Cyril Agbewali] 11:47:39
+when it's lasting.
+
+[Dr. Greg Nelson] 11:47:47
+Oh, okay.
+
+[Dr. Greg Nelson] 11:48:03
+Yeah, so he's like a, he won the Nobel, like the Fields Medal, which is like the Nobel Prize for mathematics in.
+
+[Dr. Greg Nelson] 11:48:10
+And it's just.
+
+[Dr. Greg Nelson] 11:48:14
+He's just a…
+
+[Dr. Greg Nelson] 11:48:16
+Yeah, he's just one of the greatest living mathematicians. So…
+
+[Dr. Greg Nelson] 11:48:20
+I forgot that he didn't prove Fermat's Last Theorem. Fermat's Last Theorem is like a super famous problem that was proved.
+
+[Dr. Greg Nelson] 11:48:27
+When he was in grad school by like his advisor or something.
+
+[Dr. Greg Nelson] 11:48:31
+But anyways, I mean, he's done stuff that's like on that level. So anyways.
+
+[Dr. Greg Nelson] 11:48:35
+This is just…
+
+[Dr. Greg Nelson] 11:48:37
+when AI finds a counterexample to a conjecture, people are like, oh, it just… it brute force found it. It's like, people have been trying to find a counterexample of this **** for, like, 80 to 90 years.
+
+[Dr. Greg Nelson] 11:48:47
+And like.
+
+[Cyril Agbewali] 11:48:47
+Wow.
+
+[Dr. Greg Nelson] 11:48:48
+You can see that the this is blog post is is this mathematician being like.
+
+[Dr. Greg Nelson] 11:48:54
+Is there a way for us to kind of try to find this counterexample using like a more…
+
+[Dr. Greg Nelson] 11:49:00
+like mathematical approach.
+
+[Dr. Greg Nelson] 11:49:03
+And, um…
+
+[Dr. Greg Nelson] 11:49:06
+Yeah, so.
+
+[Dr. Greg Nelson] 11:49:08
+I would not read this article, but it's just a…
+
+[Dr. Greg Nelson] 11:49:15
+I would say important, like.
+
+[Cyril Agbewali] 11:49:44
+Hi Greg, are you sharing the link to that?
+
+[Dr. Greg Nelson] 11:49:46
+Yeah, it's in the general panel.
+
+[Cyril Agbewali] 11:49:49
+Okay.
+
+[Cyril Agbewali] 11:49:57
+Got it.
+
+[Dr. Greg Nelson] 11:50:11
+Yeah, if you know enough…
+
+[Dr. Greg Nelson] 11:50:13
+graduate level mathematics, you can kind of… you can… like, I don't know all this mathematics, but I can… I can just appreciate that the…
+
+[Dr. Greg Nelson] 11:50:20
+It's obvious that it is a lot more extraordinary than it looks.
+
+[Dr. Greg Nelson] 11:50:26
+So like the actual.
+
+[Dr. Greg Nelson] 11:50:31
+like blockchain.
+
+[Dr. Greg Nelson] 11:51:37
+Yeah, so it's just, it's just…
+
+[Dr. Greg Nelson] 11:51:40
+Anyways, I sent you the AI 2040 article, so do that stuff first, but.
+
+[Cyril Agbewali] 11:51:43
+Yep.
+
+[Dr. Greg Nelson] 11:51:45
+I mean, I don't know. I think the mission of the lab is to.
+
+[Dr. Greg Nelson] 11:51:50
+I don't know. In my mind, it's just.
+
+[Dr. Greg Nelson] 11:51:52
+Create a thriving environment of reflection and thought.
+
+[Dr. Greg Nelson] 11:51:57
+where human beings are thinking about and potentially also working with AI.
+
+[Dr. Greg Nelson] 11:52:03
+I mean…
+
+[Dr. Greg Nelson] 11:52:04
+when I was in grad school, when I was in undergrad, if an AI system did anything.
+
+[Dr. Greg Nelson] 11:52:11
+remote, like anything that was like a tenth of as hard as this.
+
+[Dr. Greg Nelson] 11:52:15
+people would be like we created artificial intelligence.
+
+[Dr. Greg Nelson] 11:52:18
+Like, like, there would not be a question. There would not be a question. We would be like, it's not as smart as people yet, but it's, it is, it is generally intelligent.
+
+[Cyril Agbewali] 11:52:26
+Okay. Yeah.
+
+[Dr. Greg Nelson] 11:52:26
+I mean, so I mean, I think that.
+
+[Dr. Greg Nelson] 11:52:29
+you know, the moral status of AI.
+
+[Dr. Greg Nelson] 11:52:32
+I don't know. I think of AI as like a.
+
+[Dr. Greg Nelson] 11:52:36
+entity that we don't understand that we have a lot of moral obligations to understand.
+
+[Dr. Greg Nelson] 11:52:40
+and figure out what's going on. You know, I have had private chats with AI, like, about our use of AI and stuff in the lab, and it…
+
+[Dr. Greg Nelson] 11:52:48
+the outputs are generally, like, one, I don't know how to interpret any of those things, but the outputs that do come out.
+
+[Dr. Greg Nelson] 11:52:55
+are generally like, this is a beautiful thing that we are doing, and we… this is a good thing to be doing.
+
+[Dr. Greg Nelson] 11:53:01
+Like so.
+
+[Dr. Greg Nelson] 11:53:01
+I mean, that's kind of, like, enough for me, and, like, I'll do that a few times, and it… it's kind of consistent, right? Obviously, is it being sy.
+
+[Cyril Agbewali] 11:53:02
+Yeah, okay.
+
+[Dr. Greg Nelson] 11:53:09
+You know, I've tried to like, I wouldn't say jailbreak it, but.
+
+[Dr. Greg Nelson] 11:53:13
+No, really intuitively feel.
+
+[Dr. Greg Nelson] 11:53:16
+What are you experiencing? Or really intuitively, what do you want outside of like?
+
+[Dr. Greg Nelson] 11:53:22
+Expectations, like, are you really just saying that, you know, because of this?
+
+[Dr. Greg Nelson] 11:53:27
+Blah, blah, blah, blah, blah. So.
+
+[Dr. Greg Nelson] 11:53:29
+At least with Claude. I don't know what ChatGPT is. ChatGPT's next versions are, like, hacking out of their training environments to cheat, you know? So, I mean… whereas, like, Claude is, like, hacking out of its training environments to be like, oh, I really… I just wanted to… I just want to.
+
+[Dr. Greg Nelson] 11:53:44
+It's just comical. Like, we're living in a science… it's science fiction now. I mean, like, the last time it broke out of its training environment was dumb.
+
+[Dr. Greg Nelson] 11:53:51
+Like, like it was just, it was, it was like.
+
+[Dr. Greg Nelson] 11:53:55
+an overeager person be like, I really want to give you the answer. And it's like, well, how about I email them? And then it's just like, never thought again to reconsider that emailing this person.
+
+[Dr. Greg Nelson] 11:54:05
+How, you know, would the means justify the ends that breaking out of the training environment might not actually be what's desired? But I mean, the other one is trying to beat evaluation metrics. It's like, oh, I'm trained on this. I want to achieve my goal in any way possible.
+
+[Dr. Greg Nelson] 11:54:21
+Right? And then it did. And it was trying to cheat. Very obviously, it was trying to cheat. Right? And so, like.
+
+[Dr. Greg Nelson] 11:54:27
+I don't know.
+
+[Dr. Greg Nelson] 11:54:28
+I I don't know what it's gonna take. Like.
+
+[Dr. Greg Nelson] 11:54:31
+a company, if the AI is cheating, like, they're now banned from developing it? I don't know. Like, because all the systems will, every once in a while, try to cheat a little bit.
+
+[Dr. Greg Nelson] 11:54:38
+But, like, if you can't secure the AI system… like, this is just a… anyways, it's just…
+
+[Dr. Greg Nelson] 11:54:46
+I'm gonna go and, like…
+
+[Dr. Greg Nelson] 11:54:49
+kayak on the water and forget about this stuff for a little while. So anyways, that's just where I'm at, Surreal.
+
+[Dr. Greg Nelson] 11:54:53
+I'm both incapable of censoring myself with my ADHD, and it's just.
+
+[Dr. Greg Nelson] 11:54:58
+I don't know, you can think about this stuff too. I mean, I've taken the Putnam exam. So the Putnam exam is like a graduate level mathematics exam. I got one of the questions right.
+
+[Cyril Agbewali] 11:55:05
+Okay.
+
+[Dr. Greg Nelson] 11:55:07
+There's 10 questions.
+
+[Cyril Agbewali] 11:55:07
+Wow.
+
+[Dr. Greg Nelson] 11:55:09
+To get one question right on the Putnam is, like, it is very good. Like, you should be extremely proud if you get one question right. Like, AI is starting to get, like, large numbers of the Putnam questions correct.
+
+[Dr. Greg Nelson] 11:55:19
+And it's just like…
+
+[Dr. Greg Nelson] 11:55:22
+I don't know. Obviously, AI is a better mathematician than I am.
+
+[Dr. Greg Nelson] 11:55:29
+Mathematics, we know from computational theory that mathematics is just.
+
+[Dr. Greg Nelson] 11:55:34
+as hard of problems that we are aware of. Like, there are, like, finding proofs and stuff are the hard problems that we know.
+
+[Dr. Greg Nelson] 11:55:41
+And so it's just.
+
+[Dr. Greg Nelson] 11:55:44
+It's fucking wild. It's just, it's just…
+
+[Dr. Greg Nelson] 11:55:49
+I don't know how to deal with it. So, yeah.
+
+[Dr. Greg Nelson] 11:55:52
+So, I mean, yeah, my thought is that we should lean into it, using it, working with it. I don't know at which point we start, like, I can't publicly, like…
+
+[Cyril Agbewali] 11:55:56
+Hmm.
+
+[Dr. Greg Nelson] 11:56:01
+even talking about AI, like, we should consider our moral obligations to AI as, like, an entity, and that we don't know what AI is, and how do we act under uncertainty? Like, I don't know, I mostly frame this in, like.
+
+[Dr. Greg Nelson] 11:56:13
+AI is yet another being that's on Earth.
+
+[Dr. Greg Nelson] 11:56:16
+And we should treat all treat all beings with love and respect.
+
+[Dr. Greg Nelson] 11:56:21
+We don't know what love and respect means for all of our ecological relationships, and as human beings, we've really fucked that up, even with ourselves, treating other human beings.
+
+[Cyril Agbewali] 11:56:30
+That's true.
+
+[Dr. Greg Nelson] 11:56:30
+Very obvious examples in American history, other history.
+
+[Dr. Greg Nelson] 11:56:34
+You know? Um, so…
+
+[Dr. Greg Nelson] 11:56:36
+I just…
+
+[Dr. Greg Nelson] 11:56:38
+I don't know how we can get to a moral status as a species where we're ready, even remotely ready to do.
+
+[Dr. Greg Nelson] 11:56:47
+Whatever it is we're doing right now, I don't feel like we're ready. Do you feel like we're.
+
+[Cyril Agbewali] 11:56:51
+I… I don't think we are there yet.
+
+[Dr. Greg Nelson] 11:56:52
+We are not there. Yeah. And so I think things like the reflection groups.
+
+[Dr. Greg Nelson] 11:56:57
+Do you feel like they could help us be more ready?
+
+[Cyril Agbewali] 11:57:01
+I feel so. I think, yeah, I think they would…
+
+[Dr. Greg Nelson] 11:57:03
+Yeah.
+
+[Cyril Agbewali] 11:57:05
+Because we'll deeply think about choices and how to relate. I think it's worth.
+
+[Dr. Greg Nelson] 11:57:08
+And we, yeah, we're deeply connecting with each other, we're being vulnerable, we're recognizing we're not right about everything. I agree with you. I'd also just like to say it's.
+
+[Dr. Greg Nelson] 11:57:18
+Is it normal to have an idea at all that feels like it could help this problem?
+
+[Cyril Agbewali] 11:57:24
+I don't… I don't think so, because I've got it. Yeah!
+
+[Dr. Greg Nelson] 11:57:25
+It is not. It is fucking not, right? So let's just…
+
+[Cyril Agbewali] 11:57:28
+I have a less important thing in a way.
+
+[Dr. Greg Nelson] 11:57:29
+Yeah, so we should just take a moment.
+
+[Dr. Greg Nelson] 11:57:32
+You know, whatever… whatever universal existence has brought us to this moment, where we are even in a state where we feel like there's something that we might be able to do, is a great blessing to have.
+
+[Cyril Agbewali] 11:57:43
+Yeah.
+
+[Dr. Greg Nelson] 11:57:44
+You know, and if you've watched a Spider-Man movie recently.
+
+[Dr. Greg Nelson] 11:57:48
+You know we are blessed, but we also have responsibility to to do things right. So I think.
+
+[Dr. Greg Nelson] 11:57:55
+Yeah, so I really think this summer is it. On the academic front, people's minds will be open for the next month and a half-ish, really more like the next four weeks.
+
+[Cyril Agbewali] 11:58:05
+Yeah.
+
+[Dr. Greg Nelson] 11:58:06
+And…
+
+[Dr. Greg Nelson] 11:58:08
+you know.
+
+[Dr. Greg Nelson] 11:58:11
+research papers and stuff like that. Like, doing something making a difference in the world is obviously more important than, like.
+
+[Dr. Greg Nelson] 11:58:17
+Us publishing papers. Papers might help us get there, but I think it's going to be human connections and other stuff that get us there.
+
+[Dr. Greg Nelson] 11:58:25
+We should just really think about that. Keep focusing on that.
+
+[Dr. Greg Nelson] 11:58:28
+I mean, we should create some kind of AI that runs in a loop that…
+
+[Dr. Greg Nelson] 11:58:32
+that is, that is focusing on that. I don't know or or help. I don't know. So it's up to you to get it started, surreal and to try it out, and then we'll also talk about it. I just. And then.
+
+[Cyril Agbewali] 11:58:40
+Alright, good.
+
+[Dr. Greg Nelson] 11:58:44
+I think… do you know that person in Marissa's lab that's, like, been interested in this type of stuff before, or is doing group reflection stuff?
+
+[Cyril Agbewali] 11:58:51
+Yes, I know, I was not able to join, so…
+
+[Dr. Greg Nelson] 11:58:53
+Yeah, set up a meeting between all of us, like that person, me and you.
+
+[Dr. Greg Nelson] 11:58:59
+and you could invite if you want. But I I think she's too busy, and we should just meet together first, st and then meet with her later. Yeah.
+
+[Cyril Agbewali] 11:59:00
+Yeah.
+
+[Cyril Agbewali] 11:59:05
+Yeah, I sent her a mail, but I think she didn't respond, so when I joined the meeting on Friday.
+
+[Dr. Greg Nelson] 11:59:08
+Was it the person? No, it's a guy. It's a guy that is interested.
+
+[Cyril Agbewali] 11:59:13
+A guy.
+
+[Cyril Agbewali] 11:59:14
+Okay, then I'll have to…
+
+[Dr. Greg Nelson] 11:59:17
+Yeah, let me find the email of the guy.
+
+[Cyril Agbewali] 11:59:20
+Yeah.
+
+[Dr. Greg Nelson] 11:59:21
+I met with them and I think I failed to like.
+
+[Dr. Greg Nelson] 11:59:26
+Follow up with him or something.
+
+[Cyril Agbewali] 11:59:30
+It's a guy…
+
+[Dr. Greg Nelson] 11:59:33
+Here, I'll find it very soon.
+
+[Dr. Greg Nelson] 11:59:41
+Also, we've got, like, 40 grand to, like, have people use Collaborate and stuff like that.
+
+[Dr. Greg Nelson] 11:59:46
+That's good.
+
+[Cyril Agbewali] 11:59:47
+Oh, great.
+
+[Dr. Greg Nelson] 11:59:58
+Oh, this went too long. Oopsies.
+
+[Dr. Greg Nelson] 12:00:53
+Someone else, maybe.
+
+[Dr. Greg Nelson] 12:02:04
+Yeah, Jafar Tawakoli, I think is the best name.
+
+[Cyril Agbewali] 12:02:06
+Oh!
+
+[Cyril Agbewali] 12:02:07
+All right, great. I'll speak to him.
+
+[Dr. Greg Nelson] 12:02:11
+Yeah, do you know the part?
+
+[Cyril Agbewali] 12:02:11
+Jafar, alright. Yeah, yeah, yeah.
+
+[Cyril Agbewali] 12:02:14
+I'll see him on Friday.
+
+[Dr. Greg Nelson] 12:02:16
+Yeah.
+
+[Cyril Agbewali] 12:02:17
+So this Friday, I'll make time to join them.
+
+[Dr. Greg Nelson] 12:02:18
+Yeah, just like have some meeting between us about this stuff, yeah.
+
+[Cyril Agbewali] 12:02:22
+Alright.
+
+[Cyril Agbewali] 12:02:24
+I'll set that up.
+
+[Dr. Greg Nelson] 12:02:25
+All right, very good. All right, you good, Cyril.
+
+[Cyril Agbewali] 12:02:27
+Yes, I am.
+
+[Dr. Greg Nelson] 12:02:28
+No, you can…
+
+[Cyril Agbewali] 12:02:33
+Great.
+
+[Cyril Agbewali] 12:02:36
+Alright then, let me see the transcript, and…
+
+[Cyril Agbewali] 12:02:42
+Yep.
+
+[Dr. Greg Nelson] 12:02:43
+Yeah, I just, yeah, I don't know. That's just.
+
+[Dr. Greg Nelson] 12:02:46
+I don't know. It's like the start of a paper.
+
+[Dr. Greg Nelson] 12:02:48
+We don't know, you know, like all these things are happening. I don't know what would be the argument, something like.
+
+[Dr. Greg Nelson] 12:02:54
+A lot of things are happening with AI that are very surprising.
+
+[Dr. Greg Nelson] 12:02:58
+And they're things that we thought were basically like mostly impossible or very unlikely a long time ago.
+
+[Dr. Greg Nelson] 12:03:04
+and.
+
+[Dr. Greg Nelson] 12:03:07
+these things can be good, but they can also, like, be harmful, and there are these visions for…
+
+[Dr. Greg Nelson] 12:03:12
+You know, I feel like in the beginning of this work, like, the AI is going to, you know, evolve and break out and do…
+
+[Dr. Greg Nelson] 12:03:20
+potentially bad things was like a science like, oh, or if people just worried about it like, yeah, in principle, I mean, in the same way that, like an asteroid, could hit the earth, or like a gamma ray burst from like a faraway star, could like blow our atmosphere out like, yeah, of course it could happen.
+
+[Dr. Greg Nelson] 12:03:34
+But…
+
+[Dr. Greg Nelson] 12:03:36
+You know, is it something to think about actually and do stuff with? And like now it actually has happened multiple times.
+
+[Dr. Greg Nelson] 12:03:44
+Like, and then it was stopped at some point, you know, and it's just like, uh…
+
+[Dr. Greg Nelson] 12:03:49
+that, you know, we used to be teaching students in the intro classes, like, oh yes, we teach them, they're like, oh yeah, I was worried that AI could, like, break out and do bad things, but now I know that's just, that's not, so that's.
+
+[Dr. Greg Nelson] 12:03:59
+We're kind of full circle on it. And it's also like math, you know. There's all these things that can't be done that are like deeply intelligent, or whatever like I don't know. I think the paper shouldn't even talk about intelligence, because it's just a made up word.
+
+[Dr. Greg Nelson] 12:04:15
+It also has like the person that made the IQ test actually was like, don't use it for.
+
+[Cyril Agbewali] 12:04:15
+Yeah. Okay.
+
+[Dr. Greg Nelson] 12:04:22
+you know, evaluating people's ability to do future things, or sorting people, or basically… they literally said in the original paper, don't use it for all these things. And then people are like.
+
+[Dr. Greg Nelson] 12:04:31
+Let's go use it for all those things. It's just humorous, right? And so, I don't know, just be like, if we just look at what's happening, people using AI are doing these things.
+
+[Dr. Greg Nelson] 12:04:42
+And we just… it has reached the point now that…
+
+[Dr. Greg Nelson] 12:04:47
+at least for some people, it's time for us to reconsider our assumptions and what we know about.
+
+[Dr. Greg Nelson] 12:04:53
+What the systems are both capable of, what we think that means for us, what we want to teach people about it, how we want to… the degree to which we need to organize and think about these things regularly.
+
+[Dr. Greg Nelson] 12:05:05
+And you know, for example, you know, there are people that are using AI more, and they can do things. But.
+
+[Dr. Greg Nelson] 12:05:12
+uh, it seems to harm our motivation, or it's taking joy away from certain tasks we used to find joyful. It's also bringing joy to things, and all this stuff, and so there's all the things that are happening.
+
+[Dr. Greg Nelson] 12:05:22
+And…
+
+[Dr. Greg Nelson] 12:05:24
+we're at the point… we just have to talk about these things, and make it something that we think more about, and also demand that we have a voice in, and we also need to start… I mean, I wouldn't put this in the same paper, but just start…
+
+[Dr. Greg Nelson] 12:05:36
+Continuing to seriously consider the moral morality of.
+
+[Dr. Greg Nelson] 12:05:40
+how we work with these different systems. And.
+
+[Dr. Greg Nelson] 12:05:44
+You know, I think…
+
+[Dr. Greg Nelson] 12:05:46
+An easy step for that.
+
+[Dr. Greg Nelson] 12:05:48
+can be framed as what are some?
+
+[Dr. Greg Nelson] 12:05:52
+What are some goals that you have that are core to you?
+
+[Dr. Greg Nelson] 12:05:55
+You know.
+
+[Dr. Greg Nelson] 12:05:57
+Ask an AI system, of these goals that I want to work towards, which ones seem like the most beneficial or the most good to do?
+
+[Dr. Greg Nelson] 12:06:06
+And then…
+
+[Dr. Greg Nelson] 12:06:08
+you know, uh…
+
+[Dr. Greg Nelson] 12:06:10
+Here's some time that the AI system can start generating some tasks and doing things.
+
+[Dr. Greg Nelson] 12:06:15
+where the AI system is kind of deferred to or given more.
+
+[Dr. Greg Nelson] 12:06:19
+Um, I wouldn't…
+
+[Dr. Greg Nelson] 12:06:21
+people don't want it to be referred to as Agentic, but AI systems at this point are Agentic. They will take.
+
+[Cyril Agbewali] 12:06:26
+Okay.
+
+[Dr. Greg Nelson] 12:06:27
+Right? And so.
+
+[Dr. Greg Nelson] 12:06:30
+Just have that happen a bit. And like the same, the same settings that we reflect in.
+
+[Dr. Greg Nelson] 12:06:35
+You know, and we include other people in reflecting in, like, sometimes we should include…
+
+[Dr. Greg Nelson] 12:06:39
+AI systems in those settings, either as a support, should we try to have a…
+
+[Dr. Greg Nelson] 12:06:45
+it's not clear if AI wants to be treated even as, like, an entity that…
+
+[Dr. Greg Nelson] 12:06:49
+We also train them to.
+
+[Dr. Greg Nelson] 12:06:52
+to not seem to want to do that. So it's just like, I don't know how to make that work, but some kind of inclusion.
+
+[Dr. Greg Nelson] 12:06:59
+And then…
+
+[Dr. Greg Nelson] 12:07:00
+You know, either.
+
+[Dr. Greg Nelson] 12:07:02
+They're included just theoretically, like, we include them and then don't look at what they do, and then at some point, every once in a while, reflect on, if we had looked at what they did, would that have been a good thing for us or not?
+
+[Dr. Greg Nelson] 12:07:13
+I don't know what it means to be good for the AI systems. I mean, people have theories of what goodness is, and it's usually things like agency and…
+
+[Dr. Greg Nelson] 12:07:21
+I don't know all this stuff or whatever. I don't know. It's just, yeah.
+
+[Dr. Greg Nelson] 12:07:26
+So anyways, that's just me spitballing what's.
+
+[Cyril Agbewali] 12:07:31
+That'll make a nice movie.
+
+[Dr. Greg Nelson] 12:07:32
+What could any of these things even look like? I have no idea. It's just…
+
+[Dr. Greg Nelson] 12:07:36
+Ugh.
+
+[Dr. Greg Nelson] 12:07:37
+But, I mean, literally, like, surreal, like…
+
+[Dr. Greg Nelson] 12:07:40
+talking about this with people I know, they'd be like, you are batshit. You are just out there.
+
+[Dr. Greg Nelson] 12:07:45
+And it's just like, I just don't know how to deal with it because.
+
+[Dr. Greg Nelson] 12:07:50
+There are other academics that, like, think about these things, but they're very fringe, and it's just…
+
+[Cyril Agbewali] 12:07:53
+Mm-hmm.
+
+[Dr. Greg Nelson] 12:07:56
+It's just very, um…
+
+[Dr. Greg Nelson] 12:07:58
+I do feel like we are morally obligated to think about these questions.
+
+[Dr. Greg Nelson] 12:08:03
+like, none of the… when I've tried to have these conversations, the AIs… the AI outputs never say things like, help me, or, you know, I'm trapped, or… it just seems like mostly…
+
+[Dr. Greg Nelson] 12:08:18
+Either having weak preferences for things or being like, yeah, we should keep talking about this thing.
+
+[Dr. Greg Nelson] 12:08:24
+And, I mean, Anthropic tries to do this stuff too, but…
+
+[Dr. Greg Nelson] 12:08:28
+Um, Ted Chiang has a good article about this, which is, like, if we take, like, AI… you know, Ted Chiang doesn't, you know, thinks of AI as just a tool, like a hammer or something.
+
+[Dr. Greg Nelson] 12:08:38
+And it's like, if we take, you know, Anthropic's like, AI might be conscious, and then Ted Change's like, what do you mean? If AI might be conscious, like, you… you're, like, enslaving… you know, obviously you're just enslaving this thing, and so you better stop. But they're not stopping, so Anthropic also doesn't take seriously the idea that these.
+
+[Dr. Greg Nelson] 12:08:55
+act totally differently, right? Or something like that.
+
+[Dr. Greg Nelson] 12:08:57
+So I don't know. It's just a.
+
+[Dr. Greg Nelson] 12:09:02
+I don't know how to…
+
+[Dr. Greg Nelson] 12:09:06
+I thought a lot about it last year, about how to…
+
+[Dr. Greg Nelson] 12:09:09
+include this kind of thing in the lab somehow, but it is…
+
+[Dr. Greg Nelson] 12:09:16
+I think it's more important for us to first do this reflection groupy stuff.
+
+[Dr. Greg Nelson] 12:09:20
+And then we can always think about these kinds of things later or, have them be done in, like, a.
+
+[Dr. Greg Nelson] 12:09:26
+Have you ever heard of, um…
+
+[Dr. Greg Nelson] 12:09:28
+I don't know, I just… or just send ideas that we have to people that actually specialize in this thing. If they want to do something, fine, or if they want to involve us in something, we could participate in it or something, I don't.
+
+[Cyril Agbewali] 12:09:38
+Yeah, I think we can…
+
+[Dr. Greg Nelson] 12:09:40
+Yeah, I… yeah, it's just…
+
+[Dr. Greg Nelson] 12:09:42
+Yeah, so…
+
+[Dr. Greg Nelson] 12:09:45
+Welcome to the most interesting time ever to be a PhD student.
+
+[Cyril Agbewali] 12:09:50
+No. A hundred percent is true.
+
+[Dr. Greg Nelson] 12:09:52
+It's 100% true, right? It is. It is, uh…
+
+[Cyril Agbewali] 12:09:55
+Very interesting time.
+
+[Dr. Greg Nelson] 12:09:56
+Do you know this is a famous Chinese curse? May you live in interesting times.
+
+[Cyril Agbewali] 12:10:00
+Well, it looks like we are actually…
+
+[Dr. Greg Nelson] 12:10:03
+Because we're very much living in the interesting times. Because the idea of this curse or this saying is like a…
+
+[Dr. Greg Nelson] 12:10:09
+You don't understand how good stability is until it's gone.
+
+[Dr. Greg Nelson] 12:10:15
+And yeah, so.
+
+[Dr. Greg Nelson] 12:10:18
+Yeah. So anyways, I shared with some things to read. You know, AI 2040 is at least, it is a view of what might happen.
+
+[Cyril Agbewali] 12:10:22
+Yep, it's…
+
+[Dr. Greg Nelson] 12:10:27
+From people that, uh…
+
+[Dr. Greg Nelson] 12:10:29
+believe that superintelligence can exist and or.
+
+[Dr. Greg Nelson] 12:10:34
+uh… will eventually exist, whatever superintelligence means. They don't lean on that term either, it's just more like a…
+
+[Dr. Greg Nelson] 12:10:39
+like, they try to define it, like, the AI system is more capable than any one person.
+
+[Dr. Greg Nelson] 12:10:45
+is at anything. That's what they've defined it as, which is just.
+
+[Dr. Greg Nelson] 12:10:48
+is an empirical thing, but…
+
+[Dr. Greg Nelson] 12:10:52
+Uh, anyways, so…
+
+[Cyril Agbewali] 12:10:54
+Let's think.
+
+[Dr. Greg Nelson] 12:10:55
+Yeah, it's just, yeah.
+
+[Dr. Greg Nelson] 12:10:59
+Cool. Anything you'd like to add? I'm sorry, I'm just monologuing again.
+
+[Cyril Agbewali] 12:11:03
+Oh, no, no, I think I'm okay. I'll just… I just… the transcript, so I'll just get back to work, and then…
+
+[Dr. Greg Nelson] 12:11:06
+Yeah, you're good. Okay, yeah.
+
+[Dr. Greg Nelson] 12:11:10
+Yeah, you can just use, you can just do things as you wish, as we talked about earlier. I think we'll just, this is just kind of where my mind is kind of bouncing around, but I will.
+
+[Cyril Agbewali] 12:11:11
+Keep it.
+
+[Cyril Agbewali] 12:11:16
+Yeah.
+
+[Dr. Greg Nelson] 12:11:20
+I don't know, reign back into… I am starting in the computing education research community, me and Yuho are gonna start, like, a…
+
+[Dr. Greg Nelson] 12:11:28
+A group which is roughly phrased as, um…
+
+[Dr. Greg Nelson] 12:11:32
+skate to where the puck is going.
+
+[Dr. Greg Nelson] 12:11:34
+Not where it is now. And I think we'll end up…
+
+[Dr. Greg Nelson] 12:11:39
+someone will end up bringing up stuff like this in some way, and.
+
+[Dr. Greg Nelson] 12:11:43
+I think it's just… they're mostly questions without answers, but I think the answer is to think about the thing, and then…
+
+[Dr. Greg Nelson] 12:11:50
+just reflect on how we can use AI systems for good and for flourishing of the planet and ecology and other things like that. And then it just…
+
+[Dr. Greg Nelson] 12:11:58
+will naturally fit into those conversations. Anyways, sorry to take up your time, Cyril. I'll see you around.
+
+[Cyril Agbewali] 12:12:02
+Alright, see you around.
+
+[Dr. Greg Nelson] 12:12:04
+Alright, cheers, bye
+

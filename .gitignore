@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Word/Office lock and temp files
+~$*
+*.tmp
+
+# Local Claude Code state (keep skills + settings.json, which are shared)
+.claude/settings.local.json
