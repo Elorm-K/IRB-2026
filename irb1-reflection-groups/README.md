@@ -2,6 +2,38 @@
 
 **Drafted, not submitted.** Backlog item 1. Blocking recruitment for out-of-class groups.
 
+> ## ⚠ The `.docx` files here are no longer the live version (noted 2026-08-04)
+>
+> Editing continued in a **Google Doc**, and the final IRB #1 differs from
+> `CURRENT/protocol-candidates/IRB1_Protocol_ReflectionGroups_OutsideClasses_FINAL_structured.docx`.
+> Diff anything against the Google Doc, not against these files. What changed in the final version:
+>
+> - **Research questions 1 and 2** broadened from "reflection groups" to "reflection **activities**,
+>   such as reflection groups"; the same broadening in Methods item 2, §5, and Appendix G.
+> - **§3 Personnel** — every person now carries a years figure: Cyril **~1 year**, Troy **~2 years**
+>   (the repo copy has no Experience line for Cyril at all).
+> - **§4 Participant Population** — the 60–100 / ~200 arm-by-arm forecasts are replaced by one
+>   ceiling: *"over 5 years we may have up to 1,000 participants."* Methods item 11 keeps the
+>   forecasts as the basis. The high-school-visitors sentence is deleted.
+> - **Over-specification deleted**: "which uses only the same intake information" (matching tool),
+>   "as peer members (not mentors)" (professionals), and the sentence about the consent form
+>   indicating whether service data may be analyzed.
+> - **Matching** loosened to "based on shared **affinity and other characteristics such as** shared
+>   gender, shared disability status, and overlapping availability."
+> - **Survey consent** simplified: the form sits at the beginning of the **first** survey and covers
+>   consent for the study; the mechanic is dropped from Methods item 9 and stated only in §5.
+> - **Appendix A** bullets reordered chronologically; the intake survey folded into the first bullet.
+> - Appendix E email templates use `<insert link>` placeholders.
+>
+> **Three defects to fix in the Google Doc**, found while diffing: `professionals..` (double period,
+> Methods item 7); `and Provide your availability` (capital *P* mid-sentence, Appendix A); and
+> `comparisons group` → "comparison groups" (§4). Also note that `<insert link>` placeholders are
+> silently stripped if markdown is ever re-uploaded to Google Docs — verify them after any upload.
+>
+> These decisions were ported into IRB #2 on 2026-08-04; see the addendum in
+> [../irb2-instructor-collaboration/reports/IRB2_v5_VERIFICATION_REPORT.md](../irb2-instructor-collaboration/reports/IRB2_v5_VERIFICATION_REPORT.md)
+> for which were taken, which were deliberately not, and why.
+
 Covers reflection and collaboration activities with **no course involvement at all**:
 ongoing groups for current students (outside their coursework), recent graduates and alumni,
 working professionals as peers, community members; the matching and behaviour-change tools;

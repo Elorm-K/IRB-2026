@@ -1,6 +1,11 @@
 # IRB #2 — Instructor Collaboration (incl. critical and reflective use of generative AI)
 
-The draft furthest along. **v5, drafted 2026-07-28, awaiting PI review.** Backlog item 2.
+The draft furthest along. **v7, drafted 2026-08-06, awaiting PI review.** Backlog item 2.
+
+**v7 is a reconciliation**, not a redraft: Cyril's Google Doc ("IRB 2") is the base text, with the
+v6 instructor consent-form merge applied on top and a short list of board-required items restored.
+Every change is **bold red** in the `.docx` — strip the `{{...}}` markers from `source/p2/*.md`
+and rebuild before submitting.
 
 **One protocol, two populations.** Instructor-facing research (interest-and-barriers survey,
 optional interviews, co-design workshops, consultation notes, longitudinal follow-up,
@@ -25,12 +30,17 @@ back on cycle-time grounds, are in
 
 ## Read in this order
 
-1. **[reports/IRB2_v5_VERIFICATION_REPORT.md](reports/IRB2_v5_VERIFICATION_REPORT.md)** —
-   start here. Why merged, the fixes applied (including two the previous pass got wrong),
-   measured reading level, the consistency pass, the 12 open decisions, and what is still
-   covered by no protocol. It tells you what you do *not* need to re-check.
-2. **[CURRENT/](CURRENT/)** — the documents themselves.
-3. **[reports/IRB2_v4_VERIFICATION_REPORT.md](reports/IRB2_v4_VERIFICATION_REPORT.md)** and
+1. **[reports/IRB2_v7_RECONCILIATION_REPORT.md](reports/IRB2_v7_RECONCILIATION_REPORT.md)** —
+   start here. What your Google Doc changed, what was restored and why, the defects fixed, and what
+   is still open.
+2. **[reports/IRB2_v6_VERIFICATION_REPORT.md](reports/IRB2_v6_VERIFICATION_REPORT.md)** —
+   what the consent-form merge changed, and the four verification passes on it.
+3. **[reports/IRB2_v5_VERIFICATION_REPORT.md](reports/IRB2_v5_VERIFICATION_REPORT.md)** — why the
+   protocol is merged rather than split, the fixes applied, the consistency pass, and what is still
+   covered by no protocol. Everything v6's report does not restate. It tells you what you do *not*
+   need to re-check.
+4. **[CURRENT/](CURRENT/)** — the documents themselves.
+5. **[reports/IRB2_v4_VERIFICATION_REPORT.md](reports/IRB2_v4_VERIFICATION_REPORT.md)** and
    **[reports/IRB2_v4_MARKUP_KEEP-ADAPT-CUT.md](reports/IRB2_v4_MARKUP_KEEP-ADAPT-CUT.md)** —
    v4's provenance. Still the record of which passages are preserved approved language, and
    why each cut was made; v5 inherits those decisions.
@@ -39,8 +49,8 @@ back on cycle-time grounds, are in
 
 | File | What it is |
 |---|---|
-| `IRB2_Protocol_v5_MERGED_SUBMISSION.docx` | The submission: narrative plus all appendices, both populations |
-| `IRB2_CoverPage_v5.docx` | Cover-page values, prepared for pasting into the official downloaded template |
+| `IRB2_Protocol_v7_MERGED_SUBMISSION.docx` | The submission: narrative plus all appendices, both populations |
+| `IRB2_CoverPage_v7.docx` | Cover-page values, prepared for pasting into the official downloaded template |
 
 The consent forms in v5 are rebuilt from the **January 2026 board-approved templates** in
 `../inputs/approved-protocols/2023_07_10 Nelson_MOD_Jan_2026_FINAL.docx` — copied approved
@@ -49,9 +59,17 @@ is now closed.
 
 ## `source/` — edit here
 
-- **`p2/`** builds v5: `narrative.md`, `consentA.md`, `consentB.md`, `consentC.md`,
-  `consentDE.md`, `appx.md`, `coverpage.md`. Change the source, regenerate the Word file.
-- `protocol_v5_MERGED.md` is the assembled v5 markdown.
+- **`p2/`** builds v7: `narrative.md`, `consentA.md`, `consentB.md`, `consentCD.md`,
+  `appx.md`, `coverpage.md`. Change the source, then regenerate:
+
+  ```
+  python3 ../../tools/build_docx.py source/protocol_v7_MERGED.md \
+      CURRENT/IRB2_Protocol_v7_MERGED_SUBMISSION.docx
+  ```
+
+  `protocol_v7_MERGED.md` is `narrative.md` followed by the four consent files and `appx.md`,
+  joined by a blank line pair.
+- `protocol_v5_MERGED.md` is the assembled v5 markdown, kept for the alignment diff.
 - `consent_v4.md`, `protocol_v4.md`, `recruit_v4.md`, `held_v4.md` are v4's parts, kept for
   lineage.
 
@@ -60,11 +78,19 @@ the `.docx` is the delivery format, not the working format.
 
 ## Before submitting
 
-**12 decisions** are carried in the document as `{your input needed here}` markers and listed
-in the v5 report — including the Dufour dual-role conflict, workshop compensation, expected
-N, student interview compensation, the GenAI self-efficacy items, and the not-research
-determinations for the high-school outreach and enabling-skills group. The cover page also
-needs a human-subjects start date.
+**3 decisions** are carried in the document as `{your input needed here}` markers: the GenAI
+self-efficacy items and the wider first-year measure set (both Appendix L), and the adapted
+icebreaker question list (Appendix N). Nine others were closed on 2026-08-04 — see the two
+addenda at the end of the v5 report. The cover page also needs a human-subjects start date.
+
+v6 adds two decisions of its own, both in its report: whether to add an optional interview
+checkbox to the merged instructor form, and whether Appendix C (student survey consent) should be
+narrowed to comparison courses.
+
+**One thing closed by marker deletion but not actually resolved:** the **Dufour dual-role
+conflict**. §4 excludes any course taught by a member of the research team, Chris Dufour is
+listed as personnel in §3, and the funded plan names his one-credit seminar as a deployment
+site. The marker is gone; the conflict is not.
 
 Two process items remain open: the **official cover page template** must be downloaded and
 the prepared values pasted in, and the **Linear task for PI review** (workflow Phase 5) was
