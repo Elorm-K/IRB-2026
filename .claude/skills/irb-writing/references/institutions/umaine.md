@@ -110,12 +110,19 @@ funded protocol is the first to hit the funded trigger, and a CAREER-funded one 
 returned without it; there is no in-program evidence the board enforces it. Report as
 `UNVERIFIED`, not `VIOLATION`.
 
-### Sample interview questions — either form satisfies
+### Sample interview questions — either form satisfies *in the consent form only*
 
 The checklist asks for *"examples of a couple of interview questions."* Approved forms
 instead give a topical description ("interviews about your learning and experience in the
 class, including related to generative AI"). A topical description plus one or two examples
-covers both.
+covers both **inside a consent form**.
+
+**Corrected 2026-08-10 — this does not extend to the narrative.** The allowance above was
+read as permission to describe instruments in prose instead of attaching them, and IRB #2 v8
+folded three instrument appendices into §2. The reviewer's response was
+*"Include Appendix with survey questions"* and *"Include Appendix with interview protocol."*
+**Every survey and interview guide named in the narrative needs its own appendix**, whatever
+the consent form does. See `../board-rules.md` §4b.
 
 ### Also required (empirical, from board responses)
 
@@ -176,7 +183,31 @@ fate.
   interviews, $160."*). `../board-rules.md` §4's "~$25 is the floor" stands as a floor, not
   a norm.
 - Approved Compensation sections carry **worked totals** ("that would be $90 in total").
-  Reproduce that pattern.
+  Reproduce that pattern. Note that a worked *cumulative* total may exceed the per-card cap
+  below without violating it — the cap is per card. Say so if it looks close.
+
+### Gift card mechanics — [ORA gift card policy](https://umaine.edu/ora/gift-card-purchases/)
+
+Raised by the reviewer on IRB #2, 2026-08-07, and not discoverable from the IRB pages alone.
+Quotes are exact.
+
+- **"Gift cards may not be used to compensate employees."** UMaine-employed instructors
+  cannot receive a gift card at all. This is separate from the >$75 tax-reporting rule above,
+  which still applies to student employees, who *can* receive one.
+- **"Individual gift cards should not exceed $50."** Per card, not cumulative.
+- **A separate payment-information instrument is required.** In the reviewer's words:
+  *"Instructors will be required to fill out a Qualtrics form requesting information for the
+  university business administration office in order to process the gift cards. This should
+  be a separate survey not connected to the participant's responses."* It applies to student
+  participants too. The protocol needs: an appendix holding the form, a statement in
+  Confidentiality that it is stored apart from research data and never joined to responses,
+  a data-collected item classing it as an administrative record, and a plain-language line in
+  **every** consent form for a compensated activity.
+- **"Gift cards are cash equivalents and require strict documentation and tracking"** —
+  authorization forms, a disbursement log, an acceptance agreement, and **W-9 forms where
+  applicable**. Current forms come from Procurement's Corporate Card page, effective
+  2026-01-20.
+- **"IRB approval is required when applicable"** for participant incentives.
 
 ## 8. Review categories, timing, deadlines
 

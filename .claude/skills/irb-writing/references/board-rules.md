@@ -88,6 +88,59 @@ Must be plausible payment for the burden requested. Reference points:
 Compensation amounts are a PI decision — flag rather than set them, but flag loudly when
 a carried-over amount is implausible for the time asked.
 
+**The gift card mechanism is reviewable, not just the amount (ORA, 2026-08-07).** On IRB #2
+the reviewer required three things the protocol had not addressed: recipients submit the
+University's payment information on a **separate instrument not connected to their
+responses**; **University employees cannot be paid by gift card at all**; and no individual
+card exceeds $50. Any protocol that pays participants needs a payment-information appendix,
+a confidentiality statement that it is stored apart from research data, and a line in every
+consent form saying a gift card requires it. The rules themselves are in
+`institutions/umaine.md` §7.
+
+## 4b. Instruments belong in appendices **(ORA, 2026-08-07)**
+
+The board asks for the **actual instrument**, not a description of it: "Include Appendix
+with survey questions" and "Include Appendix with interview protocol," against a protocol
+whose narrative described both in prose. Every survey and every interview guide named in
+the narrative needs its own appendix, for both instructor-facing and student-facing
+instruments — a reviewer who asks for one guide will ask for the other.
+
+This **contradicts** the allowance recorded at `institutions/umaine.md` §5 that "a topical
+description plus one or two examples covers both." That allowance was inferred from approved
+forms, and it drove an IRB #2 revision that folded three instrument appendices into inline
+prose. The review cost a round. When a published checklist asks for instruments and approved
+practice appears to permit less, follow the checklist: an extra appendix is free, a review
+cycle is not.
+
+**Pay per interview, not once (GN, final IRB #1, 2026-08-04).** All three protocols in this
+program pay per interview; every approved Compensation section in the program does. A "$X once,
+however many interviews" scheme is the outlier — it drives the average below the floor as soon as
+interviews repeat, and it silently drops the tax-reporting language, because a single payment
+cannot cross $75. If interviews can repeat, write per-interview, add a worked total, and check
+whether the maximum cumulative payment now crosses $75 in **every** consent form for a
+compensated activity.
+
+## 4a. PI drafting preferences (from the final IRB #1, 2026-08-04)
+
+Greg's edits between the drafted and the submitted IRB #1. Apply these when drafting rather than
+waiting to be told:
+
+- **Expected N: state a ceiling, not a forecast.** In the population section, give one generous
+  maximum with a one-clause rationale for why it cannot be predicted (*"Given we will openly
+  recruit people online, over 5 years we may have up to 1,000 participants"*). Keep any arm-by-arm
+  planning figures in Methods as the basis, not in the population section, where they become the
+  approved number. Do **not** state a recruitment funnel — those figures drift within a semester.
+- **Every person listed gets a years-of-experience figure.** The application requires a number, and
+  "if none, say 0 years." Do not leave the line off.
+- **Lists of criteria are illustrative, not exhaustive.** *"based on shared affinity and other
+  characteristics such as …"* rather than a closed list that a change of practice would violate.
+- **Delete detail that constrains a mechanism.** Cut from the drafted IRB #1: "which uses only the
+  same intake information" (matching tool), "as peer members (not mentors)" (professionals), and a
+  sentence describing which sub-consents the consent form carries.
+- **Broaden the construct one notch.** "Reflection groups" → "reflection **activities**, such as
+  reflection groups" wherever the modality is incidental, so a variant does not need a modification.
+- **State consent mechanics once**, in the informed-consent section — not again in Methods.
+
 ## 5. Keep / cut catalog
 
 Concrete calls made on real drafts. Extend this list as more are made.
