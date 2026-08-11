@@ -14,6 +14,8 @@ recovers the original filenames.
 | `IRB2_Protocol_v3_aligned_BASE_SNAPSHOT.docx` | `_BASE_SNAPSHOT_v3_aligned.docx` | Phase-0 snapshot taken before v4 edits, so the Phase-4 alignment diff had a fixed base. **Byte-identical to the file above** (verified by checksum); kept because the verification report cites it by name |
 | `IRB2_ConsentForms_v1_STALE_2026-07-23.docx` | `IRB2_ConsentForms_Instructor_and_Student.docx` | **Known-drifted.** Still carries the old protocol title, a wrong contact address, a missing team member, and a live decision marker. It is the reason `CURRENT/` consent forms are generated rather than hand-edited |
 | `IRB2_RecruitmentTexts_v1_2026-07-23.docx` | `IRB2_RecruitmentTexts.docx` | Superseded by the generated v4 recruitment file |
+| `IRB2_Protocol_v6_SUPERSEDED_2026-08-06.docx` | `IRB2_Protocol_v6_MERGED_SUBMISSION.docx` | The consent merge applied to the v5 text, before Cyril's Google Doc edits were reconciled in. Superseded within the day by v7 |
+| `IRB2_Protocol_v5_SUPERSEDED_2026-08-06.docx` | `IRB2_Protocol_v5_MERGED_SUBMISSION.docx` | Superseded by v6, which merged the two instructor consent forms into one and relettered the appendices. **The last version with five consent forms and appendices A–P**; v6's alignment diff is taken against it |
 
 ## The version tangle worth knowing about
 
