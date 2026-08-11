@@ -1,76 +1,100 @@
-## Appendix B: Instructor interview consent form
+## Appendix B: Consent form for student participation (collaborating instructors' courses)
 
 UNIVERSITY OF MAINE
 
 CONSENT FORM
 
-Interviews with instructors — CAREER: Developing Professional Skills Including Critical and Reflective Use of Generative AI in Computing Education
+{{CAREER: }}Developing Professional Skills Including Critical and Reflective Use of Generative AI in Computing Education
 
 Researchers:
 
 - Gregory L. Nelson, Assistant Professor, Computer Science Department, University of Maine (gregory.nelson@maine.edu) (Principal Investigator, Main Contact)
 - Cyril Agbewali-Koku, Ph.D. Student, Computer Science Department, University of Maine (cyril.agbewalikoku@maine.edu)
 - Troy Schotter, Lecturer and Ph.D. Student, Computer Science Department, University of Maine (troy.schotter@maine.edu)
-- Chris Dufour, Lecturer, Computer Science Department, University of Maine (christopher.dufour@maine.edu)
 
-You are invited to participate in a research project being led by Dr. Gregory L. Nelson, a faculty member in the Department of Computer Science at the University of Maine. The purpose of the research is to understand how instructors adopt, adapt, and sustain structured peer reflection groups and reflection on students' generative AI use in their courses. You must be at least 18 years of age to participate.
+You are invited to participate in a research project being led by Dr. Gregory Nelson, a faculty member in the Department of Computer Science at the University of Maine. The purpose of the research is to gauge the effectiveness of student reflection groups and reflection assignments for improving your learning, self-efficacy, professional identity, and professional skills. You must be at least 18 years of age to participate, and participating in <course name>{{.}}
 
-### Concise Summary
+{{The reflection groups are a planned part of your course and will happen whether or not you choose to take part in this research. Choosing not to take part means your work and survey responses will not be analyzed or included in the research.}}
 
-This is a research study, and taking part is voluntary. We are asking you to talk with us for about 30–60 minutes about your teaching context, what you think of these approaches, and — if you tried them — how it went. The interview is audio-recorded unless you would rather we take notes.
+### {{Concise Summary}}
 
-The main risks are your time, the possibility that your data could be seen by someone outside the research team, and the possibility that your criticisms or your decision not to adopt could become known. We report your views only in de-identified form and never share them with your institution, department, or colleagues.
+{{This is a research study, and taking part is voluntary. Your course already includes reflection groups. We are asking whether we may analyze the work you do in them, along with survey responses, to learn whether reflection groups help students build professional skills.}}
 
-You may not want to take part if you would rather not spend the time, or if you are not comfortable having your views about our designs recorded. Declining has no effect on your collaboration with us or the support we provide. If you take part, you will receive a one-time $25 gift card.
+{{The main risks are your time, the possibility that your data could be seen by someone outside the research team, and the fact that things you say in your group could be repeated by another group member. Your instructor will not know who took part until after final grades are submitted, and taking part will not affect your grade in any way.}}
+
+{{You may not want to take part if you would rather your coursework not be analyzed, or if you do not want to be contacted after the course. Choosing not to take part costs you nothing: you still do the reflection groups as part of the course, and your grade is unaffected.}}
 
 ### What Will You Be Asked to Do?
 
-If you decide to participate, you will be asked to:
+If you decide to participate, beyond your usual participation in the course, you will be asked to:
 
-- Take part in an interview about your teaching context, what you think of reflection groups and of having students reflect on their generative AI use, what barriers and benefits you see, and — if you tried them — how integration went. For example, we might ask "tell me about the courses you teach and what a typical week looks like," or "what would make an approach like this workable in your department?" Each interview takes about 30–60 minutes. Interviews are conducted on Zoom or in person, based on your preference and researcher availability, and are audio-recorded; no video is recorded. If you do not wish to be recorded, we will take written notes.
+- {{Complete a short group-matching survey (about 5 minutes) so we can place you in a group with compatible scheduling, and have those responses analyzed by the research team;}}
+- Have your course pre-survey and course post-survey data analyzed by the research team
+- Have your assignments and other work for the class analyzed by the research team, including your reflection assignments
+- Optionally take confidential longitudinal 10-15 minute follow-up surveys on your learning outcomes and experiences from the reflection groups, for four years (8 total surveys)
+- {{Optionally give consent for the research team to link your data from this study with data from prior or related reflection-group research led by this research team in which you participated and consented to research use of your data;}}
+- Optionally take part in a confidential interview after the course, which is covered by a separate consent form you would review beforehand.
 
-You may be invited to a follow-up interview in a later semester, which you are free to decline. The total time commitment is variable based on the interviews you sign up for. For example, an interview now and one a year later would total about one to two hours, but you can sign up for fewer. You will be emailed a scheduling link to sign up.
+The total time commitment is approximately 10–15 minutes for each survey, plus about 5 minutes for the matching survey. Beyond that, you will just participate in the class as usual. Participating in the research will not influence your grade. Your instructor will not know who participated in the study until after final grades are submitted. All surveys are confidential.
 
 ### Risks
 
 - Time and inconvenience;
 - Loss of confidentiality of your data, although we will protect your data as listed in the confidentiality section;
-- Because our research team develops and advocates the designs discussed in the interview, you may feel some pressure to be positive about them, or be concerned that your criticism or your decision not to adopt could become known. The protections described under Confidentiality and Voluntary are meant to address this.
+- {{Information you share in group discussions could be shared by other group members. Group members are asked to respect each other's confidentiality, but we cannot guarantee it;}}
+- {{Because your instructor works with our research team, you may feel some pressure to take part. Your instructor does not administer this form, does not see who agreed, and will not know who participated until after final grades are submitted.}}
 
 ### Benefits
 
-- There are no direct benefits to you, but many people find that talking through their teaching decisions is useful in itself;
-- Your experiences help us learn how approaches to professional skills and to critical and reflective generative AI use can be adopted across courses and institutions (or why they cannot), which will benefit future students and educators.
+- There are no direct benefits to you, but you may learn and reflect critically about your learning, self-efficacy, and professional skills more often over time, which may help you better develop skills that can give you a competitive advantage in your education and career;
+- {{You may benefit from the peer support and the working relationships formed in your reflection group;}}
+- This research should help us improve our understanding of effective interventions for supporting students, which will benefit future students. The analysis of the reflections and improvement strategies may provide insight into factors affecting student success and retention in computing fields;
+- Research such as this may help the academic community adopt better pedagogical practices and potentially be applicable to improving learning in other STEM fields.
 
 ### Confidentiality
 
-Your individual views and your adoption decisions are confidential. They are reported only in de-identified form, and are not shared with your department, your institution, or your colleagues.
+Participants in reflection groups will be asked to respect the confidentiality of their peers and not share personal information discussed in the groups. However, we cannot guarantee complete confidentiality in the reflection group meeting setting.
 
-All data (interview recordings and transcripts, interview notes) will be stored in password protected computer systems accessible only to the research team using software that provides additional security (encryption). Interviews are held on Zoom or in person. Zoom recordings are removed from Zoom within 72 hours and stored on a University of Maine Google Drive; recordings made on a handheld recorder for in-person interviews are removed from the device within 72 hours. Recordings are transcribed by the named researchers, not by an outside transcription service. Your email address will be used as an identifier so that we may relate answers from one method of information gathering to the others, as well as give us the ability to remove any data if you decide later that you want any of your data deleted.
+{{Your gender and disability status, if you choose to provide them on the matching survey, are never shown to other students, to your instructor, or to teaching assistants. They are used only to form groups and, if you consent, for research.}}
 
-Within 14 days of collection, all data will be archived to a separate archival Google Drive folder, with any of your identifiers (such as email address) replaced with a randomly generated key stored on a password protected computer with software that provides additional security (encrypted). The key file that maps to your email address and demographic data will be stored in a separate Google Drive folder, and is encrypted. Five years after your participation ends, your email address will be deleted from the key file; for example, if your participation ends in Fall 2026, the key will be deleted by end of December 2031. This is to allow you to withdraw your consent to participating in the research later if you wish. We can only delete your data until the key file is deleted.
+All data (survey responses, assignments, follow-up surveys) will be stored in password protected computer systems accessible only to the research team using software that provides additional security (encryption). {{Surveys are administered through Qualtrics; IP addresses are not collected.}} Your student email will be used as an identifier for the duration of the course so that we may relate answers from one method of information gathering to the others as well as give us the ability to remove any data if you decide later that you want any of your data deleted.
 
-The archived data will be retained indefinitely, except for the original audio recordings, which will be deleted at the same time as when your email address is deleted from the key file, five years after your participation ends. For example, if your participation ends in Fall 2026, the audio recordings will be deleted by end of December 2031.
+{{If you previously participated in related reflection-group research led by this research team and consented to the research use of your data in that study, and you agree below, we may link that data with your data from this study. Those studies address the same research questions and use the same outcome measures, and any linked data receive the same protections described in this section.}}
 
-When we publish or present this research, we may quote what you said in the interview, without your name or anything that identifies you or your institution. We may also share de-identified transcripts with other researchers, or place de-identified data in a public research repository, as our funder requires. Identifiable data are limited to the researchers named above and to additional trained personnel added under the Principal Investigator's supervision. Original recordings are never shared or published.
+Within 14 days after the end of a course, or for data collected after the course, within 14 days of collection, all data will be archived to a separate archival cloud storage platform with your identifiers (such as email addresses) being replaced with a randomly generated key using software that provides additional security (encryption). The key file that maps your email addresses and your demographic data will be stored in a separate Google Drive folder. After 5 years from your participation in the course, your email address will be deleted from the key file; for example, for students in the Fall 2026 semester, the key will be deleted by end of December 2031. This is to allow you to withdraw your consent to participating in the research later if you wish. We can only delete your data until the key is deleted.
+
+Work from assignments will be copied onto the archival cloud storage folder, with any of your identifiers replaced with your key. The archived data will be retained indefinitely.
+
+Survey data will be copied into the archival cloud storage folder and all of your identifiers replaced with your key. The archived data will be retained indefinitely. {{No grades, academic records, or other student-records data are collected, and no recordings are made of your reflection group meetings.}}
+
+{{When we publish or present this research, we may quote what you wrote in a reflection, without your name or anything that identifies you or your course. We may also share de-identified data with other researchers, or place it in a public research repository, as our funder requires. Identifiable data are limited to the researchers named above and to additional trained personnel added under the Principal Investigator's supervision.}}
 
 ### Compensation
 
-If you take part in an interview, you will be compensated with a $25 electronic VISA gift card, sent by email within 48 hours. This is a one-time payment for taking part in an interview: it is $25 in total, not $25 each time, so if you are interviewed again in a later semester there is no further payment. You must reach the end of the interview in order to receive this compensation, though you may skip the occasional question. If you stop partway through an interview, you will not receive the gift card.
+There is no payment or extra credit for taking part in the reflection groups themselves, and the pre- and post-course surveys are not compensated.
+
+For each longitudinal follow-up survey you submit after the course, you will receive a $10 electronic VISA gift card, sent by email within 48 hours of submission. You must reach the end of the survey in order to receive this compensation, though you may skip the occasional question. {{For example, if you complete four follow-up surveys over two years, that would be $40 in total; if you complete all eight over four years, that would be $80 in total.}}
+
+{{If the total compensation you receive from us goes over $75, basic information (your name and address, date of payment, value of payment, and the researcher's name) will be given to a University office for tax reasons:}}
+
+- {{If you are an employee of UMaine (including a student employee): information will be sent to the Human Resources Department. The value of the compensation may be added as wages and subject to taxation.}}
+- {{If you are not an employee: information will be sent to the Purchasing Department. If you receive $600 or more during a calendar year (January 1 – December 31) from participating in UMaine research projects, a Form 1099 will be generated and mailed to you. If you do not receive that much, the information will be destroyed at the end of the calendar year.}}
+
+Your course may offer a small amount of credit for submitting the pre- and post-course surveys. If it does, the credit is for submitting the survey, not for what you answer; the surveys are available to every student in the course whether or not they take part in the research; and your instructor offers other ways to earn the same credit, so taking part in research is never the only way to earn it.
 
 ### Voluntary
 
-Participation is voluntary. You may skip any interview questions and stop them at any time. Declining an interview, or stopping one, has no effect on your collaboration with the research team or the support we provide.
-
-You may revoke consent for any portion of this research study at any time until your email address is removed from the key file — five years after your participation ends; for example, for participation ending in Fall 2026, until December 15, 2031. If you wish to revoke consent, contact one of the researchers by email and we will update your status in our records, and you would need to agree again to this consent form before any further interview.
+Participation is voluntary. You may opt out of the research by emailing one of the researchers who is not the instructor of your course with the subject line "Opt out of reflection research in <course number e.g. COS100>". You may skip any survey questions and stop them at any time. You may revoke consent for any portion of this research study at any time until {{your email address is removed from the key file — five years after your participation in the course; for example, for a Fall 2026 course, until}} Dec 15, 2031. {{This includes revoking consent for linking your data with prior related studies.}} If you wish to revoke consent, contact one of the researchers as described above, and we will update your status in our records.
 
 ### Contact Information
 
-If you have any questions about this study, please contact any of the researchers that are a part of the study: gregory.nelson@maine.edu (Principal Investigator, Main Contact), cyril.agbewalikoku@maine.edu, troy.schotter@maine.edu, christopher.dufour@maine.edu. If you have any questions about your rights as a research participant, please contact the Office of Research Compliance, University of Maine, 207-581-2657 (or e-mail umric@maine.edu).
+If you have any questions about this study, please contact any of the researchers that are a part of the study: gregory.nelson@maine.edu (Principal Investigator, Main Contact), cyril.agbewalikoku@maine.edu, troy.schotter@maine.edu. If you have any questions about your rights as a research participant, please contact the Office of Research Compliance, University of Maine, 207-581-2657 (or e-mail umric@maine.edu).
 
 Your choice below indicates that you have read the above information and agree to participate. You will receive a copy of this form.
 
 ☐ I consent to being part of this study
+
+☐ I also consent to linking my data with prior related reflection-group research led by this research team in which I took part (optional; you may take part without agreeing to this)
 
 _____________________________________
 

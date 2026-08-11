@@ -1,4 +1,4 @@
-## Appendix F: Instructor interest and barriers survey
+## Appendix E: Instructor interest and barriers survey
 
 Introduction: Thank you for your interest. This survey asks about your teaching context and what you see as the benefits and barriers of structured peer reflection groups and of having students reflect on their generative AI use. Your answers are confidential. There are no right or wrong answers, and you may skip any question you are uncomfortable answering. It takes about 10–15 minutes.
 
@@ -26,7 +26,7 @@ Your Email:
 
 11. Anything else you would like to share. (Open-ended)
 
-## Appendix G: Instructor follow-up survey (later semesters)
+## Appendix F: Instructor follow-up survey (later semesters)
 
 Introduction: Thank you for continuing to take part. This short survey asks what has happened since we last heard from you. Your answers are confidential, and you may skip any question you are uncomfortable answering. It takes about 10–15 minutes.
 
@@ -44,7 +44,7 @@ Your Email:
 
 6. Anything else you would like to share. (Open-ended)
 
-## Appendix H: Instructor interview guide
+## Appendix G: Instructor interview guide
 
 Semi-structured. Questions follow the topics in the funded plan and are informed by implementation-research interview guides based on the Consolidated Framework for Implementation Research (Damschroder et al., 2009) and by studies of faculty drivers and barriers in undergraduate STEM education reform (Shadle, Marker, & Earl, 2017). Interviewers follow up on what the participant raises rather than adhering to the order below.
 
@@ -68,7 +68,7 @@ Semi-structured. Questions follow the topics in the funded plan and are informed
 
 10. Closing: Is there anything else about your context or experiences we should understand?
 
-## Appendix I: Design workshop protocol and consultation procedure
+## Appendix H: Design workshop protocol and consultation procedure
 
 ### Design workshops
 
@@ -96,7 +96,7 @@ Confirmation, given at the start of each session with a consenting instructor:
 
 Instructors who have not consented to the research receive the same consultation support, and no notes are taken for research.
 
-## Appendix J: Instructor recruitment texts
+## Appendix I: Instructor recruitment texts
 
 ### Mailing-list blurb (institutional and professional mailing lists)
 
@@ -114,7 +114,7 @@ This is a University of Maine research study. Questions: Dr. Gregory L. Nelson (
 
 Dear ____,
 
-I lead an NSF CAREER-funded project at the University of Maine on two related teaching approaches: peer reflection groups — small student groups with a guided agenda, which our prior research found support professional skills such as iterative improvement and psychological safety (Nelson et al., 2025) — and assignments where students reflect on their own use of generative AI (Fernandez & Nelson, 2025).
+I lead an NSF CAREER-funded project at the University of Maine on two related teaching approaches: peer reflection groups — small student groups with a guided agenda, which our prior research found support professional skills such as iterative improvement and psychological safety (Nelson et al., 2025) — and assignments where students reflect on their own use of generative AI (Fernandez & Nelson, 2026).
 
 Given your work teaching ____, I would like to invite you to an online design workshop where instructors adapt these approaches to their courses. Workshops run about one to two hours. If you are interested, or just want to tell us what barriers you would face, our 10–15 minute survey is here: ____
 
@@ -139,7 +139,7 @@ Sending out an instructor follow-up survey:
 
 Inviting an instructor to an interview:
 
-> Greetings, thank you for offering to talk with us further. Here is a scheduling link to sign up for a confidential interview of about 30–60 minutes: ____. Before the interview you will see our interview consent form. If you take part in an interview, you will receive a one-time $25 electronic VISA gift card within 48 hours. Thank you,
+> Greetings, thank you for offering to talk with us further. Here is a scheduling link to sign up for a confidential interview of about 30–60 minutes: ____. If you have not already, you will see our consent form before the interview, which explains how the interview would be used in the research. If you take part in an interview, you will receive a $25 electronic VISA gift card within 48 hours of each interview. Thank you,
 
 Sending out a student survey:
 
@@ -153,7 +153,7 @@ Sending compensation:
 
 > Greetings, thank you for completing the (survey / interview) for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
 
-## Appendix K: Student recruitment script
+## Appendix J: Student recruitment script
 
 Read by a member of the research team, never the host instructor.
 
@@ -165,7 +165,7 @@ As part of this class, you have the opportunity to take part in research on how 
 
 As part of this class, you have the opportunity to take part in research on how different methods of teaching and assignments affect learning in a course like this one. This is a University of Maine research study. It involves two confidential surveys of about 10–15 minutes each, at the start and end of the course, with optional follow-up surveys afterward for which you receive a $10 electronic VISA gift card each. Participation is voluntary and will not affect your assignments, class activities, or your grade in any way; your instructor will not know who participated until after grades are submitted. Consent is indicated by submitting a survey, as described at the start of each survey. You must be at least 18 years old to take part.
 
-## Appendix L: Student matching survey
+## Appendix K: Student matching survey
 
 The purpose of this short survey is to place you in a reflection group with compatible scheduling. Your answers are confidential. Availability is used to schedule your group. Gender and disability status are optional; they are used only to form groups, are never shown to other students, your instructor, or teaching assistants, and are used for research only if you consented on the study consent form. You may skip any question. It takes about 5 minutes.
 
@@ -181,7 +181,7 @@ If applicable, do you have any of the following disabilities or chronic conditio
 
 Note: groups are normally formed of three to five members based on overlapping availability and, where students choose to report them, shared gender and shared disability status. Group numbers and meeting times are shared with students; gender and disability status are not.
 
-## Appendix M: Student pre- and post-course surveys
+## Appendix L: Student pre- and post-course surveys
 
 Introduction (both surveys): Please help us learn how to improve this course by answering the following questions. Your answers are confidential. There are no right or wrong answers. You may skip any questions you are uncomfortable answering. It takes about 10–15 minutes. Where your course grants credit for completing the survey, the credit is for submitting it, not for what you answer.
 
@@ -189,7 +189,7 @@ Your Email:
 
 Background (pre-survey): future careers considered; intended major(s)/minor(s) or program; year of study; hours worked for pay per week; comfort with English (1–7).
 
-Demographics (pre-survey): age; gender (Woman / Man / Non-binary / Prefer not to disclose / Prefer to self-describe); racial and ethnic identity (select any/all: American Indian or Alaska Native / Asian / Black or African American / Hispanic or Latinx / Native Hawaiian or Other Pacific Islander / White / Prefer not to disclose / Prefer to self-describe); whether an adult caretaker held a bachelor's degree or higher (Yes / No / Not sure); disabilities or accommodations (Yes / No / Prefer not to answer) and the checklist of conditions as in Appendix L; native English speaker (Yes / No).
+Demographics (pre-survey): age; gender (Woman / Man / Non-binary / Prefer not to disclose / Prefer to self-describe); racial and ethnic identity (select any/all: American Indian or Alaska Native / Asian / Black or African American / Hispanic or Latinx / Native Hawaiian or Other Pacific Islander / White / Prefer not to disclose / Prefer to self-describe); whether an adult caretaker held a bachelor's degree or higher (Yes / No / Not sure); disabilities or accommodations (Yes / No / Prefer not to answer) and the checklist of conditions as in Appendix K; native English speaker (Yes / No).
 
 Student outcome measures (pre- and post-survey; the same instruments used in the team's approved course-based protocol):
 
@@ -210,13 +210,13 @@ Measures may be added, retired, or replaced across design cycles with other publ
 
 > {your input needed here — whether to include the wider first-year measure set from the approved course-based protocol's Spring-2026 appendices (Short Big Five, Brief Resilience Scale, CD-RISC-2, Personal Growth and Development Scale).}
 
-## Appendix N: Student longitudinal follow-up survey
+## Appendix M: Student longitudinal follow-up survey
 
-Consent statement: Appendix D appears as the first page of each follow-up survey; submission indicates consent.
+Consent statement: Appendix C appears as the first page of each follow-up survey; submission indicates consent.
 
-Content: a brief update on current role, field, and work; the student outcome measures from Appendix M, with the psychological-safety stem "For my team at work:" where applicable; the career and progress items from Appendix M; and free-response items on long-term effects, which practices if any the participant has continued and how often, and suggested improvements.
+Content: a brief update on current role, field, and work; the student outcome measures from Appendix L, with the psychological-safety stem "For my team at work:" where applicable; the career and progress items from Appendix L; and free-response items on long-term effects, which practices if any the participant has continued and how often, and suggested improvements.
 
-## Appendix O: Reflection group meetings
+## Appendix N: Reflection group meetings
 
 Each reflection group meets for a short session at a regular interval — for example, weekly — over the course of a term. Each meeting has three parts, drawn from the team's prior reflection-group work (Nelson et al., 2025): members share progress and challenges; they affirm challenges, encourage one another, and celebrate accomplishments; and they generate ideas for improvement.
 
@@ -230,13 +230,13 @@ After each meeting, members submit individual written answers to that meeting's 
 
 Adaptations agreed with a collaborating instructor — for example meeting length, cadence, or which topic modules are used — are documented in the study file and available on request. Responses to the guided questions and to any topic-module questions are collected and analyzed under this protocol for consenting students. Any additional questions an instructor adds for their own course purposes are the instructor's own course materials.
 
-## Appendix P: Site approval / letter of support request (external institutions)
+## Appendix O: Site approval / letter of support request (external institutions)
 
 Template text sent to the appropriate official — for example a department chair or dean — at a collaborating institution. The University of Maine Site Approval Template is used where the institution has no form of its own.
 
 Dear ____,
 
-Dr. ____ at ____ plans to collaborate with our NSF CAREER-funded research team at the University of Maine to use structured peer reflection groups, or reflection on generative AI use, in ____ in ____, and to evaluate them as part of our study "CAREER: Developing Professional Skills Including Critical and Reflective Use of Generative AI in Computing Education," approved by the University of Maine IRB (approval documentation to be provided).
+Dr. ____ at ____ plans to collaborate with our NSF CAREER-funded research team at the University of Maine to use structured peer reflection groups, or reflection on generative AI use, in ____ in ____, and to evaluate them as part of our study "{{CAREER: }}Developing Professional Skills Including Critical and Reflective Use of Generative AI in Computing Education," approved by the University of Maine IRB (approval documentation to be provided).
 
 Student participation in the research is voluntary, has no effect on grades, and is consented by our research team rather than by the course instructor. The study collects survey responses and reflection materials from consenting students only, with no access to grades or student records. Students under 18 are not enrolled in the research.
 

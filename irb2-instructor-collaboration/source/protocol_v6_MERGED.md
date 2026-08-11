@@ -43,61 +43,61 @@ This research is expected to run over multiple years under the NSF CAREER grant,
 
 For instructor participants:
 
-1. Interest and barriers survey. Instructors are invited to a survey about their teaching context, their interest in these approaches, and the barriers and benefits they perceive, with an option to volunteer for a follow-up interview (Appendix F). The survey is administered through Qualtrics, is confidential, takes approximately 10–15 minutes, and remains open through each recruitment period.
+1. Interest and barriers survey. Instructors are invited to a survey about their teaching context, their interest in these approaches, and the barriers and benefits they perceive, with an option to volunteer for a follow-up interview (Appendix E). The survey is administered through Qualtrics, is confidential, takes approximately 10–15 minutes, and remains open through each recruitment period.
 
-2. Optional interviews. Consenting instructors take part in confidential interviews about their teaching context, perceived barriers and benefits, and — for those who tried the approaches — their implementation experiences. Interviews take approximately 30–60 minutes, are conducted on Zoom or in person based on the participant's preference, and are audio-recorded; no video is recorded. Participants must agree to the recording, or written notes are taken instead. The guide is in Appendix H; the consent form is Appendix B.
+2. Optional interviews. Consenting instructors take part in confidential interviews about their teaching context, perceived barriers and benefits, and — for those who tried the approaches — their implementation experiences. Interviews take approximately 30–60 minutes, are conducted on Zoom or in person based on the participant's preference, and are audio-recorded; no video is recorded. Participants must agree to the recording, or written notes are taken instead. The guide is in Appendix G; the consent form is Appendix A.
 
-3. Design workshops. Instructors are invited to design workshops to shape (a) reflection-group designs, (b) the integration of generative AI into their courses, and/or (c) designs for reflection on generative AI use — including for their own courses and institutions, identifying challenges and barriers to adoption, and proposing designs and improvements. Workshops invite instructors who integrated a design, attempted to and encountered barriers, or chose not to integrate. Ground rules read at the start state that critiques are confidential and are reported only in de-identified form. Workshop notes and the materials attendees produce are analyzed qualitatively; a workshop is recorded on Zoom only if everyone present agrees, and anyone may ask that recording be paused (Appendix I). Workshops are held online and typically run about one to two hours. An initial round is anticipated in fall 2026, repeated each design cycle, and also including roughly yearly adoption-cycle workshops.
+3. Design workshops. Instructors are invited to design workshops to shape (a) reflection-group designs, (b) the integration of generative AI into their courses, and/or (c) designs for reflection on generative AI use — including for their own courses and institutions, identifying challenges and barriers to adoption, and proposing designs and improvements. Workshops invite instructors who integrated a design, attempted to and encountered barriers, or chose not to integrate. Ground rules read at the start state that critiques are confidential and are reported only in de-identified form. Workshop notes and the materials attendees produce are analyzed qualitatively; a workshop is recorded on Zoom only if everyone present agrees, and anyone may ask that recording be paused (Appendix H). Workshops are held online and typically run about one to two hours. An initial round is anticipated in fall 2026, repeated each design cycle, and also including roughly yearly adoption-cycle workshops.
 
 4. Consultation ("office hours") notes. The PI holds by-appointment consultations for interested instructors. For instructors who consent, the PI takes notes and analyzes them as qualitative research on designing for adoption. Consultations are not recorded; notes may be handwritten and are transcribed by the named researchers. Note-taking for research is confirmed at the start of each session, and an instructor may ask that any part of a session, or a whole session, be left out of the research record, at the time or later. Instructors who do not consent receive the same consultation support.
 
-5. Longitudinal follow-up. Consenting instructors receive brief follow-up surveys (Appendix G) and/or invitations to a follow-up interview in later semesters, about their adoption decisions, the adaptations they made, and their experiences.
+5. Longitudinal follow-up. Consenting instructors receive brief follow-up surveys (Appendix F) and/or invitations to a follow-up interview in later semesters, about their adoption decisions, the adaptations they made, and their experiences.
 
-6. Faculty adaptation. Instructors who adapt a design for their own course evaluation are encouraged to use the short pre- and post-course measures in Appendix M so different versions can be compared. Where an instructor wishes their students' data to be part of this research, their students are consented under items 8–13 below. An instructor analyzing their own students' identifiable data is either added to this protocol as personnel, with human-subjects training completed, or works only with de-identified summaries.
+6. Faculty adaptation. Instructors who adapt a design for their own course evaluation are encouraged to use the short pre- and post-course measures in Appendix L so different versions can be compared. Where an instructor wishes their students' data to be part of this research, their students are consented under items 8–13 below. An instructor analyzing their own students' identifiable data is either added to this protocol as personnel, with human-subjects training completed, or works only with de-identified summaries.
 
 For students in collaborating instructors' courses:
 
-7. Classroom use. Collaborating instructors integrate reflection groups, reflection-on-AI-use activities, or both into their courses as a planned part of the course, following the team's materials as adapted with the instructor: a matching survey (Appendix L); small groups, normally of three to five students, matched on overlapping availability and other characteristics such as shared gender and shared disability status, where students choose to report them, none of which is disclosed to other students; an icebreaker activity; regular short group meetings following a guided agenda; and brief individual written reflections (Appendix O). Topic modules may be used, including modules on critical generative AI use. The course activity occurs whether or not students consent to the research, and is not itself research.
+7. Classroom use. Collaborating instructors integrate reflection groups, reflection-on-AI-use activities, or both into their courses as a planned part of the course, following the team's materials as adapted with the instructor: a matching survey (Appendix K); small groups, normally of three to five students, matched on overlapping availability and other characteristics such as shared gender and shared disability status, where students choose to report them, none of which is disclosed to other students; an icebreaker activity; regular short group meetings following a guided agenda; and brief individual written reflections (Appendix N). Topic modules may be used, including modules on critical generative AI use. The course activity occurs whether or not students consent to the research, and is not itself research.
 
-8. Student consent. Before any student data are collected, a member of the research team presents the study using the script in Appendix K and distributes the consent form (Appendix C). The host instructor does not present the study, does not administer consent, does not see who consented, and will not know who participated in the research until after final grades are submitted. Participation has no effect on assignments, activities, or grades. Students opt out by emailing a member of the research team who is not the instructor of their course.
+8. Student consent. Before any student data are collected, a member of the research team presents the study using the script in Appendix J and distributes the consent form (Appendix B). The host instructor does not present the study, does not administer consent, does not see who consented, and will not know who participated in the research until after final grades are submitted. Participation has no effect on assignments, activities, or grades. Students opt out by emailing a member of the research team who is not the instructor of their course.
 
-9. Student surveys. Consenting students complete pre- and post-course surveys with the student outcome measures (Appendix M). Surveys are administered through Qualtrics, are confidential, take approximately 10–15 minutes each, and are open for roughly two weeks at the start and end of the course.
+9. Student surveys. Consenting students complete pre- and post-course surveys with the student outcome measures (Appendix L). Surveys are administered through Qualtrics, are confidential, take approximately 10–15 minutes each, and are open for roughly two weeks at the start and end of the course.
 
 10. Student reflection materials. With consent, students' reflection-group materials — their group's meeting notes and their individual written reflections, including responses to any topic modules — are analyzed by the research team. No grades, academic records, or other student-records data are collected, and reflection group meetings are not recorded.
 
-11. Longitudinal follow-up. Consenting students are invited to confidential follow-up surveys roughly every six months after the course, for up to four years (up to eight surveys total), using the survey consent form in Appendix D, with survey content in Appendix N.
+11. Longitudinal follow-up. Consenting students are invited to confidential follow-up surveys roughly every six months after the course, for up to four years (up to eight surveys total), using the survey consent form in Appendix C, with survey content in Appendix M.
 
-12. Student and alumni interviews. A purposeful subset of students and former students is invited to confidential interviews about their experiences, the professional skills they use, and changes over time. Interviews take approximately 30–60 minutes, are conducted on Zoom or in person, and are audio-recorded; no video is recorded, and written notes are taken instead if the participant prefers. Participants may optionally describe or show examples of relevant work; only the researcher's notes are retained (Appendix E).
+12. Student and alumni interviews. A purposeful subset of students and former students is invited to confidential interviews about their experiences, the professional skills they use, and changes over time. Interviews take approximately 30–60 minutes, are conducted on Zoom or in person, and are audio-recorded; no video is recorded, and written notes are taken instead if the participant prefers. Participants may optionally describe or show examples of relevant work; only the researcher's notes are retained (Appendix D).
 
 13. Student design input and group remedies. Students may be invited to a design session held during a class session, to an end-of-semester retrospective about what should change, and to a brief optional mid-course feedback survey so the team can adjust during the term. Notes and materials from these are analyzed qualitatively. Groups do not always work well: a student in a group that has stopped functioning may join a different group, which opts in to adding a member, or form a new group. Where that happens, affected students may be invited to help design a better response for future courses. Attendance at group meetings is not graded, so a student who does not find the group useful may simply stop attending without academic consequence.
 
-14. Comparison courses. Where a collaborating instructor's institution — including the University of Maine — offers a similar course without these approaches, students in that course may be recruited for surveys only, as a comparison group, and are also invited to the longitudinal follow-up surveys. Because no course activity is involved, consent is obtained through the survey consent form, using the comparison-course adaptation in Appendix D. The recruitment script is adapted accordingly (Appendix K).
+14. Comparison courses. Where a collaborating instructor's institution — including the University of Maine — offers a similar course without these approaches, students in that course may be recruited for surveys only, as a comparison group, and are also invited to the longitudinal follow-up surveys. Because no course activity is involved, consent is obtained through the survey consent form, using the comparison-course adaptation in Appendix C. The recruitment script is adapted accordingly (Appendix J).
 
-15. External sites. Before any activity in a course at another institution, the team obtains site approval — a letter of support from the appropriate official at that institution, requested per Appendix P — and completes whatever human-subjects review arrangement that institution requires, which may be a reliance agreement with the University of Maine, an exempt or not-research determination, or local review by that institution's IRB. Documentation of the arrangement is provided to the UMaine IRB before any research activity begins at that site.
+15. External sites. Before any activity in a course at another institution, the team obtains site approval — a letter of support from the appropriate official at that institution, requested per Appendix O — and completes whatever human-subjects review arrangement that institution requires, which may be a reliance agreement with the University of Maine, an exempt or not-research determination, or local review by that institution's IRB. Documentation of the arrangement is provided to the UMaine IRB before any research activity begins at that site.
 
 An instructor may withdraw their course from the study at any time. Data already collected from consenting students are retained per Section 6, but no new data are collected from that course. If an instructor withdraws partway through a term, the reflection groups continue as a normal part of the course, since they are part of the course rather than part of the research, and students are told that no further data will be collected.
 
 Data collected:
 
-1.1 Instructor survey responses: teaching context, interest, perceived barriers and benefits, and email address; and instructor follow-up survey responses in later semesters (Appendices F and G).
+1.1 Instructor survey responses: teaching context, interest, perceived barriers and benefits, and email address; and instructor follow-up survey responses in later semesters (Appendices E and G).
 
-1.2 Instructor interview recordings and transcripts, or written notes where an instructor prefers not to be recorded (guide in Appendix H).
+1.2 Instructor interview recordings and transcripts, or written notes where an instructor prefers not to be recorded (guide in Appendix G).
 
-1.3 Design workshop notes, the materials attendees produce, and recordings where everyone present agreed (Appendix I).
+1.3 Design workshop notes, the materials attendees produce, and recordings where everyone present agreed (Appendix H).
 
-1.4 Consultation session notes for consenting instructors only, including transcriptions of handwritten notes. There is no separate instrument; notes follow the design and adoption topics in Appendix I.
+1.4 Consultation session notes for consenting instructors only, including transcriptions of handwritten notes. There is no separate instrument; notes follow the design and adoption topics in Appendix H.
 
-1.5 Student matching-survey responses: availability, email address, and — where the student chooses to report them — gender and disability status (Appendix L).
+1.5 Student matching-survey responses: availability, email address, and — where the student chooses to report them — gender and disability status (Appendix K).
 
-1.6 Student reflection-group materials: group meeting notes and individual written reflections, including responses to topic modules (Appendix O).
+1.6 Student reflection-group materials: group meeting notes and individual written reflections, including responses to topic modules (Appendix N).
 
-1.7 Student pre- and post-course survey responses: demographics, email address, and student outcome measures (Appendix M).
+1.7 Student pre- and post-course survey responses: demographics, email address, and student outcome measures (Appendix L).
 
-1.8 Student longitudinal follow-up survey responses: email address and student outcome measures (Appendix N).
+1.8 Student longitudinal follow-up survey responses: email address and student outcome measures (Appendix M).
 
 1.9 Student design-session, retrospective, and mid-course feedback notes, materials, and survey responses.
 
-1.10 Student and alumni interview recordings and transcripts, and researcher notes on work examples described or shown (Appendix E).
+1.10 Student and alumni interview recordings and transcripts, and researcher notes on work examples described or shown (Appendix D).
 
 Analysis: written reflections and interview transcripts are analyzed with qualitative thematic analysis and with a reflection-level rubric (Kember et al., 2000). Survey measures are analyzed with descriptive and inferential statistics comparing pre-course, post-course, and longitudinal responses, and comparing courses using different adaptations.
 
@@ -167,11 +167,11 @@ Vulnerable populations and undue influence: this protocol includes two groups th
 
 Participant Identification and Recruitment Procedures:
 
-Instructors are identified and invited through the College of Computer, Cyber, and Software Engineering mailing list and other institutional mailing lists, targeted email invitations to instructors whose public course listings indicate relevant teaching, professional networks and conferences, and existing collaborators (letters of collaboration accompany the funded grant). Email addresses are obtained from public institutional directories, public conference materials, or the mailing lists themselves. Once the approaches have positive results to report, the team will also recruit more broadly through public announcements, a project website, and social media. Recruitment texts are in Appendix J.
+Instructors are identified and invited through the College of Computer, Cyber, and Software Engineering mailing list and other institutional mailing lists, targeted email invitations to instructors whose public course listings indicate relevant teaching, professional networks and conferences, and existing collaborators (letters of collaboration accompany the funded grant). Email addresses are obtained from public institutional directories, public conference materials, or the mailing lists themselves. Once the approaches have positive results to report, the team will also recruit more broadly through public announcements, a project website, and social media. Recruitment texts are in Appendix I.
 
 Recruitment messages separate the offers explicitly: instructors may work with the team — adopting materials, attending workshops, receiving support — and may separately choose whether to be research participants. Either is possible without the other.
 
-Students are recruited within collaborating courses using the script in Appendix K, delivered so that consent is never administered by the host instructor: a member of the research team presents the study in person or by recorded announcement, distributes the consent form, and receives any opt-outs. Where a course is taught by a member of the research team, that course falls under the team's approved course-based protocol and is not enrolled here.
+Students are recruited within collaborating courses using the script in Appendix J, delivered so that consent is never administered by the host instructor: a member of the research team presents the study in person or by recorded announcement, distributes the consent form, and receives any opt-outs. Where a course is taught by a member of the research team, that course falls under the team's approved course-based protocol and is not enrolled here.
 
 Coercion considerations: the research team holds no supervisory authority over participating instructors, and does not evaluate them, employ them, or make decisions about their advancement. However, because collaboration may carry perceived professional stakes, and because the research team develops the designs instructors are asked to evaluate, the protocol adds the following protections. Research consent is separated from collaboration. Attending a workshop does not obligate an instructor to use any design in their course, and an instructor may use the materials without their course or their students taking part in research. Individual adoption decisions — including declining — are confidential and reported only in de-identified form. An instructor may withdraw from the research at any time while continuing to use the materials and receive support, and withdrawing is not disclosed.
 
@@ -181,21 +181,20 @@ For students, the course activity happens whether or not they take part in the r
 
 Informed consent is obtained electronically, and consent precedes any research activity.
 
-There are five consent forms, because there are five genuinely distinct activity-and-population combinations:
+There are four consent forms, because there are four genuinely distinct activity-and-population combinations:
 
-- Appendix A — instructors, for the survey, workshops, consultation notes, and follow-up surveys. Signed before any research activity, including before the interest and barriers survey and before any workshop from which data are analyzed.
-- Appendix B — instructor interviews, signed before the interview begins, because interviews carry their own recording and compensation terms.
-- Appendix C — students in collaborating courses, distributed in class by a member of the research team and signed before any student data are collected.
-- Appendix D — student longitudinal follow-up surveys, and all surveys taken by comparison-course students. The form appears as the first page of each survey and covers consent for the study; submission of the survey indicates consent. This is appropriate because these are low-risk confidential surveys of participants who have already been informed about the study.
-- Appendix E — student and alumni interviews, signed before the interview begins.
+- Appendix A — instructors, for the survey, workshops, consultation notes, interviews, and follow-up surveys. Signed before any research activity, including before the interest and barriers survey, before any workshop from which data are analyzed, and before any interview begins.
+- Appendix B — students in collaborating courses, distributed in class by a member of the research team and signed before any student data are collected.
+- Appendix C — student longitudinal follow-up surveys, and all surveys taken by comparison-course students. The form appears as the first page of each survey and covers consent for the study; submission of the survey indicates consent. This is appropriate because these are low-risk confidential surveys of participants who have already been informed about the study.
+- Appendix D — student and alumni interviews, signed before the interview begins.
 
-No separate consent form is used for the instructor or student pre- and post-course surveys; those are covered by Appendix A and Appendix C respectively.
+No separate consent form is used for the instructor or student pre- and post-course surveys; those are covered by Appendix A and Appendix B respectively.
 
 The protocol does not fix a single mechanism for administering Appendix A: it may be emailed with a recruitment message, presented at the start of an information session, or presented immediately before the survey. What is fixed is that consent occurs before any data are collected for research.
 
 For consultation sessions, note-taking for research is additionally confirmed at the start of each session, and the instructor may ask that any part of a session, or the whole session, be left out of the research record at the time or later. For design workshops, recording occurs only if everyone present agrees; permission is requested at the start of each workshop and anyone may ask that recording be paused.
 
-Students may separately and optionally consent, on Appendix C, to linking their data with data from prior or related reflection-group research led by this team in which they participated and consented to research use of their data.
+Students may separately and optionally consent, on Appendix B, to linking their data with data from prior or related reflection-group research led by this team in which they participated and consented to research use of their data.
 
 ## 6. Confidentiality
 
@@ -243,9 +242,10 @@ The overall benefits of the research include understanding how evidence-based pe
 
 **Students.** There is no payment or extra credit for taking part in the reflection groups themselves, and the pre- and post-course surveys are not compensated. For each longitudinal follow-up survey a student submits, the student is offered a $10 electronic VISA gift card, sent by email within 48 hours of submission; students must reach the end of the survey to receive it, though they may skip individual questions. A student who completes all eight follow-up surveys over four years would receive $80 in total. For each interview a student or former student completes, they are offered a $25 electronic VISA gift card, sent by email within 48 hours of the interview. A student who submitted all eight follow-up surveys and completed two interviews would receive $130 in total.
 
-Because cumulative compensation can exceed $75 for instructors as well as students once interviews repeat, the consent forms for every compensated activity — Appendices B, C, D, and E — carry the University's required tax-reporting language: basic information is provided to Human Resources for UMaine employees, or to Purchasing for non-employees, with a Form 1099 generated at $600 or more in a calendar year.
+Because cumulative compensation can exceed $75 for instructors as well as students once interviews repeat, the consent forms for every compensated activity — Appendices A, B, C, and D — carry the University's required tax-reporting language: basic information is provided to Human Resources for UMaine employees, or to Purchasing for non-employees, with a Form 1099 generated at $600 or more in a calendar year.
 
 **Course credit.** Host courses are encouraged to grant a small amount of credit for completing the pre- and post-course surveys. Where credit is granted, it is for submitting the survey and not for the content of answers; the survey is available to every student in the course whether or not they consent to the research; and the instructor must offer at least one other way to earn the same credit, so that taking part in research is never the only route to it. Where a study involves several courses with different instructors, each instructor must agree to grant the credit and to offer an alternative.
+
 
 ## Appendix A: Consent form for instructor participation
 
@@ -266,11 +266,11 @@ You are invited to participate in a research project being led by Dr. Gregory L.
 
 ### Concise Summary
 
-This is a research study, and taking part is voluntary. We are studying how instructors decide to use, adapt, or not use reflection groups and reflection on generative AI use in their courses. If you take part, we may ask you to fill out a short survey, join design workshops with other instructors, let us take notes when you meet with us for advice, and answer brief follow-up surveys in later semesters. Interviews are covered by a separate form.
+This is a research study, and taking part is voluntary. We are studying how instructors decide to use, adapt, or not use reflection groups and reflection on generative AI use in their courses. If you take part, we may ask you to fill out a short survey, join design workshops with other instructors, let us take notes when you meet with us for advice, talk with us in an interview, and answer brief follow-up surveys in later semesters.
 
-The main risks are your time, the possibility that your data could be seen by someone outside the research team, and the possibility that something you say about your teaching — including a decision not to adopt, or a criticism of our work — could become known. We keep your adoption decisions and workshop contributions confidential and report them only in de-identified form.
+The main risks are your time, the possibility that your data could be seen by someone outside the research team, and the possibility that something you say about your teaching — including a decision not to adopt, or a criticism of our work — could become known. We keep your adoption decisions, your workshop contributions, and what you say in interviews confidential, and report them only in de-identified form.
 
-You may not want to take part if you would rather not spend the time, or if you are not comfortable having your views about our designs recorded in a research dataset. There is no penalty for declining: you can attend workshops, use our materials, and get our support whether or not you are in the research.
+You may not want to take part if you would rather not spend the time, or if you are not comfortable having your views about our designs recorded in a research dataset. There is no penalty for declining: you can attend workshops, use our materials, and get our support whether or not you are in the research. If you take part in an interview, you will receive a $25 gift card for each interview you complete.
 
 ### Working with us is separate from being in the research
 
@@ -291,45 +291,51 @@ If you decide to participate, you may be asked to:
 - Complete a survey about your teaching context, your interest in these approaches, and the barriers and benefits you see (about 10–15 minutes);
 - Take part in design workshops with other instructors. Workshops may be about reflection groups, about designing generative AI integration in courses, or about designing reflection on generative AI use. Notes and the materials attendees produce are analyzed by the research team. A workshop is recorded only if everyone present agrees, and anyone may ask that recording be paused;
 - Allow the research team to take and analyze notes from consultation sessions you request. Consultations are not recorded; the researcher takes notes, which may be handwritten. We confirm this with you at the start of each session, and you may ask us to leave out any part of a session, or the whole session, at the time or later;
+- Take part in an interview about your teaching context, what you think of reflection groups and of having students reflect on their generative AI use, what barriers and benefits you see, and — if you tried them — how integration went. Each interview takes about 30–60 minutes. Interviews are conducted on Zoom or in person, based on your preference and researcher availability, and are audio-recorded; no video is recorded. If you do not wish to be recorded, we will take written notes;
 - Receive brief follow-up surveys in later semesters about your adoption decisions, any changes you made, and your experiences (about 10–15 minutes each);
 - If you evaluate your own version of a design, use a short set of pre- and post-course measures so different versions can be compared.
 
-You may also be invited to a confidential interview, which is covered by a separate consent form you would review beforehand.
-
-The total time commitment depends on how much you choose to take part in. The survey is about 10–15 minutes. A workshop is typically about one to two hours. Consultations are by appointment and last as long as you find useful. If you took part in everything above over the course of a year, that would typically total about two to six hours.
+The total time commitment depends on how much you choose to take part in. The survey is about 10–15 minutes. A workshop is typically about one to two hours. An interview takes about 30–60 minutes, and you may be invited to a follow-up interview in a later semester, which you are free to decline. Consultations are by appointment and last as long as you find useful. If you took part in everything above over the course of a year, that would typically total about three to seven hours.
 
 ### Risks
 
 - Time and inconvenience;
 - Loss of confidentiality of your data, although we will protect your data as listed in the confidentiality section;
 - Information you share in a workshop could be shared by other attendees. Attendees are asked to respect each other's confidentiality, but we cannot guarantee it;
-- Because our research team develops and advocates the designs you are being asked to evaluate, you may feel some pressure to be positive about them, or be concerned that your criticism or your decision not to adopt could become known. The protections described under Confidentiality and Voluntary are meant to address this.
+- Because our research team develops and advocates the designs you are being asked to evaluate, you may feel some pressure to be positive about them in a workshop or an interview, or be concerned that your criticism or your decision not to adopt could become known. The protections described under Confidentiality and Voluntary are meant to address this.
 
 ### Benefits
 
 - There are no direct benefits to you, but you may benefit from course materials developed together with other instructors, from implementation support, and from a community of practice with instructors working on the same problems;
-- You may find the workshops and consultations useful for your teaching whether or not you adopt any of our designs;
+- You may find the workshops and consultations useful for your teaching whether or not you adopt any of our designs, and many people find that talking through their teaching decisions in an interview is useful in itself;
 - This research should help us learn how approaches to professional skills and to critical and reflective generative AI use can be adopted and sustained across courses and institutions (or why they cannot), which will benefit future students and educators.
 
 ### Confidentiality
 
-Your individual adoption decisions, your contributions in workshops, and what you discuss in consultations are confidential. They are reported only in de-identified form, and are not shared with your department, your institution, or your colleagues.
+Your individual adoption decisions, your contributions in workshops, what you say in interviews, and what you discuss in consultations are confidential. They are reported only in de-identified form, and are not shared with your department, your institution, or your colleagues.
 
-All data (survey responses, workshop notes and materials, consultation notes) will be stored in password protected computer systems accessible only to the research team using software that provides additional security (encryption). Surveys are administered through Qualtrics; IP addresses are not collected. Workshops are held on Zoom; where the group agrees to a recording, it is removed from Zoom within 72 hours and stored on a secure cloud storage platform. Handwritten consultation notes are transcribed by the named researchers and the originals destroyed. Your email address will be used as an identifier so that we may relate answers from one method of information gathering to the others, as well as give us the ability to remove any data if you decide later that you want any of your data deleted.
+All data (survey responses, workshop notes and materials, consultation notes, interview recordings and transcripts, interview notes) will be stored in password protected computer systems accessible only to the research team using software that provides additional security (encryption). Surveys are administered through Qualtrics; IP addresses are not collected. Workshops are held on Zoom; where the group agrees to a recording, it is removed from Zoom within 72 hours and stored on a secure cloud storage platform. Interviews are held on Zoom or in person; Zoom recordings are removed from Zoom within 72 hours and stored on a secure cloud storage platform, and recordings made on a handheld recorder for in-person interviews are removed from the device within 72 hours. All recordings are transcribed by the named researchers, not by an outside transcription service. Handwritten consultation notes are transcribed by the named researchers and the originals destroyed. Your email address will be used as an identifier so that we may relate answers from one method of information gathering to the others, as well as give us the ability to remove any data if you decide later that you want any of your data deleted.
 
 Within 14 days of collection, all data will be archived to a separate archival folder on a secure cloud storage platform, with any of your identifiers (such as email address) replaced with a randomly generated key stored on a password protected computer with software that provides additional security (encrypted). The key file that maps to your email address and demographic data will be stored in a separate folder on a secure cloud storage platform, and is encrypted. Five years after your participation ends, your email address will be deleted from the key file; for example, if your participation ends in Fall 2026, the key will be deleted by end of December 2031. This is to allow you to withdraw your consent to participating in the research later if you wish. We can only delete your data until the key file is deleted.
 
-The archived data will be retained indefinitely, except for the original workshop recordings, which will be deleted at the same time as when your email address is deleted from the key file, five years after your participation ends. For example, if your participation ends in Fall 2026, the recordings will be deleted by end of December 2031.
+The archived data will be retained indefinitely, except for the original workshop and interview recordings, which will be deleted at the same time as when your email address is deleted from the key file, five years after your participation ends. For example, if your participation ends in Fall 2026, the recordings will be deleted by end of December 2031.
 
-When we publish or present this research, we may quote what you said or wrote, without your name or anything that identifies you or your institution. We may also share de-identified data with other researchers, or place it in a public research repository, as our funder requires. Identifiable data are limited to the researchers named above and to additional trained personnel added under the Principal Investigator's supervision. Original recordings are never shared or published.
+When we publish or present this research, we may quote what you said or wrote, without your name or anything that identifies you or your institution. We may also share de-identified data, including de-identified interview transcripts, with other researchers, or place it in a public research repository, as our funder requires. Identifiable data are limited to the researchers named above and to additional trained personnel added under the Principal Investigator's supervision. Original recordings are never shared or published.
 
 ### Compensation
 
-There is no payment for the survey, the follow-up surveys, workshops, or consultations. If you take part in an interview, compensation is described in the interview consent form.
+There is no payment for the survey, the follow-up surveys, workshops, or consultations.
+
+For each interview, you will be compensated with a $25 electronic VISA gift card, sent by email within 48 hours. You must reach the end of the interview in order to receive this compensation, though you may skip the occasional question. If you stop partway through an interview, you will not receive the gift card. For example, if you take part in an interview now and another a year later, that would be two interviews and $50 in total.
+
+If the total compensation you receive from us goes over $75, basic information (your name and address, date of payment, value of payment, and the researcher's name) will be given to a University office for tax reasons:
+
+- If you are an employee of UMaine (including a student employee): information will be sent to the Human Resources Department. The value of the compensation may be added as wages and subject to taxation.
+- If you are not an employee: information will be sent to the Purchasing Department. If you receive $600 or more during a calendar year (January 1 – December 31) from participating in UMaine research projects, a Form 1099 will be generated and mailed to you. If you do not receive that much, the information will be destroyed at the end of the calendar year.
 
 ### Voluntary
 
-Participation in the research is voluntary, and separate from working with us. You may decline, or withdraw from the research, at any time while continuing to use the materials and receive our support, and withdrawing will not be disclosed to anyone outside the research team. You may skip any question and stop any activity at any time.
+Participation in the research is voluntary, and separate from working with us. You may decline, or withdraw from the research, at any time while continuing to use the materials and receive our support, and withdrawing will not be disclosed to anyone outside the research team. You may skip any question, decline any interview, and stop any activity at any time.
 
 You may revoke consent for any portion of this research study at any time until your email address is removed from the key file — five years after your participation ends; for example, for participation ending in Fall 2026, until December 15, 2031. If you wish to revoke consent, email any member of the research team with the subject line "Opt out of instructor reflection research," and we will update your status in our records.
 
@@ -346,91 +352,7 @@ _____________________________________
 Email
 
 
-## Appendix B: Instructor interview consent form
-
-UNIVERSITY OF MAINE
-
-CONSENT FORM
-
-Interviews with instructors — CAREER: Developing Professional Skills Including Critical and Reflective Use of Generative AI in Computing Education
-
-Researchers:
-
-- Gregory L. Nelson, Assistant Professor, Computer Science Department, University of Maine (gregory.nelson@maine.edu) (Principal Investigator, Main Contact)
-- Cyril Agbewali-Koku, Ph.D. Student, Computer Science Department, University of Maine (cyril.agbewalikoku@maine.edu)
-- Troy Schotter, Lecturer and Ph.D. Student, Computer Science Department, University of Maine (troy.schotter@maine.edu)
-- Chris Dufour, Lecturer, Computer Science Department, University of Maine (christopher.dufour@maine.edu)
-
-You are invited to participate in a research project being led by Dr. Gregory L. Nelson, a faculty member in the Department of Computer Science at the University of Maine. The purpose of the research is to understand how instructors adopt, adapt, and sustain structured peer reflection groups and reflection on students' generative AI use in their courses. You must be at least 18 years of age to participate.
-
-### Concise Summary
-
-This is a research study, and taking part is voluntary. We are asking you to talk with us for about 30–60 minutes about your teaching context, what you think of these approaches, and — if you tried them — how it went. The interview is audio-recorded unless you would rather we take notes.
-
-The main risks are your time, the possibility that your data could be seen by someone outside the research team, and the possibility that your criticisms or your decision not to adopt could become known. We report your views only in de-identified form and never share them with your institution, department, or colleagues.
-
-You may not want to take part if you would rather not spend the time, or if you are not comfortable having your views about our designs recorded. Declining has no effect on your collaboration with us or the support we provide. If you take part, you will receive a $25 gift card for each interview you complete.
-
-### What Will You Be Asked to Do?
-
-If you decide to participate, you will be asked to:
-
-- Take part in an interview about your teaching context, what you think of reflection groups and of having students reflect on their generative AI use, what barriers and benefits you see, and — if you tried them — how integration went. Each interview takes about 30–60 minutes. Interviews are conducted on Zoom or in person, based on your preference and researcher availability, and are audio-recorded; no video is recorded. If you do not wish to be recorded, we will take written notes.
-
-You may be invited to a follow-up interview in a later semester, which you are free to decline. The total time commitment is variable based on the interviews you sign up for.
-
-### Risks
-
-- Time and inconvenience;
-- Loss of confidentiality of your data, although we will protect your data as listed in the confidentiality section;
-- Because our research team develops and advocates the designs discussed in the interview, you may feel some pressure to be positive about them, or be concerned that your criticism or your decision not to adopt could become known. The protections described under Confidentiality and Voluntary are meant to address this.
-
-### Benefits
-
-- There are no direct benefits to you, but many people find that talking through their teaching decisions is useful in itself;
-- Your experiences help us learn how approaches to professional skills and to critical and reflective generative AI use can be adopted across courses and institutions (or why they cannot), which will benefit future students and educators.
-
-### Confidentiality
-
-Your individual views and your adoption decisions are confidential. They are reported only in de-identified form, and are not shared with your department, your institution, or your colleagues.
-
-All data (interview recordings and transcripts, interview notes) will be stored in password protected computer systems accessible only to the research team using software that provides additional security (encryption). Interviews are held on Zoom or in person. Zoom recordings are removed from Zoom within 72 hours and stored on a secure cloud storage platform; recordings made on a handheld recorder for in-person interviews are removed from the device within 72 hours. Recordings are transcribed by the named researchers, not by an outside transcription service. Your email address will be used as an identifier so that we may relate answers from one method of information gathering to the others, as well as give us the ability to remove any data if you decide later that you want any of your data deleted.
-
-Within 14 days of collection, all data will be archived to a separate archival folder on a secure cloud storage platform, with any of your identifiers (such as email address) replaced with a randomly generated key stored on a password protected computer with software that provides additional security (encrypted). The key file that maps to your email address and demographic data will be stored in a separate folder on a secure cloud storage platform, and is encrypted. Five years after your participation ends, your email address will be deleted from the key file; for example, if your participation ends in Fall 2026, the key will be deleted by end of December 2031. This is to allow you to withdraw your consent to participating in the research later if you wish. We can only delete your data until the key file is deleted.
-
-The archived data will be retained indefinitely, except for the original audio recordings, which will be deleted at the same time as when your email address is deleted from the key file, five years after your participation ends. For example, if your participation ends in Fall 2026, the audio recordings will be deleted by end of December 2031.
-
-When we publish or present this research, we may quote what you said in the interview, without your name or anything that identifies you or your institution. We may also share de-identified transcripts with other researchers, or place de-identified data in a public research repository, as our funder requires. Identifiable data are limited to the researchers named above and to additional trained personnel added under the Principal Investigator's supervision. Original recordings are never shared or published.
-
-### Compensation
-
-For each interview, you will be compensated with a $25 electronic VISA gift card, sent by email within 48 hours. You must reach the end of the interview in order to receive this compensation, though you may skip the occasional question. If you stop partway through an interview, you will not receive the gift card. For example, if you take part in an interview now and another a year later, that would be two interviews and $50 in total.
-
-If the total compensation you receive from us goes over $75, basic information (your name and address, date of payment, value of payment, and the researcher's name) will be given to a University office for tax reasons:
-
-- If you are an employee of UMaine (including a student employee): information will be sent to the Human Resources Department. The value of the compensation may be added as wages and subject to taxation.
-- If you are not an employee: information will be sent to the Purchasing Department. If you receive $600 or more during a calendar year (January 1 – December 31) from participating in UMaine research projects, a Form 1099 will be generated and mailed to you. If you do not receive that much, the information will be destroyed at the end of the calendar year.
-
-### Voluntary
-
-Participation is voluntary. You may skip any interview questions and stop them at any time. Declining an interview, or stopping one, has no effect on your collaboration with the research team or the support we provide.
-
-You may revoke consent for any portion of this research study at any time until your email address is removed from the key file — five years after your participation ends; for example, for participation ending in Fall 2026, until December 15, 2031. If you wish to revoke consent, contact one of the researchers by email and we will update your status in our records, and you would need to agree again to this consent form before any further interview.
-
-### Contact Information
-
-If you have any questions about this study, please contact any of the researchers that are a part of the study: gregory.nelson@maine.edu (Principal Investigator, Main Contact), cyril.agbewalikoku@maine.edu, troy.schotter@maine.edu, christopher.dufour@maine.edu. If you have any questions about your rights as a research participant, please contact the Office of Research Compliance, University of Maine, 207-581-2657 (or e-mail umric@maine.edu).
-
-Your choice below indicates that you have read the above information and agree to participate. You will receive a copy of this form.
-
-☐ I consent to being part of this study
-
-_____________________________________
-
-Email
-
-
-## Appendix C: Consent form for student participation (collaborating instructors' courses)
+## Appendix B: Consent form for student participation (collaborating instructors' courses)
 
 UNIVERSITY OF MAINE
 
@@ -531,7 +453,7 @@ _____________________________________
 Email
 
 
-## Appendix D: Student survey consent form (submission indicates consent)
+## Appendix C: Student survey consent form (submission indicates consent)
 
 Used at the start of each longitudinal follow-up survey, and at the start of each survey taken by comparison-course students. A comparison-course adaptation follows at the end of this appendix.
 
@@ -601,7 +523,7 @@ If you have any questions about this study, please contact any of the researcher
 
 For students in comparison courses, the same consent statement is used with three changes: the purpose sentence reads "The purpose of the research is to understand how different methods of teaching and assignments affect learning, self-efficacy, professional identity, and professional skills"; the Concise Summary omits the reference to a prior course and states that the surveys are the whole of what is being asked; and the Compensation section reads "The two in-course surveys are not compensated. If you choose to take optional follow-up surveys after the course, you will receive a $10 electronic VISA gift card for each follow-up survey you submit."
 
-## Appendix E: Student and alumni interview consent form
+## Appendix D: Student and alumni interview consent form
 
 UNIVERSITY OF MAINE
 
@@ -684,7 +606,7 @@ _____________________________________
 Email
 
 
-## Appendix F: Instructor interest and barriers survey
+## Appendix E: Instructor interest and barriers survey
 
 Introduction: Thank you for your interest. This survey asks about your teaching context and what you see as the benefits and barriers of structured peer reflection groups and of having students reflect on their generative AI use. Your answers are confidential. There are no right or wrong answers, and you may skip any question you are uncomfortable answering. It takes about 10–15 minutes.
 
@@ -712,7 +634,7 @@ Your Email:
 
 11. Anything else you would like to share. (Open-ended)
 
-## Appendix G: Instructor follow-up survey (later semesters)
+## Appendix F: Instructor follow-up survey (later semesters)
 
 Introduction: Thank you for continuing to take part. This short survey asks what has happened since we last heard from you. Your answers are confidential, and you may skip any question you are uncomfortable answering. It takes about 10–15 minutes.
 
@@ -730,7 +652,7 @@ Your Email:
 
 6. Anything else you would like to share. (Open-ended)
 
-## Appendix H: Instructor interview guide
+## Appendix G: Instructor interview guide
 
 Semi-structured. Questions follow the topics in the funded plan and are informed by implementation-research interview guides based on the Consolidated Framework for Implementation Research (Damschroder et al., 2009) and by studies of faculty drivers and barriers in undergraduate STEM education reform (Shadle, Marker, & Earl, 2017). Interviewers follow up on what the participant raises rather than adhering to the order below.
 
@@ -754,7 +676,7 @@ Semi-structured. Questions follow the topics in the funded plan and are informed
 
 10. Closing: Is there anything else about your context or experiences we should understand?
 
-## Appendix I: Design workshop protocol and consultation procedure
+## Appendix H: Design workshop protocol and consultation procedure
 
 ### Design workshops
 
@@ -782,7 +704,7 @@ Confirmation, given at the start of each session with a consenting instructor:
 
 Instructors who have not consented to the research receive the same consultation support, and no notes are taken for research.
 
-## Appendix J: Instructor recruitment texts
+## Appendix I: Instructor recruitment texts
 
 ### Mailing-list blurb (institutional and professional mailing lists)
 
@@ -825,7 +747,7 @@ Sending out an instructor follow-up survey:
 
 Inviting an instructor to an interview:
 
-> Greetings, thank you for offering to talk with us further. Here is a scheduling link to sign up for a confidential interview of about 30–60 minutes: ____. Before the interview you will see our interview consent form. If you take part in an interview, you will receive a $25 electronic VISA gift card within 48 hours of each interview. Thank you,
+> Greetings, thank you for offering to talk with us further. Here is a scheduling link to sign up for a confidential interview of about 30–60 minutes: ____. If you have not already, you will see our consent form before the interview, which explains how the interview would be used in the research. If you take part in an interview, you will receive a $25 electronic VISA gift card within 48 hours of each interview. Thank you,
 
 Sending out a student survey:
 
@@ -839,7 +761,7 @@ Sending compensation:
 
 > Greetings, thank you for completing the (survey / interview) for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
 
-## Appendix K: Student recruitment script
+## Appendix J: Student recruitment script
 
 Read by a member of the research team, never the host instructor.
 
@@ -851,7 +773,7 @@ As part of this class, you have the opportunity to take part in research on how 
 
 As part of this class, you have the opportunity to take part in research on how different methods of teaching and assignments affect learning in a course like this one. This is a University of Maine research study. It involves two confidential surveys of about 10–15 minutes each, at the start and end of the course, with optional follow-up surveys afterward for which you receive a $10 electronic VISA gift card each. Participation is voluntary and will not affect your assignments, class activities, or your grade in any way; your instructor will not know who participated until after grades are submitted. Consent is indicated by submitting a survey, as described at the start of each survey. You must be at least 18 years old to take part.
 
-## Appendix L: Student matching survey
+## Appendix K: Student matching survey
 
 The purpose of this short survey is to place you in a reflection group with compatible scheduling. Your answers are confidential. Availability is used to schedule your group. Gender and disability status are optional; they are used only to form groups, are never shown to other students, your instructor, or teaching assistants, and are used for research only if you consented on the study consent form. You may skip any question. It takes about 5 minutes.
 
@@ -867,7 +789,7 @@ If applicable, do you have any of the following disabilities or chronic conditio
 
 Note: groups are normally formed of three to five members based on overlapping availability and, where students choose to report them, shared gender and shared disability status. Group numbers and meeting times are shared with students; gender and disability status are not.
 
-## Appendix M: Student pre- and post-course surveys
+## Appendix L: Student pre- and post-course surveys
 
 Introduction (both surveys): Please help us learn how to improve this course by answering the following questions. Your answers are confidential. There are no right or wrong answers. You may skip any questions you are uncomfortable answering. It takes about 10–15 minutes. Where your course grants credit for completing the survey, the credit is for submitting it, not for what you answer.
 
@@ -875,7 +797,7 @@ Your Email:
 
 Background (pre-survey): future careers considered; intended major(s)/minor(s) or program; year of study; hours worked for pay per week; comfort with English (1–7).
 
-Demographics (pre-survey): age; gender (Woman / Man / Non-binary / Prefer not to disclose / Prefer to self-describe); racial and ethnic identity (select any/all: American Indian or Alaska Native / Asian / Black or African American / Hispanic or Latinx / Native Hawaiian or Other Pacific Islander / White / Prefer not to disclose / Prefer to self-describe); whether an adult caretaker held a bachelor's degree or higher (Yes / No / Not sure); disabilities or accommodations (Yes / No / Prefer not to answer) and the checklist of conditions as in Appendix L; native English speaker (Yes / No).
+Demographics (pre-survey): age; gender (Woman / Man / Non-binary / Prefer not to disclose / Prefer to self-describe); racial and ethnic identity (select any/all: American Indian or Alaska Native / Asian / Black or African American / Hispanic or Latinx / Native Hawaiian or Other Pacific Islander / White / Prefer not to disclose / Prefer to self-describe); whether an adult caretaker held a bachelor's degree or higher (Yes / No / Not sure); disabilities or accommodations (Yes / No / Prefer not to answer) and the checklist of conditions as in Appendix K; native English speaker (Yes / No).
 
 Student outcome measures (pre- and post-survey; the same instruments used in the team's approved course-based protocol):
 
@@ -896,13 +818,13 @@ Measures may be added, retired, or replaced across design cycles with other publ
 
 > {your input needed here — whether to include the wider first-year measure set from the approved course-based protocol's Spring-2026 appendices (Short Big Five, Brief Resilience Scale, CD-RISC-2, Personal Growth and Development Scale).}
 
-## Appendix N: Student longitudinal follow-up survey
+## Appendix M: Student longitudinal follow-up survey
 
-Consent statement: Appendix D appears as the first page of each follow-up survey; submission indicates consent.
+Consent statement: Appendix C appears as the first page of each follow-up survey; submission indicates consent.
 
-Content: a brief update on current role, field, and work; the student outcome measures from Appendix M, with the psychological-safety stem "For my team at work:" where applicable; the career and progress items from Appendix M; and free-response items on long-term effects, which practices if any the participant has continued and how often, and suggested improvements.
+Content: a brief update on current role, field, and work; the student outcome measures from Appendix L, with the psychological-safety stem "For my team at work:" where applicable; the career and progress items from Appendix L; and free-response items on long-term effects, which practices if any the participant has continued and how often, and suggested improvements.
 
-## Appendix O: Reflection group meetings
+## Appendix N: Reflection group meetings
 
 Each reflection group meets for a short session at a regular interval — for example, weekly — over the course of a term. Each meeting has three parts, drawn from the team's prior reflection-group work (Nelson et al., 2025): members share progress and challenges; they affirm challenges, encourage one another, and celebrate accomplishments; and they generate ideas for improvement.
 
@@ -916,7 +838,7 @@ After each meeting, members submit individual written answers to that meeting's 
 
 Adaptations agreed with a collaborating instructor — for example meeting length, cadence, or which topic modules are used — are documented in the study file and available on request. Responses to the guided questions and to any topic-module questions are collected and analyzed under this protocol for consenting students. Any additional questions an instructor adds for their own course purposes are the instructor's own course materials.
 
-## Appendix P: Site approval / letter of support request (external institutions)
+## Appendix O: Site approval / letter of support request (external institutions)
 
 Template text sent to the appropriate official — for example a department chair or dean — at a collaborating institution. The University of Maine Site Approval Template is used where the institution has no form of its own.
 
