@@ -211,11 +211,18 @@ follow the order recorded there as approved practice where it differs from the p
 sample, because it does differ.
 
 Consent mechanics follow the review track, so decide the expected track before writing
-any closing block. For exempt activities this board wants **no signature line**:
-participating after receiving the form indicates consent, and surveys gate on the
-approved "I consent" checkbox-plus-email block. A signature line on an exempt study
-survived to the IRB #3 submission and the reviewer ordered it deleted
-(`references/board-rules.md` §5b; `references/institutions/umaine.md` §4).
+any closing block. For exempt activities this board wants **no signature line**, and the
+mechanics split by activity: for workshops, consultations, and interviews, participating
+after receiving the form *is* the consent — the form functions as an information sheet —
+while surveys gate on the approved "I consent" checkbox-plus-email block. "No signature"
+does not mean "no consent mechanics"; it means they move from a signing ritual into the
+structure of participation. A signature line on an exempt study survived to the IRB #3
+submission and the reviewer ordered it deleted — avoidably, since the published sample
+already said "signature not required for exempt studies." A recorded rule applies at
+drafting time, not only in verification (`references/board-rules.md` §5b;
+`references/institutions/umaine.md` §4). This holds for **this board's exempt track
+only**: an expedited or full-review study needs signed consent or an explicit waiver,
+and another institution's board needs its own §4 answer before its mechanics are assumed.
 
 Sanity-check compensation against time asked: it must be plausible payment for the
 burden. $10 for a 60-minute interview is not; ~$25 is the floor for that (Greg,

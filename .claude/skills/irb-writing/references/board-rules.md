@@ -228,7 +228,10 @@ change; apply them when drafting, not after a round.
 - Wants **Word documents**; formatting damage from Google Docs round-trips is a recurring
   cost, and worsens with bullet density.
 - Does not consistently handle exempt / minimal-risk review as such — expect
-  full-review-style scrutiny of low-risk procedures.
+  full-review-style scrutiny of low-risk procedures. **Scrutiny level and consent
+  formality are independent, though:** the review reads like full review, but exempt
+  consent mechanics (no signature — §5b) still apply. Do not add signing formality
+  defensively; the reviewer deletes it.
 - Tends to ask for paragraphs to be **moved or duplicated between sections** rather than
   rewritten. Cheap to satisfy; not worth pre-empting.
 - May object to detail that doesn't affect approvability. That is an argument for cutting
