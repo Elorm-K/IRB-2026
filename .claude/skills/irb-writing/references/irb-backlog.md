@@ -10,6 +10,11 @@ Updated 2026-07-28. Status per protocol, with the governing document each answer
 | 2 | **Instructor collaboration** (IRB #2) — instructor surveys/interviews/design workshops/consultations **and** classroom use in collaborating instructors' courses, comparison courses, student surveys/reflections/interviews, external sites. Design workshops *are* research. Workshops may concern reflection groups, designing AI integration in courses, or designing reflection around AI | CAREER grant, T1-d through T1-k, T2-e | **v5 drafted 2026-07-28 — merged, single protocol.** `irb2-instructor-collaboration/CURRENT/IRB2_Protocol_v5_MERGED_SUBMISSION.docx` + cover page. 12 open PI decisions in the v5 verification report | Fall 2026 co-design workshops and subsequent classroom use |
 | 2b | ~~Instructor collaboration — student stream~~ | — | **Closed 2026-07-28: merged into #2.** Splitting assumed the student arm could arrive as a modification; UMaine's rules say a modification changing two or more of {population, procedures, purpose} "becomes a new study," and this changes two. Staging would have cost two full applications. Held draft archived at `irb2-instructor-collaboration/archive/IRB2_StudentStream_HELD_v4_MERGED-INTO-v5_2026-07-28.docx` | — |
 
+| 3 | **Instructor adoption** (IRB #3) — instructor-only: interest-and-barriers surveys, design workshops, consultations, optional interviews, longitudinal follow-up | CAREER grant (instructor stream) | **Submitted; ORA review returned 2026-08-14; v2 response drafted same day** at `irb3-instructor-adoption/` — red-marked `.docx` awaiting PI review, 5 open decisions in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md` (employee compensation: none, per IRB #2 v9). Scope overlaps IRB #2's instructor stream — reconcile before both are live | Fall 2026 instructor workshops |
+
+Numbers in the table below are backlog order from 2026-07-28, **not** IRB numbers — the
+submitted "IRB #3" above is a different protocol from item 3 below.
+
 ## Needed, not yet drafted
 
 | # | Protocol / mod | Governing doc | Why |

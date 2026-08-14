@@ -149,10 +149,13 @@ Concrete calls made on real drafts. Extend this list as more are made.
 
 - Fixed durations that reality may vary ("10 weeks" → semester-aligned language).
 - Named vendors and tools (Google Drive, Zoom) → property descriptions. **Narrative
-  Summary/Methods body only.** The institution's instructions *require* vendors named in the
-  Confidentiality section and in consent-form data-handling text, and the board has approved
-  forms that name them — see `institutions/umaine.md` §6. De-naming there is a violation, not
-  a simplification.
+  Summary only — no longer Methods.** The IRB #3 review (§5b) requires each Methods item
+  to name its mode and platform; the institution's instructions *require* vendors named in
+  the Confidentiality section and in consent-form data-handling text, and the board has
+  approved forms that name them — see `institutions/umaine.md` §6. De-naming in any of
+  those places is a violation, not a simplification. What survives of this cut: don't fix
+  a vendor where nothing asks for one, and keep the properties ("encrypted," "restricted
+  access") alongside any name.
 - Per-meeting agendas and step-by-step activity breakdowns → "complete an icebreaker,"
   then group self-direction.
 - Course, enrollment, and graduation language in out-of-class protocols.
@@ -180,12 +183,55 @@ Concrete calls made on real drafts. Extend this list as more are made.
   reflection groups without their course or students participating in research; research
   involving their students will be submitted as a modification or separate protocol.
 
+## 5b. ORA review of IRB #3, 2026-08-14 — board-wide unless marked
+
+From the reviewer's response to the instructor-adoption protocol. Each was a required
+change; apply them when drafting, not after a round.
+
+- **Exempt activities: consent forms are not signed.** The reviewer's words: participating
+  in a workshop/consultation/interview *indicates* consent; for surveys, either submission
+  indicates consent or an "I consent" checkbox gates the questions. Delete signature
+  lines; keep the approved checkbox-plus-email block. Confirms the sample-form note in
+  `institutions/umaine.md` §4 empirically.
+- **Group sessions need the cannot-guarantee-confidentiality statement** in the narrative
+  Confidentiality section *and* the consent form: researchers cannot guarantee
+  confidentiality of responses, participants are asked not to share others' responses
+  outside the session. The IRB #2 v9 sentence is accepted language — reuse it.
+- **State when survey data is deleted from the collection platform**, not just where it is
+  archived. Tying it to the existing archival window ("within 14 days of collection") adds
+  no new commitment.
+- **Each Methods item must say the mode and platform**: online or paper, and the named
+  platform (they asked "Qualtrics?" directly), whether sessions are Zoom and/or in person,
+  and for every recorded activity whether agreement to the recording is required to
+  participate or notes are the fallback.
+- **Follow-ups must be specified, not gestured at**: same procedures as the initial
+  instruments (say so) or a promised future modification (say that instead), plus
+  frequency. A follow-up instrument named in the narrative needs its own appendix — §4b
+  applied to follow-ups.
+- **Recruitment texts**: say it is research in the opening sentence, not the closing one;
+  every script names a researcher and contact info; scripts for recorded activities
+  describe the recording and what other data are collected; **every recorded activity
+  needs its own recruitment script** — consultations were missing one and it was flagged.
+- **Consent forms speak in second person throughout** — stray "the participant's" gets
+  flagged.
+- **No calendar dates in consent forms that outlive them** ("on Dec 15, 2031" ordered
+  deleted; the example-format dates tied to a participation cohort survived).
+- **Survey verbs: "respond to" / "submit," not "complete"** — participants may skip
+  questions, and the form must read that way. Pair with per-invitation compensation
+  clarity ("one gift card per survey invitation") so repeat surveys can't be misread as
+  farmable.
+- **State compensation (or its absence) for every data-collection method** in the
+  narrative, not just the compensated ones.
+
 ## 6. Known board tendencies
 
 - Wants **Word documents**; formatting damage from Google Docs round-trips is a recurring
   cost, and worsens with bullet density.
 - Does not consistently handle exempt / minimal-risk review as such — expect
-  full-review-style scrutiny of low-risk procedures.
+  full-review-style scrutiny of low-risk procedures. **Scrutiny level and consent
+  formality are independent, though:** the review reads like full review, but exempt
+  consent mechanics (no signature — §5b) still apply. Do not add signing formality
+  defensively; the reviewer deletes it.
 - Tends to ask for paragraphs to be **moved or duplicated between sections** rather than
   rewritten. Cheap to satisfy; not worth pre-empting.
 - May object to detail that doesn't affect approvability. That is an argument for cutting

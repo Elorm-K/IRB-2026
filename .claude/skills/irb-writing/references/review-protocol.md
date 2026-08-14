@@ -119,6 +119,24 @@ form, recruitment materials, appendices. Build a table and check it mechanically
 | Storage description | | | |
 | Interview length | | | |
 
+Then a second table, **method × attribute** — one row per data-collection method the
+narrative names, follow-ups included (a follow-up survey is a method, not a footnote):
+
+| Method | Mode/venue + named platform | Recording + agreement terms | Data collected | Compensation (or "none") | Consent-form bullet | Own recruitment script | Instrument appendix |
+|---|---|---|---|---|---|---|---|
+| Survey | | | | | | | |
+| Workshop | | | | | | | |
+| Consultation | | | | | | | |
+| Interview | | | | | | | |
+| Follow-up survey / interview | | | | | | | |
+
+Every empty cell is a finding. Most of the IRB #3 ORA round (2026-08-14) was empty cells
+in this matrix: consultations had no recruitment script, follow-ups had no instrument
+appendix or stated frequency, compensation was stated only for the compensated methods,
+and no Methods item named its platform. The board-level rules are `board-rules.md` §5b;
+this matrix is how they get checked mechanically. Recording rows also need the *terms*:
+whether agreeing to the recording is required to participate, or notes are the fallback.
+
 Also:
 
 - [ ] Defined terms (e.g. "outcomes") are defined once and used consistently, not
@@ -132,6 +150,12 @@ Also:
       identical after normalization — do not hand-edit both. A standalone consent file once
       sat two versions behind the appendix it duplicated, still carrying the old protocol
       title and a live decision marker.
+- [ ] Every "Appendix X" reference resolves to an appendix that exists, checked
+      **mechanically** — grep the built text for `Appendi` and compare against the actual
+      appendix list — and the lettering has no gaps. "Appendices K and Li8" survived to
+      the IRB #3 submission and reached the reviewer.
+- [ ] Consent forms and recruitment texts speak in second person throughout — a stray
+      "the participant's" gets flagged (board-rules §5b).
 
 ## Pass 4 — Institutional compliance
 
@@ -148,6 +172,10 @@ every appendix, every standalone file that will actually be attached — against
       unsourceable finding is `UNVERIFIED`, not a violation.
 - [ ] Hard gates (§A, §B) separated from everything else — those are the ones that get an
       application returned unread.
+- [ ] The draft applies every `board-rules.md` entry **newer than the base protocol it was
+      built from** — a rule learned on a sibling protocol's review round applies to this
+      one immediately, not after this one's own review restates it. The published-rules
+      check above does not catch these, because board behavior is not published.
 - [ ] Nothing was edited. This pass reports; the PI decides.
 
 Where more than one board reviews the study, run the pass once per board against the

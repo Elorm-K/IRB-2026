@@ -18,7 +18,7 @@ Built 2026-07-28. Refresh if >1 semester old.
 1. IRB #2 v4's AI wording was derived from the grant because this file was unavailable (see `irb2-instructor-collaboration/reports/IRB2_v4_VERIFICATION_REPORT.md`, Assumptions). It can now be replaced with *copied approved language* from Appendices P/Q/R — the single highest-value revision available to that draft.
 2. The grant's claim that preliminary approval "already covers the proposed work in Task 1 and 2" is now checkable against an actual document rather than assumed. Still unchecked — see `irb-backlog.md`, "Verify, do not assume".
 
-**Board behavior note from this protocol:** it names vendors directly ("archival UMaine Google Drive folder") and states a 5-day transcription window, and the board approved it. That is evidence the board tolerates vendor naming, which cuts against this skill's "name properties, not vendors" rule. The rule still holds as *risk* guidance — a named vendor is a modification waiting to happen — but do not treat vendor naming as an approvability blocker.
+**Board behavior note from this protocol:** it names vendors directly ("archival UMaine Google Drive folder") and states a 5-day transcription window, and the board approved it. **Resolved 2026-08-14:** the question is no longer whether the board *tolerates* vendor naming — the IRB #3 review shows it *requires* it, per Methods item (mode + named platform) and in Confidentiality. The old "name properties, not vendors" rule is retired; see SKILL.md ground rule 1 and `board-rules.md` §5b.
 
 ## 2. Activity table — NSF CAREER grant (Award 2544192)
 

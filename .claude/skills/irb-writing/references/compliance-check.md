@@ -61,7 +61,9 @@ to miss.
       `TBD`, `XXX`). Distinguish real fill-in blanks that belong in a participant-facing form
       from markers that were meant to be resolved — the first are intentional, the second are
       violations.
-- [ ] Cross-references resolve; appendix lettering has no gaps.
+- [ ] Cross-references resolve; appendix lettering has no gaps. Check mechanically — grep
+      every `Appendi` mention against the actual appendix list. "Appendices K and Li8"
+      survived to the IRB #3 submission and reached the reviewer.
 
 ## C. Personnel
 
