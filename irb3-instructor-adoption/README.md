@@ -7,7 +7,8 @@ follow-up. Population is instructors and teaching staff only — no student-faci
 **Status: submitted; ORA review returned 2026-08-14; v2 response drafted same day,
 awaiting PI review.** All v2 changes are bold red in
 `CURRENT/IRB3_Protocol_v2_ORA_RESPONSE.docx`; the point-by-point map, deletions list, and
-6 open PI decisions are in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md`. Strip the `{{...}}`
+5 open PI decisions are in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md` (employee
+compensation resolved 2026-08-14: none, per IRB #2 v9). Strip the `{{...}}`
 markers from `source/protocol_v2_ORA_RESPONSE.md` and rebuild with `tools/build_docx.py`
 before submitting.
 

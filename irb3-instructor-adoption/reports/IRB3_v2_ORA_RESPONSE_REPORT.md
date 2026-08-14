@@ -49,7 +49,7 @@ approved electronic-consent format.
 | Reviewer point | Change made |
 |---|---|
 | Compensation for other methods? | Narrative now states the **$10 per submitted survey** (this was already promised in the consent form but missing from the narrative) and **no compensation for consultations**. |
-| Confusing UMaine-employee language | Rewritten: UMaine policy forbids gift cards for employees, so UMaine-employed instructors receive the **same amount as a direct payment through the University's business office** instead. |
+| Confusing UMaine-employee language | Rewritten to the approach the board accepted on IRB #2 v9: UMaine policy forbids gift cards for employees, so UMaine-employed instructors are **not compensated** and take part on the same terms in every other respect. (Decided by Cyril, 2026-08-14.) |
 
 ## Appendix A (consent form)
 
@@ -100,15 +100,18 @@ right that it duplicated the follow-up survey email; there is now one template.
 5. Blurb/targeted email: the trailing "This is part of a University of Maine research
    study and participation is voluntary" sentence (moved to the opening; "Participation
    is voluntary" retained in place).
+6. Appendix A Compensation: "or deposit" after the $10 survey gift card, and the v1
+   sentence about transferring $25 to UMaine employees — both fall away under the
+   no-employee-compensation decision.
+
+## Resolved decisions
+
+1. **UMaine-employee compensation — resolved 2026-08-14 (Cyril): no compensation for
+   UMaine employees**, matching what the board accepted on IRB #2 v9. Applied in the
+   narrative §9, the consent form, and all recruitment texts that mention compensation.
 
 ## [PI DECISION NEEDED]
 
-1. **UMaine-employee compensation.** Drafted as: same amount, direct University payment
-   instead of a gift card (preserves what v1 promised, now stated clearly). Alternative
-   the board already accepted on IRB #2 v9: UMaine employees are simply **not
-   compensated**. The drafted version keeps compensation equitable but commits the
-   business office to processing small payments — confirm it's operationally real before
-   submitting.
 2. **Consultation materials.** Drafted as: copies kept **with the instructor's
    permission**. Alternative: don't collect copies at all (delete the three red
    sentences). The reviewer only asked which it is.
@@ -125,9 +128,9 @@ right that it duplicated the follow-up survey email; there is now one template.
 ## Non-blocking flags (not fixed; from our own board file, not this review)
 
 - **Cumulative compensation can cross $75.** At $25 per session over five years, four
-  sessions puts one participant over the $75 threshold that triggers UMaine's
-  tax-reporting language in the consent form (HR for employees / Purchasing + possible
-  1099). The reviewer didn't raise it this round, but our UMaine file says to compute
+  sessions puts one non-UMaine participant over the $75 threshold that triggers UMaine's
+  tax-reporting language in the consent form (Purchasing + possible 1099; the employee
+  branch is moot now that UMaine employees are uncompensated). The reviewer didn't raise it this round, but our UMaine file says to compute
   against the maximum cumulative payment. Cheap fix if wanted: a worked-total example +
   the tax-reporting sentence in Appendix A.
 - **Per-card cap is fine** ($25 < $50 limit).
