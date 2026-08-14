@@ -47,16 +47,22 @@ Apply it like this:
 | Instead of | Write |
 |---|---|
 | "meetings run 10 weeks" | "meetings run over the course of a semester" |
-| "stored in Google Drive" | "stored in a secure cloud platform" |
-| "held over Zoom" | "held online" + the properties that matter ("connections are encrypted") |
 | a per-meeting agenda | "groups complete an icebreaker and then set their own agenda" |
+| a closed list of criteria | "such as …" — illustrative, not exhaustive |
 
-**Name properties, not vendors.** Vendors change; a named vendor is a modification
-waiting to happen.
+**Generalize commitments, not logistics.** The test governs commitments reality may
+vary — durations, agendas, group mechanics, closed lists. It does **not** license
+vagueness about how data are collected: this board requires each Methods item to state
+the mode and the named platform ("online via Qualtrics," "on Zoom or in person"), the
+recording terms, and the compensation or its explicit absence. An earlier version of
+this rule said "name properties, not vendors"; the IRB #3 review (2026-08-14) flagged
+every de-named platform and asked for the vendors by name, so the boundary is now
+recorded in `references/board-rules.md` §5b. Keep the properties ("connections are
+encrypted") *alongside* the name, not instead of it.
 
 The counterweight: the board *does* require certain specifics, and they live in the
-consent form. See `references/board-rules.md` for the required-inclusion list before
-cutting anything from a consent document.
+consent form and the per-method logistics above. See `references/board-rules.md` for
+the required-inclusion list before cutting anything from a consent document.
 
 ### 2. Preserve before you write
 
@@ -153,7 +159,10 @@ Starting from the wrong base document silently discards approved language.
 4. **Ask what else would help.** Literally: "what sources of data or files would be
    helpful for this task?" Prior interview consent forms, approved modifications, related
    protocols in the same program, and the governing document are all commonly-forgotten
-   inputs.
+   inputs. So are **sibling protocols currently under review at the same board**: language
+   a reviewer accepted on a live round (IRB #2 v9's group-confidentiality sentence, its
+   employee-compensation wording) is the freshest accepted language available, and IRB #3
+   v2 reused it verbatim wherever the same point recurred.
 5. **Locate the current consent forms.** In the master protocol document, consent forms
    accumulate chronologically at the bottom. To find the newest version of one, search
    the term (e.g. "interview") from the top of the document, then jump to the *last*
@@ -201,6 +210,13 @@ and the institution's own consent rules are in `references/institutions/<slug>.m
 follow the order recorded there as approved practice where it differs from the published
 sample, because it does differ.
 
+Consent mechanics follow the review track, so decide the expected track before writing
+any closing block. For exempt activities this board wants **no signature line**:
+participating after receiving the form indicates consent, and surveys gate on the
+approved "I consent" checkbox-plus-email block. A signature line on an exempt study
+survived to the IRB #3 submission and the reviewer ordered it deleted
+(`references/board-rules.md` §5b; `references/institutions/umaine.md` §4).
+
 Sanity-check compensation against time asked: it must be plausible payment for the
 burden. $10 for a 60-minute interview is not; ~$25 is the floor for that (Greg,
 2026-07-27).
@@ -213,7 +229,17 @@ There is a minimum viable shape, and it is short:
 2. What we are doing now.
 3. The research questions.
 4. Methods — lifted from the prior approved protocol, generalized if needed.
-5. Data management, stated as properties (secure, access-controlled, retention period).
+5. Data management — named platforms plus their properties (secure, access-controlled,
+   retention period, and when data leave the collection platform). The board requires
+   the vendor by name here (`references/institutions/umaine.md` §6, board-rules §5b).
+
+Whatever the shape, every data-collection method the narrative names — **follow-ups
+included; a follow-up survey is a method, not a footnote** — carries a full attribute
+set: mode and named platform, recording terms (and whether agreeing to the recording is
+required to participate), data collected, compensation or its explicit absence, a
+consent-form bullet, its own recruitment script, and its instrument appendix. Most of
+the IRB #3 review round (2026-08-14) was empty cells in this grid; Pass 3 now checks it
+as a matrix (`references/review-protocol.md`).
 
 Reuse the approved *description of the meetings* rather than authoring new agendas.
 Generalizing approved language is fine; replacing it is not.
@@ -273,6 +299,26 @@ everyone.
 
 When the board responds: turn the changes around the same day, review briefly,
 resubmit. Do not batch board feedback into a weekly cycle.
+
+### Board-response rounds
+
+The response format that has now worked twice (IRB #2 v9, IRB #3 v2):
+
+- A point-by-point report: reviewer point · change made · where in the package — plus an
+  explicit **Deletions** list, because red markup cannot show what was removed.
+- Additions wrapped in `{{...}}` in the source so they render bold red in the built
+  `.docx` (`tools/build_docx.py`); the PI reviews only the red.
+- Where the same point was already accepted on a sibling protocol at this board, reuse
+  that accepted sentence **verbatim** — language a reviewer accepted last week outranks
+  older approved language for the same point.
+- A reviewer question that is really a PI decision gets drafted one way with the
+  alternative recorded as `[PI DECISION NEEDED]` — the round does not wait on the answer.
+  A reviewer question addressed to the PI by email is answered by the PI, not the draft;
+  note it in the report with whatever document edit the answer might trigger.
+- Route every required change into the self-revision destinations the same day, and
+  **sweep every other in-flight protocol for the same findings** before its next
+  submission — a rule the board has already stated once, reappearing in a sibling
+  protocol, costs a round for something already known.
 
 ## The IRB backlog
 

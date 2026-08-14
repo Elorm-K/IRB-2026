@@ -149,10 +149,13 @@ Concrete calls made on real drafts. Extend this list as more are made.
 
 - Fixed durations that reality may vary ("10 weeks" → semester-aligned language).
 - Named vendors and tools (Google Drive, Zoom) → property descriptions. **Narrative
-  Summary/Methods body only.** The institution's instructions *require* vendors named in the
-  Confidentiality section and in consent-form data-handling text, and the board has approved
-  forms that name them — see `institutions/umaine.md` §6. De-naming there is a violation, not
-  a simplification.
+  Summary only — no longer Methods.** The IRB #3 review (§5b) requires each Methods item
+  to name its mode and platform; the institution's instructions *require* vendors named in
+  the Confidentiality section and in consent-form data-handling text, and the board has
+  approved forms that name them — see `institutions/umaine.md` §6. De-naming in any of
+  those places is a violation, not a simplification. What survives of this cut: don't fix
+  a vendor where nothing asks for one, and keep the properties ("encrypted," "restricted
+  access") alongside any name.
 - Per-meeting agendas and step-by-step activity breakdowns → "complete an icebreaker,"
   then group self-direction.
 - Course, enrollment, and graduation language in out-of-class protocols.

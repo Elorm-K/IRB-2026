@@ -87,6 +87,12 @@ checkbox-plus-email form for electronic consent:
 **Use the approved checkbox form.** Either way: **"The investigator should not sign the
 consent form – doing so gives the appearance of a contract."**
 
+**Empirically confirmed (ORA review of IRB #3, 2026-08-14):** the reviewer ordered a
+signature line deleted from an exempt study's consent form. For exempt activities,
+participating after receiving the form *indicates* consent; surveys gate on the
+"I consent" checkbox. The checkbox-plus-email block above was retained. See
+`../board-rules.md` §5b.
+
 ## 5. Required consent disclosures
 
 ### Concise summary
