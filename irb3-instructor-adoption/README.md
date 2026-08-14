@@ -4,10 +4,20 @@ Instructor-only protocol under the CAREER grant: interest-and-barriers surveys, 
 workshops, consultation ("office hours") sessions, optional interviews, and longitudinal
 follow-up. Population is instructors and teaching staff only — no student-facing arm.
 
+**Status: submitted; ORA review returned 2026-08-14; v2 response drafted same day,
+awaiting PI review.** All v2 changes are bold red in
+`CURRENT/IRB3_Protocol_v2_ORA_RESPONSE.docx`; the point-by-point map, deletions list, and
+6 open PI decisions are in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md`. Strip the `{{...}}`
+markers from `source/protocol_v2_ORA_RESPONSE.md` and rebuild with `tools/build_docx.py`
+before submitting.
+
 ## Provenance
 
-- `IRB3_Protocol.md` — drafted outside this repo and imported 2026-08-14 (uploaded file
-  `bfb7f906-IRB_2.md`, renamed to IRB 3 per Cyril). This import is the current draft.
+- `source/protocol_v1_SUBMITTED.md` — drafted outside this repo and imported 2026-08-14
+  (uploaded file `bfb7f906-IRB_2.md`, renamed to IRB 3 per Cyril). This is the version the
+  ORA review responded to.
+- `source/protocol_v2_ORA_RESPONSE.md` — v1 plus the 2026-08-14 ORA changes, `{{red}}`
+  marked. Reuses IRB #2 v9 accepted language where the same reviewer points recurred.
 - Governing document: NSF CAREER grant (Award No. 2544192), PI Gregory L. Nelson.
 - Reviewing board: University of Maine (Office of Research Compliance).
 
