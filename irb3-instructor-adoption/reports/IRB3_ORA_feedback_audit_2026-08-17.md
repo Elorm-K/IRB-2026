@@ -5,117 +5,109 @@ Reflective Use of Generative AI in Computing Education"
 (`docs.google.com/document/d/1evcxa_HrsjqH7PlaSCmaED_CoEMaDp9wz6oBimoR8Pg`).
 
 - **Pass 1** (2026-08-17, morning): 13 items flagged.
-- **Pass 2** (after first revisions): 8 fixed, 5 open.
-- **Pass 3** (current): **11 of 13 fixed.** Every explicit reviewer request is now
-  answered except one compensation sentence and the duplicate follow-up emails. Pass 3
-  also checked the package as a whole rather than only against the reviewer's list, which
-  surfaced three gaps the reviewer hasn't raised yet — items 3–5 below.
+- **Pass 2**: 8 fixed, 5 open.
+- **Pass 3**: 11 fixed, 2 open from the letter, plus 3 package-level gaps found.
+- **Pass 4** (current): **every point in the ORA letter is now answered — 13 of 13.**
+  One regression came in with the last edit, and the package-level gaps from pass 3 are
+  still open.
 
 ---
 
-## Fixed across passes 2–3
+## Every reviewer point is now addressed
 
-1. Methods item 1 says "online confidential survey … via qualtrics."
-2. §9 states the $10 per submitted survey.
-3. §9's confusing "transferred via UMaine" language is gone, replaced with the policy
-   version — this also removed the contradiction with Appendix A.
-4. §9's employee exception no longer says "for an interview," so it now covers surveys and
-   workshops too.
-5. Targeted email explains Zoom, the recording, agreement-to-record, and other data
-   collected.
-6. Targeted email and blurb both read "These approaches may include" — the
-   student-reflection-groups misreading is fixed in both.
-7. **The consultation ("office hours") invitation is now in Appendix C** — the last
-   entirely-unaddressed reviewer request from pass 1.
-8. Appendix A gained an "I consent" checkbox (see open item 4 for placement).
-9. "Appendices D and Li8" typo fixed.
-10. Appendix A's garbled "email address email addresses is deleted" fixed.
-11. Appendix A compensation timing now "within 2 business days of the session."
+The two that closed in this pass:
 
----
+1. **§9 now states "There is no compensation for consultation ('office hours')
+   sessions"** — the narrative finally answers Compensation 1 in full, and matches
+   Appendix A and the consultation recruitment script.
+2. **The duplicate longitudinal follow-up email is deleted** — Appendix C now has one
+   follow-up survey template, which answers Longitudinal follow-up 2 ("we are not sure
+   what is different about this from the other follow-up survey").
 
-## Still open — reviewer's own list
-
-### 1. §9 never says consultations are uncompensated — Compensation 1
-
-Appendix A says "There is no compensation for consultation ('office hours') sessions" and
-so does the new recruitment script; §9 still doesn't. The reviewer asked whether the other
-data-collection methods are compensated, and consultations are a method. One clause at the
-end of §9's first paragraph closes it.
-
-### 2. Both follow-up survey emails are still in Appendix C — Longitudinal follow-up 2
-
-"Sending out an instructor follow-up survey" and "Sending out an instructor longitudinal
-follow-up survey" remain near-identical; the only differences are the word "online" and
-the compensation sentence. The reviewer said they could not tell what distinguished them,
-and the doc still doesn't answer that. Simplest fix: delete the standalone longitudinal
-template, keep one email carrying the compensation and one-card-per-invitation line.
+Everything from passes 2–3 still holds: Methods 1 says online + Qualtrics; §9 carries the
+$10 survey compensation and the corrected employee exception; the targeted email explains
+Zoom, recording, agreement-to-record and other data; both emails read "These approaches
+may include"; the consultation invitation is in Appendix C; the typos in the
+data-collected list and Appendix A's key-file sentence are fixed; Appendix A's timing says
+"of the session."
 
 ---
 
-## Gaps beyond the reviewer's list
+## Regression introduced by the last edit
 
-These weren't in the ORA letter, but they are the kind of thing that comes back on the
-next round.
+### 1. The surviving follow-up survey email lost its compensation line
 
-### 3. The follow-up survey has no instrument
+The deleted longitudinal template was the one carrying "$10 electronic VISA gift card
+within 2 business days of submission — **one gift card per survey invitation**." The
+template that survived has no compensation sentence at all, so that wording now exists
+only in Appendix A.
+
+This matters because it was itself a reviewer request — Longitudinal follow-up 3 asked you
+to word the compensation so participants understand they can be awarded a card **once per
+invitation**, precisely so nobody thinks they can run several surveys in one sitting for
+$10 each. The place that misunderstanding happens is the invitation email. Paste this into
+the surviving follow-up email, before the contact-info line:
+
+> *For this survey, you will receive a $10 electronic VISA gift card within 2 business
+> days of submission — one gift card per survey invitation (University policy does not
+> permit gift cards for University of Maine employees, who take part without
+> compensation).*
+
+---
+
+## Still open — our own findings, not the reviewer's
+
+### 2. The follow-up survey has no instrument
 
 Methods 5 and the consent form both promise follow-up surveys "about your adoption
 decisions, any changes you made, and your experiences," and Methods 5 points at
-**Appendix D**. Appendix D is the interest-and-barriers survey — it asks about current
-practice, interest levels, and whether they'd like to join a workshop. It contains no
-question about adoption decisions, adaptations, or experiences. So the instrument for a
-promised data-collection method is effectively missing. Either add a short follow-up
-instrument as a new appendix (the v2 draft did this as Appendix F) or add follow-up items
-to Appendix D and retitle it. Note the reviewer was already looking in this direction —
-"the only follow-ups mentioned in the appendices are follow-up surveys."
+**Appendix D** — which asks about current practice, interest levels, and workshop
+interest, and none of those three things. A promised data-collection method has no
+questions behind it. Add a short follow-up instrument as a new appendix, or add follow-up
+items to Appendix D and retitle it. Highest-risk item on this list.
 
-### 4. The "I consent" checkbox is in the wrong appendix
+### 3. The "I consent" checkbox is in the wrong appendix
 
 §5 says the checkbox appears "at the start of the survey, which then takes them to the
-survey questions." Appendix D still goes straight from its intro paragraph to "Your
-Email:" with no checkbox, while the checkbox landed at the end of **Appendix A** instead.
-That placement is slightly against the exempt logic the reviewer set out: for workshops,
-consultations, and interviews, participation *is* consent, so a box to tick at the end of
-the form invites the question of who ticks it and where it goes. Cleaner: move the
-checkbox into Appendix D (and any follow-up instrument), and end Appendix A with a short
-unsigned consent statement instead — e.g. "Taking part in a workshop, consultation, or
-interview indicates your consent. For surveys, you will be asked to check an 'I consent'
-box before the questions begin."
+survey questions." Appendix D still runs intro → "Your Email:" with no checkbox, while the
+checkbox sits at the end of **Appendix A**. For workshops, consultations, and interviews
+the reviewer's rule is that participation *is* consent, so a box to tick at the end of the
+form raises the question of who ticks it. Move the checkbox into the survey instrument, and
+close Appendix A with an unsigned statement instead — e.g. "Taking part in a workshop,
+consultation, or interview indicates your consent. For surveys, you will be asked to check
+an 'I consent' box before the questions begin."
 
-### 5. Data collected doesn't list the consultation teaching materials
+### 4. Data collected doesn't list the consultation teaching materials
 
 Methods 3 and the consent form both say the team may keep copies of teaching materials an
-instructor shares in a consultation, but the Data-collected list (1.1–1.3) never names
-them; 1.3's "the materials attendees produce" reads as workshop artifacts. Since the
-reviewer specifically asked whether those copies are collected, the data list should show
-them. Add them to 1.3 or as a new 1.4.
+instructor shares in a consultation, but items 1.1–1.3 never name them (1.3's "the
+materials attendees produce" reads as workshop artifacts). The reviewer specifically asked
+whether those copies are collected, so the data list should show them — add to 1.3 or as a
+new 1.4.
 
-### 6. Lower priority: §4 promises recruitment channels with no text
+### 5. Lower priority: §4 names recruitment channels with no text
 
-§4 says the team will also recruit "through public announcements, a project website, and
-social media," and says recruitment texts are in Appendix C — but Appendix C has no
-announcement, website, or social-media text. The board can ask for material for every
-named channel. Either add a short public-announcement blurb or drop those channels from
-§4.
+§4 says the team will also recruit through "public announcements, a project website, and
+social media" and that recruitment texts are in Appendix C, but Appendix C has none for
+those channels. Add a short public-announcement blurb, or drop the channels from §4.
 
 ---
 
 ## Cosmetic
 
-- Appendix A: "respect the confidentiality of **their** peers" — the second-person edit
-  left "their" behind; should be "your peers."
-- §9: card sent "within 2 business days of **the interview**," though that clause now
-  governs surveys and workshops as well. Appendix A already says "of the session."
+- §9: card sent "within 2 business days of **the interview**," though that clause governs
+  surveys and workshops too. Appendix A says "of the session" — suggested fix: "within 2
+  business days of the session or survey submission."
 - §9: stray space in "not offered a gift card ; they take part."
+- Appendix A: "respect the confidentiality of **their** peers" → "your peers."
 - Targeted email: double period after "non-use of generative AI.."
-- Appendix C: the new consultation invitation heading is plain text while every other
-  script heading is bold.
+- Appendix C: the consultation invitation heading is plain text while every other script
+  heading is bold; the interview invitation heading lost its bold too.
 - "(Appendices D)" — plural word, one appendix.
 - Two "December 2031" examples remain (Appendix A confidentiality, and Voluntary). Only
-  the final-sentence date was required; optional, but the reviewer's reason applies.
-- Appendix A and §9 both keep "You must reach the end of a session to receive the
-  compensation," which sits against the reviewer's "participate in" edit. Your call.
+  the final-sentence date was required; optional.
+- Appendix A and §9 keep "must reach the end of a session to receive the compensation,"
+  which sits against the reviewer's "participate in" edit. Your call.
 - Standing non-blocking flag from our own board file (not this review): at $25 a session
   over five years, cumulative payments to one non-UMaine participant can cross UMaine's
   $75 tax-reporting threshold, which normally brings a tax sentence into the consent form.
@@ -131,7 +123,7 @@ the separate email thread; recruitment text may need an edit depending on the an
 
 ## Verdict
 
-Submittable once item 1 is added — it is a single clause, and it is the only place the
-narrative still under-answers a direct reviewer question. Item 2 is the only other point
-from the ORA letter left standing. Items 3–5 are ours, not the reviewer's, but item 3
-(no follow-up instrument) is the one most likely to generate a fresh round.
+The ORA letter is fully answered. Before resubmitting I would restore the compensation
+sentence to the follow-up email (item 1, one paste — it was a reviewer request) and add a
+follow-up survey instrument (item 2, the likeliest cause of another round). Items 3–5 and
+the cosmetics are judgment calls that won't block approval.
