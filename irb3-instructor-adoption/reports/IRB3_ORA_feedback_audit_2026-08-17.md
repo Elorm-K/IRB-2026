@@ -7,9 +7,10 @@ Reflective Use of Generative AI in Computing Education"
 - **Pass 1** (2026-08-17, morning): 13 items flagged.
 - **Pass 2**: 8 fixed, 5 open.
 - **Pass 3**: 11 fixed, 2 open from the letter, plus 3 package-level gaps found.
-- **Pass 4** (current): **every point in the ORA letter is now answered — 13 of 13.**
-  One regression came in with the last edit, and the package-level gaps from pass 3 are
-  still open.
+- **Pass 4**: every point in the ORA letter answered — 13 of 13; one regression flagged.
+- **Pass 5** (current): the regression is repaired, **but the restored sentence is
+  truncated mid-clause** and now misstates the employee terms — see item 1. The
+  package-level gaps from pass 3 are unchanged.
 
 ---
 
@@ -33,25 +34,23 @@ data-collected list and Appendix A's key-file sentence are fixed; Appendix A's t
 
 ---
 
-## Regression introduced by the last edit
+## Must fix — a truncated sentence in the follow-up email
 
-### 1. The surviving follow-up survey email lost its compensation line
+### 1. "who take part" — two words are missing
 
-The deleted longitudinal template was the one carrying "$10 electronic VISA gift card
-within 2 business days of submission — **one gift card per survey invitation**." The
-template that survived has no compensation sentence at all, so that wording now exists
-only in Appendix A.
+The compensation line is back in the follow-up survey email, with the $10 amount, the
+2-business-day timing, and the one-card-per-invitation wording the reviewer asked for
+(Longitudinal follow-up 3). But the parenthetical now ends mid-clause:
 
-This matters because it was itself a reviewer request — Longitudinal follow-up 3 asked you
-to word the compensation so participants understand they can be awarded a card **once per
-invitation**, precisely so nobody thinks they can run several surveys in one sitting for
-$10 each. The place that misunderstanding happens is the invitation email. Paste this into
-the surviving follow-up email, before the contact-info line:
+> "(University policy does not permit gift cards for University of Maine employees, who
+> take part)."
 
-> *For this survey, you will receive a $10 electronic VISA gift card within 2 business
-> days of submission — one gift card per survey invitation (University policy does not
-> permit gift cards for University of Maine employees, who take part without
-> compensation).*
+It should read "**who take part without compensation**" — the phrasing used in the
+interview invitation. As written, the sentence is incomplete and, read literally, says
+UMaine employees "take part" in some unspecified sense, which is exactly the kind of
+ambiguity about payment the reviewer asked you to clear up in the first place. Two-word
+fix, and it is in participant-facing text about money, so it is worth making before
+submission.
 
 ---
 
@@ -123,7 +122,10 @@ the separate email thread; recruitment text may need an edit depending on the an
 
 ## Verdict
 
-The ORA letter is fully answered. Before resubmitting I would restore the compensation
-sentence to the follow-up email (item 1, one paste — it was a reviewer request) and add a
-follow-up survey instrument (item 2, the likeliest cause of another round). Items 3–5 and
-the cosmetics are judgment calls that won't block approval.
+The ORA letter is fully answered. Two things left that I would not submit without:
+completing "who take part **without compensation**" in the follow-up email (item 1, two
+words), and adding a follow-up survey instrument (item 2, the likeliest cause of another
+round). Items 3–5 and the cosmetics are judgment calls that won't block approval.
+
+Also worth noting: the em dash in the pasted sentence became a comma ("of submission, one
+gift card per survey invitation"), which reads slightly run-on but is not wrong.
