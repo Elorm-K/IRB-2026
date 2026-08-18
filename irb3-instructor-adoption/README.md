@@ -8,7 +8,10 @@ follow-up. Population is instructors and teaching staff only — no student-faci
 awaiting PI review.** All v2 changes are bold red in
 `CURRENT/IRB3_Protocol_v2_ORA_RESPONSE.docx`; the point-by-point map, deletions list, and
 5 open PI decisions are in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md` (employee
-compensation resolved 2026-08-14: none, per IRB #2 v9). Strip the `{{...}}`
+compensation resolution of 2026-08-14 — "none, per IRB #2 v9" — was **reversed by the PI
+2026-08-17**: employees get the same amounts via a University payment instead of a gift
+card; assessment, policy research, and drafted language in
+`reports/IRB3_EMPLOYEE_COMPENSATION_2026-08-18.md`). Strip the `{{...}}`
 markers from `source/protocol_v2_ORA_RESPONSE.md` and rebuild with `tools/build_docx.py`
 before submitting.
 

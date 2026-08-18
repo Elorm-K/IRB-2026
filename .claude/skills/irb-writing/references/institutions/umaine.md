@@ -200,6 +200,13 @@ Quotes are exact.
 - **"Gift cards may not be used to compensate employees."** UMaine-employed instructors
   cannot receive a gift card at all. This is separate from the >$75 tax-reporting rule above,
   which still applies to student employees, who *can* receive one.
+  - This restricts the **instrument, not the compensation** (GN, 2026-08-17): do not write
+    protocols that exclude UMaine employees from payment — the Human Subject Payment
+    Guidelines' >$75 HR-reporting rule presupposes employees receiving research payments.
+    Employees get the same amount through the University's regular payment process (payroll
+    addition vs. AP check unconfirmed — instrument-agnostic wording survives either). The
+    "no compensation for employees" sentence accepted on IRB #2 v9 is superseded and must
+    not be copied forward.
 - **"Individual gift cards should not exceed $50."** Per card, not cumulative.
 - **A separate payment-information instrument is required.** In the reviewer's words:
   *"Instructors will be required to fill out a Qualtrics form requesting information for the
