@@ -41,6 +41,11 @@ style note.
 - [ ] Consent forms: **"THE SAMPLE FORMAT, WITH HEADINGS, MUST BE FOLLOWED OR THE
       APPLICATION WILL BE RETURNED."**
 - [ ] Consent forms **"should be written no higher than an 8th grade reading level."**
+- [ ] **Resubmissions: tracked changes in Word, against the version the board reviewed.**
+      Stated in the board's review-response instructions email, not on the web pages
+      (GN 2026-08-17 — a response round drafted without it had to be redone by opening
+      the as-sent version from revision history and re-applying every change as a Word
+      tracked change). A clean or `{{red}}`-styled document does not satisfy this gate.
 
 ## 3. Required narrative headings, in order
 

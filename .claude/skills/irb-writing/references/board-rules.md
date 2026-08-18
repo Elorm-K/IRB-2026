@@ -56,6 +56,20 @@ two. Phase 4 Pass 4 (`compliance-check.md`) checks against that file, not this o
   form both misdescribes the intervention and creates deviation risk.
 - **Content already covered elsewhere in the same form.** Do not restate
   confidentiality provisions under other headings.
+- **Anything without precedent in an approved YES Lab consent form** (GN 2026-08-11:
+  *"If you don't see it in the existing consent forms, it doesn't belong there"*). The
+  form is template-bound; sections outside the template are against the board's rules,
+  and novel statements risk changing the **risk categorization** of the study. Instances
+  the PI had to strip by hand:
+  - blanket guarantees and "we will never…" commitments ("I don't know if we want to
+    guarantee this") — they constrain future rounds for no approvability gain;
+  - promises about how non-participants or non-adopting instructors are treated —
+    situations the study will never be in;
+  - descriptions of **non-research participation paths** ("you can use our tools without
+    being in the research") — the board expects only the research described, and this
+    reads as undescribed research. It's implicit; fine for a presentation, not the IRB;
+  - claims that the team will never later be in an evaluative relationship, or will only
+    ever handle data a specific way, beyond what the confidentiality section already says.
 
 ## 3. Consent form architecture
 
@@ -223,6 +237,25 @@ change; apply them when drafting, not after a round.
 - **State compensation (or its absence) for every data-collection method** in the
   narrative, not just the compensated ones.
 
+## 5c. Response-round conduct (GN 2026-08-17, coaching on the IRB #3 round)
+
+PI-stated rules for how to execute a board-response round. The full statement lives in
+`../SKILL.md` "Board-response rounds"; the load-bearing points:
+
+- **Edit only the location a comment targets** — a Methods comment means the Methods
+  item, never propagation into emails or other sections.
+- **Reviewer-supplied text goes in verbatim**, not paraphrased longer.
+- **Nothing unrequested gets added** during a response round (IP-address handling was
+  the instance the PI caught).
+- **Optional suggestions are declined** ("if they give you an option, don't") — except
+  **compensation in recruitment materials, stated per-activity**, which the PI ordered
+  added the same day despite the reviewer marking it optional. Recruitment-motivating
+  content is the standing exception to keep-it-simple.
+- **Compensation exclusions confused the board once already**: the UMaine-employee
+  gift-card detail, written as a no-compensation rule, generated a round of reviewer
+  confusion ("is this always UMaine people?"). Restrictions on *how* someone is paid
+  must never read as restrictions on *whether* (see `institutions/umaine.md` §7).
+
 ## 6. Known board tendencies
 
 - Wants **Word documents**; formatting damage from Google Docs round-trips is a recurring
@@ -236,6 +269,17 @@ change; apply them when drafting, not after a round.
   rewritten. Cheap to satisfy; not worth pre-empting.
 - May object to detail that doesn't affect approvability. That is an argument for cutting
   such detail up front, not for justifying it at length.
+- **Reverses its own instructions across rounds** (GN 2026-08-17): ordered a date added in
+  one round and the same date deleted in a later one — the deleted text had been lifted
+  verbatim from a previously approved IRB. Follow the latest instruction, don't argue
+  precedent, and log the reversal here so the next protocol doesn't treat either version
+  as a stable rule.
+- **Pastes stock comments** from a common-issues list that the package already answers
+  (the audio/video-recording boilerplate arrived against a protocol that specified it
+  everywhere). Answer where the comment points; don't re-architect the document around it.
+- Repetition across sections is the board's own design: it wants the same fact in the
+  narrative, the consent form, and the script, and its review consists largely of finding
+  the copy you missed. Satisfy it mechanically (Pass 3's matrix); don't fight it.
 
 ---
 

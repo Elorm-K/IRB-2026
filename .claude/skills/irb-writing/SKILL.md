@@ -114,6 +114,16 @@ formatting, and the damage scales with how bullet-heavy the document is. Work in
 `.docx` end to end (see the `docx` skill for reading and editing them), and keep
 paragraph-structured prose over deep bullet nesting where either would do.
 
+**One canonical working document per protocol.** Never start a new copy of the document
+for a new round — when a fresh copy appears, the PI loses all change history and has to
+re-review from scratch: *"when you create a new copy of the document, it's like we've
+started from scratch… I can't tell what's happening"* (GN 2026-08-11). New versions live
+as version history, tracked changes, or repo commits on the same document, so "what
+changed since you last approved it" is always answerable.
+
+Repos for IRB work are created **inside the lab's GitHub organization**, not a personal
+account — same reason shared docs go in the shared drive (GN 2026-08-11).
+
 ## Phase 0 — Provenance (do not skip; this is where hours get lost)
 
 Starting from the wrong base document silently discards approved language.
@@ -160,9 +170,13 @@ Starting from the wrong base document silently discards approved language.
    helpful for this task?" Prior interview consent forms, approved modifications, related
    protocols in the same program, and the governing document are all commonly-forgotten
    inputs. So are **sibling protocols currently under review at the same board**: language
-   a reviewer accepted on a live round (IRB #2 v9's group-confidentiality sentence, its
-   employee-compensation wording) is the freshest accepted language available, and IRB #3
-   v2 reused it verbatim wherever the same point recurred.
+   a reviewer accepted on a live round (IRB #2 v9's group-confidentiality sentence) is the
+   freshest accepted language available, and IRB #3 v2 reused it verbatim wherever the same
+   point recurred. One rank above it: **a live PI instruction supersedes sibling-accepted
+   language** — IRB #2 v9's employee-compensation sentence was accepted by the reviewer and
+   then reversed by the PI (2026-08-17), so copying it forward propagated a decision that no
+   longer stood. Before reusing sibling language, check it against the PI's latest comments
+   and transcripts on the same point.
 5. **Locate the current consent forms.** In the master protocol document, consent forms
    accumulate chronologically at the bottom. To find the newest version of one, search
    the term (e.g. "interview") from the top of the document, then jump to the *last*
@@ -203,6 +217,17 @@ consent form is where the board's demand for specificity actually originates, so
 settling it first fixes the level of detail for everything downstream. Doing it in the
 other order produces a protocol that over-specifies and a consent form that
 under-specifies.
+
+**The consent form is template-bound: if a statement type or section has no precedent in
+an approved YES Lab consent form, it does not belong** — *"If you don't see it in the
+existing consent forms, it doesn't belong there"* (GN 2026-08-11). The generic "good
+consent form" in the model's head is not this board's form; novel additions have twice
+required a manual PI pass to strip, and some (blanket guarantees, promises about people
+outside the research, descriptions of non-research participation paths) risk changing the
+study's **risk categorization**. Before handoff, diff the draft's section list and
+statement types against the approved template and cut anything without a precedent —
+usable-but-unplaceable text goes in the handoff notes, not the form
+(`references/board-rules.md` §2; `references/ai-capability-log.md` §6).
 
 Read `references/board-rules.md` for what this board requires in a consent form, what
 must stay out of it, and how many consent forms a study needs. The required heading order
@@ -311,8 +336,40 @@ resubmit. Do not batch board feedback into a weekly cycle.
 
 The response format that has now worked twice (IRB #2 v9, IRB #3 v2):
 
+**Conduct of the round — the diff is minimal and in-place (GN 2026-08-17):**
+
+- **Do exactly what was asked, exactly where it was asked.** A reviewer comment targets
+  one location — usually the narrative/Methods item it sits on. Do not propagate the
+  detail into other sections or into recruitment emails ("add details about the
+  recording" meant the Methods item, not the invitation email). *"They ask you to do
+  something, just do the thing they asked you to do. Just in the place that they asked
+  you to do it."*
+- **Reviewer-supplied text is pasted verbatim.** "Add this" means copy-paste their
+  sentence, not write a longer paraphrase of it.
+- **Add nothing the review didn't ask for.** Unrequested additions (IP-address handling
+  was the instance) create new commitments and new questions. This is Ground rule 1
+  applied at its strictest, because every response-round addition is read fresh.
+- **Optional suggestions: decline by default — except recruitment-motivating content.**
+  *"If they give you an option to not do something, don't. Keep it simple"* (GN
+  2026-08-17). The one standing exception, set the same day: **compensation always goes
+  into recruitment materials, stated per-activity for the activity each email invites
+  to** — the board optimizes for compliance, the lab also has to recruit, and "people
+  are more or less likely to do something when told they will get money." The board's
+  instinct is to strip motivating content; do not help it.
+- **Expect reversals and boilerplate.** The board has ordered the opposite of its own
+  earlier instruction (add a date → delete that date) and pastes stock comments that the
+  package already answers. Follow the latest instruction without arguing precedent, note
+  the reversal in the report, and log it in `references/board-rules.md` §6.
+
+**Format of the response package:**
+
 - A point-by-point report: reviewer point · change made · where in the package — plus an
   explicit **Deletions** list, because red markup cannot show what was removed.
+- **Resubmission mechanics: tracked changes in Word, against the version the board
+  reviewed** — it's in the board's instructions email, and missing it cost a rework pass
+  (GN 2026-08-17). The `{{red}}` build is for the PI's review; the file that goes back to
+  the board is the as-sent version (recover it from revision history if needed) with the
+  changes applied as real tracked changes in Word. See `institutions/umaine.md` §2.
 - Additions wrapped in `{{...}}` in the source so they render bold red in the built
   `.docx` (`tools/build_docx.py`); the PI reviews only the red.
 - Where the same point was already accepted on a sibling protocol at this board, reuse
@@ -392,6 +449,13 @@ into future projects.
 After each submission and each board response, log what the board accepted, questioned,
 or required changed, and revise this file. Log tasks the AI handled badly in
 `references/ai-capability-log.md`.
+
+**Advisor-meeting transcripts are a first-class input to this loop.** The PI states
+process rules mid-meeting that never land in a document ("track changes required," "if
+optional, skip it," "copy-paste their text"), and has asked for exactly this: *"you
+should be taking the transcripts from me talking about it and turning that into
+statements for the prompt"* (GN 2026-08-17). After any meeting that touches IRB work,
+mine the transcript for rules and route them through the destinations below.
 
 Three destinations, and routing matters — a rule filed in the wrong place is a rule the
 next protocol won't check:

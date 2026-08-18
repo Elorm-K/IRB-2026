@@ -91,3 +91,39 @@ only for content the base already contained.
 
 **Countermeasure.** Pass 4 (`compliance-check.md`), and the per-institution rule files it
 runs from. Every one of those nine findings maps to a line in sections C–H. Added 2026-07-28.
+
+## 6. Added generic consent-form content the board's template doesn't have
+
+**What happened.** The IRB #3 consent forms accumulated sections and statements with no
+precedent in any approved YES Lab form — blanket guarantees, promises about
+non-participants, a described non-research participation path. The PI deleted them by hand
+in-session (2026-08-11): *"none of these things are in any of the IRBs… the AI is really
+bad at working on consent forms. It wants to add all these things… the average consent
+form is not equal to the consent forms that our IRB wants."* Some additions risked
+changing the study's risk categorization.
+
+**Why.** The model's prior for "a good consent form" is an average over the internet's
+consent forms, and it leaks in whenever a form is drafted or "improved" rather than copied.
+Ground rule 2 existed but had no mechanical check on consent forms specifically.
+
+**Countermeasure.** Template-bound rule in `SKILL.md` Phase 2 and `board-rules.md` §2: no
+statement type without a precedent in an approved form; diff the section list against the
+approved template before handoff. Text that is good but unplaceable goes to handoff notes,
+not the form.
+
+## 7. Over-propagated review changes and over-hedged during a response round
+
+**What happened.** On the IRB #3 response round (caught 2026-08-17), a reviewer request to
+add recording details was also applied to the invitation email, where none of it was
+requested; unrequested IP-address detail was added; a reviewer-supplied sentence was
+rewritten longer instead of pasted; and reviewer-optional compensation was omitted from
+recruitment emails where the PI wanted it (recruitment-motivating content is the exception
+to keep-it-simple).
+
+**Why.** Default AI risk-sensitivity plus a "be thorough" prior. The PI's diagnosis: hedgy
+additions in the wrong register *"provoke… misunderstanding"* and make a bureaucracy
+*"turn up their temperature"* — thoroughness reads as new risk surface, not diligence.
+
+**Countermeasure.** Response-round conduct rules: `SKILL.md` "Board-response rounds" and
+`board-rules.md` §5c — in-place-only edits, verbatim paste, nothing unrequested, decline
+optional items except recruitment-motivating content.
