@@ -87,6 +87,23 @@ If a required field has no answer in any of those, mark it
 with something plausible — a plausible invention in an approved protocol is a
 commitment nobody agreed to.
 
+Two consequences that have each cost a review pass:
+
+- **Consent forms: if it isn't in an approved consent form of this board, it doesn't
+  belong there** (Greg, 2026-08-11, after hand-deleting a round of AI-added sections from
+  IRB #3's consent forms). The "average consent form" the model has internalized is not
+  this board's consent form — general-best-practice sections (data-sharing statements,
+  fairness assurances, meta-explanations of the study's structure) read as foreign
+  material and some are against this board's template rules. `references/board-rules.md`
+  §§1–3 lists what belongs; everything else needs an approved-form precedent.
+- **Never introduce a risk category, population, or blanket "we will never…" commitment
+  the sources don't require.** Hedging is not free: an unprompted mention of a sensitive
+  population reads to the board as *your study involves that population* and can raise
+  the risk categorization; a blanket guarantee ("we will never be in an evaluative
+  relationship with participants") is a constraint the lab then has to live under
+  (Greg, 2026-08-11/17). AI defaults are hedgy and risk-sensitive; in an IRB application
+  that provokes the bureaucracy instead of reassuring it.
+
 ### 4. Define terms once
 
 Define a construct (e.g. "outcomes") once, near the top, then use the term throughout
@@ -113,6 +130,12 @@ The board wants **Word documents**. Round-tripping through Google Docs destroys
 formatting, and the damage scales with how bullet-heavy the document is. Work in
 `.docx` end to end (see the `docx` skill for reading and editing them), and keep
 paragraph-structured prose over deep bullet nesting where either would do.
+
+**One working document per protocol, continuously.** Do not fork a fresh copy mid-review:
+each new copy erases the revision history the PI uses to see what changed since they last
+approved something — "when you create a new copy of the document, it's like we've started
+from scratch, and I can't tell what's happening" (Greg, 2026-08-11). Once the board has
+responded, the working document is the board's returned file (see Board-response rounds).
 
 ## Phase 0 — Provenance (do not skip; this is where hours get lost)
 
@@ -309,12 +332,31 @@ resubmit. Do not batch board feedback into a weekly cycle.
 
 ### Board-response rounds
 
+**The board's returned Word document is the new base.** The board responds — and approves —
+by returning the application as a Word document carrying its own edits, which were not in
+the submitted version. From then on that file is canonical: all response and modification
+edits are made **inside it, in Microsoft Word, with Track Changes on** (All Markup view) —
+required by the instructions in the board's response email — and saved under a **new
+descriptive filename**, never the board's own. Do not respond from your own copy or restore
+a prior version over theirs; that silently discards board edits (on the IRB #3 student-arm
+round, 2026-08-25, edits made in a restored copy had to be hand-transferred into the
+returned document). Drafting can still happen in this repo's
+`.md` sources; the deliverable to the board is the returned file with tracked changes,
+copied in at the end.
+
+**Scoped compliance.** Do exactly what each comment asks, exactly where it is anchored:
+paste reviewer-supplied text verbatim, decline options the reviewer marks optional, add
+nothing nobody asked for, and expect the board to sometimes reverse its own prior
+instruction — comply per round rather than arguing from its precedent. The full rule set
+with examples is `references/board-rules.md` §5c; apply it before drafting any response.
+
 The response format that has now worked twice (IRB #2 v9, IRB #3 v2):
 
 - A point-by-point report: reviewer point · change made · where in the package — plus an
   explicit **Deletions** list, because red markup cannot show what was removed.
 - Additions wrapped in `{{...}}` in the source so they render bold red in the built
-  `.docx` (`tools/build_docx.py`); the PI reviews only the red.
+  `.docx` (`tools/build_docx.py`); the PI reviews only the red. This is the PI-review
+  artifact — the submission artifact is the tracked-changes Word document above.
 - Where the same point was already accepted on a sibling protocol at this board, reuse
   that accepted sentence **verbatim** — language a reviewer accepted last week outranks
   older approved language for the same point.

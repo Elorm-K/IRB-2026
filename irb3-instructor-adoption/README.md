@@ -4,13 +4,20 @@ Instructor-only protocol under the CAREER grant: interest-and-barriers surveys, 
 workshops, consultation ("office hours") sessions, optional interviews, and longitudinal
 follow-up. Population is instructors and teaching staff only — no student-facing arm.
 
-**Status: submitted; ORA review returned 2026-08-14; v2 response drafted same day,
-awaiting PI review.** All v2 changes are bold red in
-`CURRENT/IRB3_Protocol_v2_ORA_RESPONSE.docx`; the point-by-point map, deletions list, and
-5 open PI decisions are in `reports/IRB3_v2_ORA_RESPONSE_REPORT.md` (employee
-compensation resolved 2026-08-14: none, per IRB #2 v9). Strip the `{{...}}`
-markers from `source/protocol_v2_ORA_RESPONSE.md` and rebuild with `tools/build_docx.py`
-before submitting.
+**Status: APPROVED.** The final submitted version is
+`CURRENT/2026_08_09_Nelson_IRB_FINAL.docx` (added 2026-08-27 from the PI's copy). The board
+returned an approved Word copy carrying **its own edits** (advisor meeting 2026-08-25); that
+returned file — held outside this repo — is the canonical base for all modifications, edited
+in Word with Track Changes on and saved under a new filename
+(`.claude/skills/irb-writing/references/board-rules.md` §5c). A student-arm modification is
+in progress against it; framing rules are in `board-rules.md` §5d.
+
+Superseded history: ORA review returned 2026-08-14; v2 response
+(`CURRENT/IRB3_Protocol_v2_ORA_RESPONSE.docx`, report in
+`reports/IRB3_v2_ORA_RESPONSE_REPORT.md`). Note the v2 report's employee-compensation
+resolution ("none, per IRB #2 v9") was **wrong** — employees get the same amounts via
+payroll instead of a gift card; the final document carries the accepted sentence
+(`board-rules.md` §4 correction, 2026-08-17).
 
 ## Provenance
 

@@ -1,0 +1,756 @@
+[Dr. Greg Nelson] 14:08:47
+Just let me know when you're ready. And.
+
+[Dr. Greg Nelson] 14:08:50
+Yeah, we can just, um…
+
+[Dr. Greg Nelson] 14:08:52
+Go from there.
+
+[Cyril Agbewali] 14:08:54
+Okay.
+
+[Dr. Greg Nelson] 14:27:56
+You're okay, Cyril.
+
+[Dr. Greg Nelson] 14:28:00
+Are you muted?
+
+[Cyril Agbewali] 14:28:05
+Oh, I forgot I was, I was just reading.
+
+[Cyril Agbewali] 14:28:07
+Because I think I'm done inserting the parts in there.
+
+[Dr. Greg Nelson] 14:28:10
+Good.
+
+[Cyril Agbewali] 14:28:11
+And so…
+
+[Cyril Agbewali] 14:31:48
+I just shared the link with the updated one I put up.
+
+[Dr. Greg Nelson] 14:31:51
+It's the same document, right?
+
+[Cyril Agbewali] 14:31:53
+Yep, the same Arabic to document to it.
+
+[Dr. Greg Nelson] 14:31:55
+Okay, good.
+
+[Dr. Greg Nelson] 14:31:57
+Let me just fix this. Or, I mean, you worked from the… Anyways, yeah, I'll look at it right now.
+
+[Dr. Greg Nelson] 14:35:01
+Okay, so that's that. All right, now I'm opening up this thing.
+
+[Dr. Greg Nelson] 14:35:26
+Oh.
+
+[Dr. Greg Nelson] 14:35:28
+Um, so Cyril, the…
+
+[Dr. Greg Nelson] 14:35:31
+So when we respond to the IRB.
+
+[Cyril Agbewali] 14:35:35
+Yeah.
+
+[Dr. Greg Nelson] 14:35:36
+So when they approve the IRB, they give us a Word document.
+
+[Dr. Greg Nelson] 14:35:42
+And so that Word document has edits and other things in it that were not in the original IRB that we submitted.
+
+[Dr. Greg Nelson] 14:35:48
+So when we put things in.
+
+[Cyril Agbewali] 14:35:48
+Oh.
+
+[Dr. Greg Nelson] 14:35:51
+we've got. So so this will be very easy. So all you need to do. I'll share my screen here.
+
+[Dr. Greg Nelson] 14:36:01
+This, I think, is the version we submitted.
+
+[Dr. Greg Nelson] 14:36:04
+Right.
+
+[Cyril Agbewali] 14:36:04
+Yes.
+
+[Dr. Greg Nelson] 14:36:05
+And then you…
+
+[Dr. Greg Nelson] 14:36:13
+Okay, so you did some stuff, then you restored the document as it was here, and then you made edits to it.
+
+[Cyril Agbewali] 14:36:18
+Yes, I restock.
+
+[Dr. Greg Nelson] 14:36:18
+But basically, all you need to do…
+
+[Dr. Greg Nelson] 14:36:21
+is…
+
+[Dr. Greg Nelson] 14:36:23
+manually…
+
+[Dr. Greg Nelson] 14:36:25
+Open up a Word document.
+
+[Dr. Greg Nelson] 14:36:29
+Ideally in Microsoft Word.
+
+[Dr. Greg Nelson] 14:36:32
+the one that's from the email from the IRB, and then you'll just copy and paste over all this stuff into that Word document.
+
+[Dr. Greg Nelson] 14:36:38
+So all these changes that you made, that's what you'll put in.
+
+[Cyril Agbewali] 14:36:38
+Yep.
+
+[Dr. Greg Nelson] 14:36:42
+Yeah, and the easiest way is probably to open this changes, open the IRB to…
+
+[Dr. Greg Nelson] 14:36:49
+document in Google Docs so that it doesn't have this weird green formatting when you copy-paste it.
+
+[Cyril Agbewali] 14:36:53
+Okay.
+
+[Dr. Greg Nelson] 14:36:53
+And then you move it over, and then I'll review it, okay?
+
+[Cyril Agbewali] 14:36:57
+All right, okay.
+
+[Dr. Greg Nelson] 14:36:58
+And remember, you have to track changes.
+
+[Dr. Greg Nelson] 14:37:01
+in the Word document.
+
+[Dr. Greg Nelson] 14:37:04
+So, in the Word document, there's like a… do you edit it directly? No, you go to track changes. Do you know what I'm talking about? I can show you if you…
+
+[Cyril Agbewali] 14:37:11
+Yes.
+
+[Dr. Greg Nelson] 14:37:11
+Yeah. So just do that. Yeah.
+
+[Dr. Greg Nelson] 14:37:14
+Okay, I'll show it to you then. Okay. So.
+
+[Dr. Greg Nelson] 14:37:18
+So in Word.
+
+[Dr. Greg Nelson] 14:37:21
+There's a review tab.
+
+[Dr. Greg Nelson] 14:37:22
+And what you have to do.
+
+[Cyril Agbewali] 14:37:22
+There you see that.
+
+[Dr. Greg Nelson] 14:37:24
+is go to reviewing, and then when you type stuff, it will, like, do things like this. It's easiest if you also go to…
+
+[Dr. Greg Nelson] 14:37:41
+All markup?
+
+[Dr. Greg Nelson] 14:37:42
+So you'll see it. You see, this is the edited text.
+
+[Cyril Agbewali] 14:37:46
+Okay.
+
+[Dr. Greg Nelson] 14:37:47
+Okay, makes sense.
+
+[Cyril Agbewali] 14:37:48
+Okay.
+
+[Dr. Greg Nelson] 14:37:49
+The IRB operates in Word documents, so we need to use Word documents.
+
+[Cyril Agbewali] 14:37:55
+Okay, alright.
+
+[Dr. Greg Nelson] 14:38:03
+I mean, my guess is that if we…
+
+[Dr. Greg Nelson] 14:38:12
+I think it would work if you upload a new… if you… you upload the… the Word document from the IRB to Google Drive as a DocX, it has to be as a DocX, so it's still a DocX. You could work with it in there, but I think the…
+
+[Dr. Greg Nelson] 14:38:26
+And so then you just do suggested edits. So you can try that out for like a few edits to see if it looks right.
+
+[Dr. Greg Nelson] 14:38:32
+But it might be just easier to just use Word, if that makes sense.
+
+[Cyril Agbewali] 14:38:40
+Yeah.
+
+[Dr. Greg Nelson] 14:38:41
+Okay.
+
+[Dr. Greg Nelson] 14:38:43
+All right, just let me know when that's done, and then I.
+
+[Cyril Agbewali] 14:38:45
+Okay.
+
+[Cyril Agbewali] 14:39:59
+Just a quick question. When I make the edits in Word, would you want me to email the document to you?
+
+[Dr. Greg Nelson] 14:40:06
+Yeah.
+
+[Cyril Agbewali] 14:40:07
+Alright.
+
+[Dr. Greg Nelson] 14:40:08
+Or, I think that you can just upload it to…
+
+[Dr. Greg Nelson] 14:40:11
+You can just, like…
+
+[Dr. Greg Nelson] 14:40:14
+Post it in Discord. It'll be easier because we're just going to toss that anyway. It's not like a longstanding thing.
+
+[Cyril Agbewali] 14:40:14
+Okay.
+
+[Cyril Agbewali] 14:40:20
+Okay.
+
+[Cyril Agbewali] 14:40:24
+Okay.
+
+[Cyril Agbewali] 14:51:41
+Can I say my screen? I don't know if I'm getting this right.
+
+[Dr. Greg Nelson] 14:51:45
+Yeah, share your screen.
+
+[Dr. Greg Nelson] 14:51:46
+Good job asking.
+
+[Cyril Agbewali] 14:51:56
+Alright, so it's…
+
+[Cyril Agbewali] 14:52:00
+And this is what it's looking like.
+
+[Cyril Agbewali] 14:52:14
+This is looking okay.
+
+[Dr. Greg Nelson] 14:52:18
+I'm looking larger. Um…
+
+[Dr. Greg Nelson] 14:52:23
+Yeah, go back to the top.
+
+[Cyril Agbewali] 14:52:36
+So I started putting in the new stuff.
+
+[Dr. Greg Nelson] 14:52:37
+Yeah, yeah, yeah, yeah, yeah, that's good, yeah. Yeah, I mean, this is, yeah, so, I mean, that's, yeah, you're reviewing, you're tracking changes, yes, all that is, appears to be the.
+
+[Cyril Agbewali] 14:52:48
+Okay, check. Sorry.
+
+[Cyril Agbewali] 14:52:56
+Let me see if it…
+
+[Cyril Agbewali] 14:53:00
+Let that change, send me the doc, alright.
+
+[Cyril Agbewali] 14:53:00
+Beautiful.
+
+[Cyril Agbewali] 14:53:08
+All right.
+
+[Dr. Greg Nelson] 14:53:10
+Sorry, did you put it all in then?
+
+[Cyril Agbewali] 14:53:12
+Yes.
+
+[Dr. Greg Nelson] 14:53:12
+Yeah, and then you need to change the name of the file.
+
+[Dr. Greg Nelson] 14:53:15
+So whenever you start working on a file Cyril, what I always do is I save it as the name of the one I'm about to make.
+
+[Cyril Agbewali] 14:53:16
+Yeah.
+
+[Dr. Greg Nelson] 14:53:23
+Because, um, otherwise, one, you're probably lost the original document here, which is fine, because you can always redownload it, but just a minor tip, just up to you.
+
+[Cyril Agbewali] 14:53:35
+So, should I…
+
+[Dr. Greg Nelson] 14:53:37
+Just save it as a new name that says, like, you know, like, with student part added, because I can't… if you name it the same as the existing file, that's an incorrect name. Does that make sense? Because it's not the file on the IRB.
+
+[Cyril Agbewali] 14:53:48
+Yep.
+
+[Cyril Agbewali] 14:54:02
+This is important.
+
+[Cyril Agbewali] 14:54:27
+So, let me see…
+
+[Cyril Agbewali] 14:54:30
+Very interesting.
+
+[Cyril Agbewali] 14:54:54
+Okay, so I just sent it all.
+
+[Cyril Agbewali] 14:54:59
+That's a large file.
+
+[Dr. Greg Nelson] 14:58:52
+All right, is it ready for me to look over? Oh, yes, it is.
+
+[Dr. Greg Nelson] 15:01:14
+OK, here we go. Sorry.
+
+[Dr. Greg Nelson] 15:01:47
+Okay, so I'm reviewing this.
+
+[Dr. Greg Nelson] 15:02:01
+Or I'll just share my whole screen just so you can kind of see what I do.
+
+[Dr. Greg Nelson] 15:02:07
+You see? Yes.
+
+[Cyril Agbewali] 15:02:09
+Okay, yeah.
+
+[Dr. Greg Nelson] 15:02:11
+Okay, um…
+
+[Dr. Greg Nelson] 15:02:26
+And then.
+
+[Dr. Greg Nelson] 15:03:02
+So I'm just like double checking the types of things that were removed. And.
+
+[Dr. Greg Nelson] 15:03:07
+Making sense of that. Okay.
+
+[Dr. Greg Nelson] 15:03:09
+And then I'm going to trust that you.
+
+[Dr. Greg Nelson] 15:03:11
+do the things.
+
+[Dr. Greg Nelson] 15:03:53
+So some of the deletions here, like the effects that the approaches have on students.
+
+[Dr. Greg Nelson] 15:04:02
+is not like kind of up here.
+
+[Cyril Agbewali] 15:04:05
+Okay.
+
+[Cyril Agbewali] 15:04:12
+Okay, I didn't touch…
+
+[Dr. Greg Nelson] 15:04:13
+Yeah, so…
+
+[Dr. Greg Nelson] 15:04:16
+I think that…
+
+[Dr. Greg Nelson] 15:04:56
+Yeah, so is this how you… you see how I did the changes to make sure I would see and find all of them? Is this how you approach doing it?
+
+[Cyril Agbewali] 15:05:04
+Yes, so I went here…
+
+[Dr. Greg Nelson] 15:05:05
+Okay, that's fine. Yeah.
+
+[Cyril Agbewali] 15:05:06
+Yeah. Okay.
+
+[Cyril Agbewali] 15:05:07
+But then the part you're looking at, I didn't edit it much. I didn't edit it because I thought it was approved. So I wanted to work on the other things here.
+
+[Dr. Greg Nelson] 15:05:16
+It's fine. That's good.
+
+[Dr. Greg Nelson] 15:05:17
+Yeah, so that's the… that's fine. So, yeah, so we just need to, um…
+
+[Dr. Greg Nelson] 15:05:28
+So the thing is, this is the original version with the student parts in. This is not the final one.
+
+[Dr. Greg Nelson] 15:05:35
+So, I mean, ideally.
+
+[Dr. Greg Nelson] 15:05:40
+A person could just get a diff of that, like in a diff tool or something.
+
+[Dr. Greg Nelson] 15:05:47
+which would be helpful.
+
+[Dr. Greg Nelson] 15:05:49
+But this is like kind of a good enough.
+
+[Dr. Greg Nelson] 15:05:52
+diff, I guess?
+
+[Dr. Greg Nelson] 15:05:59
+Yeah.
+
+[Dr. Greg Nelson] 15:06:00
+And then the…
+
+[Dr. Greg Nelson] 15:06:37
+So, the main potentially, um…
+
+[Dr. Greg Nelson] 15:06:41
+So the issue with this IRB is that.
+
+[Dr. Greg Nelson] 15:06:44
+We are not doing research with the instructors.
+
+[Dr. Greg Nelson] 15:06:49
+We are… they… we are doing research about them, and they're doing participatory design work, but they are not becoming a member of our research team.
+
+[Dr. Greg Nelson] 15:07:00
+to do, um…
+
+[Dr. Greg Nelson] 15:07:02
+like, instead, they are deciding what to do in their classes. not as like a research decision. But just they're gonna they're gonna do stuff in their classes because they're instructors. They want to do things better or not, and they're deciding to adopt these whether or not.
+
+[Dr. Greg Nelson] 15:07:14
+So saying things like.
+
+[Dr. Greg Nelson] 15:07:16
+that they're collaborating with us, other things like this, like, we have to be really careful in describing it to the IRB, because what we're not doing is we're not, um…
+
+[Dr. Greg Nelson] 15:07:26
+proposing a research study in instructors courses. We are proposing a research study about instructors and how they teach.
+
+[Dr. Greg Nelson] 15:07:31
+And we also want to understand the experiences of students in their classes, but we are not telling the instructors.
+
+[Dr. Greg Nelson] 15:07:37
+to use reflection groups, and then the instructors agree to use reflection groups. And now they're in the study. And now they're like the instructors get to make choices as instructors.
+
+[Dr. Greg Nelson] 15:07:49
+Already, and that, like, we want to separate the decision from our decision as the researchers, because it's completely true that we are not forcing the structures to use reflection groups.
+
+[Dr. Greg Nelson] 15:07:58
+And they may do something totally different, like they may adopt, change the reflection groups and study something that, you know, we wouldn't even call a reflection group.
+
+[Cyril Agbewali] 15:08:06
+Yeah.
+
+[Dr. Greg Nelson] 15:08:07
+Right. And so what we're doing is we're studying the practices around.
+
+[Dr. Greg Nelson] 15:08:11
+You know, once we do these design workshops, what do students, what do professors do in their classes? And so what we cannot do is have to do 100 IRB, like, get every instructor to jump through an IRB hoop at their institution to propose.
+
+[Dr. Greg Nelson] 15:08:27
+a change to a class that they're going to make, whether it's research or not.
+
+[Dr. Greg Nelson] 15:08:29
+because they're just trying to make their class better. Does that make sense?
+
+[Cyril Agbewali] 15:08:33
+Yeah, so…
+
+[Dr. Greg Nelson] 15:08:34
+Yeah, and so we just have to be like…
+
+[Dr. Greg Nelson] 15:08:37
+The language about.
+
+[Dr. Greg Nelson] 15:08:42
+These these these students.
+
+[Dr. Greg Nelson] 15:08:45
+It's just, um…
+
+[Cyril Agbewali] 15:08:58
+Meaning, if I understand correctly.
+
+[Dr. Greg Nelson] 15:08:59
+This is Justin. Are you sure this is correct?
+
+[Dr. Greg Nelson] 15:09:02
+Oh, at the University of Maine. Okay, okay, never mind.
+
+[Dr. Greg Nelson] 15:09:07
+One second.
+
+[Dr. Greg Nelson] 15:09:28
+Okay.
+
+[Dr. Greg Nelson] 15:09:33
+So does that… does that make sense?
+
+[Cyril Agbewali] 15:09:35
+Yeah, so I just wanted to understand something. So, if we work with a…
+
+[Cyril Agbewali] 15:09:41
+um, instructors doing the workshop, and then they go and adapt it in their universities. So, with this IRB.
+
+[Cyril Agbewali] 15:09:49
+Where do students come in? Because we cannot get their data, and if we want to get the students' data.
+
+[Dr. Greg Nelson] 15:09:53
+No, no, no, no. We can get data from students. We just…
+
+[Dr. Greg Nelson] 15:09:58
+are going to need to, um…
+
+[Dr. Greg Nelson] 15:10:01
+We will survey students.
+
+[Dr. Greg Nelson] 15:10:04
+in terms of their outcomes.
+
+[Dr. Greg Nelson] 15:10:07
+So the instructors in the courses are not researchers, we are researchers.
+
+[Cyril Agbewali] 15:10:15
+Great. And the instructors are the ones that will give us access to their classes.
+
+[Dr. Greg Nelson] 15:10:20
+Yes, they will allow us to like we will give them an email with a survey link to send to their students.
+
+[Dr. Greg Nelson] 15:10:28
+So the students doing things in their course.
+
+[Dr. Greg Nelson] 15:10:31
+like students are going to take their course, whatever they put in their course. So even instructors that don't participate in our design workshop, but want to like.
+
+[Dr. Greg Nelson] 15:10:38
+See how their students are doing. They could ask us to I mean.
+
+[Dr. Greg Nelson] 15:10:43
+I mean, as long as they fill out a survey or something from us like we could. We will ask them like, Hey, can we distribute research surveys in your class? Does that make sense?
+
+[Dr. Greg Nelson] 15:10:52
+And so that's our research about their class, but we are not controlling what is in their class, and we're not even deciding what's in their class.
+
+[Cyril Agbewali] 15:10:54
+Yeah.
+
+[Dr. Greg Nelson] 15:11:01
+Does that make sense?
+
+[Cyril Agbewali] 15:11:03
+Yeah, so, meaning that…
+
+[Cyril Agbewali] 15:11:06
+Once they introduce us to the class, the instructors are going to take a step back and we are going to be dealing with the students.
+
+[Dr. Greg Nelson] 15:11:15
+Yes, we will send out. Yeah, so when we like, we can write a recruiting message.
+
+[Dr. Greg Nelson] 15:11:20
+The instructors can send it out, like, by email or something, and then students will have to opt in to…
+
+[Dr. Greg Nelson] 15:11:26
+the research or something like that.
+
+[Cyril Agbewali] 15:11:29
+Okay, so if we are doing that, that's… then…
+
+[Cyril Agbewali] 15:11:33
+in the Arabi rule, something about, um… we're talking about if they're going to be giving credits, if their instructor decides to give credits for filling out the forms and all that. So if…
+
+[Cyril Agbewali] 15:11:44
+If the instructor is taking a step back, then why should they decide to give credit for filling out forms?
+
+[Dr. Greg Nelson] 15:11:52
+Because the…
+
+[Dr. Greg Nelson] 15:11:54
+because the so good question. So the reason is because the.
+
+[Dr. Greg Nelson] 15:12:00
+The instructors want to know how their students are doing in their classes and if the reflection groups are helping their students.
+
+[Dr. Greg Nelson] 15:12:05
+And so this is why instructors might want us. So for the purposes of.
+
+[Dr. Greg Nelson] 15:12:11
+their own improving of teaching and their own internal evaluation of teaching. They may choose to, um, like, assign students to take surveys in the class.
+
+[Dr. Greg Nelson] 15:12:22
+If that, like, like, like, it has, we have nothing to do with what they decide. Does that make sense, Cyril?
+
+[Dr. Greg Nelson] 15:12:28
+Because if the instructors become the researchers, then like every little thing, like we can't get…
+
+[Cyril Agbewali] 15:12:28
+Yep.
+
+[Dr. Greg Nelson] 15:12:36
+30 different IRBs at 30 different institutions approved. It's impossible.
+
+[Cyril Agbewali] 15:12:38
+Yeah.
+
+[Dr. Greg Nelson] 15:12:39
+Right? Like, Brianna tried to do it. It's just a huge pain in the ass. Also, other institutions, more and more, are disliking instructors doing, quote, research in their own courses. Um, like… but it's totally fine for instructors to try to do something good in their class.
+
+[Dr. Greg Nelson] 15:12:54
+like they should be doing that right as a part of their jobs. Right? So we are just trying to make a way which is.
+
+[Dr. Greg Nelson] 15:13:02
+The instructors are making choices about their teaching.
+
+[Dr. Greg Nelson] 15:13:06
+Not related to research. They're just trying to make the best choices for their classes that they think they can make. Does that make sense?
+
+[Cyril Agbewali] 15:13:12
+Yeah.
+
+[Dr. Greg Nelson] 15:13:12
+And then we are studying…
+
+[Dr. Greg Nelson] 15:13:15
+the process of whether instructors, not as a part of research, but just as normal instructors, which is what we actually care about. Because if we know we do this giant research collaboration with all these instructors, we're going to learn how instruct how reflection groups work when all these people are highly trained.
+
+[Dr. Greg Nelson] 15:13:30
+and in partnership with researchers. And we want to learn how reflection groups can actually work in the real world where they're not being constantly supported by us, etc. Like they could come and get help from us, etc. But it's not like they're part of a big research team. And we're all making research decisions about. You know, we want to.
+
+[Dr. Greg Nelson] 15:13:45
+Try these designs in these classes over here, and try these other designs in these other classes over here, and oh, we want a control class over here, and we're gonna make choices, you know.
+
+[Dr. Greg Nelson] 15:13:54
+about that based on research, not what people think is best for their students. Does that make sense?
+
+[Cyril Agbewali] 15:14:00
+Yep.
+
+[Dr. Greg Nelson] 15:14:01
+Yep.
+
+[Cyril Agbewali] 15:14:01
+Another question I have is, if they also decide, the instructors decide that they want certain questions in the survey.
+
+[Cyril Agbewali] 15:14:09
+Would that count as any form of interference? Because at this point they want to know something about their class, but they are contributing to a part of the research.
+
+[Dr. Greg Nelson] 15:14:18
+Um, I think that the…
+
+[Dr. Greg Nelson] 15:14:21
+If we want to use… so those changes that they would make to their own surveys would be for their own use.
+
+[Dr. Greg Nelson] 15:14:29
+When we consent the students.
+
+[Dr. Greg Nelson] 15:14:33
+Um, it will include, like, their responses to surveys and things like that.
+
+[Dr. Greg Nelson] 15:14:36
+And they'll be able to consent, yes or no, to having their data be used as part of research.
+
+[Dr. Greg Nelson] 15:14:42
+And so I would argue that.
+
+[Dr. Greg Nelson] 15:15:01
+If some instructor wants to better understand what their students are doing.
+
+[Dr. Greg Nelson] 15:15:07
+And they're like, hey, I want to add these types of questions. I might give them, like, counsel, like, just as another teacher.
+
+[Dr. Greg Nelson] 15:15:13
+to them about what they might want to add, but they're just going to make the decisions about what to add. If we decide as researchers that, hey, we should try to ask that of everyone, then we will go and get a mod for this IRB to add that question for everybody. Does that make sense?
+
+[Dr. Greg Nelson] 15:15:28
+So that's the difference between…
+
+[Dr. Greg Nelson] 15:15:31
+the research questions on the survey, which is stuff that we will kind of.
+
+[Dr. Greg Nelson] 15:15:37
+We give, like, as a…
+
+[Dr. Greg Nelson] 15:15:43
+These are the questions for the research that need to be included.
+
+[Dr. Greg Nelson] 15:15:47
+if instructors add other questions on those surveys, etc, like what we would do is we'd write it into this part of the consent form somewhere, which is like.
+
+[Dr. Greg Nelson] 15:16:39
+A bunch of this has been changed from the things in the other IRB. Does that make sense? Like, this UR course is a comparison course, etc.
+
+[Dr. Greg Nelson] 15:16:46
+I don't think that's in the original.
+
+[Dr. Greg Nelson] 15:16:49
+Irv for the reflection groups.
+
+[Dr. Greg Nelson] 15:16:51
+But maybe it is.
+
+[Cyril Agbewali] 15:16:53
+Yeah, I had a question about — I put a question where I took it out because you mentioned you wanted to do a comparison. So I was wondering, do we still want to go with that or we want to take that out?
+
+[Dr. Greg Nelson] 15:17:06
+Yeah, it doesn't. It doesn't make sense, because we we don't decide if a class is a comparison class or whatever we have. We just.
+
+[Dr. Greg Nelson] 15:17:12
+you know, like, we will know what this… like, we can… like, the instructors should tell us what they did in their class.
+
+[Dr. Greg Nelson] 15:17:17
+I think they maybe need, like, we might need to, like, survey them to have a survey for them to tell us, like, what they did in their.
+
+[Dr. Greg Nelson] 15:17:25
+That might be something I have to add.
+
+[Dr. Greg Nelson] 15:17:27
+Make that a to-do item, like add the survey where the instructor says what they did in their class.
+
+[Dr. Greg Nelson] 15:18:16
+We went back and forth on this a bit.
+
+[Dr. Greg Nelson] 15:18:19
+for… I'm trying to remember if I like…
+
+[Dr. Greg Nelson] 15:18:22
+had, like, we had, like, polished everything, and it was, like, done, or if there are these remaining issues…
+
+[Dr. Greg Nelson] 15:18:37
+Yeah. So, Cyril, what I think you should work on now is, um…
+
+[Dr. Greg Nelson] 15:18:43
+Did you finish making the plan for the different tasks that you need to do this?
+
+[Dr. Greg Nelson] 15:18:49
+semester, et cetera. You could work on that while I review this.
+
+[Cyril Agbewali] 15:18:54
+Not yet, I've not put it into type, I've not typed it out yet.
+
+[Dr. Greg Nelson] 15:18:58
+Yeah, just go ahead and make it then. Yeah.
+
+[Dr. Greg Nelson] 15:19:04
+Alright, I'm gonna shut my video and audio off.
+

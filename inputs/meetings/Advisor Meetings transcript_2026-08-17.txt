@@ -1,0 +1,1815 @@
+[Dr. Greg Nelson] 13:10:01
+I don't know why, that's
+
+[Cyril Agbewali] 13:10:02
+What luggage is that?
+
+[Dr. Greg Nelson] 13:10:02
+I think that's some very strange thing. Cyril, Cyril, is that working.
+
+[Dr. Greg Nelson] 13:10:06
+Okay, now it is, I guess. Wow, weird.
+
+[Cyril Agbewali] 13:10:08
+Yeah, it's working, yeah.
+
+[Dr. Greg Nelson] 13:10:10
+Very strange.
+
+[Dr. Greg Nelson] 13:10:12
+Yep. So let me just close the door here.
+
+[Dr. Greg Nelson] 13:10:18
+Starting to get on, the seasons will turn soon.
+
+[Cyril Agbewali] 13:10:21
+Yeah…
+
+[Dr. Greg Nelson] 13:10:22
+We will turn. Yep. How are you doing? How was your weekend?
+
+[Cyril Agbewali] 13:10:25
+I'm good. We can also okay. Yeah, it's just that.
+
+[Dr. Greg Nelson] 13:10:27
+Okay.
+
+[Dr. Greg Nelson] 13:10:31
+Gotcha. You don't have to go into it, but you're free.
+
+[Cyril Agbewali] 13:10:35
+Listen…
+
+[Dr. Greg Nelson] 13:11:06
+So how can I help you this week?
+
+[Cyril Agbewali] 13:11:10
+Um, this week, the main thing is, um…
+
+[Cyril Agbewali] 13:11:12
+the IRB, I'm trying to…
+
+[Cyril Agbewali] 13:11:16
+That's the main things that I'll be. I'm kind of just running a test on the reflection tool.
+
+[Cyril Agbewali] 13:11:20
+On a branch, then I'll let you know.
+
+[Dr. Greg Nelson] 13:11:20
+Mm-hmm.
+
+[Dr. Greg Nelson] 13:11:23
+Good.
+
+[Cyril Agbewali] 13:11:24
+That you can test it, yeah.
+
+[Cyril Agbewali] 13:11:31
+And I forwarded you an email with the receipts of my ACM membership renewal, so that you have a copy of that.
+
+[Dr. Greg Nelson] 13:11:37
+Okay, good. Thanks.
+
+[Cyril Agbewali] 13:11:39
+Yeah. Okay.
+
+[Dr. Greg Nelson] 13:12:03
+Alright. So now I'm trying to get.
+
+[Dr. Greg Nelson] 13:12:06
+IRB for this.
+
+[Dr. Greg Nelson] 13:12:23
+And you just worked, you've been working in the same IRB document, right?
+
+[Cyril Agbewali] 13:12:27
+Yes, the CMIB document.
+
+[Dr. Greg Nelson] 13:12:28
+Awesome, thanks.
+
+[Dr. Greg Nelson] 13:12:30
+Yeah.
+
+[Dr. Greg Nelson] 13:15:33
+Okay, well, there it goes. All right, good.
+
+[Dr. Greg Nelson] 13:16:28
+This is the consent form for the instructor stuff.
+
+[Cyril Agbewali] 13:16:35
+Yeah, which of them?
+
+[Dr. Greg Nelson] 13:16:36
+Yes.
+
+[Cyril Agbewali] 13:16:38
+Let me see where you are.
+
+[Dr. Greg Nelson] 13:16:39
+I'm the Irb that we're responding to right now is for the instructors.
+
+[Dr. Greg Nelson] 13:16:44
+I'm pretty sure that's the case. I'm just confirming with you, Cyril.
+
+[Dr. Greg Nelson] 13:16:49
+So yeah, that's what I thought. Okay, thanks.
+
+[Cyril Agbewali] 13:16:49
+Yes, there, yep.
+
+[Cyril Agbewali] 13:16:53
+Workshops and all that.
+
+[Dr. Greg Nelson] 13:16:54
+Mm-hmm.
+
+[Dr. Greg Nelson] 13:17:36
+It's very interesting, Cyril, to see in real time, as I've been doing reviewing and meta-reviewing, that people.
+
+[Dr. Greg Nelson] 13:17:42
+Either completely outsourcing a bunch of their reviews to AI with very little oversights and starting to accept kind of like AI generated text.
+
+[Dr. Greg Nelson] 13:17:49
+I think people are also starting to recognize that.
+
+[Dr. Greg Nelson] 13:17:53
+Some kinds of AI generated texts, they're like getting better at reading it.
+
+[Dr. Greg Nelson] 13:17:57
+And there is a pattern to AI-generated text, and it often is, like, understandable, even if some parts of it are kind of a little incoherent sometimes.
+
+[Dr. Greg Nelson] 13:18:07
+And it's, I mean, I think stuff that before people would be like, this is slop, whatever, they're just, they're kind of like…
+
+[Cyril Agbewali] 13:18:08
+Yes.
+
+[Dr. Greg Nelson] 13:18:14
+More focusing on like, is there a contribution to this paper and stuff like that.
+
+[Dr. Greg Nelson] 13:18:21
+That's kind of interesting to see.
+
+[Dr. Greg Nelson] 13:19:07
+Man, we just really need to build this feature in Collaborate, the Collaborative Document Editor, where you can use AI to do stuff, because what I want to do is take the change document that you said, and then check that all those changes have been made.
+
+[Cyril Agbewali] 13:19:18
+Yeah.
+
+[Dr. Greg Nelson] 13:19:20
+and just use that as just like a sanity check, just to like double check it. But I can't do that easily, because I can't.
+
+[Dr. Greg Nelson] 13:19:27
+select the…
+
+[Dr. Greg Nelson] 13:19:29
+Like I can't give it a diff of a document in the document letter naturally. Does that make sense?
+
+[Cyril Agbewali] 13:19:36
+Yeah, so…
+
+[Cyril Agbewali] 13:19:37
+I get that one.
+
+[Dr. Greg Nelson] 13:19:39
+Mm-hmm.
+
+[Dr. Greg Nelson] 13:19:43
+All the stuff is going the same direction. Buzz is basically the direction everything will go in. Buzz is the…
+
+[Dr. Greg Nelson] 13:19:50
+is like a…
+
+[Dr. Greg Nelson] 13:19:52
+Like, basically, this idea of, like, collaborative AI platforms has been, like, multiple invented, so we invented it.
+
+[Dr. Greg Nelson] 13:19:59
+We had the idea last summer. Then AI companies did it this kind of like March-ish or so.
+
+[Dr. Greg Nelson] 13:20:06
+And then buzz is is kind of like a similar thing to our to our thing, but more focused on like.
+
+[Dr. Greg Nelson] 13:20:12
+making things accessible and like kind of putting all the doc, all the things that you need in one place that are in one system.
+
+[Dr. Greg Nelson] 13:20:17
+I think we're going to be getting a lot of.
+
+[Cyril Agbewali] 13:20:18
+Yeah, okay.
+
+[Dr. Greg Nelson] 13:20:23
+Vertical integration in software, because it's easier to build software, so people are going to want better user experiences that are more vertically integrated, where everything's kind of in a single application, where you can do things across applications.
+
+[Cyril Agbewali] 13:20:32
+Yeah.
+
+[Dr. Greg Nelson] 13:20:34
+the thing that I just said, right? Like, hey, AI, like…
+
+[Dr. Greg Nelson] 13:20:38
+Is this a description of this other thing?
+
+[Dr. Greg Nelson] 13:20:41
+Is your change log accurate? Is this change log accurate to this difference that happens?
+
+[Dr. Greg Nelson] 13:20:48
+Or, I understood something, I had approved it before, I felt confident in it, now what about the new version? Do I feel confident in it now? Let me understand what changed.
+
+[Cyril Agbewali] 13:20:49
+And…
+
+[Dr. Greg Nelson] 13:20:57
+All these things, people have been writing a little bit about them, but…
+
+[Dr. Greg Nelson] 13:21:01
+Yeah, also AI…
+
+[Dr. Greg Nelson] 13:21:02
+I mean, I'm amazed in meta-reviewing that people haven't, like, completely slammed AI slop. I don't know if.
+
+[Dr. Greg Nelson] 13:21:08
+the reviewers are literally just not doing reviewing and are just uploading all the papers to AI and generating the reviews, or what? It's super hard to tell.
+
+[Dr. Greg Nelson] 13:21:16
+And or people are just like, yeah, this is novel, so I don't care anymore about nitpicking it, whereas people have been nitpicking our shit forever.
+
+[Dr. Greg Nelson] 13:21:24
+Anyways, yeah. So Cyril, one thing, I don't know if you're working on something else right now, but.
+
+[Dr. Greg Nelson] 13:21:29
+I think that you need to…
+
+[Dr. Greg Nelson] 13:21:32
+start planning out, like, the next several months, and also planning out, like, um…
+
+[Dr. Greg Nelson] 13:21:41
+uh, like, the papers and stuff to work on. One thing I realized that I didn't realize over the summer.
+
+[Dr. Greg Nelson] 13:21:45
+Until recently was, um… so we've been doing, like, a new, like, qualitative study of some of the data from spring of 25 before you joined.
+
+[Cyril Agbewali] 13:21:57
+Yeah.
+
+[Dr. Greg Nelson] 13:21:57
+on one of the reflection groups. You know that right like you've been in all the meeting. Yeah. So.
+
+[Cyril Agbewali] 13:21:59
+Yeah, yeah.
+
+[Dr. Greg Nelson] 13:22:02
+What I realized is that it's…
+
+[Dr. Greg Nelson] 13:22:08
+kind of obvious after the fact. But we were doing it so that you could like focus on just getting all the stuff out about the reflection groups, getting the recruiting and everything done and getting it having impact.
+
+[Dr. Greg Nelson] 13:22:17
+also being able to connect with people like in Africa and back at in Pakistan and all the places that you've had been at.
+
+[Cyril Agbewali] 13:22:23
+A dish, yeah.
+
+[Dr. Greg Nelson] 13:22:25
+to, like, collaborate with people, so you could just focus on doing all those things. Um… I think you… you still…
+
+[Dr. Greg Nelson] 13:22:32
+Your career goal is still to become a professor back at Ghana, right?
+
+[Cyril Agbewali] 13:22:36
+Yeah.
+
+[Dr. Greg Nelson] 13:22:37
+Yeah, okay. So, I think that's fine. Um, if you…
+
+[Dr. Greg Nelson] 13:22:47
+I don't think you have the bandwidth to, like, read an immense amount of reflection groups data.
+
+[Dr. Greg Nelson] 13:22:54
+I think you could probably you can still be involved as an author on the on that.
+
+[Dr. Greg Nelson] 13:22:59
+on the, like, longitudinal paper we end up writing. I like adding authors a little bit later on, because they can bring an external perspective and make sure the paper is understandable to people.
+
+[Dr. Greg Nelson] 13:23:09
+You're not necessarily the best person to do that. Like, it's best to take someone that's totally unfamiliar with the research to do it.
+
+[Cyril Agbewali] 13:23:09
+Hmm.
+
+[Dr. Greg Nelson] 13:23:15
+I just want to say like.
+
+[Dr. Greg Nelson] 13:23:20
+You should.
+
+[Dr. Greg Nelson] 13:23:24
+How do I say it? B.
+
+[Dr. Greg Nelson] 13:23:30
+You should probably be involved in that paper some way.
+
+[Dr. Greg Nelson] 13:23:33
+Because it's like all parts of your thesis and whatever other stuff and things like that.
+
+[Dr. Greg Nelson] 13:23:38
+And there's lots of work to be done in the reflection groups like you can analyze in depth some of the groups from this past year. You could analyze in depth some of the groups from the CS1 class.
+
+[Cyril Agbewali] 13:23:39
+Okay, okay.
+
+[Dr. Greg Nelson] 13:23:49
+that you were teaching, right? Like, you could do all those different things. They're gonna be a lot less interesting than these ones.
+
+[Cyril Agbewali] 13:23:50
+Yeah.
+
+[Dr. Greg Nelson] 13:23:55
+But yeah.
+
+[Dr. Greg Nelson] 13:23:57
+Yeah, so I guess the… So just, you should be thinking about, like, what…
+
+[Dr. Greg Nelson] 13:24:02
+What motivates and drives you in the research?
+
+[Dr. Greg Nelson] 13:24:05
+If you wanna like really lean into having impacts, I think that's what we should do based on the state of the world, we should do it.
+
+[Dr. Greg Nelson] 13:24:11
+And then also we can.
+
+[Dr. Greg Nelson] 13:24:14
+I realized yesterday a way to re-architect a lot of the systems in the lab, which is basically if we…
+
+[Dr. Greg Nelson] 13:24:19
+Don't force people to use email addresses and just have usernames and passwords. It becomes immensely easier to do like IRB approvals and just…
+
+[Dr. Greg Nelson] 13:24:29
+Use of our systems in general, because people don't have to give us their, like.
+
+[Dr. Greg Nelson] 13:24:33
+identifiers, their personal identifiers. And they may be feel either more free to like put data into our systems or stuff like this, because it's not like associated with them.
+
+[Dr. Greg Nelson] 13:24:43
+Like, exactly. Um, and so the way they do this in another open source project that Amy runs…
+
+[Dr. Greg Nelson] 13:24:49
+Is… a teacher will just create… a teacher or someone else that organizes a group can just output a list of usernames and passwords.
+
+[Dr. Greg Nelson] 13:24:55
+And then just shares them with each person.
+
+[Dr. Greg Nelson] 13:24:58
+And that's — they know who each person is, but the system doesn't.
+
+[Cyril Agbewali] 13:25:03
+Oh…
+
+[Dr. Greg Nelson] 13:25:05
+So we'll be switching a bunch of things to do that to make that work better. Yeah.
+
+[Dr. Greg Nelson] 13:25:10
+So anyways, that's some things to sort of kind of download on you, but that's some things to start thinking about.
+
+[Dr. Greg Nelson] 13:25:17
+we need to start focusing on rolling this stuff out, and then writing papers, and getting, like, the reflection group stuff submitted, and stuff like that. Yeah.
+
+[Dr. Greg Nelson] 13:25:26
+Okay. I'm going to keep working on this IRB here.
+
+[Dr. Greg Nelson] 13:25:30
+No… true… so the, um…
+
+[Dr. Greg Nelson] 13:25:34
+I'm just gonna edit this here. Uh, so the…
+
+[Dr. Greg Nelson] 13:25:39
+We can't say this.
+
+[Dr. Greg Nelson] 13:25:45
+We shouldn't say this. So we want to open recruit instructors from any institution. Does that make sense, Cyril?
+
+[Cyril Agbewali] 13:25:52
+Okay, so to any of the UMaine branches.
+
+[Dr. Greg Nelson] 13:25:55
+No, no, it's anywhere. It's yeah. So so you shouldn't. You shouldn't randomly exclude one humane campus when we are recruiting, obviously, from like the entire world. Does that make sense?
+
+[Cyril Agbewali] 13:26:07
+Yeah. Okay.
+
+[Dr. Greg Nelson] 13:26:07
+Yeah. Okay, cool. So…
+
+[Dr. Greg Nelson] 13:26:20
+So it looks like, and I didn't realize this question initially, um, was still a question. Like, they were, like, kind of…
+
+[Dr. Greg Nelson] 13:26:27
+confused that, are we recruiting from other institutions, or do you just humane institutions? And it's just…
+
+[Dr. Greg Nelson] 13:26:34
+I don't know why they did that. So anyways, that's…
+
+[Dr. Greg Nelson] 13:26:39
+They may, like, turn this around and, like, have sticking points or something, because stuff is happening at other institutions.
+
+[Dr. Greg Nelson] 13:26:44
+But the way the IRB is written, it shouldn't cause any problems because we're just we're not we're not.
+
+[Dr. Greg Nelson] 13:26:49
+Like, we might end up doing research collaborations with these professors, we will mod this study to…
+
+[Dr. Greg Nelson] 13:26:55
+Say, like, you could also use this in your class if you want, but because we're not…
+
+[Dr. Greg Nelson] 13:26:58
+We both are truly not requiring, and we're truly not asking them to like.
+
+[Dr. Greg Nelson] 13:27:04
+integrate this into their courses. We want them to participate in design workshops about what it might be like.
+
+[Dr. Greg Nelson] 13:27:09
+And it's not a condition of doing…
+
+[Dr. Greg Nelson] 13:27:12
+the design workshops to actually use them.
+
+[Dr. Greg Nelson] 13:27:15
+So we're not asking them to like.
+
+[Dr. Greg Nelson] 13:27:18
+do research at their institution. Does that make sense? We're asking them to be instructors.
+
+[Dr. Greg Nelson] 13:27:21
+trying to make their classes better in the ways that they would be already. Does that make sense? So I think that it might cause some kind of problems. Anyways, I'll get back to reviewing this. You can get back to what you're doing.
+
+[Cyril Agbewali] 13:27:26
+Yeah, okay.
+
+[Dr. Greg Nelson] 13:27:59
+Also, Cyril, when we release Collaborate, I predict it is going to with the PII thing solved.
+
+[Dr. Greg Nelson] 13:28:05
+I predict it's going to like.
+
+[Dr. Greg Nelson] 13:28:08
+spread like wildfire and go completely nuts. And then we're going to have no idea what to do with it.
+
+[Dr. Greg Nelson] 13:28:13
+Because it's just…
+
+[Dr. Greg Nelson] 13:28:16
+There are no institutions releasing software quickly that solve any of these people's problems.
+
+[Dr. Greg Nelson] 13:28:22
+like, the fundamental problems in education. It's just all these little dinky research projects. They're happy being their little research project. They don't actually care about having impact, because that's just not what they're incentivized to care about.
+
+[Cyril Agbewali] 13:28:22
+Oh, yeah.
+
+[Dr. Greg Nelson] 13:28:33
+And so once we like, really release something like this, I think it could become a really big thing really fast, and we'll be just.
+
+[Dr. Greg Nelson] 13:28:40
+totally overwhelmed. Because when I talk to teachers, they're like, wow, this solves all of my problems.
+
+[Dr. Greg Nelson] 13:28:47
+And teachers don't usually say that.
+
+[Dr. Greg Nelson] 13:28:49
+And it's also like.
+
+[Dr. Greg Nelson] 13:28:51
+this seems to have my values, you know, this is like, wow, this is this thing. So once we get rid of the PII issue, I think that they will just…
+
+[Dr. Greg Nelson] 13:29:00
+flock to it, but we don't… they're gonna need money, and that's… that will be, like, kind of the sticking point, so…
+
+[Dr. Greg Nelson] 13:29:06
+I don't know how to deal with that part. Yeah.
+
+[Dr. Greg Nelson] 13:29:15
+I don't know, maybe we can have, like, a.
+
+[Dr. Greg Nelson] 13:29:17
+Press this button to generate a report of the really good student interactions.
+
+[Dr. Greg Nelson] 13:29:21
+on this platform to help you get someone else to fund something. I don't know.
+
+[Dr. Greg Nelson] 13:29:26
+And if we have a lot of users, we can, like, try to go to, like, a philanthropy or something and be like, hey, you.
+
+[Cyril Agbewali] 13:29:31
+Yeah.
+
+[Dr. Greg Nelson] 13:29:31
+Or something. I don't know. It's just…
+
+[Dr. Greg Nelson] 13:29:34
+It's just gonna become immense. It we haven't solved like the.
+
+[Dr. Greg Nelson] 13:29:39
+actually throttling people fine, but most students are throttling their AI use pretty heavily. They're not, like, really leaning into it.
+
+[Dr. Greg Nelson] 13:29:46
+Who knows? Could work out.
+
+[Dr. Greg Nelson] 13:37:29
+So a couple random things to note, Cyril.
+
+[Dr. Greg Nelson] 13:37:32
+So the, um…
+
+[Dr. Greg Nelson] 13:37:36
+There's this problem with IRBs, which is they don't…
+
+[Dr. Greg Nelson] 13:37:41
+Think about the research process as a human process between humans.
+
+[Dr. Greg Nelson] 13:37:45
+So, when they think about communication, about the research process, they think in, like, this highly bureaucratic way. They're like, you have to communicate in all these different ways.
+
+[Dr. Greg Nelson] 13:37:57
+Um, like, um, they're like, you can just say it's a research study earlier.
+
+[Dr. Greg Nelson] 13:38:01
+Like, first of all, like, who the fuck are they to say when we need to say something, in what order?
+
+[Dr. Greg Nelson] 13:38:07
+Like, we just need to tell them it's a research study.
+
+[Dr. Greg Nelson] 13:38:10
+Like there's no there's there's no anything anywhere.
+
+[Cyril Agbewali] 13:38:10
+Yeah.
+
+[Dr. Greg Nelson] 13:38:15
+that says, like we, you have to make the second sentence of an email. Say something is a research study. Does that make sense?
+
+[Cyril Agbewali] 13:38:22
+Yeah.
+
+[Dr. Greg Nelson] 13:38:22
+So, when they tell you to do things…
+
+[Dr. Greg Nelson] 13:38:25
+It's like, that is the…
+
+[Dr. Greg Nelson] 13:38:30
+I would say in general, like, if you say, hey, would you like to do a research study? People will be like, uh, what do you mean?
+
+[Dr. Greg Nelson] 13:38:38
+Whereas if you say, hey, do you want to do a workshop on helping support your students with AI?
+
+[Dr. Greg Nelson] 13:38:42
+Oh, it's part of a research study.
+
+[Dr. Greg Nelson] 13:38:44
+That's very different. Does that make sense?
+
+[Cyril Agbewali] 13:38:47
+Yeah, okay.
+
+[Dr. Greg Nelson] 13:38:48
+Yeah, so just, I just want to like, just let you know that like in general.
+
+[Dr. Greg Nelson] 13:38:54
+The IRB that we have.
+
+[Dr. Greg Nelson] 13:38:57
+Just…
+
+[Dr. Greg Nelson] 13:38:58
+is just highly bureaucratic, and doesn't… it's like they want to do all these, like…
+
+[Dr. Greg Nelson] 13:39:03
+nitpick. You're supposed to do all these things all these different ways. And so it is like.
+
+[Dr. Greg Nelson] 13:39:09
+We're trying to get something improved quickly, like, we won't, like, push back on them as much, but in general.
+
+[Dr. Greg Nelson] 13:39:14
+It's just like, uh…
+
+[Dr. Greg Nelson] 13:39:16
+What they're going to want to do is say, remove all this information that makes people want to do your thing.
+
+[Dr. Greg Nelson] 13:39:24
+Replace it with bureaucratic irrelevant details that makes them less likely to do your thing because they're not excited.
+
+[Dr. Greg Nelson] 13:39:32
+Does that make sense? So we have to not do that. Okay.
+
+[Cyril Agbewali] 13:39:33
+Yeah.
+
+[Cyril Agbewali] 13:39:37
+Okay.
+
+[Dr. Greg Nelson] 13:39:37
+So just like always in life, like all things are.
+
+[Dr. Greg Nelson] 13:39:42
+a trade-off. Like, obviously, we're gonna… we tell them it's a research study. Obviously, when they go.
+
+[Dr. Greg Nelson] 13:39:46
+Like, there's a consent form that… a giant consent form that this IRB makes us give them.
+
+[Dr. Greg Nelson] 13:39:51
+Other IRBs, the consent form will be like this big.
+
+[Dr. Greg Nelson] 13:39:55
+Like the RIB gets on forms like this bit.
+
+[Dr. Greg Nelson] 13:39:57
+Like, it really is just a bureaucratic thing. Like, so, it's just like…
+
+[Dr. Greg Nelson] 13:40:04
+I… I would say, as a person, you have to learn to…
+
+[Dr. Greg Nelson] 13:40:06
+Understand that often a bureaucracy's incentives are not aligned with what we actually care about, which is.
+
+[Dr. Greg Nelson] 13:40:13
+Having these people have a good experience, actually helping them.
+
+[Dr. Greg Nelson] 13:40:17
+do…
+
+[Dr. Greg Nelson] 13:40:19
+like improving their courses and making students lives better.
+
+[Dr. Greg Nelson] 13:40:23
+Like, the IRB just gives no shits about that. Like, they won't even allow you to say that as, like, a benefit sometimes. They'll be like, well, can you really be sure that, like, having the students talk to each other is going to, like, help their students? You can't say that. You shouldn't.
+
+[Dr. Greg Nelson] 13:40:36
+Right, you see what I'm saying, whereas, like, if they want to approve a medical study, you know, it won't be like, they won't be saying like, hey, you know, you should add, you know, this is a very small risk of it, but, you know, you could die from any random experimental medical thing that we give to you, like, you could just die.
+
+[Cyril Agbewali] 13:40:38
+Okay.
+
+[Dr. Greg Nelson] 13:40:51
+Like, they should… if the IRBs did stuff like that, I would, like, understand a little bit more, because that's, like, actually advocating for people, but they don't do things like that.
+
+[Dr. Greg Nelson] 13:40:59
+They'll say that, you know, there's a risk of complications, maybe even serious complications, instead of, like, the…
+
+[Dr. Greg Nelson] 13:41:06
+You know, whatever stuff.
+
+[Dr. Greg Nelson] 13:41:09
+Because definitely the risk of death.
+
+[Dr. Greg Nelson] 13:41:12
+from a random medical intervention is on a not dissimilar order of magnitude to, like, a research study data breach.
+
+[Dr. Greg Nelson] 13:41:20
+Like, this shit never happens. Like, I hear almost none of them. Like, no one cares about our research data. It's not valuable, right? Like…
+
+[Dr. Greg Nelson] 13:41:28
+Obviously, we need to do things to protect it. That's totally reasonable. Like, do all the normal things.
+
+[Cyril Agbewali] 13:41:33
+Yeah.
+
+[Dr. Greg Nelson] 13:41:33
+But it's just…
+
+[Dr. Greg Nelson] 13:41:34
+Anyways, rant over. So.
+
+[Dr. Greg Nelson] 13:41:42
+Yeah, I will.
+
+[Dr. Greg Nelson] 13:41:56
+Yeah, so, like, here's the rule.
+
+[Dr. Greg Nelson] 13:42:00
+I don't know if you're using AI to do these things. I'm becoming more and more confident that AI is very terrible at doing stuff about IRBs, and that I should maybe just do most of it.
+
+[Dr. Greg Nelson] 13:42:11
+But, um…
+
+[Dr. Greg Nelson] 13:42:15
+Like, they were like, add details about the recording. Now, like, you've put in the invitation email.
+
+[Dr. Greg Nelson] 13:42:21
+Details about the recording. None of that needs to be in the invitation. We don't have to tell them they're going to be recorded.
+
+[Cyril Agbewali] 13:42:26
+Okay.
+
+[Dr. Greg Nelson] 13:42:27
+Right? So you're misinterpreting the.
+
+[Dr. Greg Nelson] 13:42:30
+The difference between a script when… it's like, they want a session protocol.
+
+[Dr. Greg Nelson] 13:42:36
+for the, um… also, they can make mistakes, Cyril. I think this might even be a mistake.
+
+[Dr. Greg Nelson] 13:42:42
+So like, if we look at the what?
+
+[Dr. Greg Nelson] 13:42:45
+Office hours.
+
+[Dr. Greg Nelson] 13:42:58
+Yeah, so, like, they just made a mistake here.
+
+[Dr. Greg Nelson] 13:43:01
+So…
+
+[Dr. Greg Nelson] 13:43:03
+Like, they said in the comments, like, you need to…
+
+[Dr. Greg Nelson] 13:43:05
+Tell people if the, um…
+
+[Dr. Greg Nelson] 13:43:11
+How do I say this? Let me just share my entire screen.
+
+[Dr. Greg Nelson] 13:43:21
+Can you see my screen now?
+
+[Cyril Agbewali] 13:43:23
+Yeah.
+
+[Dr. Greg Nelson] 13:43:25
+You know.
+
+[Dr. Greg Nelson] 13:43:28
+So when they say…
+
+[Dr. Greg Nelson] 13:43:29
+So part of the one of the reasons that this is all like very confused is that.
+
+[Dr. Greg Nelson] 13:43:35
+This IRB, for whatever reason, they want us to, like, repeat things over and over again in all these different sections.
+
+[Dr. Greg Nelson] 13:43:42
+Even though… so, like, for example here, they're like…
+
+[Cyril Agbewali] 13:43:42
+Yeah.
+
+[Dr. Greg Nelson] 13:43:46
+Add this is confidential. It's like already in the consent forms, it says the survey is confidential. Does it make sense?
+
+[Dr. Greg Nelson] 13:43:52
+So a lot of the back and forth with the IRB is, like, they will say something like, hey, you didn't say this in three places, and then you're like, sure, we'll add it to the third place. What I've noticed you doing sometimes is…
+
+[Cyril Agbewali] 13:43:53
+Yeah, thank you.
+
+[Dr. Greg Nelson] 13:44:07
+Um, like…
+
+[Dr. Greg Nelson] 13:44:09
+Where is it?
+
+[Dr. Greg Nelson] 13:44:10
+You might see a comment like this, and then you'll go and add it into a bunch of other places.
+
+[Dr. Greg Nelson] 13:44:17
+Like, you went to add it in the invitation email.
+
+[Cyril Agbewali] 13:44:17
+Yeah.
+
+[Dr. Greg Nelson] 13:44:20
+Like what this means is they're just like, you need to add this in the methods part of the paper of the application. Okay.
+
+[Cyril Agbewali] 13:44:26
+Computation, okay.
+
+[Dr. Greg Nelson] 13:44:29
+So that's all it means. It's a huge pain in the butt. I don't know why they do it.
+
+[Dr. Greg Nelson] 13:44:34
+It's just like… it's like they design a process whereby they want something repeated 3 times, and then their job becomes telling people that they didn't repeat it properly. Like, it's literally like a bureaucratic nightmare. Like, they've literally made up a job for themselves.
+
+[Dr. Greg Nelson] 13:44:47
+Right? Like, instead of saying, like, oh, does the study specify it in the right way? Like, it's okay. Like, the places it needs to be is…
+
+[Dr. Greg Nelson] 13:44:55
+in the script down here.
+
+[Dr. Greg Nelson] 13:44:58
+for when we're in an office hours protocol. Like, that's where it needs to be, and it needs to be in the consent form.
+
+[Dr. Greg Nelson] 13:45:04
+Right?
+
+[Dr. Greg Nelson] 13:45:05
+And it is there, but then they're like, wait.
+
+[Dr. Greg Nelson] 13:45:07
+Are you sure this is going to be this way in the methods?
+
+[Dr. Greg Nelson] 13:45:11
+It's like, guys, it's in the later part of the application, right?
+
+[Dr. Greg Nelson] 13:45:15
+So.
+
+[Dr. Greg Nelson] 13:45:17
+What a bureaucracy will do, Cyril.
+
+[Dr. Greg Nelson] 13:45:19
+It will try to push its work onto other people.
+
+[Dr. Greg Nelson] 13:45:23
+So, like…
+
+[Dr. Greg Nelson] 13:45:25
+Like, instead of us responding to this, like, are there audio and video recordings?
+
+[Dr. Greg Nelson] 13:45:30
+Like, this is literally, like, this is literally, like, a copy-pasted statement from a file that they have somewhere about common issues with people's IRBs.
+
+[Dr. Greg Nelson] 13:45:38
+Like, we answered all of this every single place. Like, this is already answered. This is not in the methods section.
+
+[Dr. Greg Nelson] 13:45:45
+Because we didn't add the details there, in part because we didn't want it to get out of sync with something else.
+
+[Dr. Greg Nelson] 13:45:49
+Because the methods is just supposed to be a summary or something, right? So…
+
+[Dr. Greg Nelson] 13:45:55
+Anyways.
+
+[Dr. Greg Nelson] 13:45:56
+So…
+
+[Dr. Greg Nelson] 13:45:58
+Yeah, blah, blah, blah, blah.
+
+[Dr. Greg Nelson] 13:46:01
+Also, whether the survey is online or offline.
+
+[Dr. Greg Nelson] 13:46:05
+like doesn't affect whether our research is going to be approved or not. Does that make sense?
+
+[Cyril Agbewali] 13:46:10
+Oh, yeah, okay, okay.
+
+[Dr. Greg Nelson] 13:46:11
+Like, it's a survey, right? So, like, so they will ask for a lot of these types of details and stuff, so just take a compliance-oriented view, which is…
+
+[Dr. Greg Nelson] 13:46:20
+They ask you to do something, just do the thing they asked you to do.
+
+[Dr. Greg Nelson] 13:46:24
+Just in the place that they asked you to do it. Does that make sense?
+
+[Cyril Agbewali] 13:46:26
+Yeah, okay.
+
+[Dr. Greg Nelson] 13:46:30
+Do you understand a little bit more what's going on with this IRB?
+
+[Cyril Agbewali] 13:46:34
+Yeah.
+
+[Dr. Greg Nelson] 13:46:36
+Yeah, it's just a, yeah.
+
+[Dr. Greg Nelson] 13:46:46
+It's important to have oversight of research and stuff, it's just…
+
+[Dr. Greg Nelson] 13:46:49
+That oversight doesn't have to be a huge, long, painful process of an immense amount of irrelevant details, and then checking that the three irrelevant details are in three different places in exactly the same way.
+
+[Dr. Greg Nelson] 13:47:00
+Like, it's just doesn't make — it's just a waste of people's time, but whatever.
+
+[Dr. Greg Nelson] 13:47:05
+Okay, I'm going to go back to fixing this.
+
+[Dr. Greg Nelson] 13:47:49
+Qualtrics is capitalized Cyril. It's a proper noun.
+
+[Cyril Agbewali] 13:47:52
+Okay.
+
+[Dr. Greg Nelson] 13:54:09
+Also, Cyril, looks like the big mistake you made here is in this process, when we make changes to the IRB, it has to be track changes, Cyril.
+
+[Dr. Greg Nelson] 13:54:19
+That's in the instructions in the email. What you'll have to do is just use the revision history to basically open a copy of the document that was sent, and then you'll just copy and paste all the changes you made.
+
+[Cyril Agbewali] 13:54:19
+Okay.
+
+[Dr. Greg Nelson] 13:54:30
+into that document. Does that make sense? And you'll need to use word to do that.
+
+[Dr. Greg Nelson] 13:54:34
+Once you once you finish it up. Okay. Sounds good.
+
+[Cyril Agbewali] 13:54:38
+Okay.
+
+[Dr. Greg Nelson] 13:54:40
+So this is one of the reasons why I was like, oh, the IRB document that we use should be a Word document, which it's not right now. So it's fine. It'll just take you like five minutes at the end to move it over to a Word doc. It's great.
+
+[Dr. Greg Nelson] 13:54:51
+Yep.
+
+[Dr. Greg Nelson] 14:09:15
+Also, Cyril, note if the IRB tells you that you don't have to have something.
+
+[Dr. Greg Nelson] 14:09:21
+Like, if they give you an option to not do something or do something.
+
+[Dr. Greg Nelson] 14:09:26
+Don't do something.
+
+[Dr. Greg Nelson] 14:09:28
+Keep it simple.
+
+[Dr. Greg Nelson] 14:09:29
+Okay.
+
+[Cyril Agbewali] 14:09:30
+Okay.
+
+[Dr. Greg Nelson] 14:09:31
+Make sense?
+
+[Cyril Agbewali] 14:09:33
+Yeah.
+
+[Dr. Greg Nelson] 14:11:52
+Brill, can you tell me what this means?
+
+[Cyril Agbewali] 14:12:05
+The second paragraph.
+
+[Dr. Greg Nelson] 14:12:22
+What does this mean here?
+
+[Cyril Agbewali] 14:12:30
+So because of the university policy, that paragraph.
+
+[Dr. Greg Nelson] 14:12:37
+Yeah, this one.
+
+[Dr. Greg Nelson] 14:12:38
+Is this correct?
+
+[Cyril Agbewali] 14:12:41
+Yeah, you're not allowed to give gift cards to university employees.
+
+[Dr. Greg Nelson] 14:12:47
+Yeah, so is it that we're not allowed to give gift cards, or we have to pay them a different way.
+
+[Cyril Agbewali] 14:12:54
+As per the policy, we are not allowed to gift them, so when they ask about… we… they ask whether… they ask what it means by me saying we'll put it in your ZoomMain account.
+
+[Cyril Agbewali] 14:13:04
+So I corrected it.
+
+[Cyril Agbewali] 14:13:06
+Yeah, I think Aubrey even sent the link to that in there.
+
+[Cyril Agbewali] 14:13:13
+Get that.
+
+[Dr. Greg Nelson] 14:13:47
+So, as written, Cyril, this says, if you are a Humane employee, we're not going to give you any money.
+
+[Cyril Agbewali] 14:13:55
+Yeah.
+
+[Dr. Greg Nelson] 14:13:58
+So…
+
+[Dr. Greg Nelson] 14:13:59
+I don't expect there to be many people doing this at Humane, but…
+
+[Dr. Greg Nelson] 14:14:04
+like…
+
+[Dr. Greg Nelson] 14:14:05
+I don't think it's going to work to be like, if you're a humane person, we're not going to pay you. That sounds pretty unfair. Does that make sense, Cyril?
+
+[Cyril Agbewali] 14:14:13
+Okay.
+
+[Dr. Greg Nelson] 14:14:15
+Yeah. So.
+
+[Dr. Greg Nelson] 14:14:18
+Let's…
+
+[Dr. Greg Nelson] 14:14:21
+Maybe…
+
+[Dr. Greg Nelson] 14:14:23
+Back in this chain. So my understanding of it is that…
+
+[Dr. Greg Nelson] 14:14:29
+They just want payroll to pay them and to have the payment not be a gift card.
+
+[Dr. Greg Nelson] 14:14:35
+So I think that there's something from Aubrey about this. Yeah.
+
+[Cyril Agbewali] 14:14:36
+Oh…
+
+[Cyril Agbewali] 14:14:38
+Yeah, I've opened it right now, and it's saying that, um… like, I can share the link with you.
+
+[Dr. Greg Nelson] 14:14:44
+Yeah, I don't have to share it. So I'm just saying, I think this is an error. Please go fix it.
+
+[Cyril Agbewali] 14:14:44
+Yeah, that's it.
+
+[Cyril Agbewali] 14:14:46
+Yeah, thank you.
+
+[Cyril Agbewali] 14:14:49
+Okay.
+
+[Dr. Greg Nelson] 14:14:50
+So yeah, so just fix that. And just be really careful about this stuff with money, Cyril.
+
+[Dr. Greg Nelson] 14:14:54
+like, in the future, you're gonna need to manage the IRBs for all of your research. I'm… I'm done with dealing with these people.
+
+[Dr. Greg Nelson] 14:15:01
+So, you're gonna have to do it, and stuff like this can make people decide to not participate in the study if you make a mistake like this, okay? So just learn from it. It's all good. It's confusing…
+
+[Dr. Greg Nelson] 14:15:12
+Fairly ridiculous stuff sometimes. Okay.
+
+[Dr. Greg Nelson] 14:15:15
+And also, I'm pretty sure that they're…
+
+[Cyril Agbewali] 14:15:15
+Okay.
+
+[Dr. Greg Nelson] 14:15:18
+Like, if we read the… if we read it here…
+
+[Dr. Greg Nelson] 14:15:21
+I don't know if it's… it may even be inconsistent in places. So, like, my understanding is that, like, we only have.
+
+[Dr. Greg Nelson] 14:15:27
+about them. Don't pay university employees if it's above a certain amount.
+
+[Dr. Greg Nelson] 14:15:33
+Right.
+
+[Cyril Agbewali] 14:15:34
+Okay.
+
+[Dr. Greg Nelson] 14:15:36
+Does that make sense to see here?
+
+[Cyril Agbewali] 14:15:40
+Yeah, okay.
+
+[Dr. Greg Nelson] 14:15:40
+So whatever… And Humane's documents, they may be contradictory. Does that make sense, Cyril?
+
+[Dr. Greg Nelson] 14:15:46
+Like they might say one thing in one place and something in another place.
+
+[Cyril Agbewali] 14:15:47
+Yeah.
+
+[Dr. Greg Nelson] 14:15:51
+The net effect of including all that stuff in this IRB application has been, frankly, to confuse the IRB people.
+
+[Dr. Greg Nelson] 14:15:57
+Like, they are confused.
+
+[Dr. Greg Nelson] 14:15:59
+About why humane people are different, and is this always humane people, and all this other stuff.
+
+[Dr. Greg Nelson] 14:16:04
+So just figure it out and then do it correctly, whatever it is. Okay?
+
+[Cyril Agbewali] 14:16:08
+Okay.
+
+[Dr. Greg Nelson] 14:16:08
+And if you have to ask Aubrey again to look at it, you can, because she's probably dealt with it. My guess is that Aubrey's dealing with potentially higher payment amounts.
+
+[Dr. Greg Nelson] 14:16:17
+than we deal with.
+
+[Dr. Greg Nelson] 14:16:18
+And so she may have different things.
+
+[Cyril Agbewali] 14:16:21
+Okay.
+
+[Dr. Greg Nelson] 14:16:22
+I mean, I'm not, I wouldn't be surprised if we mod the IRB later to like give people more money.
+
+[Dr. Greg Nelson] 14:16:28
+And then, like, all this stuff will need to be in there anyways, but just, yeah.
+
+[Dr. Greg Nelson] 14:16:36
+Okay.
+
+[Dr. Greg Nelson] 14:17:25
+Yeah, and then another example, Cyril, some other, like, details that you added, like, you kept adding details about whether IP addresses will be collected or not.
+
+[Dr. Greg Nelson] 14:17:34
+Just don't. They didn't ask us to add anything about it. Don't do that. Don't add stuff they don't ask us to add. Does that make sense?
+
+[Cyril Agbewali] 14:17:38
+Okay.
+
+[Cyril Agbewali] 14:17:41
+Yeah.
+
+[Dr. Greg Nelson] 14:17:42
+Yeah. So the the big problem with these with the IRB process here is.
+
+[Dr. Greg Nelson] 14:17:52
+Uh… like, if they said, what time of day are you going to send the emails?
+
+[Dr. Greg Nelson] 14:17:57
+to the participants. Let's say they wanted that.
+
+[Dr. Greg Nelson] 14:18:01
+and that we have to give them a time of day down to the minute or something. And then.
+
+[Cyril Agbewali] 14:18:03
+Yeah.
+
+[Dr. Greg Nelson] 14:18:06
+We sent out an email like a minute later.
+
+[Dr. Greg Nelson] 14:18:10
+Is that an IRB violation?
+
+[Dr. Greg Nelson] 14:18:13
+Are we doing something we said we wouldn't do?
+
+[Dr. Greg Nelson] 14:18:16
+Are we doing something? Are we not doing something? We said we did do.
+
+[Dr. Greg Nelson] 14:18:21
+You see how this can create an immense amount of problems?
+
+[Cyril Agbewali] 14:18:26
+Yeah, okay.
+
+[Dr. Greg Nelson] 14:18:26
+right? And and also these are all fake problems, right? Like like the Irb application.
+
+[Dr. Greg Nelson] 14:18:31
+The conduct of the research, none of that is substantive to deciding anything about research ethics, or anything about what the research itself is.
+
+[Dr. Greg Nelson] 14:18:40
+Right.
+
+[Dr. Greg Nelson] 14:18:41
+And… but if they ask us to put an infinite amount of detail about everything in, then is someone later going to come over wagging a stick over…
+
+[Dr. Greg Nelson] 14:18:50
+something that really… Do you see what I'm saying? So we want to just…
+
+[Cyril Agbewali] 14:18:53
+Yeah…
+
+[Dr. Greg Nelson] 14:18:55
+For the purpose, like…
+
+[Dr. Greg Nelson] 14:18:59
+At most institutions, when research is exempt, they don't even keep forms about it. We never mod an exempt IRB. It's just exempt. Now, if we make changes that might make it not exempt, like we're supposed to go and talk to the IRB and we should.
+
+[Dr. Greg Nelson] 14:19:12
+But do you see, like, all of these problems that are created? So, we want to…
+
+[Dr. Greg Nelson] 14:19:18
+If we don't have to specify something, if we don't have to say something about it, just leave it free to be whatever it needs to be based on our judgment. Does that make sense?
+
+[Cyril Agbewali] 14:19:24
+Okay.
+
+[Cyril Agbewali] 14:19:27
+Yeah, okay.
+
+[Dr. Greg Nelson] 14:19:28
+like, I don't think we're planning to do anything, but, like, if someone forgets to push a button somewhere, I don't want that to be now a problem, if some, like…
+
+[Dr. Greg Nelson] 14:19:35
+vengeful bureaucracy or other…
+
+[Dr. Greg Nelson] 14:19:38
+political actor or whoever wants to, like, come after the lab for some reason, or come after us. We don't want there to be stuff to be problems about. Does that make sense?
+
+[Dr. Greg Nelson] 14:19:47
+I don't think that would ever happen, but it's just as a disabled person, as a risk averse person, I'm like, let's not do these things.
+
+[Cyril Agbewali] 14:19:48
+Yeah, okay.
+
+[Cyril Agbewali] 14:19:57
+Okay.
+
+[Dr. Greg Nelson] 14:20:06
+I'll tell you a story, Cyril. There was a researcher at the University of Washington who was doing, like.
+
+[Dr. Greg Nelson] 14:20:15
+a study that involved them, like, putting microchips into bees to, like, control the brains of bees.
+
+[Dr. Greg Nelson] 14:20:23
+And, uh…
+
+[Dr. Greg Nelson] 14:20:26
+And other stuff like this, and he's like…
+
+[Dr. Greg Nelson] 14:20:29
+People are, like, interacting with bees. Like, they could, like, be stung and other stuff like this, right?
+
+[Dr. Greg Nelson] 14:20:35
+And it's just like, oh, yeah, I don't want to submit that anywhere, you know, to any research ethics thing, because they're just going to be… what, they're going to want me to hire a B.
+
+[Dr. Greg Nelson] 14:20:43
+Whatever the hell is, right? Like, if someone… obviously, we'll try to have people not be stung by bees, but.
+
+[Cyril Agbewali] 14:20:49
+Yeah.
+
+[Dr. Greg Nelson] 14:20:50
+No joke, like, if he had applied for his, like, B license or something…
+
+[Dr. Greg Nelson] 14:20:53
+I mean, that could have taken six months.
+
+[Dr. Greg Nelson] 14:20:56
+Who knows?
+
+[Dr. Greg Nelson] 14:20:58
+Like, who fucking knows if some bureaucrat in an office somewhere who has no stake in any of the outcomes of the research.
+
+[Cyril Agbewali] 14:21:00
+Yeah, yeah.
+
+[Dr. Greg Nelson] 14:21:07
+But they're like, you know what? If I don't make this… take this 6 months, if something bad happens, maybe someone's gonna come blame me. So everything's gonna take 6 months. So this is what bureaucracies do, Cyril. This is, like, a very, like…
+
+[Dr. Greg Nelson] 14:21:18
+I have to get approval from someone so that a disabled student that can't take as many courses as other people is allowed to take Capstone. They have to get an approval to be allowed to take Capstone. They're fucking disabled.
+
+[Dr. Greg Nelson] 14:21:31
+Just let them fucking take capstone. They're taking all the other courses that everyone else takes capstone normally, but because they have some bureaucratic requirements somewhere, they're not allowed to do it, right? So this is…
+
+[Dr. Greg Nelson] 14:21:42
+Bureaucracies, there's a lot of evil happens in bureaucracies. They can serve a good purpose, but.
+
+[Dr. Greg Nelson] 14:21:49
+as the bureaucracy gets entrenched, makes more and more regulations, they literally… like, this IRB creates work for itself to do.
+
+[Dr. Greg Nelson] 14:21:57
+It has created work for itself to do, because guess what? It needs to justify its existence. The IRB definitely should exist, but should they, um, routinely give themselves.
+
+[Cyril Agbewali] 14:21:58
+Yeah…
+
+[Dr. Greg Nelson] 14:22:07
+Extra work by requiring us to put the same thing in 4 different places, and then…
+
+[Dr. Greg Nelson] 14:22:13
+Now, when they review IRB applications, they have to read it four times and double-check everything? What a nightmarish hell to create for yourself.
+
+[Dr. Greg Nelson] 14:22:20
+You know, I don't think the individual officers reviewing it graded it, but that's.
+
+[Dr. Greg Nelson] 14:22:23
+What happens? So, like, a bureaucracy will run amok. It will take over, like, everything.
+
+[Dr. Greg Nelson] 14:22:29
+It like like we see this like.
+
+[Dr. Greg Nelson] 14:22:31
+My partner had like a…
+
+[Dr. Greg Nelson] 14:22:33
+used to do, like, chemistry experiments with… guess what? In chemistry, some chemicals, like, if you eat them like an idiot, you could be hurt, right? It's just… you have… you have to work with chemicals, right?
+
+[Cyril Agbewali] 14:22:41
+Yeah.
+
+[Dr. Greg Nelson] 14:22:45
+So they like.
+
+[Dr. Greg Nelson] 14:22:47
+Their university, like, hired some new, like, safety officer, who then comes in and decides that what she's been doing for the last 10 years, that no one has ever been hurt, ever.
+
+[Dr. Greg Nelson] 14:22:54
+and that is common practice everywhere else is too dangerous, and she needs to change what she does, right? Because guess what? They have nothing else to do.
+
+[Dr. Greg Nelson] 14:23:01
+Because they have no work to do, they must create work for themselves. Otherwise, they have no job.
+
+[Cyril Agbewali] 14:23:04
+They create work for themselves, yeah.
+
+[Dr. Greg Nelson] 14:23:08
+Right? If they go to their boss, what have you been up to? Well, there wasn't anything for me to do. If they do that for, like, a month, what do you think's gonna happen? They're.
+
+[Dr. Greg Nelson] 14:23:16
+Right? So yeah.
+
+[Dr. Greg Nelson] 14:23:21
+So you just have to, like…
+
+[Dr. Greg Nelson] 14:23:23
+So when we're writing these things, Cyril, you have to be careful to not like.
+
+[Dr. Greg Nelson] 14:23:27
+poke the bureaucracy in a stupid way. Like, if you give them some misleading detail.
+
+[Dr. Greg Nelson] 14:23:34
+or they misunderstand something.
+
+[Dr. Greg Nelson] 14:23:37
+Like, uh, like if, like, I said this before, you know, we won't recruit, uh.
+
+[Dr. Greg Nelson] 14:23:41
+People who might be suicidal.
+
+[Cyril Agbewali] 14:23:44
+Yeah…
+
+[Dr. Greg Nelson] 14:23:44
+Like, we add that somewhere. Like, they're gonna be like, wait…
+
+[Dr. Greg Nelson] 14:23:47
+You mean some people in your study might be suicidal?
+
+[Dr. Greg Nelson] 14:23:50
+Oh, my God, that's like a new risk category.
+
+[Dr. Greg Nelson] 14:23:52
+Like, everyone that recruits human subjects could be recruiting someone that's suicidal. It has nothing to do with any of what we.
+
+[Dr. Greg Nelson] 14:23:58
+Right? But you see how adding that detail…
+
+[Dr. Greg Nelson] 14:24:01
+And guess what? AI, which you've used to try to assist you in some of this, wants to say shit like that all the time.
+
+[Cyril Agbewali] 14:24:06
+4%, yeah.
+
+[Dr. Greg Nelson] 14:24:07
+So we just we don't. So just have I kind of gotten this through to you permanently.
+
+[Cyril Agbewali] 14:24:14
+Yeah. Okay.
+
+[Dr. Greg Nelson] 14:24:14
+Like, this way of thinking? Like, you just… like, you don't have to, like, overthink it, it's just…
+
+[Cyril Agbewali] 14:24:17
+Yeah.
+
+[Dr. Greg Nelson] 14:24:20
+The rule of don't do things they're not requiring you to do.
+
+[Dr. Greg Nelson] 14:24:25
+Very good rule.
+
+[Dr. Greg Nelson] 14:24:27
+Like, and again, none of this is substantive, right? They're not like…
+
+[Dr. Greg Nelson] 14:24:31
+No one said, hey, let me check the evidence that the reflection groups are a good thing.
+
+[Dr. Greg Nelson] 14:24:36
+Right, we could teach the instructors to, like, I don't know, like, lock down AI in their classroom, and everyone would be like, great, even though it would harm students.
+
+[Dr. Greg Nelson] 14:24:44
+So like the IRB process, it's just not architected like they never actually evaluate risks.
+
+[Dr. Greg Nelson] 14:24:50
+they evaluate compliance to, like, a set of rules, which is not risks. That's why you can, like, get medical research approved that, like, kills people or something.
+
+[Dr. Greg Nelson] 14:24:59
+Right? Oh, we could have never known that someone was going to die. And they didn't have to say, you could die from this.
+
+[Dr. Greg Nelson] 14:25:07
+in… you know, the… that's not a rule in the… for the… for the risk section. But our risk section has a, your data could be breached rule.
+
+[Cyril Agbewali] 14:25:14
+Yeah.
+
+[Dr. Greg Nelson] 14:25:16
+Right? Why does it have that, one versus the other? Because they fucking made one up.
+
+[Dr. Greg Nelson] 14:25:20
+Right? And the thing, yeah, anyways, it's just how it is.
+
+[Dr. Greg Nelson] 14:25:29
+Like, it's good to tell people, like, your data could be lost, right?
+
+[Dr. Greg Nelson] 14:25:32
+But, like, you know what, like, the, uh…
+
+[Dr. Greg Nelson] 14:25:36
+Like, this loss of confidentiality of your data under risks? Like, I wrote, although we will protect your data as listed in the confidentiality section. That's not in the IRB's form template.
+
+[Dr. Greg Nelson] 14:25:47
+It sure as hell should be because it will make people feel better.
+
+[Cyril Agbewali] 14:25:50
+Yeah.
+
+[Dr. Greg Nelson] 14:25:52
+Right?
+
+[Dr. Greg Nelson] 14:25:52
+It's like they don't care what the consequences are. They just care that the rule is followed. And I tell you, Cyril, a root of an immense amount of evil in our civilization is because of people that follow rules with just no regard to what the consequences of the rules are.
+
+[Dr. Greg Nelson] 14:26:08
+Right? That's like where bureaucratic evil comes from. That's where evil that is justified by the law comes from.
+
+[Cyril Agbewali] 14:26:15
+Yeah.
+
+[Dr. Greg Nelson] 14:26:16
+Right? Like apartheid or other stuff like this. It's all legal. It's all fucking legal. In fact, you had to do it.
+
+[Dr. Greg Nelson] 14:26:22
+Right? So it's just…
+
+[Dr. Greg Nelson] 14:26:26
+Yeah, anyways.
+
+[Dr. Greg Nelson] 14:26:28
+I'm getting, like, an alert… I'll get an alert on my watch soon, like, you're being stressed, you need to.
+
+[Dr. Greg Nelson] 14:26:37
+Endless amounts. I mean, Cyril in the last…
+
+[Dr. Greg Nelson] 14:26:40
+Like, 50 years in the United States, like, the amount of bureaucracy in universities has, I think, more than tripled. It's tripled.
+
+[Dr. Greg Nelson] 14:26:48
+Like we pay bureaucrats more than faculty.
+
+[Dr. Greg Nelson] 14:26:52
+The whole university pays for bureaucrats.
+
+[Cyril Agbewali] 14:26:52
+Yeah…
+
+[Dr. Greg Nelson] 14:26:55
+than faculty members.
+
+[Dr. Greg Nelson] 14:26:57
+And it didn't used to be like that. So it's just… it is a real issue. And there are some things that need… like, it's good for us to submit… like, it's good for someone to be like, yes, this is not…
+
+[Dr. Greg Nelson] 14:27:08
+Some nuts thing that you're doing, because some really stupid people somewhere, mostly old white men who were fucking racists.
+
+[Dr. Greg Nelson] 14:27:15
+did stupid things, like in… like, allow Black men in the army who had syphilis to die from it, just to watch what happened.
+
+[Dr. Greg Nelson] 14:27:21
+Right? And then we get all of these things, right? That's why we have the research ethics process, because that happened.
+
+[Dr. Greg Nelson] 14:27:27
+And you know what? None of those fuckers went to jail. None of… nothing happened to any of them.
+
+[Dr. Greg Nelson] 14:27:33
+Yeah, none of them, right? So I mean like all this.
+
+[Dr. Greg Nelson] 14:27:36
+Like I said, it's like fucking compliance. Shit.
+
+[Dr. Greg Nelson] 14:31:52
+It's so funny that AI is terrible at doing this type of process. Like, it doesn't understand… I mean, I think you've… I think it's just a problem with your prompting, Cyril.
+
+[Dr. Greg Nelson] 14:32:00
+like, all the things that I said to you, like, if you're using AI to work with this stuff, like, you should be taking the transcripts from me talking about it and turning that.
+
+[Dr. Greg Nelson] 14:32:09
+converting that into statements for the prompt. Does it make sense?
+
+[Dr. Greg Nelson] 14:32:12
+Because what AI doesn't under AI's default thing is to try to be like very hedgy and risk sensitive.
+
+[Cyril Agbewali] 14:32:13
+Yeah, okay.
+
+[Dr. Greg Nelson] 14:32:19
+What it doesn't understand is that, like, if it does that in the wrong way, it will, like, provoke…
+
+[Dr. Greg Nelson] 14:32:25
+Kurt Nordback, misunderstanding.
+
+[Dr. Greg Nelson] 14:32:27
+Or, like, kind of, like, ramp.
+
+[Dr. Greg Nelson] 14:32:30
+like some of these bureaucracies. Does that make sense? Like, like, make them…
+
+[Dr. Greg Nelson] 14:32:33
+Turn up their temperature.
+
+[Dr. Greg Nelson] 14:32:35
+So it is…
+
+[Dr. Greg Nelson] 14:32:37
+Just kind of interesting that it doesn't understand that context thing. Whatever.
+
+[Dr. Greg Nelson] 14:32:42
+Okay.
+
+[Dr. Greg Nelson] 14:33:38
+Another thing here, Cyril.
+
+[Dr. Greg Nelson] 14:33:41
+So here…
+
+[Dr. Greg Nelson] 14:33:47
+So when they say this.
+
+[Dr. Greg Nelson] 14:33:50
+Add this.
+
+[Dr. Greg Nelson] 14:33:52
+You did a good job, but, like, what they really mean is copy-paste this text and put it in. Does that make sense?
+
+[Cyril Agbewali] 14:33:59
+Okay, yeah.
+
+[Dr. Greg Nelson] 14:34:00
+That's what they're asking. So, like, here…
+
+[Dr. Greg Nelson] 14:34:03
+You, like, you did a much longer version, so this is what they said.
+
+[Dr. Greg Nelson] 14:34:07
+Which is okay, like…
+
+[Cyril Agbewali] 14:34:24
+Yeah, but we will ask. Yeah.
+
+[Cyril Agbewali] 14:34:27
+Okay.
+
+[Dr. Greg Nelson] 14:34:40
+Does that make sense?
+
+[Cyril Agbewali] 14:34:41
+Yeah.
+
+[Dr. Greg Nelson] 14:35:18
+Does that make sense?
+
+[Cyril Agbewali] 14:35:20
+Yeah.
+
+[Cyril Agbewali] 14:35:23
+Yeah.
+
+[Dr. Greg Nelson] 14:35:26
+Yeah. And then also, do you see how I wrote this? So instead of saying the design workshops, I said, for any group activities such as the workshops, so that if we mod the thing later, we don't have to screw with this part.
+
+[Cyril Agbewali] 14:35:34
+General X.
+
+[Dr. Greg Nelson] 14:35:39
+Do you see what I'm saying? So this is another issue with the IRBs. So, like.
+
+[Cyril Agbewali] 14:35:41
+Yeah.
+
+[Dr. Greg Nelson] 14:35:42
+What I think the IRB needs to do is instead, this particular IRB has a lot of opinions about how things should be done.
+
+[Dr. Greg Nelson] 14:35:50
+So, instead of, like, playing this, like, wraparound game where, like, we're supposed to guess how they want things to be done, they should just have a giant IRB template, which is, like, all the ways they think things should be done.
+
+[Dr. Greg Nelson] 14:36:01
+And we can just copy it and fill it in. And that's what KUs should be.
+
+[Dr. Greg Nelson] 14:36:06
+Plus some option to do whatever you want.
+
+[Dr. Greg Nelson] 14:36:09
+And then that would be really good for people, because.
+
+[Dr. Greg Nelson] 14:36:12
+It's just… it just creates infinite work for everyone. So, anyways, whatever.
+
+[Dr. Greg Nelson] 14:36:18
+Sorry. Right.
+
+[Dr. Greg Nelson] 14:38:36
+You did a very good job when you said workshops are group sessions, so you must agree for recording to take place in the workshop. Does that make sense?
+
+[Cyril Agbewali] 14:38:43
+Yeah.
+
+[Dr. Greg Nelson] 14:38:43
+Yeah. Mm-hmm.
+
+[Dr. Greg Nelson] 14:45:52
+This is so funny. The IRB is like, delete this date, and it's like, I remember in a previous back and forth where you're like, you have to add a date.
+
+[Dr. Greg Nelson] 14:46:00
+That's so good. Yeah. Yeah, that's what I mean, Cyril. They'll go fucking back and forth. They're not…
+
+[Cyril Agbewali] 14:46:00
+Oh!
+
+[Dr. Greg Nelson] 14:46:06
+There's no fucking… even the rules are not consistent. It's just…
+
+[Dr. Greg Nelson] 14:46:11
+Whatever the person fucking says.
+
+[Cyril Agbewali] 14:46:14
+Because, you know, we lifted that exactly from a previous IRB and put it there.
+
+[Dr. Greg Nelson] 14:46:16
+Exactly. Exactly. That's what I mean. This is what I mean, Cyril.
+
+[Dr. Greg Nelson] 14:46:22
+Like, it's petty evil. It's petty evil, just like…
+
+[Dr. Greg Nelson] 14:46:25
+acting like there's a… you have to do it this way, you have to do it that way. Actually, you gotta do it the other way. It's like, they'll just go back and forth between telling us to do one… just telling us to do one thing, then the opposite. I'.
+
+[Dr. Greg Nelson] 14:46:37
+one thing, change it. I changed it. And they're like, no, it should be the other thing that it was originally. And I'll be like, I changed it back. It was originally that thing as well.
+
+[Dr. Greg Nelson] 14:46:46
+Right? Like, it's it's just nuts. Yeah.
+
+[Cyril Agbewali] 14:46:48
+Wow.
+
+[Dr. Greg Nelson] 14:46:52
+I mean, I feel for them because they're overwhelmed with work, but they create work for themselves. So it's like I can't do anything to help them really.
+
+[Dr. Greg Nelson] 14:48:08
+Weren't we going to change the $10 gift cards per survey to something else that was, like, more…
+
+[Cyril Agbewali] 14:48:19
+Service, uh…
+
+[Cyril Agbewali] 14:48:20
+10, and the interviews were increased from 15 to 25.
+
+[Cyril Agbewali] 14:48:24
+And, um, for the students, they are going to enter into a raffle.
+
+[Dr. Greg Nelson] 14:48:31
+Okay, okay, gotcha. That's fine. The students will be raffles. Okay, that's fine.
+
+[Dr. Greg Nelson] 14:49:10
+Yeah, so here's another thing that I did, Cyril. So you said, like, if you're in the design workshops, we'll ask people to not share your stuff. I said.
+
+[Dr. Greg Nelson] 14:49:17
+So that's future proof. Does that make sense?
+
+[Cyril Agbewali] 14:49:18
+Okay.
+
+[Dr. Greg Nelson] 14:49:21
+Yeah, it's just future proof.
+
+[Dr. Greg Nelson] 14:49:26
+Isn't this a complete pain in the ass?
+
+[Cyril Agbewali] 14:49:28
+Oh, yes.
+
+[Dr. Greg Nelson] 14:49:29
+It is completely nuts. I mean, a bunch of the stuff we have to make anyways, like the consent forms and stuff, but a lot of the details of the consent forms, like…
+
+[Dr. Greg Nelson] 14:49:38
+Did I? Should you should ask?
+
+[Dr. Greg Nelson] 14:49:41
+So it's just every institution, depending on how bureaucratic the people are, they just do different decisions. It's the strangest thing.
+
+[Dr. Greg Nelson] 14:49:48
+Like, a lot of this, it's voluntary.
+
+[Dr. Greg Nelson] 14:49:51
+there's compensation, there's confidentiality, risks, benefits, and headings is pretty common. It's just a lot of other places, they don't do this, like, uh…
+
+[Dr. Greg Nelson] 14:50:00
+The "what you will be asked to do" section is not as long, like they don't…
+
+[Dr. Greg Nelson] 14:50:04
+Like this IRB is like, add all this extra detail into it. It's like, okay, fine.
+
+[Dr. Greg Nelson] 14:50:08
+And then it's like all that detail is then repeated again in the confidentiality section.
+
+[Dr. Greg Nelson] 14:50:14
+So it just makes the form longer and longer and longer, right?
+
+[Dr. Greg Nelson] 14:50:17
+And it's funny, because I'm pretty sure that if you studied it.
+
+[Dr. Greg Nelson] 14:50:21
+What you would see is that the more you add stuff in various places, the less likely it is that people are to read it.
+
+[Cyril Agbewali] 14:50:27
+Yeah, it comes.
+
+[Dr. Greg Nelson] 14:50:27
+So informed consent, the amount of informedness goes down.
+
+[Dr. Greg Nelson] 14:50:32
+So the IRB is doing things that reduce.
+
+[Dr. Greg Nelson] 14:50:34
+informed consent in practice.
+
+[Dr. Greg Nelson] 14:50:37
+Even though, on paper, they're like, oh, they're even more informed. Because it's like, it would be like saying, we gave people documents this big, we handed it to them, and now they're more informed. It's like, no, obviously not, right?
+
+[Cyril Agbewali] 14:50:48
+Definitely not.
+
+[Dr. Greg Nelson] 14:51:57
+Also, I couldn't believe it's real.
+
+[Dr. Greg Nelson] 14:51:59
+But they did allow us to say, like, we will figure out the workshop design with the participants. I think we should just say that for fucking everything. We'll figure out the survey with the participants. I do want… because, I mean, community-based design research is really, you're supposed to figure everything out with the participants. So I'm very glad that it just…
+
+[Cyril Agbewali] 14:52:06
+Oh, okay.
+
+[Dr. Greg Nelson] 14:52:15
+But that worked.
+
+[Dr. Greg Nelson] 14:52:16
+And we will figure it out, and we'll just keep going from there.
+
+[Dr. Greg Nelson] 14:52:20
+And refining it.
+
+[Cyril Agbewali] 14:56:10
+I'll be stepping out to go to the bank at the union.
+
+[Dr. Greg Nelson] 14:56:14
+Oh, you should get me some money, too.
+
+[Cyril Agbewali] 14:56:15
+And…
+
+[Dr. Greg Nelson] 14:56:22
+Make it rain, Cyril, make it rain.
+
+[Dr. Greg Nelson] 14:56:30
+I expected it to be funny, but you found it very funny, which I laugh.
+
+[Dr. Greg Nelson] 14:56:33
+I think… I'm hoping you're not finding it funny, because there are some places in this world where your bosses will ask you to give them money.
+
+[Dr. Greg Nelson] 14:56:42
+But anyways, obviously I'm not asking you, but you know.
+
+[Cyril Agbewali] 14:56:44
+Oh!
+
+[Dr. Greg Nelson] 14:56:52
+Yeah, okay, good. All right. Cheers, Cyril. I will…
+
+[Cyril Agbewali] 14:56:55
+All right.
+
+[Dr. Greg Nelson] 14:56:59
+Let's see, um…
+
+[Dr. Greg Nelson] 14:57:01
+Let's see…
+
+[Dr. Greg Nelson] 14:57:03
+I gotta do some other stuff. I'm gonna try to finish this up, and I'm gonna do some other.
+
+[Cyril Agbewali] 14:57:07
+Okay.
+
+[Dr. Greg Nelson] 14:57:07
+All right. Peace out.
+
+[Cyril Agbewali] 14:57:08
+All right. Thanks so
+

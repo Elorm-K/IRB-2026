@@ -1,0 +1,1719 @@
+[Dr. Greg Nelson] 16:21:52
+We don't need to do… we don't need to actually do…
+
+[Dr. Greg Nelson] 16:21:54
+like, we can fix that in the IRB later, so we shouldn't, like, spend more time on it before submitting this one, but you just need to do some research on what… what are the effective techniques for high longitudinal survey, um, compliance.
+
+[Dr. Greg Nelson] 16:22:13
+And the research will basically say something like, make them really short.
+
+[Dr. Greg Nelson] 16:22:17
+Really, really short. That's what they will say, probably.
+
+[Dr. Greg Nelson] 16:25:31
+Can you hear me okay like this, Cyril?
+
+[Cyril Agbewali] 16:25:34
+Yeah.
+
+[Dr. Greg Nelson] 16:25:34
+Yeah, okay, I was just checking. I just moved my microphone. That.
+
+[Cyril Agbewali] 16:25:38
+Oh, okay.
+
+[Dr. Greg Nelson] 16:25:39
+Oh, there's my video again. Oops.
+
+[Cyril Agbewali] 16:25:40
+I can hear you.
+
+[Dr. Greg Nelson] 16:25:43
+Turn those off, okay.
+
+[Dr. Greg Nelson] 16:38:55
+Hey, Cyril.
+
+[Dr. Greg Nelson] 16:38:58
+I get a little bit of a feeling that… I'm not sure if it's from AI Drift or what it is, but… a bunch of the consent forms, I feel like either a bunch of work has been done, or…
+
+[Dr. Greg Nelson] 16:39:10
+some kind of feedback from something that's been incorporated that has added a bunch of things to the consent form.
+
+[Dr. Greg Nelson] 16:39:18
+Basically, the prior IRBs that I've shared with you.
+
+[Dr. Greg Nelson] 16:39:24
+kind of go over. So, for example, this one here.
+
+[Dr. Greg Nelson] 16:39:41
+Seen this one before, Cyril?
+
+[Cyril Agbewali] 16:39:44
+Yep, I have this one.
+
+[Dr. Greg Nelson] 16:39:47
+Yeah, so this most recent one that talks about follow-up interviews…
+
+[Dr. Greg Nelson] 16:40:00
+It kind of says everything. There's all the languages already done.
+
+[Dr. Greg Nelson] 16:40:05
+About recording and everything.
+
+[Dr. Greg Nelson] 16:40:08
+Does that make sense?
+
+[Cyril Agbewali] 16:40:10
+Yeah.
+
+[Dr. Greg Nelson] 16:40:17
+You see?
+
+[Dr. Greg Nelson] 16:40:52
+So you see that, Cyril?
+
+[Cyril Agbewali] 16:40:54
+Yeah.
+
+[Dr. Greg Nelson] 16:40:55
+Yeah, sorry, there's a little tiff about…
+
+[Dr. Greg Nelson] 16:41:00
+about some accidents in the house. So I'm getting distracted. Sorry. Hopefully you can't hear.
+
+[Cyril Agbewali] 16:41:05
+No problem.
+
+[Cyril Agbewali] 16:41:07
+I cannot get anything, sir.
+
+[Dr. Greg Nelson] 16:41:09
+Okay, good.
+
+[Dr. Greg Nelson] 16:41:12
+All right.
+
+[Dr. Greg Nelson] 16:41:19
+Let's see…
+
+[Dr. Greg Nelson] 16:41:21
+So yeah, so I think that that.
+
+[Dr. Greg Nelson] 16:41:29
+Yeah, I'm also realizing this…
+
+[Dr. Greg Nelson] 16:41:33
+Obviously, there's a lot of stuff in this IRB. It's just huge.
+
+[Dr. Greg Nelson] 16:41:38
+And it overlaps with some other IRBs that we've written. So, yeah.
+
+[Dr. Greg Nelson] 16:41:44
+So…
+
+[Dr. Greg Nelson] 16:41:45
+I've added…
+
+[Dr. Greg Nelson] 16:41:46
+I've added some. So basically, what my feedback is on the consent forms is.
+
+[Dr. Greg Nelson] 16:41:51
+Where they are different from, I've added them, I should have done them all on one consent form, but I've added a few different comments.
+
+[Dr. Greg Nelson] 16:41:58
+So just basically.
+
+[Dr. Greg Nelson] 16:42:01
+There was a bunch of things that were added.
+
+[Dr. Greg Nelson] 16:42:05
+That, like, can't be added, um, because they will change some of the…
+
+[Dr. Greg Nelson] 16:42:10
+Like, uh…
+
+[Dr. Greg Nelson] 16:42:11
+I'm not sure if they would change the risk categorization of the work, and we don't want it to be, like, categorized as, like.
+
+[Dr. Greg Nelson] 16:42:19
+medium risk or something.
+
+[Dr. Greg Nelson] 16:42:21
+That's things like these statements here that you added.
+
+[Dr. Greg Nelson] 16:42:32
+So like this parts.
+
+[Dr. Greg Nelson] 16:42:35
+So, like, we don't have to say things like this. This isn't a usual. I haven't seen these statements in consent forms before.
+
+[Cyril Agbewali] 16:42:37
+Okay.
+
+[Dr. Greg Nelson] 16:42:44
+this thing.
+
+[Dr. Greg Nelson] 16:42:46
+We're not going to do this.
+
+[Dr. Greg Nelson] 16:42:49
+Like this is just something we're not going to do.
+
+[Cyril Agbewali] 16:42:51
+Yeah, yeah.
+
+[Dr. Greg Nelson] 16:42:53
+Okay.
+
+[Dr. Greg Nelson] 16:42:54
+And then, um…
+
+[Dr. Greg Nelson] 16:42:56
+A bunch of these things are, um…
+
+[Dr. Greg Nelson] 16:43:00
+Like, repeating stuff that's already…
+
+[Dr. Greg Nelson] 16:43:03
+Up here…
+
+[Dr. Greg Nelson] 16:43:05
+So you just don't… I mean, I don't think…
+
+[Dr. Greg Nelson] 16:43:15
+I mean, we could add maybe this line?
+
+[Dr. Greg Nelson] 16:43:19
+But that's what it means for things to be confidential.
+
+[Cyril Agbewali] 16:43:23
+Okay.
+
+[Dr. Greg Nelson] 16:43:25
+like…
+
+[Dr. Greg Nelson] 16:43:26
+you know, confidential things.
+
+[Dr. Greg Nelson] 16:43:35
+Like this stuff also, Cyril?
+
+[Dr. Greg Nelson] 16:43:38
+Like, none of these things are in any of the IRBs. This is like AI slop or something, or you wrote it, I don't know.
+
+[Cyril Agbewali] 16:43:45
+Yeah, this was…
+
+[Cyril Agbewali] 16:43:47
+Yeah, I put this one in.
+
+[Dr. Greg Nelson] 16:43:49
+Yeah, so…
+
+[Dr. Greg Nelson] 16:43:51
+Yeah, so this is just…
+
+[Dr. Greg Nelson] 16:43:53
+I don't know. I don't know how to teach. Anyways, I'm teaching you now. If you don't see it in the existing consent forms, it doesn't belong there. Okay.
+
+[Cyril Agbewali] 16:44:02
+Okay.
+
+[Dr. Greg Nelson] 16:44:02
+Okay, great.
+
+[Dr. Greg Nelson] 16:44:05
+So…
+
+[Dr. Greg Nelson] 16:44:06
+Um, I'm just gonna manually.
+
+[Dr. Greg Nelson] 16:44:09
+a bunch of this. I'm just going to go through these once manually.
+
+[Dr. Greg Nelson] 16:44:13
+And try and delete all this stuff that's been added. I don't know what… I think the lesson here is don't…
+
+[Dr. Greg Nelson] 16:44:22
+just manual, like, the AI is really bad at working on consent forms. It wants to add all these things. It doesn't realize that… so the average consent form is not equal to the consent forms that our IRB wants.
+
+[Dr. Greg Nelson] 16:44:34
+So using AI is just going to mislead you. So.
+
+[Dr. Greg Nelson] 16:44:39
+Just don't.
+
+[Dr. Greg Nelson] 16:44:41
+Like, all this stuff doesn't look anything like the, like, we can't even include this section, and that's against, like, the rules of the IRB.
+
+[Dr. Greg Nelson] 16:44:49
+our IRB has. Like there's a template, this already follows the template.
+
+[Dr. Greg Nelson] 16:44:53
+And this is not a section of the template.
+
+[Dr. Greg Nelson] 16:44:56
+So all this stuff.
+
+[Dr. Greg Nelson] 16:44:59
+So, I mean, these are not necessarily bad.
+
+[Dr. Greg Nelson] 16:45:03
+Um… I don't… like, we can say this somewhere else?
+
+[Dr. Greg Nelson] 16:45:08
+Maybe, but, um…
+
+[Dr. Greg Nelson] 16:45:12
+like, uh…
+
+[Dr. Greg Nelson] 16:45:17
+Anyways, this is just…
+
+[Dr. Greg Nelson] 16:45:19
+I don't know where to put this.
+
+[Cyril Agbewali] 16:45:43
+Okay, I think we should take it out, because I took it out of the other ones, but I think I forgot to take it out of this.
+
+[Dr. Greg Nelson] 16:45:49
+Okay.
+
+[Dr. Greg Nelson] 16:45:54
+I mean, this is not bad text. Like, we can use this text for something else. Not this part, which is confusing, but…
+
+[Dr. Greg Nelson] 16:46:02
+This kind of thing is fine.
+
+[Dr. Greg Nelson] 16:46:07
+Does this make sense?
+
+[Dr. Greg Nelson] 16:46:08
+I don't know if we want to guarantee this.
+
+[Cyril Agbewali] 16:46:08
+Yeah. Hmm.
+
+[Cyril Agbewali] 16:46:11
+Yeah, that, that… yeah.
+
+[Dr. Greg Nelson] 16:46:12
+That's not good.
+
+[Dr. Greg Nelson] 16:46:26
+So, I mean, this is fine. The rest of this is not there.
+
+[Dr. Greg Nelson] 16:46:52
+Also, I think stuff like this in the IRB will be confusing to the IRB.
+
+[Dr. Greg Nelson] 16:46:57
+Does that make sense? Like they're expecting only the research to be described.
+
+[Cyril Agbewali] 16:47:02
+Okay.
+
+[Dr. Greg Nelson] 16:47:03
+And so, if we say, you can do our stuff without it being researched, I think it's just… they're gonna be confused and be like, wait…
+
+[Dr. Greg Nelson] 16:47:10
+you're doing research even though you're not saying it's… you just… I don't know what kind of weird response it would get, so I would just remove this.
+
+[Dr. Greg Nelson] 16:47:17
+It's implicit.
+
+[Dr. Greg Nelson] 16:47:20
+It's implicit that, you know, if they attend a workshop, it doesn't say you.
+
+[Dr. Greg Nelson] 16:47:24
+Survey your students. Therefore, we don't have to say anything more about it. But you're right that like in a presentation or something, this could be good.
+
+[Dr. Greg Nelson] 16:47:31
+So…
+
+[Dr. Greg Nelson] 16:47:34
+I'll just take that out.
+
+[Dr. Greg Nelson] 16:47:37
+Okay.
+
+[Dr. Greg Nelson] 16:51:33
+So these course surveys, Cyril, are they going to be things they would have done even if they weren't doing research in the course?
+
+[Dr. Greg Nelson] 16:51:41
+for the students.
+
+[Dr. Greg Nelson] 16:51:47
+I think it would be something that…
+
+[Cyril Agbewali] 16:51:49
+Question?
+
+[Dr. Greg Nelson] 16:51:50
+So I think ideally we would have.
+
+[Dr. Greg Nelson] 16:51:53
+integrate these into course surveys that the instructors would already be using, but sometimes it won't be that way.
+
+[Dr. Greg Nelson] 16:51:58
+So I think we should just write the.
+
+[Dr. Greg Nelson] 16:53:27
+Yeah, this is a bit complicated. I'm not sure how this will work, because if we're working with the professors and they want.
+
+[Dr. Greg Nelson] 16:53:36
+to share data on how the reflection groups are going in their course.
+
+[Dr. Greg Nelson] 16:53:41
+It's not true that.
+
+[Dr. Greg Nelson] 16:53:47
+And it could be that they have to opt in so that for us to have.
+
+[Dr. Greg Nelson] 16:53:51
+data about them as part of the research.
+
+[Dr. Greg Nelson] 16:53:55
+I think that would be fine.
+
+[Dr. Greg Nelson] 16:53:59
+Because I'm sure they're going to ask, like, how are things going?
+
+[Dr. Greg Nelson] 16:54:03
+Or ask us how they think the reflection groups are going.
+
+[Dr. Greg Nelson] 16:54:25
+Anyways, the main things that I see missing right now, Cyril, is it's less clear.
+
+[Dr. Greg Nelson] 16:54:30
+when and how student data will be provided to us by the instructors.
+
+[Dr. Greg Nelson] 16:54:36
+And how data from students will be removed that aren't.
+
+[Dr. Greg Nelson] 16:54:43
+participating, but we can just let the IRB tell us if they have an issue with that, because it's…
+
+[Dr. Greg Nelson] 16:54:47
+Pretty normal for us to, um…
+
+[Dr. Greg Nelson] 16:54:51
+Just say what?
+
+[Dr. Greg Nelson] 16:54:53
+it's it's it's obvious that like like we know, like they'll share data with us. That's only for consented students.
+
+[Cyril Agbewali] 16:55:02
+Yeah, so if they're going to share data with us, I mean that…
+
+[Cyril Agbewali] 16:55:05
+They also…
+
+[Cyril Agbewali] 16:55:07
+must have, like, IRBs.
+
+[Cyril Agbewali] 16:55:12
+Sent from their end.
+
+[Cyril Agbewali] 16:55:14
+And…
+
+[Cyril Agbewali] 16:55:17
+Means lots of eyes, harsh eyes, extreme.
+
+[Dr. Greg Nelson] 16:55:18
+Yeah, this is also impossible. This cannot, this is not possible for us to do as it's set up right now.
+
+[Dr. Greg Nelson] 16:55:24
+Does that make sense?
+
+[Dr. Greg Nelson] 16:55:32
+because we need to. We will know who adopts it or not.
+
+[Dr. Greg Nelson] 16:55:35
+Like, when they tell us. Like, we're not gonna give them special keys or something like that. Does that make sense? Unless that's described in one of those follow-up surveys with instructors, right?
+
+[Cyril Agbewali] 16:55:41
+Okay.
+
+[Cyril Agbewali] 16:55:46
+Okay.
+
+[Dr. Greg Nelson] 16:56:13
+this is also, like, going too far, this is not needed, like, we don't have to worry about, like, us…
+
+[Dr. Greg Nelson] 16:56:19
+somehow treating people differently because they're in the study or not.
+
+[Dr. Greg Nelson] 16:56:25
+Instructors that aren't using reflection groups, we're not going to help them as a part of this research.
+
+[Dr. Greg Nelson] 16:56:30
+So…
+
+[Dr. Greg Nelson] 16:56:33
+and we won't. We don't have any people. We're never going to be in a situation like this.
+
+[Dr. Greg Nelson] 16:56:40
+And it's just these are all like.
+
+[Dr. Greg Nelson] 16:56:43
+I don't know, we could maybe include that, but it's… it's not…
+
+[Dr. Greg Nelson] 16:56:50
+The issue is, we might do data analysis…
+
+[Dr. Greg Nelson] 16:56:53
+And then later be in an evaluative relationship with someone else.
+
+[Dr. Greg Nelson] 16:56:57
+Does that make sense?
+
+[Cyril Agbewali] 16:56:59
+Yeah, quite a bit.
+
+[Dr. Greg Nelson] 16:57:00
+So this kind of blanket statement is…
+
+[Dr. Greg Nelson] 16:57:05
+kind of constraining, and I think it's better to remove it.
+
+[Dr. Greg Nelson] 16:57:08
+And also, we're never going to analyze identifiable data.
+
+[Dr. Greg Nelson] 16:57:12
+It's always going to be de-identified, though we will know which instructor it is.
+
+[Dr. Greg Nelson] 16:57:18
+We kind of need to know.
+
+[Dr. Greg Nelson] 16:57:20
+Because otherwise we can't interview an instructor about their data. So.
+
+[Dr. Greg Nelson] 16:57:26
+Yeah. Anyways, I'm just gonna delete this and other stuff.
+
+[Cyril Agbewali] 16:57:30
+Okay, finish this.
+
+[Dr. Greg Nelson] 16:57:32
+Yeah, I don't know.
+
+[Dr. Greg Nelson] 16:57:34
+I'm not sure if this task is like I'm is. It is complicated with a lot of really silly details or not silly details. They're just.
+
+[Dr. Greg Nelson] 16:57:42
+a lot of details, and there's a lot of duplication, and I think it's… I guess it's kind of overwh.
+
+[Dr. Greg Nelson] 16:57:48
+So, I'm gonna try to do… make a single finishing pass on this in the next…
+
+[Dr. Greg Nelson] 16:57:53
+10 to 20 minutes?
+
+[Dr. Greg Nelson] 16:57:55
+And then, instead of like me giving you feedback to fix. Does that make sense?
+
+[Dr. Greg Nelson] 16:58:00
+Because I think it's just, like, too detailed. I feel like we've done this multiple times also, and I don't know. Because we're moving from one document to another.
+
+[Dr. Greg Nelson] 16:58:09
+I have like no idea what's happened over time.
+
+[Dr. Greg Nelson] 16:58:12
+So like when you create a new copy of the document, it's like.
+
+[Dr. Greg Nelson] 16:58:15
+we've started from scratch, and I can't tell like.
+
+[Dr. Greg Nelson] 16:58:18
+If we worked on something before in a previous version of the document, has it reverted and come back again?
+
+[Dr. Greg Nelson] 16:58:25
+Or like, I just can't tell what's happening.
+
+[Dr. Greg Nelson] 16:58:29
+So I think in the future.
+
+[Cyril Agbewali] 16:58:30
+This is the first time you're working on this, so…
+
+[Dr. Greg Nelson] 16:58:32
+Oh, is this the first time I'm working on this one? Then great. Then that makes everything much more understandable. Okay.
+
+[Cyril Agbewali] 16:58:34
+Yep, this is the first time.
+
+[Dr. Greg Nelson] 16:58:38
+Good.
+
+[Cyril Agbewali] 16:58:38
+Yeah.
+
+[Dr. Greg Nelson] 16:58:40
+It's just, I think because there's overlap between these different things, my brain is having difficulty. So thanks for reminding me.
+
+[Cyril Agbewali] 16:58:46
+Yeah.
+
+[Dr. Greg Nelson] 16:58:47
+that we haven't worked on this one before. Also, this makes sense that we haven't worked on it before because there's like a bunch of issues with it.
+
+[Dr. Greg Nelson] 16:58:56
+Yeah.
+
+[Dr. Greg Nelson] 16:59:01
+All right, so I'm going to go through this asynchronously, Cyril. Do you know what tasks you're going to work on for this week?
+
+[Cyril Agbewali] 16:59:09
+Um, so I just put in, uh, but when you're telling me I put some stuff in the Google Keep that I have for my to-do list.
+
+[Dr. Greg Nelson] 16:59:17
+Can we just move everything to linear so it's easier for you to collaborate or have students that are assisting you and other stuff like that?
+
+[Cyril Agbewali] 16:59:18
+So, um…
+
+[Cyril Agbewali] 16:59:25
+Okay.
+
+[Cyril Agbewali] 16:59:27
+All right.
+
+[Dr. Greg Nelson] 16:59:28
+So, maybe…
+
+[Dr. Greg Nelson] 16:59:30
+I don't know this one.
+
+[Dr. Greg Nelson] 16:59:34
+I'm going to do it here.
+
+[Dr. Greg Nelson] 16:59:36
+Maybe.
+
+[Dr. Greg Nelson] 16:59:58
+No.
+
+[Dr. Greg Nelson] 17:00:01
+So, do you have a list of tasks that you could either share with me? You can just share the, like, your screen, or you can just…
+
+[Dr. Greg Nelson] 17:00:08
+Discord them to me or something.
+
+[Dr. Greg Nelson] 17:00:10
+And then I'll give you a little bit of feedback about that. Yeah.
+
+[Cyril Agbewali] 17:00:10
+Yeah, this…
+
+[Cyril Agbewali] 17:00:11
+I typed…
+
+[Cyril Agbewali] 17:00:15
+I typed in the HDR, like, a lot of… let me just put it in there, with all the…
+
+[Dr. Greg Nelson] 17:00:18
+You're perfect, right? Yeah, I'm sure you're doing a very good job.
+
+[Cyril Agbewali] 17:00:21
+Mistakes.
+
+[Dr. Greg Nelson] 17:00:22
+It's okay. Don't worry about it.
+
+[Cyril Agbewali] 17:00:24
+I just typed it in the list so there are a lot of typos in there.
+
+[Dr. Greg Nelson] 17:00:27
+Yeah.
+
+[Cyril Agbewali] 17:00:29
+That's what I…
+
+[Cyril Agbewali] 17:00:31
+It's just…
+
+[Cyril Agbewali] 17:00:32
+A lot of typos, but then edit it as I send.
+
+[Dr. Greg Nelson] 17:00:36
+Yeah. And then on GitHub, I don't have access to this IRB thing. So if you make an IRB, what you should do is you should create it as a repository inside of the YesLab organization.
+
+[Cyril Agbewali] 17:00:48
+Okay.
+
+[Dr. Greg Nelson] 17:00:49
+So this kind of mirrors the, like, when you create a… sometimes you'll create a shared document in your own drive instead of a shared drive. So the… in GitHub, the shared drive is, like, the repository for the lab.
+
+[Cyril Agbewali] 17:00:56
+Yeah.
+
+[Dr. Greg Nelson] 17:01:01
+Yeah.
+
+[Cyril Agbewali] 17:01:01
+There we go. There we are. Okay.
+
+[Dr. Greg Nelson] 17:01:03
+Okay.
+
+[Cyril Agbewali] 17:01:06
+Just a second.
+
+[Dr. Greg Nelson] 17:01:08
+Yeah.
+
+[Dr. Greg Nelson] 17:01:13
+So of those things, I think, can you finish and make the confidentiality forms very similar to the other?
+
+[Dr. Greg Nelson] 17:01:21
+ones that have already been approved.
+
+[Cyril Agbewali] 17:01:22
+Yeah. Okay.
+
+[Dr. Greg Nelson] 17:01:23
+Yeah, and then, um…
+
+[Dr. Greg Nelson] 17:01:26
+in style, etc. Also, we need to, um…
+
+[Dr. Greg Nelson] 17:01:33
+Potentially…
+
+[Dr. Greg Nelson] 17:01:43
+Gosh, I just lost the… Where's the RB? Where did it go? There it is.
+
+[Dr. Greg Nelson] 17:01:51
+Let's simplify the screen by moving everything this way.
+
+[Dr. Greg Nelson] 17:02:34
+All right, here we go.
+
+[Dr. Greg Nelson] 17:02:56
+Yeah, I'll work through this. This is a very good start. A lot of it is done. I will try to get it over the finish line as soon as possible.
+
+[Dr. Greg Nelson] 17:03:03
+I…
+
+[Dr. Greg Nelson] 17:03:06
+Did you try to include the…
+
+[Dr. Greg Nelson] 17:03:10
+So just to let you know, Cyril, this grant is for both reflection groups and this AI reflection stuff.
+
+[Cyril Agbewali] 17:03:15
+Yeah, I…
+
+[Dr. Greg Nelson] 17:03:16
+So we do need people that will complete those things. There's a budget for one graduate student and roughly two undergraduates.
+
+[Cyril Agbewali] 17:03:17
+Yeah.
+
+[Dr. Greg Nelson] 17:03:25
+on this grant. So…
+
+[Dr. Greg Nelson] 17:03:37
+Yeah.
+
+[Dr. Greg Nelson] 17:03:39
+So we will… I think we can mod it so that it has the, um…
+
+[Dr. Greg Nelson] 17:03:46
+Some of it's already in there, like this generative AI integration reflection or tools for generative AI use.
+
+[Dr. Greg Nelson] 17:03:53
+The main difference is.
+
+[Dr. Greg Nelson] 17:03:56
+the append… the consent forms for students right now in some places, it says, like, we won't analyze their assignments, just their surveys, and then in the consent forms, it says…
+
+[Dr. Greg Nelson] 17:04:07
+divorce, analyze their assignments.
+
+[Cyril Agbewali] 17:04:09
+Analyze. Yeah, I got that flag.
+
+[Dr. Greg Nelson] 17:04:10
+So there's this.
+
+[Dr. Greg Nelson] 17:04:12
+you know…
+
+[Cyril Agbewali] 17:04:12
+Just a few seconds ago from Claude's side, so I'll work on that too.
+
+[Dr. Greg Nelson] 17:04:16
+Yeah, so basically, we should, um…
+
+[Dr. Greg Nelson] 17:04:24
+I think the biggest risk for this research is…
+
+[Dr. Greg Nelson] 17:04:27
+If people will and we have many years to figure this out from a research perspective, Cyril.
+
+[Dr. Greg Nelson] 17:04:34
+But it's probably, what do you think some of the risks are in terms of the research being successful beyond the instructors deciding to adopt reflection groups or not?
+
+[Cyril Agbewali] 17:04:50
+For me, one of the things I've been thinking about has to do with the students, how we frame.
+
+[Cyril Agbewali] 17:04:56
+Um, the service and all that, because, um, I noticed that.
+
+[Cyril Agbewali] 17:04:59
+Current students have…
+
+[Cyril Agbewali] 17:05:01
+Every little thing, their flags go up, and then they just shift it aside and wouldn't do it, especially when it comes to research stuff, so we must be able to frame.
+
+[Cyril Agbewali] 17:05:09
+We are doing such a way that it's clear.
+
+[Cyril Agbewali] 17:05:13
+And they know what they are opting into.
+
+[Cyril Agbewali] 17:05:18
+And then, um…
+
+[Cyril Agbewali] 17:05:24
+Also with, um, mmm…
+
+[Dr. Greg Nelson] 17:05:28
+Yeah, and that has to be clear, because otherwise they're not going to opt into doing it. So them not opting in.
+
+[Cyril Agbewali] 17:05:32
+Yeah.
+
+[Dr. Greg Nelson] 17:05:34
+is the biggest issue.
+
+[Dr. Greg Nelson] 17:05:37
+Um, and…
+
+[Dr. Greg Nelson] 17:05:40
+The way that we've done this in the past in course collaborations in our courses.
+
+[Dr. Greg Nelson] 17:05:46
+is I use the…
+
+[Dr. Greg Nelson] 17:05:48
+outcomes from the surveys anyways.
+
+[Dr. Greg Nelson] 17:05:51
+Like, as a rough gauge of, like, how the students are doing, like, to reflect on my teaching and stuff like that.
+
+[Dr. Greg Nelson] 17:05:56
+And so.
+
+[Dr. Greg Nelson] 17:05:58
+Like they're going to take the surveys anyways as a part of the class because it's a part of the outcome understanding of the class itself.
+
+[Dr. Greg Nelson] 17:06:05
+And so, if we can have instructors include just a few measures of things that they care about.
+
+[Dr. Greg Nelson] 17:06:12
+And some instructors have pre course surveys. They often don't have post or end of course surveys. Instead, they have like exams or something like that.
+
+[Dr. Greg Nelson] 17:06:19
+So if the instructors agree to and think that it makes sense for them because they'll have access to all the data, whether students participate in the research or not.
+
+[Dr. Greg Nelson] 17:06:30
+Because they'll be doing it. And it makes a lot of sense, because I think if instructors don't have data about the intervention, if it goes, like, so-so.
+
+[Cyril Agbewali] 17:06:30
+Mm-hmm.
+
+[Dr. Greg Nelson] 17:06:40
+or they're not sure how good it is, and they can't see pre post that there's good things happening. Then it will be less likely to kind of be sustained.
+
+[Dr. Greg Nelson] 17:06:49
+So that's, um…
+
+[Dr. Greg Nelson] 17:06:51
+Probably something that's important to do. So these types of details I think are important.
+
+[Dr. Greg Nelson] 17:06:59
+What matters getting correct in these consent forms and things is things like what we are asking them to do.
+
+[Dr. Greg Nelson] 17:07:06
+Are they completing a survey?
+
+[Dr. Greg Nelson] 17:07:10
+Because that would be…
+
+[Dr. Greg Nelson] 17:07:11
+Unless you're in the survey, you don't need to complete unless you're in the research, you don'.
+
+[Dr. Greg Nelson] 17:07:16
+And then it count… I mean, I think this is, like, a splitting hairs thing. Like, in the end, like, they're gonna, like…
+
+[Dr. Greg Nelson] 17:07:23
+This is why there's lots of exemptions around research and education research is that professors do all this stuff.
+
+[Dr. Greg Nelson] 17:07:30
+for evaluating, monitoring their courses anyways. They do lots of things. Different people do different amounts of stuff.
+
+[Dr. Greg Nelson] 17:07:36
+And they're going to like in this study, we're not making them do a design that we made like they are adapting a design for their class and then they're doing it.
+
+[Dr. Greg Nelson] 17:07:44
+Right?
+
+[Dr. Greg Nelson] 17:07:45
+And so, that is like, um…
+
+[Cyril Agbewali] 17:07:46
+Yeah.
+
+[Cyril Agbewali] 17:07:56
+So maybe I'm supposed to take that.
+
+[Dr. Greg Nelson] 17:07:57
+It's just gonna look weird to the IRB, so I think we should just submit it sooner rather than later.
+
+[Dr. Greg Nelson] 17:08:01
+And I think they won't.
+
+[Dr. Greg Nelson] 17:08:05
+What they'll want is one way to do it.
+
+[Dr. Greg Nelson] 17:08:08
+when, like, working with these people is very contextual. Like, this study, whether the students.
+
+[Dr. Greg Nelson] 17:08:15
+already have to do it in the class because the instructors want to do it because we're not demanding the instructors to do it.
+
+[Dr. Greg Nelson] 17:08:21
+The instructors aren't being demanded to participate in the research, they have to do it.
+
+[Dr. Greg Nelson] 17:08:27
+Like, like.
+
+[Dr. Greg Nelson] 17:08:28
+in principle. What I would want to do is say.
+
+[Dr. Greg Nelson] 17:08:34
+You know, if the instructors want to include the outcome measures on the surveys because they think they're important for their class, they can.
+
+[Dr. Greg Nelson] 17:08:41
+Like the instructors, like, I don't know how much to describe what the instructors do.
+
+[Dr. Greg Nelson] 17:08:47
+versus what we will ask them to do. Like, we will require the instructors to give us the data from the students that have opted in to the research.
+
+[Dr. Greg Nelson] 17:08:55
+That's it.
+
+[Cyril Agbewali] 17:08:57
+Yeah, uh-huh, same data. That's…
+
+[Dr. Greg Nelson] 17:08:58
+Right. Now, whether the students will do… will produce that data from…
+
+[Dr. Greg Nelson] 17:09:04
+an assignment in the class.
+
+[Dr. Greg Nelson] 17:09:06
+or from a survey that we distribute.
+
+[Dr. Greg Nelson] 17:09:08
+is kind of unclear. And the other thing is, if right now this IRB is written where we distribute the surveys.
+
+[Dr. Greg Nelson] 17:09:15
+The issue with that is that we can only do that for the students that have consented into the thing.
+
+[Dr. Greg Nelson] 17:09:24
+Because otherwise we don't know what their email address is.
+
+[Dr. Greg Nelson] 17:09:27
+Right. Exactly. So.
+
+[Dr. Greg Nelson] 17:09:29
+I don't really know, uh…
+
+[Dr. Greg Nelson] 17:09:34
+This type of issue is more like what you could ask plot about. That's a real design issue. You could ask plot about that a little bit for the next half hour or something.
+
+[Dr. Greg Nelson] 17:09:47
+And…
+
+[Dr. Greg Nelson] 17:09:48
+Because there are ways to give people anonymized keys and stuff like this.
+
+[Dr. Greg Nelson] 17:09:53
+Like, you can distribute surveys to people with, like, anonymized keys instead of emails.
+
+[Dr. Greg Nelson] 17:09:59
+And then, uh…
+
+[Dr. Greg Nelson] 17:10:00
+You know, we may know…
+
+[Dr. Greg Nelson] 17:10:04
+a person's…
+
+[Dr. Greg Nelson] 17:10:06
+Ah, how do I say it? Ah.
+
+[Dr. Greg Nelson] 17:10:09
+What we would do is we would know what class they're in.
+
+[Dr. Greg Nelson] 17:10:13
+and what section they're in.
+
+[Dr. Greg Nelson] 17:10:15
+and what instructor they're in.
+
+[Cyril Agbewali] 17:10:16
+Based on the queue.
+
+[Dr. Greg Nelson] 17:10:16
+And then we would send the survey a survey link just for those people.
+
+[Dr. Greg Nelson] 17:10:22
+When they respond to the survey, there will be, like, a random key of some kind. They… those people will either have to save their key somewhere.
+
+[Dr. Greg Nelson] 17:10:29
+so that we can match their later responses. Later we can. Qualtrics may also try to like, keep a cookie on their machine, or something like that. so that.
+
+[Dr. Greg Nelson] 17:10:39
+They open it again. They know it's the same person's ID.
+
+[Dr. Greg Nelson] 17:10:45
+But, I mean, someone might clear their internet cookies, or who knows what, might open in a private browser, I don't know what, so we'll need some kind of mechanism that works beyond that.
+
+[Dr. Greg Nelson] 17:10:54
+So.
+
+[Dr. Greg Nelson] 17:10:57
+These are some of the details that become clear when you start trying to do the research and plan it out.
+
+[Dr. Greg Nelson] 17:11:05
+The more we can.
+
+[Dr. Greg Nelson] 17:11:07
+I think…
+
+[Dr. Greg Nelson] 17:11:53
+Some… some instructors are going to want to distribute things on their own survey platforms. Others are going to… if we offer them, like, Collaborate and the reflection group matching system in Collaborate, they'll be happy to use that.
+
+[Dr. Greg Nelson] 17:12:05
+Some might not want to use it. My guess is that all of them will use it for matching students.
+
+[Cyril Agbewali] 17:12:08
+And…
+
+[Dr. Greg Nelson] 17:12:13
+And so…
+
+[Dr. Greg Nelson] 17:12:14
+We can imagine an instructor will send students their keys.
+
+[Dr. Greg Nelson] 17:12:19
+The students will put their key in, log in.
+
+[Dr. Greg Nelson] 17:12:23
+And, uh, maybe create a password or something like that. God for… God help us.
+
+[Dr. Greg Nelson] 17:12:28
+With students resetting their forgotten passwords when we don't know their email addresses?
+
+[Dr. Greg Nelson] 17:12:34
+But, um…
+
+[Cyril Agbewali] 17:12:35
+Yeah…
+
+[Dr. Greg Nelson] 17:12:36
+I think that, um…
+
+[Dr. Greg Nelson] 17:12:49
+We could do something like they log in with a key.
+
+[Dr. Greg Nelson] 17:12:53
+And then while they're taking the course, they can.
+
+[Dr. Greg Nelson] 17:12:58
+Like, basically, like, sign a Google account to connect to the Collaborate platform.
+
+[Dr. Greg Nelson] 17:13:04
+And then at the end of the class.
+
+[Dr. Greg Nelson] 17:13:07
+We could like.
+
+[Dr. Greg Nelson] 17:13:12
+Automatically remove…
+
+[Dr. Greg Nelson] 17:13:15
+Their account. Identifier like their the association between that account and. Their.
+
+[Cyril Agbewali] 17:13:28
+So does that mean that the email they're going to connect to their key, it's going to be mandatory at some point in the… as they're taking the course?
+
+[Dr. Greg Nelson] 17:13:28
+The system.
+
+[Dr. Greg Nelson] 17:13:37
+I just think if instructors do reflection groups, I think matching will be a huge pain in the *****
+
+[Dr. Greg Nelson] 17:13:43
+If we don't have a matching tool for them, they will do something like random groups, which I think will work less well.
+
+[Cyril Agbewali] 17:13:44
+Yeah.
+
+[Dr. Greg Nelson] 17:13:50
+And.
+
+[Dr. Greg Nelson] 17:13:52
+Some instructors may feel uncomfortable asking like demographic information of their students.
+
+[Cyril Agbewali] 17:13:56
+Yeah.
+
+[Dr. Greg Nelson] 17:13:59
+I think the best way to do it is.
+
+[Dr. Greg Nelson] 17:14:04
+probably to…
+
+[Dr. Greg Nelson] 17:14:07
+Give instructors like a copy of some kind of form.
+
+[Dr. Greg Nelson] 17:14:11
+Um, and then, uh…
+
+[Dr. Greg Nelson] 17:14:16
+Basically, they will upload to the system. So we give them a form that has the data that will be collected.
+
+[Dr. Greg Nelson] 17:14:24
+That data lives in the instructor's cloud and survey platform, or whatever it is.
+
+[Dr. Greg Nelson] 17:14:30
+then.
+
+[Dr. Greg Nelson] 17:14:32
+The instructor will send the survey out to students.
+
+[Dr. Greg Nelson] 17:14:36
+the matching survey. So this is not the outcome measures for the.
+
+[Dr. Greg Nelson] 17:14:40
+for the thing.
+
+[Cyril Agbewali] 17:14:41
+It is just a bunch of times.
+
+[Dr. Greg Nelson] 17:14:42
+Right. And it's just that. And then in the.
+
+[Dr. Greg Nelson] 17:14:49
+Instructor sends out the survey. They get data back.
+
+[Dr. Greg Nelson] 17:14:52
+They can upload the responses to the matching system. The matching system will generate keys or something, give them to the instructor.
+
+[Dr. Greg Nelson] 17:15:02
+or I don't know. Save them on their local storage. I don't know what, but just.
+
+[Dr. Greg Nelson] 17:15:07
+Do you see how the system gets more and more complicated?
+
+[Cyril Agbewali] 17:15:11
+Yeah.
+
+[Dr. Greg Nelson] 17:15:12
+The more we try to de-identify everyone or something like that.
+
+[Dr. Greg Nelson] 17:15:16
+Because ultimately, people have to log in.
+
+[Dr. Greg Nelson] 17:15:18
+You know, if we assign permanent groups, then it's fine, but if they need to move groups and use the system to move groups, now they need to log into the system again.
+
+[Dr. Greg Nelson] 17:15:27
+Yada, yada, yada. It just becomes a complete mess, right? And so.
+
+[Cyril Agbewali] 17:15:31
+Mm-hmm.
+
+[Dr. Greg Nelson] 17:15:32
+what I would recommend like. So we can. So we either.
+
+[Dr. Greg Nelson] 17:15:37
+So the options are we either.
+
+[Dr. Greg Nelson] 17:15:40
+give instructors a tool that they put their students' email addresses into. It generates keys for them.
+
+[Dr. Greg Nelson] 17:15:45
+They email… we give them, like, a little program.
+
+[Dr. Greg Nelson] 17:15:48
+or mail merge, or something that will send out.
+
+[Dr. Greg Nelson] 17:15:51
+the keys to all of the students.
+
+[Dr. Greg Nelson] 17:15:54
+Basically, and then, uh…
+
+[Dr. Greg Nelson] 17:15:58
+The students will…
+
+[Dr. Greg Nelson] 17:15:59
+log into the system by using their secret key, and maybe because their secret key is secret, they don't need a password.
+
+[Dr. Greg Nelson] 17:16:06
+Right.
+
+[Dr. Greg Nelson] 17:16:07
+But then if they do that, we're not going to want like student demographic data.
+
+[Dr. Greg Nelson] 17:16:12
+I mean, it's de-identified data. It's not associated with anyone when it's stored that way. So, um…
+
+[Dr. Greg Nelson] 17:16:20
+I would say that it's okay to store de identified data on like a encrypted password protected platform where they can log in with a key.
+
+[Dr. Greg Nelson] 17:16:32
+But they can only see their data with a key. Does that make sense?
+
+[Dr. Greg Nelson] 17:16:35
+If we then allow them to see certain other people's data without a key.
+
+[Cyril Agbewali] 17:16:35
+Yeah.
+
+[Dr. Greg Nelson] 17:16:40
+like, depending on what that data is, then that is like.
+
+[Dr. Greg Nelson] 17:16:44
+People will be like, oh, is this whatever?
+
+[Dr. Greg Nelson] 17:16:46
+I don't know. I mean, we we live in an Internet where.
+
+[Dr. Greg Nelson] 17:16:49
+everyone's data is all over the place and sold by private brokers, but if we try to do something to help people, it's like, we have to work through all these things. It's… it is a bit frustrating, but we should just do it right.
+
+[Dr. Greg Nelson] 17:17:01
+The.
+
+[Dr. Greg Nelson] 17:17:04
+I'm just not really familiar with the approaches that.
+
+[Dr. Greg Nelson] 17:17:07
+people take to.
+
+[Dr. Greg Nelson] 17:17:09
+solve this type of problem when they're doing HCI research. I just have never solved it before, never had it as an issue before.
+
+[Dr. Greg Nelson] 17:17:17
+And…
+
+[Dr. Greg Nelson] 17:17:18
+I think it's one of the reasons that some cross-institutional or other studies.
+
+[Dr. Greg Nelson] 17:17:23
+They're often not done. It's a lot easier if…
+
+[Dr. Greg Nelson] 17:17:29
+Anyways, this is just how it's going to be for this study.
+
+[Dr. Greg Nelson] 17:17:33
+I think that…
+
+[Dr. Greg Nelson] 17:17:48
+The core issue is that…
+
+[Dr. Greg Nelson] 17:17:50
+If students are going to participate in the reflection groups, and some of them are not going to be in the research.
+
+[Dr. Greg Nelson] 17:17:56
+What data from them can we have access to? Definitely, we can only have de identified data.
+
+[Dr. Greg Nelson] 17:18:02
+some people might be like, no, you… I mean, I don't think this is what the case would be, but I could imagine someone making a decision which is, well, you shouldn't have access to any data from them, because you are on the research team.
+
+[Dr. Greg Nelson] 17:18:14
+Right? Instead of being like…
+
+[Dr. Greg Nelson] 17:18:16
+Like, because we have a role, which is, like, we can have a researcher role with respect to the instructor, but we can also have a, we're just helping you out.
+
+[Dr. Greg Nelson] 17:18:24
+with doing reflection groups in your class. Like, we would do the same stuff.
+
+[Dr. Greg Nelson] 17:18:29
+with someone who doesn't want to have their class participate in research at all. Like, we'll still give them access to, like, the matching tool or something.
+
+[Dr. Greg Nelson] 17:18:36
+Right. So if we would give access to these things to people that aren't in the research.
+
+[Cyril Agbewali] 17:18:38
+Yeah.
+
+[Dr. Greg Nelson] 17:18:44
+Versus they are in the research. If we're not asking research questions about the reflection matching tool, which I think we will eventually ask, but we may not ask immediately, like when is it research and when is it not? Because if it's an activity we do with people that is not in research, the thing that will definitely make it research is if we use data from it.
+
+[Dr. Greg Nelson] 17:18:59
+to publish research papers.
+
+[Dr. Greg Nelson] 17:19:02
+Then it's definitely research.
+
+[Dr. Greg Nelson] 17:19:04
+So…
+
+[Dr. Greg Nelson] 17:19:08
+This is also why there's a broad exemption.
+
+[Dr. Greg Nelson] 17:19:13
+Right? Which our IRB doesn't understand that there's such a thing as exempt research. They've decided that there is no such thing as exempt research. So exempt research is we apply, we tell them what we're going to do, and then they just say, your thing is exempt.
+
+[Dr. Greg Nelson] 17:19:25
+Cool. If you are making a change and you think it might make it not exempt, like, ask us again, right? But instead, we have this kind of weird, it's exempt, but they still want all the changes to it approved by them or something.
+
+[Dr. Greg Nelson] 17:19:38
+Which, I don't know, it was just a thing. Anyways, I'm not… I'm just trying to make sense of how to do this really complicated thing. I think the best thing for us to do would be just to make it the IRB's problem.
+
+[Cyril Agbewali] 17:19:46
+Yeah.
+
+[Dr. Greg Nelson] 17:19:50
+But I think they will just respond, like, they're saying, hey, we have this situation, what should we do?
+
+[Dr. Greg Nelson] 17:19:55
+And then…
+
+[Dr. Greg Nelson] 17:19:57
+I think they're going to respond with, well, you have to decide that and then we'll determine it.
+
+[Dr. Greg Nelson] 17:20:02
+Instead of us being like, we want this to be at a lower risk category, I think this is… there's no way this is going to be at a low risk category. And the thing is, is that we already have approval for basically all of this research, except.
+
+[Cyril Agbewali] 17:20:07
+Hmm.
+
+[Dr. Greg Nelson] 17:20:15
+the instructor workshop stuff.
+
+[Cyril Agbewali] 17:20:18
+Yeah.
+
+[Dr. Greg Nelson] 17:20:18
+as exempt studies locally, I can still try to mod the studies, um.
+
+[Dr. Greg Nelson] 17:20:25
+I think what we should do is…
+
+[Dr. Greg Nelson] 17:20:38
+I'm stuck between trying to have us submit a version of this form today, which is like, we're going to do workshops with instructors.
+
+[Dr. Greg Nelson] 17:20:47
+And because participating in the workshops isn't going to require them to do anything else than participate in a workshop.
+
+[Dr. Greg Nelson] 17:20:53
+And then we just say that. At the same time, I think of, uh…
+
+[Dr. Greg Nelson] 17:20:58
+it's like…
+
+[Dr. Greg Nelson] 17:20:59
+Because we don't need to work out the… like, right now, in this week, we do not need to work out the details of what the consent form is for students.
+
+[Dr. Greg Nelson] 17:21:08
+four weeks from now are going to look like.
+
+[Dr. Greg Nelson] 17:21:10
+But if we do try to do that now.
+
+[Dr. Greg Nelson] 17:21:14
+with the IRB, it is going to… which completely doesn't affect what we're going to do in the design workshops at all. There's zero relationship.
+
+[Cyril Agbewali] 17:21:20
+Yeah.
+
+[Dr. Greg Nelson] 17:21:21
+We're just trying to learn how should we design reflection groups? What makes these more or less difficult to adopt?
+
+[Dr. Greg Nelson] 17:21:30
+You know, and then at the end, instructors will kind of have a tentative, yeah, I'd like to try this out, or I would not like to try this out.
+
+[Dr. Greg Nelson] 17:21:36
+And that's it. Like, that's gonna be…
+
+[Dr. Greg Nelson] 17:21:40
+the result of the design workshops, that's all. And then everything else, you know, would be in kind of like the first weeks of September or some ***** because we tell people to let people drop courses.
+
+[Dr. Greg Nelson] 17:21:51
+before they start these types of groups anyways.
+
+[Dr. Greg Nelson] 17:21:54
+If that makes sense. So.
+
+[Dr. Greg Nelson] 17:21:56
+I think, um…
+
+[Cyril Agbewali] 17:21:59
+I'm also now leaning towards sending the IRB just for the workshop.
+
+[Dr. Greg Nelson] 17:22:03
+Yeah.
+
+[Cyril Agbewali] 17:22:04
+It's beginning to make sense.
+
+[Dr. Greg Nelson] 17:22:07
+Yeah, I think that would make more sense. I thought we had maybe talked about this, but we wanted to get… we thought the other one was going to be easy, and then due to a combination of things that were, I think, mostly my fault in not submitting it.
+
+[Dr. Greg Nelson] 17:22:18
+as soon as possible.
+
+[Dr. Greg Nelson] 17:22:21
+That just kind of dragged this one out. So.
+
+[Dr. Greg Nelson] 17:22:24
+And we can't… I know they want us to…
+
+[Dr. Greg Nelson] 17:22:29
+to, like.
+
+[Cyril Agbewali] 17:22:36
+Wait, so now, the thing now is, if the… if the professors go like, yes, I want to try this.
+
+[Cyril Agbewali] 17:22:44
+which of the IRBs we now have in hand for them to use when they go to their university? We just pick up… we just use one of the previous ones we've had, and use that… one of the approved ones.
+
+[Dr. Greg Nelson] 17:22:52
+I can try to… I can try to mod… I don't think they'll be happy about modding it. Or, actually, I think they… I legitimately don't know. I think they would be…
+
+[Dr. Greg Nelson] 17:23:03
+there's just this… when you do stuff with other universities, IRBs, they, like…
+
+[Dr. Greg Nelson] 17:23:09
+want you to.
+
+[Dr. Greg Nelson] 17:23:12
+Like, you… most of them want you to, like…
+
+[Dr. Greg Nelson] 17:23:15
+tell the IRB that it's happening, and then one of them is, like, the managing IRB that actually approves everything?
+
+[Dr. Greg Nelson] 17:23:22
+So the other IRB is like informed, but the IRB stuff happens.
+
+[Dr. Greg Nelson] 17:23:27
+The IRB approval happens at another university. Or that university's process may be different. Like that university may say, well, all research needs to be approved by IRB because the federal regulations defining IRBs just say that research needs to be approved at an institution somewhere.
+
+[Cyril Agbewali] 17:23:44
+Okay.
+
+[Dr. Greg Nelson] 17:23:45
+Right? Because, you know, I can study someone else's students.
+
+[Dr. Greg Nelson] 17:23:49
+That's a valid thing, right? And then get approval for it from…
+
+[Dr. Greg Nelson] 17:23:55
+You know, if their IRB demands it's approved by them, whatever. But otherwise, you know, an IRB somewhere reviewed it.
+
+[Dr. Greg Nelson] 17:24:03
+And, in principle, the regulations are the same, like, the federal regulations are the same for all IRBs. There's not differences at the federal level for compliance.
+
+[Dr. Greg Nelson] 17:24:12
+Now, different IRBs in practice, like, may slightly interpret the rules differently, like this IRB doesn't seem to…
+
+[Dr. Greg Nelson] 17:24:18
+kind of, in practice, like, treat research as, like, actually exempt. Like, other places, they might… other places, they don't even give…
+
+[Dr. Greg Nelson] 17:24:27
+exempt research a number. It never gets a number, because it's exempt, so it never gets a study identifier.
+
+[Dr. Greg Nelson] 17:24:32
+Because they said it's exempt from us regulating it.
+
+[Dr. Greg Nelson] 17:24:35
+So we don't regulate it. So that's done. Like, they have a record somewhere that you submitted something, but it doesn't, like, create a new study that has an identifier that, like, they track and stuff like that.
+
+[Dr. Greg Nelson] 17:24:45
+Right, so anyways, I think you're right that we should…
+
+[Dr. Greg Nelson] 17:24:52
+just…
+
+[Dr. Greg Nelson] 17:25:00
+Submit the design workshop.
+
+[Dr. Greg Nelson] 17:25:02
+The thing is, is that they're…
+
+[Dr. Greg Nelson] 17:25:06
+They were saying like, we want all of the grants work to be in one IRB.
+
+[Cyril Agbewali] 17:25:11
+Yes, that's what…
+
+[Dr. Greg Nelson] 17:25:12
+Which is ridiculous. So this is like a ridiculous, I think this is a fairly ridiculous.
+
+[Cyril Agbewali] 17:25:13
+That's what I think.
+
+[Dr. Greg Nelson] 17:25:17
+like, demand from the IRB, like, your research should be inseparable. Like, like, the only reason they want there to be one IRB for it, first of all, they've already agreed that, like, the other IRBs that we have cover large parts of this grant, which is why I'm funding you right now.
+
+[Dr. Greg Nelson] 17:25:33
+And you're not doing any of the work on other stuff. You're not doing this design workshop stuff, for example, yet.
+
+[Dr. Greg Nelson] 17:25:41
+Um, and…
+
+[Dr. Greg Nelson] 17:25:46
+So, like, this idea that we have to submit a monolithic, huge IRB for, like, a huge amount of things, and then, like, wait for months, for, like, a month or so, for them to, like.
+
+[Dr. Greg Nelson] 17:25:58
+find every part of it perfect before we can begin, it's just completely inoperable. So I think what we should do is…
+
+[Dr. Greg Nelson] 17:26:09
+We should submit…
+
+[Dr. Greg Nelson] 17:26:11
+an Irb that is.
+
+[Dr. Greg Nelson] 17:26:16
+It could have this title.
+
+[Dr. Greg Nelson] 17:26:19
+But they said…
+
+[Dr. Greg Nelson] 17:26:21
+If we submit it with this title, they could be like, but you're supposed to submit all of the career grants work under it.
+
+[Dr. Greg Nelson] 17:26:29
+And…
+
+[Cyril Agbewali] 17:26:29
+And…
+
+[Dr. Greg Nelson] 17:26:30
+I think it would be… it would be legitimate to say that we have IRB approval for the other things. We just haven't added the other courses for people at other institutions yet.
+
+[Dr. Greg Nelson] 17:26:40
+Which is true.
+
+[Cyril Agbewali] 17:26:40
+Mostly for you, mate. Yes.
+
+[Dr. Greg Nelson] 17:26:42
+And, uh…
+
+[Dr. Greg Nelson] 17:26:44
+So…
+
+[Dr. Greg Nelson] 17:26:45
+and they will make that decision separately. And so I think that we should. We should just include it like this.
+
+[Dr. Greg Nelson] 17:26:53
+And…
+
+[Dr. Greg Nelson] 17:27:03
+I think we would just delete things. So we'll just make a version history here.
+
+[Dr. Greg Nelson] 17:27:18
+Okay.
+
+[Dr. Greg Nelson] 17:29:22
+Yeah, so I think the first version of the IRB should include the design workshop and the instructor surveys and interviews.
+
+[Dr. Greg Nelson] 17:29:31
+Does that make sense?
+
+[Cyril Agbewali] 17:29:33
+Yeah.
+
+[Cyril Agbewali] 17:29:34
+Okay.
+
+[Dr. Greg Nelson] 17:29:35
+Yeah.
+
+[Dr. Greg Nelson] 17:29:36
+So…
+
+[Dr. Greg Nelson] 17:29:37
+Not the longitudinal interviews, which are, I'm pretty sure, already in the reflection groups anyways.
+
+[Dr. Greg Nelson] 17:29:44
+And, um…
+
+[Dr. Greg Nelson] 17:29:46
+IRB.
+
+[Dr. Greg Nelson] 17:29:48
+It's just that we'll have to mod it for other ones. Yep.
+
+[Dr. Greg Nelson] 17:29:52
+Yes.
+
+[Dr. Greg Nelson] 17:29:53
+Here we go.
+
+[Dr. Greg Nelson] 17:29:54
+And then I think the main thing that we will get into is, um…
+
+[Dr. Greg Nelson] 17:29:59
+I think the main issue the IRB will have is in these consultations or interviews, etc.
+
+[Dr. Greg Nelson] 17:30:04
+Are we going to talk about?
+
+[Dr. Greg Nelson] 17:30:09
+identifiable student data.
+
+[Dr. Greg Nelson] 17:30:12
+And the answer should be no. We're never going to want to know about the identities of the students in their data, which I think is a great idea to not know anything about it.
+
+[Dr. Greg Nelson] 17:30:23
+And…
+
+[Dr. Greg Nelson] 17:30:28
+Let's see what else.
+
+[Dr. Greg Nelson] 17:31:52
+Does the instructor consent form include interviews?
+
+[Cyril Agbewali] 17:31:59
+Yeah, yes, I did the interviews, but…
+
+[Dr. Greg Nelson] 17:32:00
+Yeah, I think that's good. Yeah, we can just have one.
+
+[Cyril Agbewali] 17:32:01
+So the last thing.
+
+[Cyril Agbewali] 17:32:04
+Yeah, confidential interview.
+
+[Dr. Greg Nelson] 17:32:08
+I think we should just…
+
+[Dr. Greg Nelson] 17:32:12
+Let's maybe not, um…
+
+[Dr. Greg Nelson] 17:32:22
+We should just cut the interview, the follow-up interview out.
+
+[Cyril Agbewali] 17:32:26
+Okay.
+
+[Dr. Greg Nelson] 17:32:27
+But we… I think we would do it kind of soon, though.
+
+[Dr. Greg Nelson] 17:32:37
+I think we should just do the surveys for now.
+
+[Cyril Agbewali] 17:32:41
+So…
+
+[Dr. Greg Nelson] 17:32:41
+Does that make sense?
+
+[Cyril Agbewali] 17:32:43
+Yeah, so I'm cutting out the follow-up surveys in later semesters about adoption out of it. What should we ask students?
+
+[Dr. Greg Nelson] 17:32:48
+No, I think it's fine to have longitudinal surveys about whether they're adopting it. It's just the interview part. Do we have an interview?
+
+[Dr. Greg Nelson] 17:32:56
+Protocol for the instructors yet?
+
+[Cyril Agbewali] 17:33:00
+Yeah, I put it in there. I think that's appendix.
+
+[Dr. Greg Nelson] 17:33:01
+Okay.
+
+[Cyril Agbewali] 17:33:04
+Let me get, let me, let me, let me just…
+
+[Dr. Greg Nelson] 17:33:05
+Instructor interest in various survey is there, but I don't see a protocol for an interview with instructors.
+
+[Cyril Agbewali] 17:33:10
+Appendix L, Instructor Interview Protocol.
+
+[Cyril Agbewali] 17:33:15
+So you just have to edit it, adapt it a bit.
+
+[Dr. Greg Nelson] 17:33:17
+Oh, I see. Sorry.
+
+[Dr. Greg Nelson] 17:35:36
+I mean, do we need to take their mailing address for gift cards? That sounds unreasonable, surreal.
+
+[Cyril Agbewali] 17:35:45
+It was supposed to be email address, so…
+
+[Dr. Greg Nelson] 17:35:47
+I think that we… none of these are de-identified, so let's just say the…
+
+[Dr. Greg Nelson] 17:35:53
+This compensation stuff, you don't have to include this, like, in the IRB anyways. It's fine.
+
+[Dr. Greg Nelson] 17:35:59
+You just say, like, uh…
+
+[Dr. Greg Nelson] 17:36:02
+If you show like a…
+
+[Dr. Greg Nelson] 17:36:04
+a way to pay them. Just say participants will be shown, you know, will be directed to a will be given a code they can use to receive compensation.
+
+[Dr. Greg Nelson] 17:36:15
+a code and a web link to use the code at to receive compensation period, if that's how they come.
+
+[Dr. Greg Nelson] 17:36:22
+Compensation is distributed. We should just distribute this compensation by email anyways.
+
+[Dr. Greg Nelson] 17:41:28
+Do you know what to do right now, Cyril?
+
+[Cyril Agbewali] 17:41:31
+I'm just working on the confidentiality, trying to make it, um, match, um, the…
+
+[Dr. Greg Nelson] 17:41:36
+Yeah, I can take care of some of that stuff. I think that, um…
+
+[Cyril Agbewali] 17:41:37
+Alexa.
+
+[Dr. Greg Nelson] 17:41:40
+Yeah, you can make it shorter. Just look at the prior IRB. You're doing a good job. Thank you.
+
+[Dr. Greg Nelson] 18:00:54
+I've got to go to the collaborate meeting now.
+
+[Cyril Agbewali] 18:00:58
+Okay, so I'm working on the compensation and then the…
+
+[Dr. Greg Nelson] 18:01:06
+Yeah.
+
+[Cyril Agbewali] 18:01:07
+Confidentiality. Sorry, my mind is blanked out.
+
+[Dr. Greg Nelson] 18:01:10
+Sounds good.
+
+[Dr. Greg Nelson] 18:01:12
+Cheers, Cyril.
+
+[Cyril Agbewali] 18:01:13
+Alright then.
+

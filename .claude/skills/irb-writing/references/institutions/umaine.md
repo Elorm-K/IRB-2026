@@ -200,6 +200,13 @@ Quotes are exact.
 - **"Gift cards may not be used to compensate employees."** UMaine-employed instructors
   cannot receive a gift card at all. This is separate from the >$75 tax-reporting rule above,
   which still applies to student employees, who *can* receive one.
+  **Clarified (GN 2026-08-17, accepted in the submitted IRB #3):** this limits the payment
+  *channel*, not the payment. Employees receive the **same amounts through the University's
+  regular payment process (payroll)** — "if you're a UMaine employee, we're not going to pay
+  you" was drafted from this rule and the PI flagged it as an error. Accepted sentence in
+  `../board-rules.md` §4. UMaine's payment documents can be internally contradictory (some
+  clauses bind only above a threshold); when a reading would deny a participant class
+  payment, verify with the business office/grant administrator rather than adopting it.
 - **"Individual gift cards should not exceed $50."** Per card, not cumulative.
 - **A separate payment-information instrument is required.** In the reviewer's words:
   *"Instructors will be required to fill out a Qualtrics form requesting information for the
