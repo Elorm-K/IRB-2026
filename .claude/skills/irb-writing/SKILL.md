@@ -102,7 +102,20 @@ canonical location per fact; cross-reference if needed.
 
 ### 6. Scope hygiene
 
-Strip language belonging to a scope this protocol doesn't have. An out-of-class protocol
+**First, find the boundary of what the board actually reviews.** An activity the team would
+run regardless of the research — a service, a program, a course — is not research, and this
+board has ruled that it is therefore not reviewable: its recruitment, its consent, its
+session design, and its instruments all stay out of the application, and what the protocol
+governs is the *research use* of the data it generates, gated by an opt-out rather than a
+consent form (`references/board-rules.md` §5c). Establish that line before drafting, because
+it determines the shape of Methods, Recruitment, Informed Consent, and the appendix list all
+at once. Getting it wrong cost IRB #1 a full round.
+
+Where people hold two roles either side of that line, **give each role its own word** and use
+it consistently in the narrative and every appendix — "members" of the service, "participants"
+in the research — and keep opt-in/opt-out language for research participation only.
+
+Then strip language belonging to a scope this protocol doesn't have. An out-of-class protocol
 should carry no course, enrollment, grading, or graduation language; a protocol with no
 non-consenting participants should carry no non-consenting-participant procedures.
 Leftover language invites a reviewer to ask why eligibility criteria don't match.

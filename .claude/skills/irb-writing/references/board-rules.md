@@ -19,7 +19,7 @@ Provenance tags: (GN 2026-07-27) = advisor meeting transcript, 2026-07-27.
 2. Consent forms — required exclusions
 3. Consent form architecture (how many, and when)
 4. Compensation
-5. Keep / cut catalog
+5. Keep / cut catalog (5b: ORA on IRB #3; 5c: ORA on IRB #1 — non-research activities)
 6. Known board tendencies
 7. Calibration from the approved GenAI protocol
 
@@ -74,6 +74,12 @@ two. Phase 4 Pass 4 (`compliance-check.md`) checks against that file, not this o
   boilerplate from classroom protocols. Relatedly, in the reflection-groups-outside-class
   study, everyone who participates in a reflection group is part of the research; there
   is no non-research participation path (GN 2026-07-27).
+  **Superseded by §5c (ORA, 2026-08-28) for that study.** The board ruled the opposite:
+  reflection groups offered regardless of the research are *not* research, so joining one is
+  not research participation and there is a non-research path. What the board reviews is the
+  research use of the materials, gated by an opt-out. The first sentence of this bullet
+  still holds — there is no *signed* consent to join, and no non-consenting-participant
+  procedure.
 
 ## 4. Compensation
 
@@ -222,6 +228,62 @@ change; apply them when drafting, not after a round.
   farmable.
 - **State compensation (or its absence) for every data-collection method** in the
   narrative, not just the compensated ones.
+
+## 5c. ORA review of IRB #1, 2026-08-28 — board-wide unless marked
+
+From the reviewer's response to the reflection-groups-outside-classes protocol. The whole
+round follows from one principle, and it is the most consequential scoping rule this board
+has stated:
+
+- **An activity offered regardless of the research is not research, and the board does not
+  review it.** For reflection groups run as a service, that means the board reviews *the
+  research use of the materials the activity generates* and *the research activities run
+  outside it* — nothing else. Deleted on the reviewer's instruction: recruitment into the
+  groups, consent to join them, the design of their sessions, their instruments, the
+  group-confidentiality risk, and the group-participation benefits. This **overrides §5b's
+  group-confidentiality requirement for non-research group sessions** — that rule still holds
+  wherever the group session is itself research (a design workshop, a focus group).
+- **Do not write a consent form for a non-research activity.** People taking part in the
+  service are not consenting to anything the IRB governs. The board asked instead for an
+  **opt-out** covering research use of the materials: participants do nothing if they are
+  willing, and actively opt out if not. The form must state by when, how, and to whom.
+- **The service section is one sentence per data item**: what is collected, and in what
+  format ("intake surveys that include demographics for purposes of forming compatible
+  groups", "completed via Google Forms"). No instrument appendices for service instruments,
+  because the board has no purview over their design.
+- **Name the research section "Research data collected outside of normal [activity]
+  activities"** — the reviewer supplied the wording.
+- **State up front that no data collected from the non-research activity is sensitive in
+  nature.**
+- **State whether each survey is anonymous or confidential.** The board assumes confidential
+  and wants it said.
+- **Two identities need two words.** Where people hold both an activity role and a research
+  role, use a distinct term for each consistently across the narrative *and* the appendices —
+  here "members" for reflection-group status and "participants" for research role. Confine
+  "opt in"/"opt out" to research participation; never use them for joining or leaving the
+  activity.
+- **Interviews need a full attribute set in Methods**: what determines *when* they take
+  place (with examples, not a bare "before, during, and/or after"), length, format, and *how*
+  the audio is recorded — the device or platform, not just that recording happens.
+- **Deferring an undeveloped arm is offered, and cheap.** The reviewer supplied the wording:
+  *"A modification will be submitted for control group details at a later date to the IRB for
+  review and approval prior to any recruitment for this group beginning."* It works for
+  methods, recruitment, and consent alike. Take it rather than inventing details.
+- **Recruitment and consent are enumerated per method, not per protocol.** One numbered
+  section each, with its own script and its own form. Five methods here meant five recruitment
+  texts and five consent forms.
+- **Recordings cannot be kept indefinitely without a strong scientific justification**, and
+  the board wants MON/YR both for when a recording leaves the original device and for when it
+  is deleted. The approved five-year-tied-to-the-key-file language still satisfies the second
+  if it carries a worked example and an outer bound.
+- **State the final MON/YR by which each type of compensation will be distributed.**
+- **Benefits to others are stated as potential**, and a non-research activity's benefits do
+  not belong in a research protocol's Benefits section at all.
+- **A consent form must not describe methods other than its own.** An interview consent form
+  covers the interview; a survey consent form covers the survey. A form that reads as covering
+  group interviews implies a sixth method ("focus groups") and would need its own form.
+- **Do not disclose cross-study data linkage** where the team already holds consent for both
+  studies separately; the reviewer read it as unnecessary.
 
 ## 6. Known board tendencies
 

@@ -8,10 +8,13 @@ v5 submission used, including the `Page X of Y` footer field.
     python3 tools/build_docx.py source/protocol_v6_MERGED.md CURRENT/OUT.docx
 
 Markdown supported is the subset the protocol sources actually use: three heading
-levels, paragraphs, `- ` bullets, `> ` block quotes, and inline `**bold**` / `*italic*`.
+levels, paragraphs, `- ` bullets, `> ` block quotes, inline `**bold**` / `*italic*`, and
+`![](media/name.png)` on a line of its own for an instrument screenshot. Image paths are
+resolved relative to the markdown source; images are scaled to the text column width.
 """
 
 import re
+import struct
 import sys
 import zipfile
 from pathlib import Path
@@ -70,6 +73,7 @@ CONTENT_TYPES = (
     '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
     '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>'
     '<Default Extension="xml" ContentType="application/xml"/>'
+    '<Default Extension="png" ContentType="image/png"/>'
     '<Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>'
     '<Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>'
     '<Override PartName="/word/footer1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/>'
@@ -83,13 +87,22 @@ ROOT_RELS = (
     '</Relationships>'
 )
 
-DOC_RELS = (
+DOC_RELS_HEAD = (
     '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
     '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
     '<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>'
     '<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="footer1.xml"/>'
-    '</Relationships>'
 )
+
+IMAGE_REL = ('<Relationship Id="{rid}" Type="http://schemas.openxmlformats.org/'
+             'officeDocument/2006/relationships/image" Target="media/{name}"/>')
+
+
+def doc_rels(images):
+    """Relationship part, with one image relationship per referenced picture."""
+    rels = ''.join(IMAGE_REL.format(rid=rid, name=name)
+                   for name, rid, _, _ in images)
+    return DOC_RELS_HEAD + rels + '</Relationships>'
 
 SECT_PR = (
     '<w:sectPr><w:footerReference w:type="default" r:id="rId2"/>'
@@ -140,6 +153,46 @@ def paragraph(kind, text=''):
     return f'<w:p>{ppr}{body}</w:p>'
 
 
+# The text column is 6.5in wide at the 1in margins set in SECT_PR: 6.5 * 914400 EMU.
+COLUMN_EMU = 5943600
+PIXEL_EMU = 9525  # 96 dpi
+
+DRAWING = (
+    '<w:r><w:drawing><wp:inline distT="0" distB="0" distL="0" distR="0" '
+    'xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">'
+    '<wp:extent cx="{cx}" cy="{cy}"/><wp:docPr id="{n}" name="Picture {n}"/>'
+    '<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">'
+    '<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
+    '<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">'
+    '<pic:nvPicPr><pic:cNvPr id="{n}" name="Picture {n}"/><pic:cNvPicPr/></pic:nvPicPr>'
+    '<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
+    '<pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="{cx}" cy="{cy}"/></a:xfrm>'
+    '<a:prstGeom prst="rect"><a:avLst/></a:prstGeom></pic:spPr>'
+    '</pic:pic></a:graphicData></a:graphic></wp:inline></w:drawing></w:r>'
+)
+
+
+def png_size(path):
+    """Width and height in pixels, from the PNG IHDR chunk."""
+    header = path.read_bytes()[:24]
+    if header[:8] != b'\x89PNG\r\n\x1a\n':
+        sys.exit(f'{path}: only PNG images are supported')
+    return struct.unpack('>II', header[16:24])
+
+
+def picture(path, rid, n):
+    """An inline picture paragraph, scaled down to the text column if wider."""
+    px_w, px_h = png_size(path)
+    cx, cy = px_w * PIXEL_EMU, px_h * PIXEL_EMU
+    if cx > COLUMN_EMU:
+        cy = round(cy * COLUMN_EMU / cx)
+        cx = COLUMN_EMU
+    before, after, extra = SHAPES['p']
+    ppr = (f'<w:pPr><w:spacing w:before="{before}" w:after="{after}"/>'
+           f'<w:jc w:val="center"/>{extra}</w:pPr>')
+    return f'<w:p>{ppr}{DRAWING.format(cx=cx, cy=cy, rid=rid, n=n)}</w:p>', cx, cy
+
+
 def classify(line):
     """Map one markdown line to (block kind, text)."""
     if line.startswith('### '):
@@ -155,10 +208,27 @@ def classify(line):
     return 'p', line
 
 
-def build_document(markdown):
+IMAGE_LINE = re.compile(r'^!\[[^\]]*\]\(([^)]+)\)$')
+
+
+def build_document(markdown, base_dir):
+    """Return (document.xml, [(filename, rId, source path, ...)])."""
     paragraphs = []
+    images = []
     for raw in markdown.split('\n'):
         line = raw.rstrip()
+        match = IMAGE_LINE.match(line.strip())
+        if match:
+            src = (base_dir / match.group(1)).resolve()
+            if not src.exists():
+                sys.exit(f'image not found: {src}')
+            seen = {path: rid for _, rid, path, _ in images}
+            rid = seen.get(src, f'rIdImg{len(images) + 1}')
+            block, cx, cy = picture(src, rid, len(paragraphs) + 1)
+            if src not in seen:
+                images.append((src.name, rid, src, (cx, cy)))
+            paragraphs.append(block)
+            continue
         if not line.strip():
             # Each blank markdown line becomes a short spacer paragraph. Runs of two
             # are how the sources put extra air before an appendix heading, so they
@@ -167,9 +237,10 @@ def build_document(markdown):
             continue
         kind, text = classify(line.strip())
         paragraphs.append(paragraph(kind, text))
-    return ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
-            f'<w:document {W} {R}><w:body>{"".join(paragraphs)}\n{SECT_PR}'
-            '</w:body></w:document>')
+    document = ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
+                f'<w:document {W} {R}><w:body>{"".join(paragraphs)}\n{SECT_PR}'
+                '</w:body></w:document>')
+    return document, images
 
 
 
@@ -178,16 +249,19 @@ def main():
     if len(sys.argv) != 3:
         sys.exit(__doc__)
     src, dest = Path(sys.argv[1]), Path(sys.argv[2])
-    document = build_document(src.read_text())
+    document, images = build_document(src.read_text(), src.parent)
     dest.parent.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(dest, 'w', zipfile.ZIP_DEFLATED) as z:
         z.writestr('[Content_Types].xml', CONTENT_TYPES)
         z.writestr('_rels/.rels', ROOT_RELS)
         z.writestr('word/document.xml', document)
-        z.writestr('word/_rels/document.xml.rels', DOC_RELS)
+        z.writestr('word/_rels/document.xml.rels', doc_rels(images))
         z.writestr('word/styles.xml', STYLES_XML)
         z.writestr('word/footer1.xml', FOOTER_XML)
-    print(f'{dest} — {document.count("<w:p>")} paragraphs')
+        for name, _, path, _ in images:
+            z.writestr(f'word/media/{name}', path.read_bytes())
+    print(f'{dest} — {document.count("<w:p>")} paragraphs, '
+          f'{len(images)} images')
 
 
 if __name__ == '__main__':

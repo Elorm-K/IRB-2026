@@ -55,11 +55,11 @@ Two rules that aren't obvious from the tree:
 - **`archive/` is superseded work, kept for lineage.** Never submit from it. Each archive
   folder has a README explaining what superseded what.
 
-## Status, 2026-08-06
+## Status, 2026-08-28
 
 | Protocol | State | Blocked on |
 |---|---|---|
-| **#1** Reflection groups outside classes | Drafted, not submitted | 12 PI decisions in [IRB1_SUMMARY.md](irb1-reflection-groups/IRB1_SUMMARY.md); plus **which of three candidate files is live** (see below) |
+| **#1** Reflection groups outside classes | **Submitted 2026-08-01; returned with changes; v5 response drafted 2026-08-28** — the board ruled the reflection groups themselves are not research, and the application is reorganized into five methods, each with its own recruitment text and consent form | PI review of the [v5 report](irb1-reflection-groups/reports/IRB1_v5_ORA_RESPONSE_REPORT.md), then resubmission. The cover page is a separate Word document and is not in this repository |
 | **#2** Instructor collaboration | **v8 "mid-final" drafted** — Cyril's Google Doc repaired: appendices relettered A–J, 20 broken cross-references fixed, wrong consent form replaced; changes marked in red | PI review. Open items in the [v8 report](irb2-instructor-collaboration/reports/IRB2_v8_MIDFINAL_REPORT.md); strip the red before submitting. **v7 and v8 are separate lineages** — pick one |
 | **#2b** Student stream | **Closed** — merged back into #2 | — |
 | **Course-protocol mod** (data linkage) | Drafted, not submitted | — |
@@ -83,12 +83,22 @@ and has since been read in full. Two results, opposite in sign:
   hole, and the grant deploys it in a collaborator's courses that the team's own course
   protocol does not reach.
 
-**2. Three files claim to be the final IRB #1 protocol.**
+**2. Three files claim to be the final IRB #1 protocol — and all three are now moot.**
 They're in [irb1-reflection-groups/CURRENT/protocol-candidates/](irb1-reflection-groups/CURRENT/protocol-candidates/)
 with the diff written up in
 [WHICH-IS-LIVE.md](irb1-reflection-groups/CURRENT/protocol-candidates/WHICH-IS-LIVE.md).
-Evidence points clearly at one of them; it needs a human's confirmation, then the other two
-move to `archive/`.
+The question that folder was written to settle no longer blocks anything: the version
+actually submitted on 2026-08-01 is a revision ahead of all three
+(`irb1-reflection-groups/archive/IRB1_Submitted_2026-08-01_BASE.pdf`), and v5 supersedes
+that. All three should move to `archive/`; it still needs a human's yes.
+
+**A board ruling worth carrying to every protocol.** On IRB #1 the reviewer ruled that an
+activity offered regardless of the research is not research and is not reviewed — so
+recruitment into it, consent to join it, its design, and its instruments all come out of the
+application, and research use of what it generates is gated by an **opt-out**. That reverses
+an earlier working assumption for the reflection groups. It is recorded at
+[board-rules.md §5c](.claude/skills/irb-writing/references/board-rules.md), together with the
+§3 bullet it supersedes.
 
 ## Before pushing this to GitHub
 

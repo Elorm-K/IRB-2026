@@ -20,3 +20,15 @@ the version it appears to document), not from a written record.
 
 **v3 is not the end of the line.** Three later files claim to be final — see
 [../CURRENT/protocol-candidates/WHICH-IS-LIVE.md](../CURRENT/protocol-candidates/WHICH-IS-LIVE.md).
+
+## Added 2026-08-28, with the v5 ORA response
+
+| File | What it is |
+|---|---|
+| `IRB1_Submitted_2026-08-01_BASE.pdf` | **The version actually submitted to the board on 2026-08-01**, as a PDF. This is the base document v5 was written against, and it is a version ahead of every file in `../CURRENT/protocol-candidates/`. It is a PDF because that is the form the submitted package came back in; the board requires Word for submission |
+| `IRB1_ConsentForm_Participation_SUPERSEDED_2026-08-28.docx` | The standalone Appendix A consent form, 2026-07-23. Retired: v5 replaces the participation consent form with an **opt-out** form for research use of reflection-group materials, so this file now contradicts the live protocol |
+| `IRB1_RecruitmentTexts_SUPERSEDED_2026-08-28.docx` | The standalone recruitment texts, 2026-07-23. Retired: the board ruled that recruitment *into the reflection groups* is not reviewable, and v5's Appendix F holds five research recruitment texts instead |
+
+The two superseded standalone files are exactly the drift the workflow warns about — they
+predate every protocol candidate and were never updated as the appendices moved. v5 keeps
+all appendices inside the one submission document.
