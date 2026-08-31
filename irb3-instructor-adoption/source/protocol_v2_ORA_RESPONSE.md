@@ -249,41 +249,65 @@ After the participant answers, the member of the research team says "So, tell me
 
 **Mailing-list blurb (institutional and professional mailing lists)**
 
-Dear Colleagues,
+Hello,
 
-{{As part of a University of Maine research study, we}} are recruiting instructors and teaching staff (including interested TAs) to join a design workshop to reflect on, critique, and improve approaches for supporting professional skills and/or responsible AI skills for their courses. Workshops run about one to two hours{{, are held online via Zoom, and are recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}. {{These approaches may include, for example}}: a) small student reflection groups with a guided agenda, which our prior research found support professional skills such as iterative improvement and psychological safety, and b) assignments where students reflect on their own use and non-use of generative AI. If you are interested, or just want to tell us what challenges you would face, please follow this link to learn more and potentially sign up: ____ . If you'd like a lower time way to contribute, you could also/instead fill out a {{confidential, online}} 10–15 minute survey here: ____.
+{{As part of a University of Maine research study, we}} are inviting instructors and teaching staff (including interested TAs) to join a design workshop where you'll reflect on, critique, and improve approaches for supporting professional skills and responsible AI skills in your courses.
 
-Attending a workshop does not commit you to using anything in your course. {{Participation is voluntary.}} We will also happily answer any questions sent by replying to this message or email with any questions to Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).
+{{These approaches may include, for example}}: a) small student reflection groups with a guided agenda — our prior research found they support professional skills such as iterative improvement and psychological safety — and b) assignments where students reflect on their own use and non-use of generative AI.
+
+Workshops run about one to two hours{{, are held online via Zoom, and are recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}. Attending does not commit you to using anything in your course. {{Participation is voluntary.}}
+
+If you're interested, or just want to tell us what challenges you would face, sign up here: ____
+
+If you'd prefer a lower-time way to contribute, you could also fill out a {{confidential, online}} 10–15 minute survey here: ____
+
+Questions? Reply to this message, or email Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).
 
 **Targeted email to an individual instructor**
 
 Dear ____,
 
-Given your work and expertise teaching ____, I would like to invite you to {{take part in a University of Maine research study:}} an online design workshop where instructors critique and improve approaches for supporting professional skills and/or responsible AI skills for their courses. Workshops run about one to two hours{{, are held via Zoom, and are recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}. {{These approaches may include, for example}}: a) small student reflection groups with a guided agenda, which our prior research found support professional skills such as iterative improvement and psychological safety, and b) assignments where students reflect on their own use and non-use of generative AI. If you are interested, or just want to tell us what barriers you would face, please follow this link to learn more and potentially sign up: ____ . If you'd like a lower time way to contribute, you could also/instead fill out a {{confidential, online}} 10–15 minute survey here: ____.
+Given your work and expertise teaching ____, I wanted to reach out. {{As part of a University of Maine research study,}} we're running online design workshops where instructors critique and improve approaches for supporting professional skills and responsible AI skills in their courses — and your perspective would be valuable.
 
-Attending a workshop does not commit you to using anything in your course. {{Participation is voluntary.}} We will also happily answer any questions sent by replying to this message or email with any questions to Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).
+{{These approaches may include, for example}}: a) small student reflection groups with a guided agenda, which our prior research found support professional skills such as iterative improvement and psychological safety, and b) assignments where students reflect on their own use and non-use of generative AI.
+
+Workshops run about one to two hours{{, are held via Zoom, and are recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}. Attending does not commit you to using anything in your course. {{Participation is voluntary.}}
+
+If you're interested, or just want to tell us what barriers you would face, you can learn more and sign up here: ____
+
+If you'd prefer a lower-time way to contribute, you could also fill out a {{confidential, online}} 10–15 minute survey here: ____
+
+Questions? Email Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).
 
 **Workshop invitation**
 
-> Greetings, {{as part of a University of Maine research study,}} we are holding an online design workshop for instructors on ____ at ____. The session runs about one to two hours{{, is held via Zoom, and is recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}. Workshops are about adapting these approaches to your own course — reflection groups, integrating generative AI, or designing reflection on AI use — and you are welcome whether you have tried any of this, tried and run into problems, or decided against it. Attending does not commit you to using anything in your course. Participation is voluntary. {{For each workshop session you participate in, you will be offered a $25 electronic VISA gift card (University policy does not permit gift cards for University of Maine employees, so UMaine-employed instructors take part without compensation).}} Register here: ____ {{. Questions: Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu).}}
+> Hello, {{as part of a University of Maine research study,}} we're holding an online design workshop for instructors on ____ at ____. The session runs about one to two hours{{, is held via Zoom, and is recorded (audio and screen-shares; webcam video is deleted). Agreeing to the recording is part of taking part, and the notes and materials produced during the workshop are also collected for the research}}.
+>
+> Workshops are about adapting these approaches to your own course — reflection groups, integrating generative AI, or designing reflection on AI use — and you're welcome whether you've tried any of this, run into problems, or decided against it. Attending does not commit you to using anything in your course. Participation is voluntary. {{For each workshop session you participate in, you will be offered a $25 electronic VISA gift card (University policy does not permit gift cards for University of Maine employees, so UMaine-employed instructors take part without compensation).}}
+>
+> Register here: ____ {{. Questions: Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu).}}
 
 {{**Consultation ("office hours") invitation**}}
 
-> {{Greetings, as part of a University of Maine research study on how instructors adopt and adapt approaches for supporting professional skills and reflective generative AI use, the research team holds by-appointment consultation ("office hours") sessions, on Zoom or in person, where you can get help adapting these approaches to your own course. With your consent, we would like to record these sessions (audio and screen-shares; no webcam video) and analyze them as part of the research; if you would rather not be recorded, we will take written notes instead. With your permission, we may also keep copies of teaching materials you share. Participation is voluntary, there is no compensation for consultations, and attending does not commit you to using anything in your course. To schedule a session, use this link: ____ or contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu).}}
+> {{Hello, as part of a University of Maine research study on how instructors adopt and adapt approaches for supporting professional skills and reflective generative AI use, the research team holds by-appointment consultation ("office hours") sessions, on Zoom or in person, where you can get help adapting these approaches to your own course.}}
+>
+> {{With your consent, we would like to record these sessions (audio and screen-shares; no webcam video) and analyze them as part of the research; if you would rather not be recorded, we will take written notes instead. With your permission, we may also keep copies of teaching materials you share.}}
+>
+> {{Participation is voluntary, there is no compensation for consultations, and attending does not commit you to using anything in your course. To schedule a session, use this link: ____ or contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu).}}
 
 **Other scripts (email templates)**
 
 Sending out an instructor follow-up survey:
 
-> Greetings, I hope this message finds you well. I am reaching out regarding the {{University of Maine research study on reflection and generative AI teaching approaches}} you took part in. Here is the link to a confidential {{online}} follow-up survey about what has happened since we last heard from you, which takes about 10–15 minutes: ____. {{For this survey, you will receive a $10 electronic VISA gift card within 2 business days of submission — one gift card per survey invitation (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).}} Thank you again for your time and contribution,
+> Hello, I hope this finds you well. I'm reaching out about the {{University of Maine research study on reflection and generative AI teaching approaches}} you took part in. Here is a confidential {{online}} follow-up survey about what has happened since we last heard from you — it takes about 10–15 minutes: ____. {{For this survey, you will receive a $10 electronic VISA gift card within 2 business days of submission — one gift card per survey invitation (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).}} Thank you for your time and contribution,
 
 Inviting an instructor to an interview:
 
-> Greetings, {{we are inviting you to take part in a research interview about your teaching context, the benefits and barriers you see in these approaches, and any experiences integrating them, as part of a University of Maine research study. The interview takes about 30–60 minutes and is held on Zoom or in person, based on your preference. With your agreement the interview is audio-recorded (no video is recorded); if you would rather not be recorded, the researcher will take written notes instead. If you would like to participate, here is a scheduling link: ____.}} Before the interview you will see our {{consent form}}. If you take part in an interview, you will receive a $25 electronic VISA gift card within 2 business days {{(University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).}} Thank you,
+> Hello, {{we are inviting you to take part in a research interview about your teaching context, the benefits and barriers you see in these approaches, and any experiences integrating them, as part of a University of Maine research study. The interview takes about 30–60 minutes and is held on Zoom or in person, based on your preference. With your agreement the interview is audio-recorded (no video is recorded); if you would rather not be recorded, the researcher will take written notes instead. If you would like to participate, here is a scheduling link: ____.}} Before the interview you will see our {{consent form}}. If you take part, you will receive a $25 electronic VISA gift card within 2 business days {{(University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu).}} Thank you,
 
 Sending compensation:
 
-> Greetings, thank you for completing the (survey / interview) for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
+> Hello, thank you for completing the (survey / interview) for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
 
 ## Appendix D: Instructor interest and barriers survey
 
