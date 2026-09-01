@@ -230,20 +230,19 @@ Researchers:
 - Cyril Agbewali-Koku, Computer Science Department, University of Maine (cyril.agbewalikoku@maine.edu)
 - Troy Schotter, Lecturer and PhD Student, Computer Science Department, University of Maine (troy.schotter@maine.edu)
 
-You are invited to be part of a research project being conducted by Dr. Gregory L. Nelson, a faculty member in the Department of Computer Science at the University of Maine. The reflection group you have joined is a service we offer, and it is not research. This form is about something separate: whether the materials your group's activities produce may also be used as research data. The purpose of the research is to study how reflecting — on your own and together with others in small groups — affects learning, professional skills, self-efficacy, professional identity, and improvement over time. You must be at least 18 years of age to be part of the research.
+You are invited to participate in a research project led by Dr. Gregory L. Nelson, a faculty member in the Department of Computer Science at the University of Maine. The purpose of the research is to study how reflecting — on your own and together with others in small groups — affects learning, professional skills, self-efficacy, professional identity, and improvement over time. You must be at least 18 years of age to be part of the research.
 
 ### What Will You Be Asked to Do?
 
-You are not asked to do anything extra, and this asks no additional time of you beyond the reflection group itself. Everything listed here is something you do in the group anyway. If you are willing for it to be used as research data, you do not need to do anything at all. What we would use:
+If you decide to participate in the research, you may be asked to:
 
-- The intake survey you filled out when you joined, including your availability, background, prior programming experience, and demographic answers;
-- Your icebreaker answers;
-- Your group's meeting agenda notes, including the notes from the longer retrospective meeting at the end of a cycle;
-- The brief individual reflection you write after each meeting;
-- Notes and materials from the whole-cohort activity and from any session where members suggest improvements to the reflection groups;
-- How you use the online tool that supports your group, such as your responses to its reminders.
-
-Your group meetings are not recorded. No audio and no video is captured, and no researcher sits in on your meetings.
+- Complete a confidential survey when you begin, and provide your availability and a small amount of background information so you can be matched into a small reflection group (normally 3–5 people);
+- Participate in regular (for example, weekly) online reflection group meetings of about 30 minutes during a participation cycle of approximately 12 weeks (your group may continue meeting after the cycle ends if it wishes);
+- After each group session, complete a brief individual reflection survey, about 5–10 minutes;
+- Complete confidential follow-up surveys of about 10–15 minutes each at approximately 3 months, 6 months, and then about every 6 months, for up to four years (up to 9 follow-up surveys total);
+- Optionally participate in intermittent broader activities with other research participants in other groups (held online). For example, halfway through the research participation cycle, an activity to discuss trends, challenges, and successful strategies, and to provide feedback on how to improve the reflection groups;
+- Have your reflection group materials, individual reflections, and use of the supporting tool analyzed by the research team;
+- Optionally take part in a confidential interview about your experiences.
 
 ### Risks
 
@@ -265,7 +264,7 @@ Within 14 days after your participation in a cycle ends, or within 14 days of co
 
 ### Compensation
 
-There is no compensation for the research use of your reflection group materials.
+For each longitudinal follow-up survey you submit, you will be entered into a raffle to win a $10 electronic VISA gift card. You must reach the end of the survey to be entered, though you may skip the occasional question. After the raffle draw, the winner will receive the gift card by email within 48 hours. If you opt to take part in an interview, you will be entered into a raffle to win a $25 electronic VISA gift card, sent by email within 48 hours of the raffle draw. There is no compensation for other activities.
 
 ### Voluntary
 
