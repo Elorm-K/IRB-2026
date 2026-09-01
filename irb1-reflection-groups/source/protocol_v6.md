@@ -120,7 +120,7 @@ Participant Population:
 
 Participants are adults age 18 or older. Because this protocol is not tied to a specific course, the population includes current university students (participating outside their coursework), recent graduates and alumni, working professionals, and community members in informal or online reflection communities. Individuals younger than 18 are excluded.
 
-Reflection groups are normally formed in sizes of 3–5 members (typically 5). Given we will openly recruit people online to be a part of the study, over 5 years we may have up to 1,000 participants, including participants who participate in various reflection activities or in comparisons group who do some or none of the reflection activities.
+Reflection groups are normally formed in sizes of 3–5 members (typically 5). Given we will openly recruit people online to be a part of the study, over 5 years we may have up to 1,000 participants, including participants who participate in various reflection activities or in comparison groups who do some or none of the reflection activities.
 
 Participant Identification and Recruitment Procedures:
 
@@ -132,11 +132,11 @@ At the first session of each reflection group, a member of the research team rea
 
 (2) Recruitment of members for the longitudinal follow-up surveys.
 
-Members are invited by the email in Appendix F.2, sent at each survey point. It states that this is research in its opening lines, names a researcher and gives contact information, gives the length of the survey and the compensation offered, and links to the survey, whose first page is the consent form in Appendix B.
+Members are invited by the email in Appendix F.2, sent at each survey point. It states that this is research in its opening lines, names a researcher and gives contact information, gives the length of the survey and the raffle entry offered, and links to the survey, whose first page is the consent form in Appendix B.
 
 (3) Recruitment of members for interviews.
 
-Members are invited by the email in Appendix F.3, at the points described in Section 2. It states that this is research in its opening lines, names a researcher and gives contact information, states the length and format of the interview, states that the interview is audio-recorded and that a member who prefers not to be recorded may take part with written notes instead, states the compensation offered, and carries a scheduling link. The interview consent form (Appendix D) is sent with the invitation.
+Members are invited by the email in Appendix F.3, at the points described in Section 2. It states that this is research in its opening lines, names a researcher and gives contact information, states the length and format of the interview, states that the interview is audio-recorded and that a member who prefers not to be recorded may take part with written notes instead, states the raffle entry offered, and carries a scheduling link. The interview consent form (Appendix D) is sent with the invitation.
 
 (4) and (5) Recruitment of the comparison population for surveys and for interviews.
 
@@ -204,17 +204,17 @@ The research may improve understanding of scalable, adoptable, and effective ref
 
 There is no compensation for the research use of reflection-group materials.
 
-For each longitudinal follow-up survey a participant submits (Appendix C), the participant will be offered a $10 electronic VISA gift card, sent by email within 48 hours of survey submission. Participants must reach the end of the survey to receive compensation, though they may skip individual questions. A participant who submits all nine follow-up surveys over four years would receive $90 in total.
+For each longitudinal follow-up survey a participant submits (Appendix C), the participant will be entered into a raffle to win a $10 electronic VISA gift card, sent by email within 48 hours of the raffle draw. Participants must reach the end of the survey to be entered into the raffle, though they may skip individual questions.
 
-Participants who complete an interview will be offered a $25 electronic VISA gift card, sent by email within 48 hours of the interview. Compensation is offered per interview: a participant who takes part in an interview after one participation cycle and another after the next cycle would receive $50 in total.
+Participants who complete an interview will be entered into a raffle to win a $25 electronic VISA gift card, sent by email within 48 hours of the raffle draw. Entry is per interview.
 
-Comparison-group participants are offered the same compensation as members: a $10 electronic VISA gift card for each follow-up survey submitted, and a $25 electronic VISA gift card for each interview completed.
+Comparison-group participants are offered the same raffle entries as members: entry into a raffle to win a $10 electronic VISA gift card for each follow-up survey submitted, and entry into a raffle to win a $25 electronic VISA gift card for each interview completed.
 
 Receiving a gift card requires submitting the information the University needs in order to issue and record the payment. This is collected on the separate form in Appendix G, administered outside any survey or interview and never linked to a participant's responses; see Section 6. No individual gift card exceeds $50. University policy does not permit gift cards to be used to compensate University employees, so a participant employed by the University of Maine is not offered a gift card; student employees of the University may receive one. A participant who cannot be offered a gift card takes part on the same terms in every other respect.
 
 Where the cumulative compensation one participant receives exceeds $75, the tax-reporting information described in Appendices B and D is provided to the appropriate University office.
 
-Gift cards are sent as each survey is submitted and as each interview is completed. The final gift cards under this protocol will be distributed no later than December 2035, which is the end of the four-year follow-up window for the last participation cycle this protocol anticipates.
+Gift cards are sent within 48 hours of each raffle draw. The final gift cards under this protocol will be distributed no later than December 2035, which is the end of the four-year follow-up window for the last participation cycle this protocol anticipates.
 
 There is no compensation for other activities.
 
@@ -313,7 +313,7 @@ Your responses are confidential, not anonymous. Your responses will be stored in
 
 ### Compensation
 
-For each longitudinal follow-up survey you submit, you will be compensated with a $10 electronic VISA gift card, sent by email within 48 hours of submission. You must reach the end of the survey to receive this compensation, though you may skip the occasional question. One gift card is offered per survey invitation. For example, if you submit four follow-up surveys over two years, that would be $40 in total; if you submit all nine over four years, that would be $90 in total.
+For each longitudinal follow-up survey you submit, you will be entered into a raffle to win a $10 electronic VISA gift card. You must reach the end of the survey to be entered, though you may skip the occasional question. After the raffle draw, the winner will receive the gift card by email within 48 hours.
 
 To send you a gift card, we need a few details that the University requires. You give these on a short separate form. It is not part of the survey. What you put on it is never linked to your answers. You do not have to fill it out. If you skip it, you stay in the study just the same. We just cannot send you a gift card.
 
@@ -462,7 +462,7 @@ Your privacy and right to withdraw from the study at any point (even after an in
 
 ### Compensation
 
-For each interview, you will be compensated with a $25 electronic VISA gift card. You must reach the end of the interview in order to receive this compensation, though you may skip the occasional question. You will receive your compensation by email within 48 hours of the interview. For example, if you take part in an interview after one participation cycle and then another after the next cycle, that would be two interviews and $50 in total.
+For each interview, you will be entered into a raffle to win a $25 electronic VISA gift card. You must reach the end of the interview to be entered, though you may skip the occasional question. After the raffle draw, the winner will receive the gift card by email within 48 hours. For example, if you take part in an interview after one participation cycle and then another after the next cycle, that would be two separate raffle entries.
 
 To send you a gift card, we need a few details that the University requires. You give these on a short separate form. It is not part of the interview. What you put on it is never linked to your answers. You do not have to fill it out. If you skip it, you stay in the study just the same. We just cannot send you a gift card.
 
@@ -529,17 +529,17 @@ Read aloud by a member of the research team at the first session of each reflect
 
 > Subject: Follow-up survey — University of Maine reflection research
 
-> Greetings, I hope this message finds you well. I am reaching out regarding the University of Maine research study on reflection that runs alongside the reflection groups. Here is the link to a confidential online follow-up survey about your learning, professional skills, and reflection practices, which takes about 10–15 minutes: ____. The first page is the consent form, and submitting the survey indicates your consent. Taking part is voluntary and you may skip any question. For this survey, you will receive a $10 electronic VISA gift card within 2 business days of submission — one gift card per survey invitation (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu). Thank you again for your time and contribution,
+> Greetings, I hope this message finds you well. I am reaching out regarding the University of Maine research study on reflection that runs alongside the reflection groups. Here is the link to a confidential online follow-up survey about your learning, professional skills, and reflection practices, which takes about 10–15 minutes: ____. The first page is the consent form, and submitting the survey indicates your consent. Taking part is voluntary and you may skip any question. For this survey, you will be entered into a raffle to win a $10 electronic VISA gift card — if you win, the gift card will be sent within 2 business days of the draw (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu). Thank you again for your time and contribution,
 
 ### F.3 Email — interview invitation
 
 > Subject: Interview invitation — University of Maine reflection research
 
-> Greetings, we are inviting you to take part in a research interview about your experience of the reflection activities, your professional-skill behaviors, and what has changed for you over time, as part of a University of Maine research study. The interview is one-to-one, takes about 30–60 minutes, and is held on Zoom or in person, based on your preference. With your agreement the interview is audio-recorded (no video is recorded); if you would rather not be recorded, the researcher will take written notes instead. If you would like to participate, here is a scheduling link: ____. Before the interview you will see our consent form. If you take part in an interview, you will receive a $25 electronic VISA gift card within 2 business days (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu). Thank you,
+> Greetings, we are inviting you to take part in a research interview about your experience of the reflection activities, your professional-skill behaviors, and what has changed for you over time, as part of a University of Maine research study. The interview is one-to-one, takes about 30–60 minutes, and is held on Zoom or in person, based on your preference. With your agreement the interview is audio-recorded (no video is recorded); if you would rather not be recorded, the researcher will take written notes instead. If you would like to participate, here is a scheduling link: ____. Before the interview you will see our consent form. If you take part in an interview, you will be entered into a raffle to win a $25 electronic VISA gift card — if you win, the gift card will be sent within 2 business days of the draw (University policy does not permit gift cards for University of Maine employees, who take part without compensation). If you have any questions, contact Greg Nelson, Assistant Professor, University of Maine (gregory.nelson@maine.edu) or Cyril Agbewali-Koku, PhD Student (cyril.agbewalikoku@maine.edu). Thank you,
 
 ### F.4 Sending compensation
 
-> Greetings, thank you for completing the (survey / interview) for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
+> Greetings, congratulations — you have won the raffle draw for the (survey / interview) you completed for the reflection research project. Here is your $__ electronic VISA gift card: ____. We appreciate your time and your contribution.
 
 ### F.5 and F.6 — comparison population, surveys and interviews
 
@@ -547,9 +547,9 @@ Reserved for the comparison-population survey and interview recruitment texts. A
 
 ## Appendix G: Compensation information form
 
-Administered through Qualtrics as a standalone form, separately from every research instrument, to participants who have earned a gift card and wish to receive one. It is linked from the confirmation message at the end of a compensated survey and sent by email after an interview. Responses are stored apart from research data and are never joined to a participant's survey responses, interview, or written reflections.
+Administered through Qualtrics as a standalone form, separately from every research instrument, to participants who have won a raffle draw and wish to receive a gift card. It is linked from the notification email sent to raffle winners. Responses are stored apart from research data and are never joined to a participant's survey responses, interview, or written reflections.
 
-Introduction: You have completed an activity for which we offer compensation. To issue and record the payment, the University requires some information from you. This form is separate from the study. What you enter here is not connected to your answers, and no one analyzing the research data sees it. Completing this form is optional: if you would rather not, you remain in the research on exactly the same terms and we simply cannot send you a gift card.
+Introduction: You have won a raffle draw for an activity you completed in this research project. To issue and record the payment, the University requires some information from you. This form is separate from the study. What you enter here is not connected to your answers, and no one analyzing the research data sees it. Completing this form is optional: if you would rather not, you remain in the research on exactly the same terms and we simply cannot send you a gift card.
 
 Because University policy does not permit gift cards to be used to compensate University employees, a participant employed by the University of Maine is not offered a gift card. Student employees of the University may receive one, and where their total compensation from University research exceeds the reporting threshold, the tax-reporting process described in the consent form applies.
 
@@ -561,6 +561,6 @@ Because University policy does not permit gift cards to be used to compensate Un
 
 4. Are you currently employed by the University of Maine, including as a student employee? (Yes / No)
 
-5. Confirmation of receipt: I acknowledge that I will receive an electronic gift card of the value stated in the consent form for this activity. (Checkbox)
+5. Confirmation of receipt: I acknowledge that I will receive an electronic gift card of the value stated in the raffle notification for this activity. (Checkbox)
 
 Completed by the research team, not by the participant: the activity compensated, the date, the value of the gift card, and the name of the researcher issuing it. These are recorded in the study's disbursement log, which is held with the University's required gift card documentation rather than with the research data. Where a participant's cumulative compensation exceeds the reporting threshold, the information described in the consent forms is forwarded to the appropriate University office, and a W-9 is collected where the University requires one.
