@@ -140,6 +140,12 @@ waiting to be told:
 - **Broaden the construct one notch.** "Reflection groups" → "reflection **activities**, such as
   reflection groups" wherever the modality is incidental, so a variant does not need a modification.
 - **State consent mechanics once**, in the informed-consent section — not again in Methods.
+- **No IP-address statements.** Do not include "IP addresses are not collected" or any
+  similar statement in protocols or consent forms. This applies to all current and future
+  IRBs in this program (PI decision, 2026-10-21).
+- **No tool-usage data as a separate data item.** If the protocol does not collect usage
+  analytics from the supporting tool, do not list tool-usage data as a Methods item or in
+  the data-collected list (PI decision, 2026-10-21).
 
 ## 5. Keep / cut catalog
 
